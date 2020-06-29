@@ -1,0 +1,4 @@
+baseURL = "http://paydata.org/"
+languageCode = "en-gb"
+title = "paydata.org"
+theme = "docsy"
