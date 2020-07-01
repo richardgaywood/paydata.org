@@ -1,6 +1,6 @@
 ---
 date: 2020-06-30
-title: Simplified skills for Shadowrun 5e
+title: Simplified skills
 type: docs
 ---
 [Reddit thread about this doc][1]
