@@ -1,6 +1,6 @@
 ---
 date: 2020-06-30
-title: Simplified skills for Shadowrun 5e
+title: Simplified skills
 type: docs
 ---
 [Reddit thread about this doc][1]
@@ -21,7 +21,7 @@ type: docs
 
 _NB: Important acknowledgement of prior art: a lot of the ideas here were drawn from [Dezzmont’s Shadowrun 5.5.1 doc][2], which is excellent and I recommend it to you._
 
-# Skill group cost changes
+## Skill group cost changes
 
 * Reduce karma cost to level up a skill group from 5x new rating to 4x new rating
 	* Skill Groups are less powerful than attributes, so shouldn’t cost the same to advance. In addition, few Skill Groups contain three or more equally useful skills, so charging them as double the normal skill cost seems more balanced.
@@ -35,21 +35,21 @@ _NB: Important acknowledgement of prior art: a lot of the ideas here were drawn 
 * At chargen, allow Skill Groups to be taken for 2x Skill Points per point going into the Skill Group.
 	* This is so players are free to mix and match skills and skill groups as they desire.
 
----
-**Example**
 
+{{% alert title="Example" %}}
 Sally Samurai puts a B into skills during chargen. She wants to be good with all sorts of instruments of murder, so she takes the Firearms skill group to rating 5 - this costs her 10 of her 46 skill points.
 
 Later, during play, she decides to improve her skills. First she takes her Firearms skill group from from 5 to 6, which costs 24 karma. Then she decides to focus on rifles, so she takes her Longarms skill (which is part of the Firearms skill group) from 6 to 7. This costs a further 14 karma. 
 
 The skill group is now “broken.” She won’t be able to improve it further unless she first takes each of the other skills in the group up to 7.
----
+{{% /alert %}}
 
-# Skill and skill group changes
+
+## Skill and skill group changes
 In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
-## Magic skills
-Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral 
+### Magic skills
+Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
 | Old skill | New skill | Skill group |
 | —- | —- | —- |
@@ -57,7 +57,7 @@ Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral
 | Assensing | | Astral |
 | Astral Combat | | Astral |
 
-## Combat skills
+### Combat skills
 
 * Rename the Pistols skill to “Handguns”
 * Remove the Automatics skill
@@ -65,24 +65,24 @@ Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral
 * Move carbines and assault rifles into the Longarms skill
 * Add Gunnery to the Firearms group
 
-##  Social skills
+###  Social skills
 
 * Merge Instruction into the Leadership skill
 
-##  Physical active skills
+###  Physical active skills
 
 * Merge Navigation into the Tracking skill
 * Merge Free-fall into Gymnastics
 * Add Locksmith to the Stealth group 
 * Merge Diving into Swimming (because honestly, Diving, wtf?!)
 
-# Decking / Technomancer skills
+## Decking / Technomancer skills
 
 * No changes here. 
 	* But the cheaper skill groups should allow deckers to cover all their bases for a bit less karma/skill points than they could before.
 	* Deckers are perhaps the only archetype who, per RAW, have skill groups with three all-killer-no-filler skills in.
 
-##  Piloting skills
+###  Piloting skills
 
 * Merge Pilot Aerospace into Pilot Aircraft.
 	* No runner in their right mind would spend skill points on Pilot Aerospace, so get rid of it.
@@ -94,7 +94,7 @@ Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral
 	* Fluff justification: piloting an aircraft and a motorbike with your hands is very different… but doing it via a rig is a more similar experience.
 	* Mechanics justification: stops samurais with Reaction 9 putting one point into Pilot Vehicle and being masters of every vehicle.
 
-##  Technical skills
+###  Technical skills
 
 * Merge the various Mechanic skills into a single skill.
 	* Again, designed to reduce rigger skill crunch and increase flexibility
@@ -105,7 +105,7 @@ Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral
 	* Physical artefact forgery eg. faking an ID pass with a photo moves into Artisan
 * Add Fabrication skill group 
 
-## Knowledge and Language Skills
+### Knowledge and Language Skills
 
 No changes to 5e’s RAW, so to summarise:
 
