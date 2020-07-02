@@ -3,38 +3,35 @@ date: 2020-06-30
 title: Simplified skills
 type: docs
 ---
-[Reddit thread about this doc][1]
 
+{{% alert title="Goals" %}}
+* Remove some redundant skills.
+* Make some archetypes easier to handle skill wise, particularly deckers and riggers. Allow decker or rigger to be a more viable secondary archetype, and  make decker/rigger hybrids more feasible.
+* To give mages less painful ways to pick up lesser, but still useful, skills like counterspelling via cheaper skill groups.
 
+Non-goals: Radical upheaval that requires significant changes elsewhere in the system. I’ll mostly stick to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
+{{% /alert %}}
 
-**Goals of design:**
+{{% alert title="Acknowledgements" %}}
+_NB: Important acknowledgement of prior art: a lot of the ideas here were drawn from [Dezzmont’s Shadowrun 5.5.1 doc][1], which is excellent and I recommend it to you._
 
-* Remove some redundant skills
-* Make some archetypes easier to handle skill wise, particularly deckers and riggers
-	* And thus allow decker or rigger to be a viable secondary archetype, and in particular to make decker/rigger hybrids more feasible
-	* To give mages less painful ways to pick up lesser, but still useful, skills like counterspelling via skill groups
-
-**Non-goals:**
-
-* Radical upheaval that requires significant changes elsewhere in the system.
-	* Hence, I’ll mostly stick to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
-
-_NB: Important acknowledgement of prior art: a lot of the ideas here were drawn from [Dezzmont’s Shadowrun 5.5.1 doc][2], which is excellent and I recommend it to you._
+_[Reddit thread about this doc][2]_
+{{% /alert %}}
 
 ## Skill group cost changes
 
-* Reduce karma cost to level up a skill group from 5x new rating to 4x new rating
-	* Skill Groups are less powerful than attributes, so shouldn’t cost the same to advance. In addition, few Skill Groups contain three or more equally useful skills, so charging them as double the normal skill cost seems more balanced.
-	* This is designed to make it less painful to use Skill Groups as a way of mitigating the large numbers of skills needed for some archetypes.
-* Remove skill group points entirely at chargen. Instead, increase skill points available as follows:
-	* Skills Rank A now gets 66 (instead of 46/10)
-	* Skills Rank B now gets 46 (instead of 36/5)
-	* Skills Rank C now gets 32 (instead of 28/2)
-	* Skills rank D still gets 22
-	* Skills rank E still gets 18
-* At chargen, allow Skill Groups to be taken for 2x Skill Points per point going into the Skill Group.
-	* This is so players are free to mix and match skills and skill groups as they desire.
+**Reduce karma cost to level up a skill group from 5x new rating to 4x new rating**. Skill Groups are less powerful than attributes, so shouldn’t cost the same to advance. In addition, few Skill Groups contain three or more equally useful skills, so charging them as double the normal skill cost seems more balanced.
 
+This is designed to make it less painful to use Skill Groups as a way of mitigating the large numbers of skills needed for some archetypes.
+
+**Remove skill group points entirely at chargen.** Instead, increase skill points available as follows:
+* Skills Rank A now gets 66 (instead of 46/10)
+* Skills Rank B now gets 46 (instead of 36/5)
+* Skills Rank C now gets 32 (instead of 28/2)
+* Skills rank D still gets 22
+* Skills rank E still gets 18
+
+**At chargen, allow Skill Groups to be taken for 2x Skill Points per point going into the Skill Group**. This is so players are free to mix and match skills and skill groups as they desire.
 
 {{% alert title="Example" %}}
 Sally Samurai puts a B into skills during chargen. She wants to be good with all sorts of instruments of murder, so she takes the Firearms skill group to rating 5 - this costs her 10 of her 46 skill points.
@@ -46,16 +43,12 @@ The skill group is now “broken.” She won’t be able to improve it further u
 
 
 ## Skill and skill group changes
+
 In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 ### Magic skills
-Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
-| Old skill | New skill | Skill group |
-| —- | —- | —- |
-| Arcana | | Astral |
-| Assensing | | Astral |
-| Astral Combat | | Astral |
+* Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
 ### Combat skills
 
@@ -85,14 +78,9 @@ Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral s
 ###  Piloting skills
 
 * Merge Pilot Aerospace into Pilot Aircraft.
-	* No runner in their right mind would spend skill points on Pilot Aerospace, so get rid of it.
-* Merge Pilot Walker into Pilot Groundcraft 
-	* I’m not convinced Pilot Walker should be a skill at all. Riggers jumped in to anthro-drones are piloting a bipedal body; well, they already know how to do that, as they live in one…!
-* Add a Pilot Vehicle skill group.
-	* This is a gift to riggers, who can now be much more multi-role than previously.
-	* **Optional**: the Pilot Vehicle skill group is only available to characters with Vehicle Control Rig cyberware.
-	* Fluff justification: piloting an aircraft and a motorbike with your hands is very different… but doing it via a rig is a more similar experience.
-	* Mechanics justification: stops samurais with Reaction 9 putting one point into Pilot Vehicle and being masters of every vehicle.
+* Merge Pilot Walker into Pilot Groundcraft
+* Add a Rig Vehicle skill group.
+	* This can only be taken by characters with Vehicle Control Rig cyberware. Piloting an aircraft and a motorbike with your hands is very different… but doing it via a rig is a more similar experience.
 
 ###  Technical skills
 
@@ -116,5 +104,5 @@ No changes to 5e’s RAW, so to summarise:
 * See also my downtime houserules, which give you free karma to spend on knowledge and language skills.
 
 
-[1]:	https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/
-[2]:	https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic
+[1]:	https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic
+[2]:	https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/
