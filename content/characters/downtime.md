@@ -2,10 +2,9 @@
 date: 2020-06-30
 title: Downtime
 type: docs
-desc: Things to do between missions
+description: Things to do between missions
 ---
 
-## Downtime Actions
 For every phase spent in downtime, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
 
 You get six scenes instead if you have any of the following augmentations: sleep regulator bioware (CRB); metabolic control adept power (CRB); booster endosont symbiotes (CF pg 123) or hyper-glucagon geneware (CF pg 160).
