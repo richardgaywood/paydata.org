@@ -1,10 +1,11 @@
 ---
 date: 2020-06-30
-title: Downtime rules
+title: Downtime
 type: docs
+desc: Things to do between missions
 ---
 
-##  Downtime actions
+## Downtime Actions
 For every phase spent in downtime, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
 
 You get six scenes instead if you have any of the following augmentations: sleep regulator bioware (CRB); metabolic control adept power (CRB); booster endosont symbiotes (CF pg 123) or hyper-glucagon geneware (CF pg 160).
@@ -32,7 +33,7 @@ You should expect to have to owe contacts Favour Markers when you ask them for h
 
 You can raise a contact’s loyalty by spending a number of markers equal to twice their new loyalty value. I will encourage you to do a bit of roleplaying around this event!  However, note you cannot raise a contact’s loyalty if you owe them any Favour Markers.
 
-###  New Friends
+### New Friends
 
 Try and make a new contact, of any type you want.
 
@@ -52,7 +53,17 @@ If you haven’t gained any notoriety this month, you can spend 1 scene to reduc
 
 ### Acquire Gear
 
-See below.
+First, find the base number of markers this is going to cost you, depending on the item’s price:
+
+| Cost of item    | Number of favour markers |
+|-----------------|--------------------------|
+| Below 5000￥    | 0                        |
+| 5000 - 50000￥  | 1                        |
+| 50k - 100k￥    | 2                        |
+| 100k - 250k ￥  | 3                        |
+| 250k+           | 4                        |
+
+...TBD...
 
 ### Repair Gear
 
@@ -110,7 +121,7 @@ Each scene can be used for 60 hours of downtime to do things like binding spirit
 
 
 
-##  Appendix: Important Acknowledgements
+## Appendix: Important Acknowledgements
 
 I didn't realise I wanted downtime rules until I looked at [the ones from A Light In the Dark][2]… then I immediately saw that I did. A few things didn't fit though; they're optimised for a living campaign, so they're a bit too detailed in places and a bit too simple in others.
 
