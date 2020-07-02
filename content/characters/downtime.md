@@ -52,9 +52,9 @@ First, choose a skill you are going to use to freelance. Find your highest relev
 |---------------------------------------------------------------------------------------------------------------	|------	|
 | Medicine, Biotechnology, Cybertechnology                                                                      	| 4    	|
 | Technical skills (except the ones above)                                                                      	| 3    	|
-| Pilot Aircraft, Pilot Aerospace, Pilot Exotic, Sneak                                                          	| 2    	|
-| Social Active skills Combat Active skills Professional knowledge skills Arcana Pilot Walker, Pilot Watercraft 	| 1    	|
-| Academic knowledge skills Pilot Groundcraft                                                                   	| 0    	|
+| Pilot Aircraft, Pilot Aerospace, Pilot Exotic \<br/\> Sneak                                                          	| 2    	|
+| Social Active skills\<br/\>Combat Active skills\<br/\>Professional knowledge skills\<br/\> Arcana \<br/\>Pilot Walker, Pilot Watercraft 	| 1    	|
+| Academic knowledge skills \<br/\> Pilot Groundcraft                                                                   	| 0    	|
 
 
 Add +1 to this for every rank you have in the skill over 4. Don’t include things like improved ability, reflex recorder, etc - just the normal skill score.
