@@ -13,9 +13,8 @@ Non-goals: Radical upheaval that requires significant changes elsewhere in the s
 {{% /alert %}}
 
 {{% alert title="Acknowledgements" %}}
-_NB: Important acknowledgement of prior art: a lot of the ideas here were drawn from [Dezzmont’s Shadowrun 5.5.1 doc][1], which is excellent and I recommend it to you._
-
-_[Reddit thread about this doc][2]_
+* [Dezzmont’s Shadowrun 5.5.1 doc](https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic)
+* [Reddit thread about this doc](https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/)
 {{% /alert %}}
 
 ## Skill group cost changes
@@ -102,7 +101,3 @@ No changes to 5e’s RAW, so to summarise:
 * In addition to the free points, your character receives one language that they know as a native language at no cost. 
 * To increase knowledge or language skills during play, it costs 1x the new rating (so taking a skill from 1 to 3 costs 2+3=5.)
 * See also my downtime houserules, which give you free karma to spend on knowledge and language skills.
-
-
-[1]:	https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic
-[2]:	https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/
