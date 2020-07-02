@@ -11,6 +11,8 @@ You get six scenes instead if you have any of the following augmentations: sleep
 
 Spending one scene can give you any of the below options. Note: almost all tests should be resolved by buying hits, and Edge cannot be used in downtime.
 
+## Karma & nuyen activities
+
 ### Leisure
 
 (NB: you must spend at least one scene on leisure during each downtime cycle. All work & no play, etc etc.) A scene spent on leisure gives you:
@@ -24,23 +26,18 @@ You can save these karma points up, and you can combine them with regular karma 
 
 You gain 1 karma, to spend on whatever you want.
 
-### Hang Out
+### Working for the man / people
 
-Earn a number of Favour Markers equal to your Charisma. You can use these to pay off markers you owe or bank them against future times you ask the contact for help. You don’t need to declare which contacts the markers apply to now, you can hold them as a pool and use them for whichever contact you want later.
+Convert nuyen to karma or karma to nuyen, at a rate of 2000¥:1. You can convert up to five points for one scene. You can only do this once per month.
 
-You should expect to have to owe contacts Favour Markers when you ask them for help during play. See **TBD link**
+### Training Montage
 
-You can raise a contact’s loyalty by spending a number of markers equal to twice their new loyalty value. I will encourage you to do a bit of roleplaying around this event!  However, note you cannot raise a contact’s loyalty if you owe them any Favour Markers.
+Except where noted below, increasing skills or attributes doesn’t require any scenes. You pick it up on the job, so to speak. Knowledge skill increases never require a scene.
 
-### New Friends
+However, these increases do need downtime:
 
-Try and make a new contact, of any type you want.
-
-Choose a contact rating for your new contact. Do an opposed test between your Charisma and the contact rating. If it succeeds, you find someone who will trust you enough to become a contact.
-
-Yes, this means you’re unlikely to make friends above connection 3-5 this way. More powerful friends will need GM approval or to be made during normal play.
-
-At the end of the downtime, the new contact will have loyalty 1.
+* Increasing an attribute to higher than 2 points less than your racial maximum (ie 4 for humans): 2 scenes 
+* Increase a skill beyond 6: 2 scenes
 
 ### Side Hustle
 
@@ -107,9 +104,37 @@ Side hustle example activities:
 * Medicine skills - patching people up, light including cyberware repair
 * Everyone - training others in their skills
 
+## Social activities
+
+### Hang Out
+
+Earn a number of Favour Markers equal to your Charisma. You can use these to pay off markers you owe or bank them against future times you ask the contact for help. You don’t need to declare which contacts the markers apply to now, you can hold them as a pool and use them for whichever contact you want later.
+
+You should expect to have to owe contacts Favour Markers when you ask them for help during play. See **TBD link**
+
+You can raise a contact’s loyalty by spending a number of markers equal to twice their new loyalty value. I will encourage you to do a bit of roleplaying around this event!  However, note you cannot raise a contact’s loyalty if you owe them any Favour Markers.
+
+### New Friends
+
+Try and make a new contact, of any type you want.
+
+Choose a contact rating for your new contact. Do an opposed test between your Charisma and the contact rating. If it succeeds, you find someone who will trust you enough to become a contact.
+
+Yes, this means you’re unlikely to make friends above connection 3-5 this way. More powerful friends will need GM approval or to be made during normal play.
+
+At the end of the downtime, the new contact will have loyalty 1.
+
+## Recovery activities
+
+### Rest & Recuperation
+
+One scene is enough rest to heal any amount of physical damage short of being in overflow. If the character went into overflow on the last run, it takes two scenes to heal up. If you have a medical support contract, this is free. Otherwise it costs one favour marker per scene used.
+
 ### Lie Low
 
 If you haven’t gained any notoriety this month, you can spend 1 scene to reduce your notoriety by 1. You can only do this once per month.
+
+## Equipment related activities
 
 ### Acquire Gear
 
@@ -144,13 +169,16 @@ You have to have access to a facility; either a Garage/Workshop/Facility in your
 
 There is no further cost; a supply of parts comes with the nuyen you paid for the garage/workshop/facility.
 
-### Working for the man / working for the people
+### Get Augmented
 
-Convert nuyen to karma or karma to nuyen, at a rate of 2000¥:1. You can convert up to five points for one scene. You can only do this once per month.
+It takes time to have ‘ware installed, recover from the surgery, and then learn how to use your new abilities. This varies with how invasive the ‘ware is:
 
-### Rest & Recuperation
+* 0-1 Essence: 1 scene 
+* 1-2 Essence: 2 scenes 
+* 2-3: 4 scenes 
+* 3+: 6 scenes 
 
-One scene is enough rest to heal any amount of physical damage short of being in overflow. If the character went into overflow on the last run, it takes two scenes to heal up. If you have a medical support contract, this is free. Otherwise it costs one favour marker per scene used.
+## Magic related activities
 
 ### Magical Initiation
 
@@ -167,24 +195,6 @@ Like most downtime actions, don’t roll actual dice, just buy hits.
 Substitute in Ritual Spellcasting or Alchemy if that’s what you’re learning
 
 Learning the spell takes two entire scenes, divided by the number of hits on the test. This means you can learn more than one spell in a single scene, as long as you have 4+ hits on the test. Other than that, you don’t get any sort of refund for part-used scenes, however.
-
-### Get Augmented
-
-It takes time to have ‘ware installed, recover from the surgery, and then learn how to use your new abilities. This varies with how invasive the ‘ware is:
-
-* 0-1 Essence: 1 scene 
-* 1-2 Essence: 2 scenes 
-* 2-3: 4 scenes 
-* 3+: 6 scenes 
-
-### Training Montage
-
-Except where noted below, increasing skills or attributes doesn’t require any scenes. You pick it up on the job, so to speak. Knowledge skill increases never require a scene.
-
-However, these increases do need downtime:
-
-* Increasing an attribute to higher than 2 points less than your racial maximum (ie 4 for humans): 2 scenes 
-* Increase a skill beyond 6: 2 scenes 
 
 ### Other
 
@@ -206,7 +216,7 @@ Other qualities I think should affect these downtime rules, but I haven’t yet 
 * Addiction: reduce scenes when it gets past a certain level
 
 
-## Appendix: Important Acknowledgements
+## Appendix: important acknowledgements
 
 I didn't realise I wanted downtime rules until I looked at [the ones from A Light In the Dark][1]… then I immediately saw that I did. A few things didn't fit though; they're optimised for a living campaign, so they're a bit too detailed in places and a bit too simple in others.
 
