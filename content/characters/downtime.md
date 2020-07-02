@@ -58,12 +58,23 @@ First, find the base number of markers this is going to cost you, depending on t
 | Cost of item    | Number of favour markers |
 |-----------------|--------------------------|
 | Below 5000￥    | 0                        |
-| 5000 - 50000￥  | 1                        |
+| 5000 - 50k￥  | 1                        |
 | 50k - 100k￥    | 2                        |
 | 100k - 250k ￥  | 3                        |
 | 250k+           | 4                        |
 
-...TBD...
+Now, work out if you can get it. Each pass through this table takes one of your downtime scenes, except for the first row.
+
+| Avail score (legal gear) 	| Avail score (R or F) 	| Outcome                                                                                                                                                       	|
+|--------------------------	|----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Below 18                 	| Below 9              	| You get it automatically. This doesn’t need you to use any scenes, either.                                                                                    	|
+| 18+                      	| 8-12                 	| If you have any gear-related contact, you get it automatically;...or you or any contact can roll. If you use a non-gear contact, this costs +1 marker.        	|
+|                          	| 13-18                	| If you have a gear contact specialising in this type of gear, you get it automatically.  … or you or any gear contact can roll (again, this costs +1 marker.) 	|
+|                          	| 18+                  	| A gear specialist contact can roll. This costs +3 favour markers.                                                                                             	|
+
+(These numbers err somewhat on the side of generosity.)
+
+If the result is “can roll”, remember you are rolling against the availability of the item, as a dice pool. You can purchase extra dice on this test at a cost of 25% of the item per dice. Remember, for very big-ticket items (high-end cyberware, big vehicles, cyberdecks, etc) it can be more effective to negotiate to receive them as ‘run payouts rather than sourcing them through contacts.
 
 ### Repair Gear
 
