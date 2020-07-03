@@ -56,23 +56,51 @@ _Even with this change in place, I suspect mysads are still over powered. This i
 
 A Power focus adds its Force to the user’s Magic attribute, and hence all spellcasting and summoning dice pools.
 
-> > table
+|    	| 5e RAW               	| Houserule version     	|
+|----	|----------------------	|-----------------------	|
+| F1 	| 6 karma, 18 k¥, 4R   	| unchanged             	|
+| F2 	| 12 karma, 36 k¥, 8R  	| 12 karma, 72 k¥, 14R  	|
+| F3 	| 18 karma, 54 k¥, 12R 	| 18 karma, 162 k¥, 21R 	|
+| F4 	| 24 karma, 72 ¥, 16R  	| 24 karma, 288 k¥, 28R 	|
 
-Spell or spirit foci (karma/nuyen/availability numbers are the same)
+### Spell or spirit foci (karma/nuyen/availability numbers are the same)
+
 For spell foci: for one school of magic (chosen at time of binding the focus), it adds its Force to the dice pool used for one of spellcasting, ritual spellcasting, or counterspelling. Or it can sustain a spell from the chosen school of Force less than or equal to the Force of the focus. 
 
 For spirit foci: for a specific type of spirit (chosen at time of binding the focus), it adds its Force to the dice pool used for summoning, banishing, or binding that type of spirit. Or it can be used to increase the user’s Magic rating by its Focus rating for the purposes of determining the maximum total Force of spirits that can be summoned at once.
 
-> > table
+|    	| 5e RAW              	| Houserule version   	|
+|----	|---------------------	|---------------------	|
+| F1 	| 2 karma, 4 k¥, 3R   	| unchanged           	|
+| F2 	| 4 karma, 8 k¥, 6R   	| 4 karma, 16 k¥, 12R 	|
+| F3 	| 6 karma, 12 k¥, 9R  	| 6 karma, 36 k¥, 18R 	|
+| F4 	| 8 karma, 16 k¥, 12R 	| 8 karma, 64 k¥, 24R 	|
 
 ### Weapon foci
 
-> > table
+|    	| 5e RAW               	| Houserule version     	|
+|----	|----------------------	|-----------------------	|
+| F1 	| 3 karma, 7 k¥, 4R    	| unchanged             	|
+| F2 	| 6 karma, 14 k¥, 8R   	| 6 karma, 28 k¥, 14R   	|
+| F3 	| 9 karma, 21 k¥, 12R  	| 9 karma, 63 k¥, 21R   	|
+| F4 	| 12 karma, 28 k¥, 16R 	| 12 karma, 112 k¥, 28R 	|
 
 ### Metamagic foci
 
-> > table
+|    	| 5e RAW               	| Houserule version     	|
+|----	|----------------------	|-----------------------	|
+| F1 	| 3 karma, 9 k¥, 3R    	| unchanged             	|
+| F2 	| 6 karma, 18 k¥, 6R   	| 6 karma, 36 k¥, 12R   	|
+| F3 	| 9 karma, 27 k¥, 9R   	| 9 karma, 81 k¥, 18R   	|
+| F4 	| 12 karma, 36 k¥, 12R 	| 12 karma, 144 k¥, 24R 	|
 
+### Qi foci
+
+_Not currently sure. Might make them the same as power foci._
+
+### Enchanting foci
+
+_I cannot imagine why any PC would ever want one of these._
 
 ## Prior art / acknowledgements
 Large swathes of these rules owe debt to:
