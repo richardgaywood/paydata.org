@@ -12,7 +12,6 @@ These rules are **not** currently canon for my current campaign, but they may be
 * **Normal characters have a maximum initiation grade of 6, and a maximum Magic attribute of 12**. Getting beyond that is out of reach for PCs or normal NPCs (barring dragons, immortal elves, Things Man Was Not Meant To Know, etc.)
 	* If it ever matters, I might add in a way for grade 6 initiates to continue to learn new metamagics. Seems unlikely my campaign will need it, however.
 * **A mage who takes drain for something cannot heal that drain while the something is still ongoing**. So spell drain and summoning drain is permanent as long as the spell is sustained or the spirit not yet dismissed or disrupted. An exception is binding; once a spirit is bound, the summoner can heal drain as usual. Slap patches still mitigate the effects of drain in the usual way, however.
-* The **Focused Concentration quality** (character can sustain any spell of Force equal to their rating or below for free, without the usual -2 penalty) **can only be taken to rating 4**.
 
 ## Foci
 
@@ -23,15 +22,20 @@ These rules are **not** currently canon for my current campaign, but they may be
 * The total Force of all bound foci must be less than or equal to 2x the character's Magic rating.
 * Remove focus addiction rules.
 
-Idea to discuss but don't yet have full rules for: foci can be attacked via Astral combat. After a certain amount of damage, their link to their user is disrupted. The focus can no longer be used until it is re-bonded to the user in the usual way (ritual + karma cost.)
+_Idea to discuss but don't yet have full rules for: foci can be attacked via Astral combat. After a certain amount of damage, their link to their user is disrupted. The focus can no longer be used until it is re-bonded to the user in the usual way (ritual + karma cost.)_
 
 ## Spirits & summoning
 
 * Spirits cannot be ”oversummoned“ ie. you **cannot attempt to summon one with Force greater than your Magic value**. 
 * Any Spirit of force 8 or greater can choose to ignore the summons at its option. Expect to roleplay a short scene to convince it to answer your call...
 * Spirits no longer get Immunity to Normal Weapons when manifested by default.
-	* All spirits that do not have ItNW get an armour value equal to their Force.
-	* A summoner can give Immunity to Normal Weapons as an optional power to their combat spirit type. This will take two optional power slots, so is only available on spirits of Force 6 and above.
+	* A summoner can give Immunity to Normal Weapons as an optional power to their combat spirit type, chosen at summoning in the usual way. This will take two optional power slots, so is only available on spirits of Force 6 and above.
+	* All spirits that do not have ItNW get an armour value equal to 2x their Force. This armour also applies if ItNW is bypassed, eg. by a weapon focus.
+		* Some sample soak dice pools: 
+		    * Water F2: 6 dice
+			* Air F4: 10 dice
+			* Earth F6: 22 dice
+			* Beasts F8: 20 dice
 	* Blight ammo will be fairly rare amongst opponents due to its high cost (250¥ per round.)
 * As before, a summoner can only have one non-bound spirit at a time. The total Force of all bound spirits cannot exceed the summoner's Magic rating. 
 * Remove the spirit services for Aid Sorcery, Spell Sustain, and Spell Binding.
@@ -39,6 +43,16 @@ Idea to discuss but don't yet have full rules for: foci can be attacked via Astr
 ## Reagents
 
 Remove all reagents and their uses. They are no longer required to bind spirits.
+
+## Quickening
+
+* The total maximum Force of all quickened spells on one person or object is equal to the lowest Magic stat that was used to cast any of the spells.
+* Dispelling a quickened spell now only disrupts it. It can be restored via a ritual that takes a few minutes.
+* Quickened spells cast on living subjects with a Magic stat "bed in" to the subject's aura over a period of a few hours. They cannot be detected other than by assensing, and they can be hidden via the masking metamagic power. They can also pass through mana barriers unimpeded.
+
+## The Increase Attribute spell
+
+_??? might need a nerf or discussion re: drain dice pool ???_
 
 ## Enchanting
 
