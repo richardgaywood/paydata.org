@@ -42,7 +42,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 * Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
-{{< imgproc magic_skills Resize "600" >}}
+{{< imgproc magic_skills Resize "600x" >}}
 Magic skills
 {{< /imgproc >}}
 
