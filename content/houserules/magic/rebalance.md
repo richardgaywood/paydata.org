@@ -5,9 +5,9 @@ type: docs
 description: New rules to try and reign in MagicRun (TM)
 ---
 
-{{% alert title="Status" color="warning" %}}
-These rules are **not** currently canon for my current campaign, but they may become so soon.
-{{% /alert %}}
+{{% pageinfo %}} 
+These rules are **not** currently canon for my current campaign.
+{{% /pageinfo %}}
 
 * **Normal characters have a maximum initiation grade of 6, and a maximum Magic attribute of 12**. Getting beyond that is out of reach for PCs or normal NPCs (barring dragons, immortal elves, Things Man Was Not Meant To Know, etc.)
 	* If it ever matters, I might add in a way for grade 6 initiates to continue to learn new metamagics. Seems unlikely my campaign will need it, however.
@@ -32,7 +32,7 @@ _Idea to discuss but don't yet have full rules for: foci can be attacked via Ast
 	* A summoner can give Immunity to Normal Weapons as an optional power to their combat spirit type, chosen at summoning in the usual way. This will take two optional power slots, so is only available on spirits of Force 6 and above.
 	* All spirits that do not have ItNW get an armour value equal to 2x their Force. This armour also applies if ItNW is bypassed, eg. by a weapon focus.
 		* Some sample soak dice pools: 
-		    * Water F2: 6 dice
+			* Water F2: 6 dice
 			* Air F4: 10 dice
 			* Earth F6: 22 dice
 			* Beasts F8: 20 dice
@@ -121,7 +121,7 @@ Large swathes of these rules owe debt to:
 Lormyr for this [post][1] and this [post][2] (see also this [thread][3]) (and this [post][4])
 u/dezzmont for [these (quite radical!) suggestions][5]
 
-## Design goals 
+## Design goals
 
 * Eliminate the infinite power scaling possibility for mages. Although it’s theoretical in my campaign right now, it still troubles me.
 * Reduce the incentives for mages to game the system by casting spells or summoning spirits during downtime then healing up before stuff kicks off. 

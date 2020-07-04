@@ -5,9 +5,9 @@ type: docs
 description: Things to do between missions
 ---
 
-{{% alert title="Status" color="success" %}}
+{{% pageinfo %}} 
 These rules are canon for my current campaign.
-{{% /alert %}}
+{{% /pageinfo %}}
 
 For every phase spent in downtime, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
 

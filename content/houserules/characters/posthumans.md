@@ -4,9 +4,9 @@ title: Posthumans
 type: docs
 description: The next stage of human evolution
 ---
-{{% alert title="Status" color="warning" %}}
-These rules are not canon for my current campaign.
-{{% /alert %}}
+{{% pageinfo %}} 
+These rules are **not** currently canon for my current campaign.
+{{% /pageinfo %}}
 
 Just as metahumankind's understanding of magic has altered in the decades since it returned to the world - with the emergence of UMT providing a framework for understanding all magical traditions - so too does its understanding of the effect of cybernetic augmentations on the manaflow through an individual. The old theories - that cyberware was fundamentally antithetical to the flow of life force and that as cyberware increased so the subject's essential humanity inevitably ebbed away - no longer hold true. Instead, a new, deeper understanding is emerging from theoretical thaumaturgists in leading research labs.
 

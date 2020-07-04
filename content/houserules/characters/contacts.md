@@ -5,9 +5,9 @@ type: docs
 description: How to know a guy who knows a guy
 ---
 
-{{% alert title="Status" color="success" %}}
+{{% pageinfo %}} 
 These rules are canon for my current campaign.
-{{% /alert %}}
+{{% /pageinfo %}}
 
 These rules introduce a simple currency for contacts: **favour markers**. Certain services from your contacts will cost markers; either instead of, or in addition to, nuyen.
 

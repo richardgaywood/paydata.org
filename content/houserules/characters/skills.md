@@ -4,10 +4,9 @@ title: Simplified skills
 type: docs
 description: Trim the number of skills back
 ---
-
-{{% alert title="Status" color="success" %}}
+{{% pageinfo %}} 
 These rules are canon for my current campaign.
-{{% /alert %}}
+{{% /pageinfo %}}
 
 {{% alert title="Goals" %}}
 * Remove some redundant skills.
