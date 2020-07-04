@@ -4,3 +4,8 @@ title = "paydata.org"
 theme = "docsy"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
