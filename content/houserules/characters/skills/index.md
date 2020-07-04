@@ -53,6 +53,10 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 * Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
+{{\< imgproc magic\_skills Resize "600" \>}}
+Magic skills
+{{< /imgproc >}}
+
 ### Combat skills
 
 * Rename the Pistols skill to “Handguns”
