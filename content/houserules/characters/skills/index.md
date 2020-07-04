@@ -8,18 +8,7 @@ description: Trim the number of skills back
 These rules are canon for my current campaign.
 {{% /pageinfo %}}
 
-{{% alert title="Goals" %}}
-* Remove some redundant skills.
-* Make some archetypes easier to handle skill wise, particularly deckers and riggers. Allow decker or rigger to be a more viable secondary archetype, and  make decker/rigger hybrids more feasible.
-* To give mages less painful ways to pick up lesser, but still useful, skills like counterspelling via cheaper skill groups.
-
-Non-goals: Radical upheaval that requires significant changes elsewhere in the system. I’ll mostly stick to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
-{{% /alert %}}
-
-{{% alert title="Acknowledgements" %}}
-* [Dezzmont’s Shadowrun 5.5.1 doc][1]
-* [Reddit thread about this doc][2]
-{{% /alert %}}
+These rules are designed to hopefully prune back the skill list a little in ways that make sense and make some skill-heavy archetypes have a little bit of an easier time of it (most notably, riggers and deckers.)
 
 ## Skill group cost changes
 
@@ -109,6 +98,21 @@ No changes to 5e’s RAW, so to summarise:
 * In addition to the free points, your character receives one language that they know as a native language at no cost. 
 * To increase knowledge or language skills during play, it costs 1x the new rating (so taking a skill from 1 to 3 costs 2+3=5.)
 * See also my downtime houserules, which give you free karma to spend on knowledge and language skills.
+
+
+{{% alert title="Goals" %}}
+* Remove some redundant skills.
+* Make some archetypes easier to handle skill wise, particularly deckers and riggers. Allow decker or rigger to be a more viable secondary archetype, and  make decker/rigger hybrids more feasible.
+* To give mages less painful ways to pick up lesser, but still useful, skills like counterspelling via cheaper skill groups.
+
+Non-goals: Radical upheaval that requires significant changes elsewhere in the system. I’ll mostly stick to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
+{{% /alert %}}
+
+{{% alert title="Acknowledgements" %}}
+* [Dezzmont’s Shadowrun 5.5.1 doc][1]
+* [Reddit thread about this doc][2]
+{{% /alert %}}
+
 
 [1]:	https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic
 [2]:	https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/
