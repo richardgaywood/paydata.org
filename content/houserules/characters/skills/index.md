@@ -17,6 +17,7 @@ These rules are designed to hopefully prune back the skill list a little in ways
 This is designed to make it less painful to use Skill Groups as a way of mitigating the large numbers of skills needed for some archetypes.
 
 **Remove skill group points entirely at chargen.** Instead, increase skill points available as follows:
+
 * Skills Rank A now gets 66 (instead of 46/10)
 * Skills Rank B now gets 46 (instead of 36/5)
 * Skills Rank C now gets 32 (instead of 28/2)
@@ -42,7 +43,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 * Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
-{{< imgproc magic_skills Resize "600x" >}}
+{{\< imgproc magic\_skills Resize "600x" \>}}
 Magic skills
 {{< /imgproc >}}
 
@@ -99,13 +100,14 @@ No changes to 5e’s RAW, so to summarise:
 * To increase knowledge or language skills during play, it costs 1x the new rating (so taking a skill from 1 to 3 costs 2+3=5.)
 * See also my downtime houserules, which give you free karma to spend on knowledge and language skills.
 
+## Design notes
 
 {{% alert title="Goals" %}}
 * Remove some redundant skills.
 * Make some archetypes easier to handle skill wise, particularly deckers and riggers. Allow decker or rigger to be a more viable secondary archetype, and  make decker/rigger hybrids more feasible.
 * To give mages less painful ways to pick up lesser, but still useful, skills like counterspelling via cheaper skill groups.
 
-Non-goals: Radical upheaval that requires significant changes elsewhere in the system. I’ll mostly stick to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
+Non-goals: Radical upheaval that requires significant changes elsewhere in the system. I’ve mostly stuck to merging existing skills, rather than redrawing the boundaries of skill areas entirely.
 {{% /alert %}}
 
 {{% alert title="Acknowledgements" %}}
