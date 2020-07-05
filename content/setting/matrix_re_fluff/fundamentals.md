@@ -1,9 +1,10 @@
 ---
-title: "What the Matrix is"
+title: "Matrix fundamentals"
 linkTitle: "What the Matrix is"
 type: docs
-description: Matrix fundamentals; the devices that its made of
+description: The devices that make up the Matrix's infrastructure
 date: 2020-07-05
+weight: 10
 ---
 
 ## Nuts and bolts of Matrix infrastructure

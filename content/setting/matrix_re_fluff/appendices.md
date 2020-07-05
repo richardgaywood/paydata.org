@@ -4,6 +4,7 @@ linkTitle: "Appendices"
 type: docs
 description: Bits and pieces
 date: 2020-07-05
+weight: 1000
 ---
 ## Appendix: Reddit posts about this document
 

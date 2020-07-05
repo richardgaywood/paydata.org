@@ -1,9 +1,10 @@
 ---
 title: "How the Matrix works (for law-abiding wageslaves)"
-linkTitle: "The Matrix & cyberware"
+linkTitle: "The legal Matrix"
 type: docs
-description: How the Matrix interacts with cyberware and other gear
+description: How normal people use the Matrix
 date: 2020-07-05
+weight: 20
 ---
 
 
