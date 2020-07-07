@@ -7,49 +7,64 @@ type: docs
 ---
 
 {{% pageinfo %}} 
-These rules are **not** currently canon for my current campaign.
+These rules are **not** currently canon for my campaign.
 {{% /pageinfo %}}
-
-## The goals
-
-WIth the exception of 4e, Shadowrun has always tightly coupled together two concepts: how soon in a turn a character acts (their initiative roll) and how much they can get done in a turn (how many passes they get.) This document aims to explore what happens if we decouple these and allow them to vary independently under some combinations of character abilities.
-
-Other goals:
-
-*   Give AR deckers and riggers an easier time of it- so they can get out the car/van and come along on the run without worrying that their floppy meatbods will get hurt while they are in VR because that’s the only way to get a good action economy.
-*   Make streetsams/physads more distinctive by giving them combat powers other archetypes cannot access.
-*   Simplify handling initiative at the table: 
-    *   Don’t change initiative score mid-turn.
-    *   Remove multiple passes.
-    *   Remove the need to track recoil across subsequent turns without making it meaningless.
 
 
 ## The basics
 
 Same as SR5: there are Simple and Complex actions.
 
-A single combat turn:
-
-
+A single combat turn runs like this:
 
 *   Everyone rolls initiative, same as usual
 *   Count down from highest to lowest; when your number comes up, you get your phase
-    *   break ties with ERIC as per 5e RAW
+	*   break ties with ERIC as per 5e RAW
 *   When you get to 0, re-roll initiative and start over at the top again[^1]
-If you are a basic human:
 
-
+So for a basic human:
 
 *   You roll Reaction + Intuition + 1d6 
-*   And on your phase, you can do 1 Complex or 2 Simple actions, of any kind you want
+*   And on your phase, you can do 1 Complex or 2 Simple actions
 *   You can do any kind of actions here: physical, astral, magical, or matrix.
 
 
+## Augmentations
+
+### Cyberware, adept powers, etc
+
+This includes wired reflexes, Improved Reflexes, and other cyberware, bioware, or magical initiative augments (including spells).
+
+*   Generally run from Rating 1-4.
+*   Each rating makes the usual changes, eg +1d6 to initiative.
+*   For each d6 added to initiative, the user _also _adds 1 Simple action to the amount they can do in their phase _but_ this action can only be used on physical (meatspace) actions, not on matrix or magic.
+	*   So someone with rating 2 wired reflexes can do 4x Simple actions; or 2x Complex actions; or some other combination.
+
+### Magic actions
+
+For every initiate grade from 1-4, mages get an extra Simple action that can only be used for magical tasks (incl spellcasting, summoning, banishing)
+
+(Note that this means after their first initiation, a mage can summon a spirit (1 Complex) and order it (1 Simple) in a single phase.)
+
+### Matrix actions
+
+These depend on the decker’s or rigger’s interface mode.
+
+*   In AR without DNI: no extra actions
+*   In AR with DNI or cold-sim VR: +2 Simple actions
+*   In hot-sim VR: +3 Simple actions
+
+### Drugs
+
+Drugs that increase your initiative do not grant extra actions. However, their effect does stack with extra actions gained from other sources.
+
+### Multiple competing bonus actions
+
+No human brain can cope with the multiplicity of inputs of being active in more than one “world” at once. Hence, they can receive bonus meatspace actions, bonus matrix actions, or bonus magic actions; but only one. If they are eligible for more than one at once, through whatever combination of gear/augments/spells/etc, they can choose freely when rolling for initiative which “world” is getting their attention and hence which minor actions they will receive.
+
 ## Deferring actions & interrupt actions
 
-We no longer change your initiative score by -5 or -10 when you take interrupt actions. Instead:
-
-
+Interrupt actions no longer change your initiative score by -5 or -10 when taken. Instead:
 
 *   A character may save any number of actions unused from their phase
 *   These may be used at any point before or during their next phase
@@ -63,68 +78,30 @@ Example: Alice (streetsam) and Bob (ganger) are fighting.
 *   Turn 1: Alice rolls 22, Bob rolls 8.
 *   On 22, Alice uses one Simple Action to ready her katana. She saves the other Simple Action.
 *   On 8. Bob tries to punch Alice (Complex Action.)
-    *   Alice can use her saved Simple Action to add to her defence via Parry.
-    *   Or she can take the hit.
+	*   Alice can use her saved Simple Action to add to her defence via Parry.
+	*   Or she can take the hit.
 *   Turn 2: Alice rolls 18, Bob rolls 7.
 *   On 18, Alice now has her normal 2x Simple or 1x Complex action, and if she didn’t Parry earlier, she still has that Simple action saved up too. She attacks Bob. 
-    *   Note that Bob cannot use Parry, as he does not have any Simple Actions saved up.
+	*   Note that Bob cannot use Parry, as he does not have any Simple Actions saved up.
 {{% /alert %}}
-
-
-## Augmentations
-
-### Cyberware, adept powers, etc
-
-This includes wired reflexes, Improved Reflexes, and other cyberware, bioware, drug-based, or magical initiative augments (including spells)**
-
-*   Generally run from Rating 1-4
-*   Each rating makes the usual changes, eg +1d6 to initiative
-*   For each d6 added to initiative, the user _also _adds 1 Simple action to the amount they can do in their phase _but_ this action can only be used on physical (meatspace) actions, not on matrix or magic
-    *   So someone with rating 2 wired reflexes can do 4x Simple actions; or 2x Complex actions; or some other combination
-
-### Magic actions
-
-*   **TBD NOT SURE YET **For every initiative grade from 1-4: get an extra Simple action that can only be used for magical tasks (incl spellcasting, summoning, banishing)
-    *   Note that this means after their first initiation, a mage can summon a spirit (1 Complex) and order it (1 Simple) in a single phase.
-
-### Matrix actions
-
-These depend on the decker’s or rigger’s interface mode.
-
-*   In AR without DNI: no extra actions
-*   In AR with DNI or cold-sim VR: +2 Simple actions
-*   In hot-sim VR: +3 Simple actions
-*   _MAYBE: some bit of gear (deck add-on? A program?) that can grant an extra +1 Simple_
-
-{{% alert title="Note" %}}
-_This means that although a decker continues to roll (much) higher initiative in VR than they do in AR, they no longer need to be in VR to get bonus actions. It makes AR more viable, comparatively._
-{{% /alert %}}
-
-
-
-### What if you get multiple competing bonuses?
-
-No human brain can cope with the multiplicity of inputs of being active in more than one “world” at once. Hence, they can receive bonus meatspace actions, bonus matrix actions, or bonus magic actions; but only one. If they are eligible for more than one at once, through whatever combination of gear/augments/spells/etc, they can choose freely when rolling for initiative which “world” is getting their attention and hence which minor actions they will receive.
-
 
 ## New and changed actions
-
 
 ### Attacks
 
 All the attacks from the SR5e CRB become Complex actions (but see “New Multiple Attack” below). You can now do as many attacks, during your turn, as you have actions to spend; the only exception is SS weapons, which can only be used to attack once per turn. The Long Burst Fire and SA Burst options are removed. So the attack options now are:
 
 *   Complex actions:
-    *   Fire Weapon (SS) _only once per turn_
-    *   Fire Bow
-    *   Fire Weapon (SA, BF, FA)
-    *   Throw Weapon
-    *   Melee Attack
-    *   Quick Draw
+	*   Fire Weapon (SS) _(only once per turn)_
+	*   Fire Bow
+	*   Fire Weapon (SA, BF, FA)
+	*   Throw Weapon
+	*   Melee Attack
+	*   Quick Draw
 *   Complex + variable number of Simple actions:
-    *   _Carnival of Carnage_ multi-attack (full dice pool; see below)
+	*   _Carnival of Carnage_ multi-attack (full dice pool; see below)
 *   Complex + Free action:
-    *   Multi-attack (split dice pool)
+	*   Multi-attack (split dice pool)
 
 
 ### New multiple attack
@@ -133,8 +110,6 @@ The old multiple attack rule (use a Free Action to declare, a Complex Action to 
 
 If the attacker has:
 
-
-
 1. extra physical/meatspace actions and 
 1. a smartlink with DNI and an electronic trigger
 
@@ -142,37 +117,51 @@ If the attacker has:
 
 To use CoC:
 
-*   It requires one Complex action, plus one Simple action for each target in addition to the first
+*   It requires one Complex action, plus one Simple action for each additional target in addition to the first
 *   Calculate recoil according to the total number of bullets fired and apply it to each roll
-    *   Eg. if using 1x Complex and 2x Simple actions to shoot three people with a burst-fire gun, it’s 9 bullets
+	*   Eg. if using 1x Complex and 2x Simple actions to shoot three people with a burst-fire gun, it’s 9 bullets
 *   Roll your full dice pool (plus modifiers) against each target
-    *   (For simplicity's sake, unless the modifiers are different, just roll once and use the same number of hits against each target.)
-*   _I am still debating if you can use CoC to make multiple attacks against a single target, but probably yes_
-*   _Not sure how physads would get to do CoC - maybe a new 0.25 PP adept power to unlock it for any ranged weapon type_
-    *   _Maybe: only physads can do CoC with thrown weapons or bows?_
+	*   (For simplicity's sake, unless the modifiers are different, just roll once and use the same number of hits against each target.)
+
+### Mages
+
+Remove Reckless Spellcasting (the ability to cast a spell for a Simple action at +3 drain.)
+
+Spell defence now requires a Simple action to declare, which must be a deferred action from the mage’s last phase. However, it protects up to (Magic Rating) targets, all of whom get the mage’s full Counterspelling skill to add to their spell defence dice. This can be done as many times as the mage has actions. 
+
+### Riggers
+
+All the vehicle actions on CRB pg 202-203 count as Matrix actions for any character using AR or VR, and thus can be done with a rigger’s bonus actions.
+
+*   Fire Mounted Weapon (when it’s an electronically controlled turret)
+*   Rigger Jump In
+*   Make Vehicle Test (for vehicle piloting actions eg. stunts, pursuits) 
+
+Send Message (to command drones) remains a Simple matrix action. By default, it can command one drone; if the drones are connected to a PAN centered on an RCC the user can send the same command to multiple drones for a single Simple action.
+
+When a rigger is jumped in, Control Vehicle becomes a Free Action ie. a rigger no longer needs to spend one Complex action per turn to stop the vehicle going uncontrolled. This is only true when jumped in, and jumped in continues to require VR.
+
+### Matrix actions
+
+The SR5 core rulebook has 37 normal actions plus 9 magic actions. It also has 42 Matrix actions. Kill Code adds another 11. **This is too many. We are working on consolidating them.**
+
+**Fork **- modify Fork to work the same as Carnival of Carnage above (1 Complex action for the first target, then +1 Simple action for each additional target.)
 
 
-### Magic actions
+## Appendix: possible future changes
 
-#### Spell defence
+**Physads:** need consideration.
 
-Spell defence: now requires a Simple action to declare, which must be a deferred action from the mage’s last phase. However, it protects up to (Magic Rating) targets, all of whom get the mage’s full Counterspelling skill to add to their spell defence dice. This can be done as many times as the mage has actions. 
+**Deckers:** some bit of gear (deck add-on? A program?) that can grant an extra +1 Simple_ 
+**Mages:** vary the number of actions necessary to cast a spell or summon a spirit:
 
-{{% alert title="Note" %}}
-_No longer need to keep track of a refreshing counterspelling pool, and it’s more consistent with eg. parry or block actions._
-{{% /alert %}}
+Like:
 
-#### Variable actions for spellcasting and summoning
+*   Force \< (Magic rating /2): 1 Complex
+*   Force between above and below: 1 Complex + 1 Simple
+*   Force \> (Magic rating): 2 Complex
 
-{{% alert title="Note" %}}
-_Extremely not sure about these yet_
-{{% /alert %}}
-
-Remove Reckless Spellcasting. But then vary the number of actions necessary to cast a spell or summon a spirit:
-
-*   ~~Force &lt; (Magic rating /2): 1 Complex~~
-*   ~~Force between above and below: 1 Complex + 1 Simple~~
-*   ~~Force > (Magic rating): 2 Complex~~
+Or:
 
 <table>
   <tr>
@@ -221,42 +210,13 @@ Remove Reckless Spellcasting. But then vary the number of actions necessary to c
 
 
 
-### Riggers
-
-All the vehicle actions on CRB pg 202-203 count as Matrix actions for any character using AR or VR, and thus can be done with a rigger’s bonus actions.
-
-
-
-*   Fire Mounted Weapon (when it’s an electronically controlled turret)
-*   Rigger Jump In
-*   Make Vehicle Test (for vehicle piloting actions eg. stunts, pursuits) 
-
-Send Message (to command drones) remains a Simple matrix action. By default, it can command one drone; if the drones are connected to a PAN centered on an RCC the user can send the same command to multiple drones for a single Simple action.
-
-When a rigger is jumped in, Control Vehicle becomes a Free Action ie. a rigger no longer needs to spend one Complex action per turn to stop the vehicle going uncontrolled. This is only true when jumped in, and jumped in continues to require VR.
-
-
-### Matrix actions
-
-
-
-*   The SR5 core rulebook has 37 normal actions plus 9 magic actions.
-*   It also has 42 Matrix actions. Kill Code adds another 11. 
-
-**This is too many. We are working on consolidating them.**
-
-
-
-*   Fork - modify Fork to work the same as Carnival of Carnage above (1 Complex action for the first target, then +1 Simple action for each additional target.)
-
 
 ## Appendix - reddit threads about this
 
 
-
-*   [v0.1 release](https://www.reddit.com/r/Shadowrun/comments/gzuxd0/musings_on_a_new_action_economy_for_shadowrun/)
-*   [v0.2 release](https://www.reddit.com/r/Shadowrun/comments/hheghk/houserules_for_a_streamlined_initiative_system_5e/)
-*   
+*   [v0.1 release][1]
+*   [v0.2 release][2]
+	  
 
 
 ## Appendix - worked example with my current PCs
@@ -564,10 +524,24 @@ When a rigger is jumped in, Control Vehicle becomes a Free Action ie. a rigger n
 </table>
 
 
+## Footnote: Design goals
 
-<!-- Footnotes themselves at the bottom. -->
+With the exception of 4e, Shadowrun has always tightly coupled together two concepts: how soon in a turn a character acts (their initiative roll) and how much they can get done in a turn (how many passes they get.) This document aims to explore what happens if we decouple these and allow them to vary independently under some combinations of character abilities.
+
+Other goals:
+
+*   Give AR deckers and riggers an easier time of it- so they can get out the car/van and come along on the run without worrying that their floppy meatbods will get hurt while they are in VR because that’s the only way to get a good action economy.
+*   Make streetsams/physads more distinctive by giving them combat powers other archetypes cannot access.
+*   Simplify handling initiative at the table: 
+	*   Don’t change initiative score mid-turn.
+	*   Remove multiple passes.
+	*   Remove the need to track recoil across subsequent turns without making it meaningless.
+
 ## Notes
 
 [^1]:
 
-     Or keep the values same and start over without re-rolling;, it’s not a big deal.
+	 Or keep the values same and start over without re-rolling as SR 6e does; it’s not a big deal.
+
+[1]:	https://www.reddit.com/r/Shadowrun/comments/gzuxd0/musings_on_a_new_action_economy_for_shadowrun/
+[2]:	https://www.reddit.com/r/Shadowrun/comments/hheghk/houserules_for_a_streamlined_initiative_system_5e/
