@@ -103,6 +103,7 @@ All the attacks from the SR5e CRB become Complex actions (but see “New Multipl
 *   Complex + Free action:
 	*   Multi-attack (split dice pool)
 
+Recoil is no longer tracked across turns, but it does apply (in total) across all the attacks done within a single turn. For example, if a character has 2x Complex actions to spend, and uses them to do 2x Fire Weapon (BF) attacks, that's 6 points of recoil that apply across both attacks. When they start their next turn, however, the recoil counter is reset.
 
 ### New multiple attack
 
