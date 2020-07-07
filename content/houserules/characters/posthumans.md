@@ -3,6 +3,7 @@ date: 2020-06-30
 title: Posthumans
 type: docs
 description: The next stage of human evolution
+weight: 100
 ---
 {{% pageinfo %}} 
 These rules are **not** currently canon for my current campaign.

@@ -3,6 +3,7 @@ date: 2020-06-30
 title: Simplified skills
 type: docs
 description: Trim the number of skills back
+weight: 10
 ---
 {{% pageinfo %}} 
 These rules are canon for my current campaign.

@@ -3,6 +3,7 @@ date: 2020-06-30
 title: Contacts rules
 type: docs
 description: How to know a guy who knows a guy
+weight: 30
 ---
 
 {{% pageinfo %}} 

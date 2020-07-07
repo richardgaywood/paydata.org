@@ -3,6 +3,7 @@ date: 2020-06-30
 title: Downtime
 type: docs
 description: Things to do between missions
+weight: 20
 ---
 
 {{% pageinfo %}} 
