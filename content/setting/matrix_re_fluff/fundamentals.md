@@ -7,7 +7,7 @@ date: 2020-07-05
 weight: 10
 ---
 
-## Nuts and bolts of Matrix infrastructure
+## Matrix infrastructure
 
 The Matrix is so far ahead of our current understanding of computing so as to border on magical. Nevertheless, there are some ways in which it resembles the networks we are familiar with today.
 
