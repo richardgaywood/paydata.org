@@ -187,13 +187,13 @@ It takes time to have ‘ware installed, recover from the surgery, and then lear
 
 ### Magical Initiation
 
-Take an extended test: Arcana + Intuition [Astral] (initiate grade, 4 scenes)
+Take an extended test: Arcana + Intuition \[Astral\] (initiate grade, 4 scenes)
 
 If you can’t get all of this done in one piece of downtime, you can “bank” the scenes you have spent and to return to it during the next downtime phase.
 
 ### Learning spells
 
-First buy the formula (see below.) Then resolve a test of (Spellcasting + Intuition) [magical lodge's force]
+First buy the formula (see below.) Then resolve a test of (Spellcasting + Intuition) \[magical lodge's force\]
 
 Like most downtime actions, don’t roll actual dice, just buy hits.
 
@@ -204,7 +204,6 @@ Learning the spell takes two entire scenes, divided by the number of hits on the
 ### Other
 
 Each scene can be used for 60 hours of downtime to do things like binding spirits, enchanting, making gear, etc. Anything that needs extended tests in the book and isn’t mentioned above can be done via this scene.
-
 
 ## Modified downtime rules to account for qualities
 
