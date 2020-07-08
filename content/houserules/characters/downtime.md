@@ -12,20 +12,23 @@ These rules are canon for my current campaign.
 
 For every phase spent in downtime, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
 
-You get six scenes instead if you have any of the following augmentations: sleep regulator bioware (CRB); metabolic control adept power (CRB); booster endosont symbiotes (CF pg 123) or hyper-glucagon geneware (CF pg 160).
+You get two bonus scenes - so, six in total - if you have any of the following augmentations: sleep regulator bioware (CRB); metabolic control adept power (CRB); booster endosont symbiotes (CF pg 123) or hyper-glucagon geneware (CF pg 160).
 
-Spending one scene can give you any of the below options. Note: almost all tests should be resolved by buying hits, and Edge cannot be used in downtime.
+Spending one scene can give you any of the below options. Note: almost all tests should be resolved by buying hits, and Edge cannot be used in downtime (ask me if you['re not clear if you should roll or buy hits.)
+
+Also note: you have to spend at least one scene on Leisure. All work and no play makes Jack an unhappy shadowrunner.
 
 ## Karma & nuyen activities
 
 ### Leisure
 
-(NB: you must spend at least one scene on leisure during each downtime cycle. All work & no play, etc etc.) A scene spent on leisure gives you:
+A scene spent on leisure gives you:
 
 * 3 free karma to spend on knowledge skills
 * an additional 1 free karma to spend on qualities - either buying new positive ones (at 2x the listed price, as is normal for buying new qualities in play) or buying off existing negative ones.
+* A complete refresh of your Edge pool.
 
-You can save these karma points up, and you can combine them with regular karma for knowledge skills or qualities.
+You can save these karma points up, and you can combine them with regular karma to buy knowledge skills or qualities.
 
 ### Reflection & self-improvement
 
@@ -39,7 +42,7 @@ Convert nuyen to karma or karma to nuyen, at a rate of 2000¥:1. You can convert
 
 Except where noted below, increasing skills or attributes doesn’t require any scenes. You pick it up on the job, so to speak. Knowledge skill increases never require a scene.
 
-However, these increases do need downtime:
+However, these increases do need some investment during downtime:
 
 * Increasing an attribute to higher than 2 points less than your racial maximum (ie 4 for humans): 2 scenes 
 * Increase a skill beyond 6: 2 scenes
@@ -54,9 +57,9 @@ First, choose a skill you are going to use to freelance. Find your highest relev
 |---------------------------------------------------------------------------------------------------------------	|------	|
 | Medicine, Biotechnology, Cybertechnology                                                                      	| 4    	|
 | Technical skills (except the ones above)                                                                      	| 3    	|
-| Pilot Aircraft, Pilot Aerospace, Pilot Exotic \<br/\> Sneak                                                          	| 2    	|
-| Social Active skills\<br/\>Combat Active skills\<br/\>Professional knowledge skills\<br/\> Arcana \<br/\>Pilot Walker, Pilot Watercraft 	| 1    	|
-| Academic knowledge skills \<br/\> Pilot Groundcraft                                                                   	| 0    	|
+| Pilot Aircraft, Pilot Aerospace, Pilot Exotic <br/\> Sneak                                                          	| 2    	|
+| Social Active skills<br/\>Combat Active skills<br/\>Professional knowledge skills<br/\> Arcana <br/\>Pilot Walker, Pilot Watercraft 	| 1    	|
+| Academic knowledge skills <br/\> Pilot Groundcraft                                                                   	| 0    	|
 
 
 Add +1 to this for every rank you have in the skill over 4. Don’t include things like improved ability, reflex recorder, etc - just the normal skill score.
