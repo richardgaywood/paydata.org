@@ -1,13 +1,12 @@
 ---
 title: "New action economy for Shadowrun 5e"
-linkTitle: Streamlined action economy
+linkTitle: Action economy
 date: 2020-07-05
-title: New action economy
 type: docs
 ---
 
 {{% pageinfo %}} 
-These rules are **not** currently canon for my campaign.
+These rules are currently canon for my campaign.
 {{% /pageinfo %}}
 
 
@@ -37,7 +36,7 @@ This includes wired reflexes, Improved Reflexes, and other cyberware, bioware, o
 
 *   Generally run from Rating 1-4.
 *   Each rating makes the usual changes, eg +1d6 to initiative.
-*   For each d6 added to initiative, the user _also _adds 1 Simple action to the amount they can do in their phase _but_ this action can only be used on physical (meatspace) actions, not on matrix or magic.
+*   For each d6 added to initiative, the user _also \_adds 1 Simple action to the amount they can do in their phase _but\_ this action can only be used on physical (meatspace) actions, not on matrix or magic.
 	*   So someone with rating 2 wired reflexes can do 4x Simple actions; or 2x Complex actions; or some other combination.
 
 ### Magic actions
@@ -153,7 +152,7 @@ The SR5 core rulebook has 37 normal actions plus 9 magic actions. It also has 42
 
 **Physads:** need consideration.
 
-**Deckers:** some bit of gear (deck add-on? A program?) that can grant an extra +1 Simple_ 
+**Deckers:** some bit of gear (deck add-on? A program?) that can grant an extra +1 Simple\_ 
 **Mages:** vary the number of actions necessary to cast a spell or summon a spirit:
 
 Like:
@@ -217,7 +216,6 @@ Or:
 
 *   [v0.1 release][1]
 *   [v0.2 release][2]
-	  
 
 
 ## Appendix - worked example with my current PCs
