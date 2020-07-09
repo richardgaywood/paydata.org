@@ -1,11 +1,12 @@
 ---
 date: 2020-07-09
-title: Reagents & trinkets
+title: Reagents and trinkets
 linkTitle: Reagents
 type: docs
 description: Change reagents to add a new option: trinkets
 weight: 40
 ---
+
 {{% pageinfo %}} 
 These rules are canon for my current campaign.
 {{% /pageinfo %}}
