@@ -1,7 +1,7 @@
 ---
 date: 2020-07-09
-title: Initiation and metamagic houserules
-linkTitle: Initiation
+title: "Initiation and metamagic houserules"
+linkTitle: "Initiation"
 type: docs
 description: Cap initiation, cap max number of quickened spells, but make quickened spells more durable
 weight: 50

@@ -3,7 +3,7 @@ date: 2020-07-09
 title: Reagents and trinkets
 linkTitle: Reagents
 type: docs
-description: Change reagents to add a new option: trinkets
+description: Change reagents to add a new option - trinkets
 weight: 40
 ---
 
