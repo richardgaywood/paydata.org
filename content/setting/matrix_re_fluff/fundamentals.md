@@ -60,18 +60,19 @@ On the local mesh, dark fibre functions like a wormhole. If you can hack the con
 
 Hosts are the servers of the Matrix; they’re the guardians of data, the places you go to get stuff done, and the engines that keep the wheels turning. They come in a few types:
 
-
 *   **Local hosts** - quite common, these are small, physical servers that are (literally, physically) local to whatever they control. Low to medium rated security systems, building control, stock-keeping, industrial control systems in factories, etc etc. They are only connected to (and can only be reached via) the local mesh, and hence are only usable at relatively short ranges. 
 
-    When viewing the Matrix in VR, local hosts appear down at ground level, at a distinct physical location (unless they are hidden.) Well-funded deckers and other criminals might acquire low-end local hosts for nefarious purposes.
+	When viewing the Matrix in VR, local hosts appear down at ground level, at a distinct physical location (unless they are hidden.) Well-funded deckers and other criminals might acquire low-end local hosts for nefarious purposes.
 *   **Cloud hosts** - the grown up version of local hosts, used to run services that have to be accessible by people all over the planet. Distributed across lots and lots of physical servers, roughly analogous to a modern day planet-scale website, and directly connected to (and usually only reachable from) the backbone. As such, you can almost always get a good connection to a cloud host, unless your local mesh is being disrupted or you are far from civilisation.
-    When viewing the Matrix in VR, cloud hosts float up in the sky.  
-    Cloud hosts are enormously expensive to run, both for the hardware required and for the licencing and necessary security to connect to the backbone. 
+	When viewing the Matrix in VR, cloud hosts float up in the sky.  
+	Cloud hosts are enormously expensive to run, both for the hardware required and for the licencing and necessary security to connect to the backbone. 
 *   **Offline hosts** - local hosts with no connection to a local mesh. Can be used for cold storage of very valuable files, or wires-only ultramax security systems, or old systems still running in abandoned and forgotten buildings, or things deckers have cobbled together. Typically low rating, as the amount of processing power and hardware becomes very serious for higher ratings; but could in theory be anything. Offline hosts might be connected to online ones via **dark fibre** (see below.)
 
 {{% alert title="Notes" %}}
 With the removal of the Foundation as the core technology of the Matrix,. I have also omitted Foundation hosts here, as they are no longer everyday items. You can easily restore them, however — restricting them to rare, mysterious, and very powerful hosts only. And they can keep their associated weakness to Foundation dives and the plot possibilities they contain.
 {{% /alert %}}
+
+Not every host advertises its existence. So-called **dark hosts** are ones that are running silent on the Matrix. Local dark hosts can be detected by getting close to them and looking for hidden Matrix icons in the usual way. Cloud dark hosts are trickier, however, and can normally only be visited if you have the secret co-ordinates to find it.
 
 ### Commlinks
 
@@ -80,15 +81,15 @@ Commlinks are the most visible part of the Matrix - the device most commonly ass
 Most people using a commlink do so via a **direct neural interface** and **augmented reality.**
 
 *   DNI gives the user a limited amount of mental control directly over the device, without needing to look at the device or push any buttons. 
-    *   DNI is not telepathy. The user can issue simple on/off, less/more, scroll up/down type commands, but not much that is more complicated than that.They can also dictate text, but only at a speed that is a few times faster than talking.
-    *   DNI is tiring to use for long periods, as it requires close concentration of a particular kind for the machine to detect the commands. It’s like maintaining a fully spoken inner monologue. Few people can keep that up all day long.
+	*   DNI is not telepathy. The user can issue simple on/off, less/more, scroll up/down type commands, but not much that is more complicated than that.They can also dictate text, but only at a speed that is a few times faster than talking.
+	*   DNI is tiring to use for long periods, as it requires close concentration of a particular kind for the machine to detect the commands. It’s like maintaining a fully spoken inner monologue. Few people can keep that up all day long.
 *   Augmented reality means the commlink’s output - mostly visual and audio, some tactile - is projected directly into the user’s consciousness. They see pop-up windows floating in their vision, hear sounds overlaid with the real world, feel the weight and texture of virtual “objects” they touch.
-    *   Each distinct element of an augmented reality user interface is called an augmented reality object (ARO), often pronounced “arrow”. AROs can come from your commlink itself, like a messaging window or a control palette. They can be broadcast from nearby devices, like a restaurant displaying a holographic menu outside its door, or a friend showing you a selfie they took. Or they can be sent to you from items you are carrying, such as a smartgun displaying remaining ammunition count in a discreet window in the corner of your eye.
-    *   Because pure DNI control requires mental effort, less hardcore users sometimes fall back to either physical controls or (more often) AROs displaying control surfaces. These are less tiring and can be more precise when very delicate control is needed, eg. for piloting a vehicle. User interface AROs accessed via DNI have a tactile component, so the user feels like they are interacting with real physical objects that have weight, texture, and temperature.
+	*   Each distinct element of an augmented reality user interface is called an augmented reality object (ARO), often pronounced “arrow”. AROs can come from your commlink itself, like a messaging window or a control palette. They can be broadcast from nearby devices, like a restaurant displaying a holographic menu outside its door, or a friend showing you a selfie they took. Or they can be sent to you from items you are carrying, such as a smartgun displaying remaining ammunition count in a discreet window in the corner of your eye.
+	*   Because pure DNI control requires mental effort, less hardcore users sometimes fall back to either physical controls or (more often) AROs displaying control surfaces. These are less tiring and can be more precise when very delicate control is needed, eg. for piloting a vehicle. User interface AROs accessed via DNI have a tactile component, so the user feels like they are interacting with real physical objects that have weight, texture, and temperature.
 
 Civilians typically get DNI in one of two different ways: either via a datajack, or trodes. Both offer a wireless connection to the commlink, with a wired option as a backup. Trodes are a terrible experience though, with a noticeably poorer AR quality, and a connection that often glitches out unless the user stays quite still (as the trode net can shift around on the head). You can glue it down, but now you have glue in your hair and it’s gonna sting when you take it off. On top of that, they require significantly more concentration to generate DNI signals to interact with the device - they’re just not as sensitive at reading your brainwaves - which gives most people a headache after a few hours. This is why datajacks are heavily preferred and, consequently, extremely common - despite their invasive nature.
 
-(People with more extensive cyberware can get direct neural interfacdes through other options - for example, a rigger’s vehicle control rig includes all the same functionality as a datajack built-in. And some people have commlinks or cyberdecks enitrely implanted, which also give them DNI on demand, without any further hardware.)[^2]
+(People with more extensive cyberware can get direct neural interfaces through other options - for example, a rigger’s vehicle control rig cyberware includes all the same functionality as a datajack as part of the package. And some people have commlinks or cyberdecks enitrely implanted, which also give them DNI on demand, without any further hardware.)[^1]
 
 Users who won’t or can’t get DNI can still get a crude form of AR via various pieces of hardware: headphones for audio, plus contacts/glasses/goggles for visual AROs. They can even just about use user interface AROs, although the tactility component is vastly inferior, even if they wear special feedback gloves. It’s a crappy, godawful experience though, and only a Luddite would do this if they had any choice.
 
@@ -126,4 +127,4 @@ Cyberdecks are some of the most complex consumer electronics ever made by mankin
 
 In other words, they’re kind of a big deal.
 
-[^2]: credit to u/Finstersang
+[^1]:	credit to u/Finstersang
