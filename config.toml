@@ -1,5 +1,5 @@
 baseURL = "https://paydata.org/"
-languageCode = "en-gb"
+languageCode = "en"
 title = "paydata.org | a Shadowrun fansite"
 theme = "docsy"
 
@@ -31,10 +31,6 @@ enableGitInfo = true
 [services]
 [services.googleAnalytics]
 id = "UA-172322811-1"
-
-# Footer text
-[footer_all_rights_reserved]
-other = "shared under CC BY-NC-SA 4.0"
 
 [params]
 copyright = "Richard Gaywood"
