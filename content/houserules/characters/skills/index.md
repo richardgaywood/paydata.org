@@ -44,7 +44,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 * Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
-{{< imgproc magic_skills.png Resize "600x" >}}
+{{< imgproc "magic_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ### Combat skills
@@ -55,14 +55,14 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 * Move carbines and assault rifles into the Longarms skill
 * Add Gunnery to the Firearms group
 
-{{< imgproc combat_skills.png Resize "600x" >}}
+{{< imgproc "combat_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ###  Social skills
 
 * Merge Instruction into the Leadership skill
 
-{{< imgproc social_skills.png Resize "600x" >}}
+{{< imgproc "social_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ###  Physical active skills
@@ -72,7 +72,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 * Add Locksmith to the Stealth group 
 * Merge Diving into Swimming (because honestly, Diving, wtf?!)
 
-{{< imgproc physical_active_skills.png Resize "600x" >}}
+{{< imgproc "physical_active_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ## Decking / Technomancer skills
@@ -81,7 +81,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 	* But the cheaper skill groups should allow deckers to cover all their bases for a bit less karma/skill points than they could before.
 	* Deckers are perhaps the only archetype who, per RAW, have skill groups with three all-killer-no-filler skills in.
 
-{{< imgproc decking_skills.png Resize "600x" >}}
+{{< imgproc "decking_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ###  Piloting skills
@@ -91,7 +91,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 * Add a Rig Vehicle skill group.
 	* This can only be taken by characters with Vehicle Control Rig cyberware. Piloting an aircraft and a motorbike with your hands is very different… but doing it via a rig is a more similar experience.
 
-{{< imgproc vehicle_skills.png Resize "600x" >}}
+{{< imgproc "vehicle_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ###  Technical skills
@@ -105,7 +105,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 	* Physical artefact forgery eg. faking an ID pass with a photo moves into Artisan
 * Add Fabrication skill group 
 
-{{< imgproc technical_skills.png Resize "600x" >}}
+{{< imgproc "technical_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 
