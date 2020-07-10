@@ -1,6 +1,6 @@
-baseURL = "http://paydata.org/"
+baseURL = "https://paydata.org/"
 languageCode = "en-gb"
-title = "paydata.org"
+title = "paydata.org | a Shadowrun fansite"
 theme = "docsy"
 
 # Seem to be broken right now
@@ -30,15 +30,15 @@ enableGitInfo = true
 
 [services]
 [services.googleAnalytics]
-# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
 id = "UA-172322811-1"
 
+# Footer text
+[footer_all_rights_reserved]
+other = "shared under CC BY-NC-SA 4.0"
 
 [params]
 copyright = "Richard Gaywood"
 
-
-# User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
@@ -57,10 +57,10 @@ footer_about_disable = false
 	name ="Twitter"
 	url = "https://twitter.com/PenLlawen"
 	icon = "fab fa-twitter"
-  desc = "Find me on Twitter"
+        desc = "Find me on Twitter"
 [[params.links.user]]
 	name ="Reddit"
 	url = "https://www.reddit.com/user/penllawen"
 	icon = "fab fa-reddit"
-  desc = "Find me on Reddit"
+        desc = "Find me on Reddit"
 
