@@ -11,35 +11,36 @@ weight: 40
 These rules are canon for my current campaign.
 {{% /pageinfo %}}
 
-* increase the cost of reagents, say to 1000 nuyen per dram
+* increase the cost of reagents, for now let's say to 1000 nuyen per dram
 	   * _(remove rules for harvesting your own for a bit, they need rebalancing now)_
 * remove all RAW uses of reagents (except binding - see the Summoning section)
-* add a downtime action to **create a trinket.**
+* add a downtime action to **create a trinket**. You can create a number of trinkets equal to your Alchemy skill in a single downtime scene.
 
 ## Trinkets
 
 Trinkets are small objects that are linked to the caster’s tradition or personality in some way and can offer a one-time boost to a magic test. They are crafted by using reagents:
 
-Choose how many drams of reagent to use
+1. Choose how many drams of reagent to use
+1. Roll Alchemy + Magic 
+1. Resultant trinket has Force equal to the *lesser* of the roll and the number of drams used. 
 
-1. Choose the trinket’s type (see below)
-2. Roll Alchemy + Magic 
-3. Resultant trinket has Force equal to the *lesser* of the roll and the number of drams used. Regardless of resulting power, all the reagents you declared in step 1 are consumed.
+NB: Regardless of resulting power, all the reagents you declared in step 1 are consumed.
 
-*Further houserule: I will allow mage PCs to declare they spend one downtime scene creating trinkets, but not which ones. Then they can retroactively fill that detail in via a flashback after meeting with the Johnson to begin the next run. This allows them to avoid analysis paralysis trying to plan for a run they know nothing about.*
+## Trinket usages
 
-## Trinket types
+Similar to foci, trinkets can be used to add a number of dice equal to their force to any given magic roll. Unlike foci, trinkets burn out after one use. You do not need to declare how a particular trinket will be used until you come to use it.
 
-Similar to foci, trinkets can be used to add a number of dice equal to their force to any given magic roll. Unlike foci, trinkets burn out after one use.
-
-* Spellcasting (school) - can aid the spellcasting roll *or* the drain roll on any spell cast from the selected school (combat, health, manipulation, etc). 
+* Spellcasting - can aid the spellcasting roll *or* the drain roll
+* Sustaining - can sustain a spell for (Force) Combat Turns. 
 * Counterspelling
 * Dispelling
-* Sustaining (school) - can sustain a spell of the selected school for (Force) Combat Turns. 
+* Banishing
+* Hide magic - add its Force rating to the roll to avoid having magic activity spotted
+	* so the test becomes Perception + Intuition \[Mental\] vs (magical skill being used + trinket rating - spell/spirit Force)
 
 ## Trinkets on the astral
 
-Unlike foci, trinkets do not have their own aura on the astral; they can be noticed but only if someone assenses your aura (and they can be disguised by Masking in the usual way). Therefore carrying one does not immediately mark one out as a magician to anyone who glances at you on the astral plane; they have a stealth advantage over foci.
+Unlike foci, trinkets do not have their own aura on the astral when not being used; they can be noticed but only if someone assenses your aura (and they can be disguised by Masking in the usual way). Therefore carrying one does not immediately mark one out as a magician to anyone who glances at you on the astral plane; they have a stealth advantage over foci. If a trinket is actively sustaining a spell, it can be seen at a glance, however.
 
 ## Maximum number of trinkets bound at once
 

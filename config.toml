@@ -1,6 +1,6 @@
-baseURL = "http://paydata.org/"
-languageCode = "en-gb"
-title = "paydata.org"
+baseURL = "https://paydata.org/"
+languageCode = "en"
+title = "paydata.org | a Shadowrun fansite"
 theme = "docsy"
 
 # Seem to be broken right now
@@ -25,12 +25,16 @@ resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+
+[services]
+[services.googleAnalytics]
+id = "UA-172322811-1"
 
 [params]
 copyright = "Richard Gaywood"
 
-
-# User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
@@ -43,5 +47,16 @@ navbar_logo = false
 # Set to true to disable the About link in the site footer
 footer_about_disable = false
 
-
+[params.links]
+# End user relevant links. These will show up on left side of footer and in the community page if you have one.
+[[params.links.user]]
+	name ="Twitter"
+	url = "https://twitter.com/PenLlawen"
+	icon = "fab fa-twitter"
+        desc = "Find me on Twitter"
+[[params.links.user]]
+	name ="Reddit"
+	url = "https://www.reddit.com/user/penllawen"
+	icon = "fab fa-reddit"
+        desc = "Find me on Reddit"
 

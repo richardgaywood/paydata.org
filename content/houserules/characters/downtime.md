@@ -204,7 +204,11 @@ Substitute in Ritual Spellcasting or Alchemy if that’s what you’re learning
 
 Learning the spell takes two entire scenes, divided by the number of hits on the test. This means you can learn more than one spell in a single scene, as long as you have 4+ hits on the test. Other than that, you don’t get any sort of refund for part-used scenes, however.
 
-### Other
+### Create alchemical trinkets
+
+You can create a number of trinkets equal to your Alchemy skill in a single downtime scene. See Reagents in the Magic section for more information. **ADD LINK**
+
+## Other
 
 Each scene can be used for 60 hours of downtime to do things like binding spirits, enchanting, making gear, etc. Anything that needs extended tests in the book and isn’t mentioned above can be done via this scene.
 
