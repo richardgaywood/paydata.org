@@ -44,8 +44,7 @@ In the below tables, changes to SR5 RAW will be highlighted in yellow.
 
 * Add a new “Astral” skill group, spanning the Arcana, Assensing, and Astral skills.
 
-{{< imgproc magic_skills Resize "600x" >}}
-Magic skills
+{{< imgproc "magic_skills.png" Resize "600x" >}}
 {{< /imgproc >}}
 
 ### Combat skills
@@ -56,9 +55,15 @@ Magic skills
 * Move carbines and assault rifles into the Longarms skill
 * Add Gunnery to the Firearms group
 
+{{< imgproc "combat_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
+
 ###  Social skills
 
 * Merge Instruction into the Leadership skill
+
+{{< imgproc "social_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
 
 ###  Physical active skills
 
@@ -67,11 +72,17 @@ Magic skills
 * Add Locksmith to the Stealth group 
 * Merge Diving into Swimming (because honestly, Diving, wtf?!)
 
+{{< imgproc "physical_active_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
+
 ## Decking / Technomancer skills
 
 * No changes here. 
 	* But the cheaper skill groups should allow deckers to cover all their bases for a bit less karma/skill points than they could before.
 	* Deckers are perhaps the only archetype who, per RAW, have skill groups with three all-killer-no-filler skills in.
+
+{{< imgproc "decking_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
 
 ###  Piloting skills
 
@@ -79,6 +90,9 @@ Magic skills
 * Merge Pilot Walker into Pilot Groundcraft
 * Add a Rig Vehicle skill group.
 	* This can only be taken by characters with Vehicle Control Rig cyberware. Piloting an aircraft and a motorbike with your hands is very different… but doing it via a rig is a more similar experience.
+
+{{< imgproc "vehicle_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
 
 ###  Technical skills
 
@@ -90,6 +104,10 @@ Magic skills
 	* Electronic forgery eg. cloning a keycard moves into Computers
 	* Physical artefact forgery eg. faking an ID pass with a photo moves into Artisan
 * Add Fabrication skill group 
+
+{{< imgproc "technical_skills.png" Resize "600x" >}}
+{{< /imgproc >}}
+
 
 ### Knowledge and Language Skills
 
@@ -112,10 +130,6 @@ Non-goals: Radical upheaval that requires significant changes elsewhere in the s
 {{% /alert %}}
 
 {{% alert title="Acknowledgements" %}}
-* [Dezzmont’s Shadowrun 5.5.1 doc][1]
-* [Reddit thread about this doc][2]
+* [Dezzmont’s Shadowrun 5.5.1 doc](https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic)
+* [Reddit thread about this doc](https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/)
 {{% /alert %}}
-
-
-[1]:	https://docs.google.com/document/u/1/d/1BS29RpXycPDac6e-1MuDz5HXknSPTerL7392u1lm_SY/mobilebasic
-[2]:	https://www.reddit.com/r/Shadowrun/comments/dxb3il/simplified_skill_list_for_5e_houserules/
