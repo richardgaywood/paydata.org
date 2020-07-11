@@ -150,16 +150,16 @@ If a turret is being controlled via VR (either a jumped-in rigger or anyone else
 
 Vehicles (ratings are body / armour):
 
-* scooter: 4/4
-* small car: 8/4
-* sports car: 10/8
-* armoured limo: 15/15
-* SUV: 15/12
+* scooter: 4\/4
+* small car: 8\/4
+* sports car: 10\/8
+* armoured limo: 15\/15
+* SUV: 15\/12
 
 Barriers (ratings are structure / armour)
 
-* Glass: 1/2
-* Drywall, plaster, doors: 2/4
-* Furniture, ballistic glass: 4/6
-* Trees, hardwood, posts, chain-link fence: 6/8
-* Security door, armoured glass, Kevlar wall lining: 8/12
+* Glass: 1\/2
+* Drywall, plaster, doors: 2\/4
+* Furniture, ballistic glass: 4\/6
+* Trees, hardwood, posts, chain-link fence: 6\/8
+* Security door, armoured glass, Kevlar wall lining: 8\/12
