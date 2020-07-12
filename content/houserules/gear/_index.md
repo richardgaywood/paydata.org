@@ -7,14 +7,3 @@ description: Houserules relating to gear, weapons, etc
 date: 2020-07-12
 ---
 
-
-
-
----
-title: 
-linkTitle:
-type: docs    
-weight: xx
-description: 
-date: 2020-
----
