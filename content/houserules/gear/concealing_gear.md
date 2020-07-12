@@ -28,15 +28,15 @@ In theory I could keep doubling here, but I plan to handwave it away at some poi
 
 Here's some common items of gear grouped into load levels. Some GM moderation will be necessary to slot other items into this list as they come up.
 
-| Level              	| Perception modifier 	| melee weapons               	| Weapons & ammo                                                                      	| drones       	| Electronics and other gear                  	|
-|--------------------	|---------------------	|-----------------------------	|-------------------------------------------------------------------------------------	|--------------	|---------------------------------------------	|
-|                    	| Always hidden       	|                             	|                                                                                     	| micro drone  	| RFID tag, bug, slap patch, credstick, chips 	|
-| "Naked"            	| -8                  	| knife, sap                  	| Hold-out pistol. Knife, sap. Revolver speedloader. Throwing knife, shuriken.        	|              	| Commlink, jammer, lockpicks, goggles        	|
-| Light              	| -4                  	| monowhip, collapsible baton 	| Light pistol. Monowhip, collapsible baton. Magazine. Microgrenade.                  	| mini drone   	| medkit (R1-2)                               	|
-| Medium             	| 0                   	| club                        	| Heavy pistol, machine pistol (stock folded). Club. Extended mag. Grenade, flashpak. 	|              	| Cyberdeck, RCC                              	|
-| Heavy              	| +4                  	| sword                       	| SMG, sawn-off shotgun (stock folded). Sword. Ammo belt/drum.                        	| small drone  	| medkit (R3-4)                               	|
-| Loaded for bears   	| +8                  	| katana                      	| Sport / assault rifles, shotgun, grenade launcher, crossbow. Katana.                	|              	|                                             	|
-| Loaded for dragons 	| Always spotted      	| claymore, staff             	| Sniper rifle, machine gun, rocket launcher. Claymore, staff. Bow.                   	| medium drone 	| medkit (R5+), metahuman body                	|
+| Level              	| Perception modifier 	| Weapons & ammo                                                                      	| drones       	| Electronics and other gear                  	|
+|--------------------	|---------------------	|-------------------------------------------------------------------------------------	|--------------	|---------------------------------------------	|
+|                    	| Always hidden       	|                                                                                     	| micro drone  	| RFID tag, bug, slap patch, credstick, chips 	|
+| "Naked"            	| -8                  	| Hold-out pistol. Knife, sap. Revolver speedloader. Throwing knife, shuriken.        	|              	| Commlink, jammer, lockpicks, goggles        	|
+| Light              	| -4                  	| Light pistol. Monowhip, collapsible baton. Magazine. Microgrenade.                  	| mini drone   	| medkit (R1-2)                               	|
+| Medium             	| 0                   	| Heavy pistol, machine pistol (stock folded). Club. Extended mag. Grenade, flashpak. 	|              	| Cyberdeck, RCC                              	|
+| Heavy              	| +4                  	| SMG, sawn-off shotgun (stock folded). Sword. Ammo belt/drum.                        	| small drone  	| medkit (R3-4)                               	|
+| Loaded for bears   	| +8                  	| Sport / assault rifles, shotgun, grenade launcher, crossbow. Katana.                	|              	|                                             	|
+| Loaded for dragons 	| Always spotted      	| Sniper rifle, machine gun, rocket launcher. Claymore, staff. Bow.                   	| medium drone 	| medkit (R5+), metahuman body                	|
 
 
 {{% alert title="TODO" color="warning" %}}
