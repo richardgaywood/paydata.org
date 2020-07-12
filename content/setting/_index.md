@@ -7,4 +7,4 @@ menu:
 type: docs
 ---
 
-This is the setting section!
+This is where I put stuff I've written about Shadowrun's fluff - ie. the narrative and the fictional world.
