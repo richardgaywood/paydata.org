@@ -31,7 +31,8 @@ NB: Regardless of resulting power, all the reagents you declared in step 1 are c
 Similar to foci, trinkets can be used to add a number of dice equal to their force to any given magic roll. Unlike foci, trinkets burn out after one use. You do not need to declare how a particular trinket will be used until you come to use it.
 
 * Spellcasting - can aid the spellcasting roll *or* the drain roll
-* Sustaining - can sustain a spell for (Force) Combat Turns. 
+* Summoning - as above; can add to summoning roll or drain roll
+* Sustaining - can sustain any spell for (Force) Combat Turns. 
 * Counterspelling
 * Dispelling
 * Banishing

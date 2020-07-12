@@ -104,14 +104,14 @@ crashing (like ramming but against immobile objects)
 
 damage to passengers:
 
-* same number of boxes as vehicle takes? soak with body+armour as usual.
+* same number of boxes as vehicle takes? soak with body+armour as usual. Maybe some AP-x penalty.
 * if passengers are strapped in -> stun damage
 * if passengers are not -> physical damage
 {{% /alert %}}
 
 ### Forcing a stop
 
-Resolve as for a ram, but if there are any net hits on the test then before damage is taken, the defender has a choice: they can avoid all damage and come to a halt, or they can keep moving but resolve it as a ramming attack with full damage for both sides.
+Attacker declares as a Complex action. Resolve initial test as for a ram, but if there are any net hits to the attacker then before damage is taken, the defender has a choice: they can avoid all damage and come to a halt, or they can keep moving but resolve it as a ramming attack with full damage for both sides.
 
 ## Chases & pursuits
 
@@ -144,7 +144,13 @@ A gently streamlined list of clock segments and ranges for different types of gu
 
 If a gun is being used manually (either via a pintle mount or manual/AR remote controls of a mobile turret), the standard roll is Agility+Gunnery. The character can choose to roll Agility+appropriate weapon skill instead with a -2 penalty. Smartgun bonuses apply to both the above rolls if appropriate.
 
-If a turret is being controlled via VR (either a jumped-in rigger or anyone else in VR), it's Int+Gunnery. **TODO: something with sensors that work like smartguns**
+If a turret is being controlled via VR (either a jumped-in rigger or anyone else in VR), it's Logic+Gunnery. 
+
+
+{{% alert title="TODO" color="warning" %}}
+something with sensors that work like smartguns**
+{{% /alert %}}
+
 
 ## Appendix: some typical vehicle/barrier ratings
 
