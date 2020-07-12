@@ -1,5 +1,5 @@
 ---
-title: "Drugs
+title: "Drugs"
 linkTitle: "Drugs"
 type: docs    
 weight: 100
