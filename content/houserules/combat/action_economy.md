@@ -17,16 +17,20 @@ Same as SR5: there are Simple and Complex actions.
 A single combat turn runs like this:
 
 *   Everyone rolls initiative, same as usual
-*   Count down from highest to lowest; when your number comes up, you get your phase
+*   Count down from highest to lowest; when a character's number comes up, they get their phase
 	*   break ties with ERIC as per 5e RAW
-*   When you get to 0, re-roll initiative and start over at the top again[^1]
+*   When you get to 0, the turn is over. Re-roll initiative and start over at the top again[^1]
 
-So for a basic human:
+On your phase, you get 1 Complex action as usual, plus bonus Simple actions depending on your augments (see below). Complex and Simple actions can still be interchanged as usual (1 Complex = 2 Simple and vice versa.) Youir first Complex action can be used for anything, but the bonus Simple actions are locked to specific types of action.
 
-*   You roll Reaction + Intuition + 1d6 
-*   And on your phase, you can do 1 Complex or 2 Simple actions
-*   You can do any kind of actions here: physical, astral, magical, or matrix.
+{{% alert title="Example" %}}
+Example: Alice (streetsam) and Bob (ganger) are fighting.
 
+*   Turn 1: Alice rolls 22 (Rea+Int+4d6), Bob rolls 8 (Rea+Int+1d6).
+*   On 22, Alice has a phase. She can do 1 Complex _plus_ 3 Simple actions.  
+*   On 8, Bob has a phase. Bob can do 1 Complex or 2 Simple actions.
+*   Both characters now re-roll and a new turn begins.
+{{% /alert %}}
 
 ## Augmentations
 
@@ -34,14 +38,14 @@ So for a basic human:
 
 This includes wired reflexes, Improved Reflexes, and other cyberware, bioware, or magical initiative augments (including spells).
 
-*   Generally run from Rating 1-4.
+*   Generally run from Rating 1-3.
 *   Each rating makes the usual changes, eg +1d6 to initiative.
-*   For each d6 added to initiative, the user _also \_adds 1 Simple action to the amount they can do in their phase _but\_ this action can only be used on physical (meatspace) actions, not on matrix or magic.
+*   For each d6 added to initiative, the user _also_ adds 1 Simple action to the amount they can do in their phase _but_ this action can only be used on physical (meatspace) actions, not on matrix or magic.
 	*   So someone with rating 2 wired reflexes can do 4x Simple actions; or 2x Complex actions; or some other combination.
 
 ### Magic actions
 
-For every initiate grade from 1-4, mages get an extra Simple action that can only be used for magical tasks (incl spellcasting, summoning, banishing)
+For every initiate grade from 1-3, mages get an extra Simple action that can only be used for magical tasks (incl spellcasting, summoning, banishing)
 
 (Note that this means after their first initiation, a mage can summon a spirit (1 Complex) and order it (1 Simple) in a single phase.)
 
@@ -55,7 +59,9 @@ These depend on the decker’s or rigger’s interface mode.
 
 ### Drugs
 
-Drugs that increase your initiative do not grant extra actions. However, their effect does stack with extra actions gained from other sources.
+Drugs that increase your initiative roll do not grant extra actions. However, their effect does stack with extra actions gained from other sources. So an initiated mage using Kamikaze can go earlier in the turn and still use their full complement of actions.
+
+Obviously, combat drugs come with other downsides...
 
 ### Multiple competing bonus actions
 
@@ -72,7 +78,7 @@ Interrupt actions no longer change your initiative score by -5 or -10 when taken
 *   No character can take any defensive actions on the first combat turn before their first phase 
 
 {{% alert title="Example" %}}
-Example: Alice (streetsam) and Bob (ganger) are fighting.
+Example: Alice (streetsam) and Bob (ganger) are still fighting.
 
 *   Turn 1: Alice rolls 22, Bob rolls 8.
 *   On 22, Alice uses one Simple Action to ready her katana. She saves the other Simple Action.
