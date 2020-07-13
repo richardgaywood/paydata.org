@@ -1,9 +1,7 @@
 ---
 title: "GMing links"
 linkTitle: "GMing links"
-menu:
-  main:
-    weight: 200
+weight: 200
 type: docs
 description: Links for Shadowrun GMs
 date: 2020-07-12

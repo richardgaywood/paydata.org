@@ -10,13 +10,13 @@ weight: 20
 These rules are canon for my current campaign.
 {{% /pageinfo %}}
 
-For every phase spent in downtime, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
+After each mission, your characters will (usually) enjoy a downtime phase. During this phase, you get four “scenes” that you can allocate to activities as you please. You also have to pay one amount of your lifestyle costs.
 
 You get two bonus scenes - so, six in total - if you have any of the following augmentations: sleep regulator bioware (CRB); metabolic control adept power (CRB); booster endosont symbiotes (CF pg 123) or hyper-glucagon geneware (CF pg 160).
 
-Spending one scene can give you any of the below options. Note: almost all tests should be resolved by buying hits, and Edge cannot be used in downtime (ask me if you['re not clear if you should roll or buy hits.)
+Spending one scene can give you any of the below options and benefits. Note: almost all tests for activities should be resolved by buying hits, except for a few noted exceptions, and Edge cannot be used in downtime to effect test outcomes. Ask me if you're not clear if you should roll or buy hits.
 
-Also note: you have to spend at least one scene on Leisure. All work and no play makes Jack an unhappy shadowrunner.
+Also note: you have to spend at least one scene on Leisure. All work and no play makes Jack an unhappy shadowrunner. If something happens that prevents you from spending a scene on Leisure, *you cannot heal stun damage or refresh your Edge pool*. Yes, ouch.
 
 ## Karma & nuyen activities
 
@@ -27,6 +27,7 @@ A scene spent on leisure gives you:
 * 3 free karma to spend on knowledge skills
 * an additional 1 free karma to spend on qualities - either buying new positive ones (at 2x the listed price, as is normal for buying new qualities in play) or buying off existing negative ones.
 * A complete refresh of your Edge pool.
+* Heal all stun damage.
 
 You can save these karma points up, and you can combine them with regular karma to buy knowledge skills or qualities.
 
@@ -36,7 +37,7 @@ You gain 1 karma, to spend on whatever you want.
 
 ### Working for the man / people
 
-Convert nuyen to karma or karma to nuyen, at a rate of 2000¥:1. You can convert up to five points for one scene. You can only do this once per month.
+Convert nuyen to karma or karma to nuyen, at a rate of 2000¥:1. You can convert up to five points for one scene. You can only do this once per downtime phase.
 
 ### Training Montage
 
@@ -120,6 +121,8 @@ Earn a number of Favour Markers equal to your Charisma. You can use these to pay
 
 You should expect to have to owe contacts Favour Markers when you ask them for help during play. See **TBD link**
 
+### Increase contact loyalty
+
 You can raise a contact’s loyalty by spending a number of markers equal to twice their new loyalty value. I will encourage you to do a bit of roleplaying around this event!  However, note you cannot raise a contact’s loyalty if you owe them any Favour Markers.
 
 ### New Friends
@@ -140,7 +143,7 @@ One scene is enough rest to heal any amount of physical damage short of being in
 
 ### Lie Low
 
-If you haven’t gained any notoriety this month, you can spend 1 scene to reduce your notoriety by 1. You can only do this once per month.
+If you didn't gain any notoriety during your last mission, you can spend 1 scene to reduce your notoriety by 1. You can only do this once per downtime phase.
 
 ## Equipment related activities
 
@@ -156,13 +159,15 @@ First, find the base number of markers this is going to cost you, depending on t
 | 100k - 250k ￥  | 3                        |
 | 250k+           | 4                        |
 
+You have to pay these markers for anything you buy, even legal items. They represent the extra hassle of buying expensive items when you don't legally exist.
+
 Now, work out if you can get it. Each pass through this table takes one of your downtime scenes, except for the first row.
 
 | Avail score (legal gear) 	| Avail score (R or F) 	| Outcome                                                                                                                                                       	|
 |--------------------------	|----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Below 18                 	| Below 9              	| You get it automatically. This doesn’t need you to use any scenes, either.                                                                                    	|
-| 18+                      	| 8-12                 	| If you have any gear-related contact, you get it automatically;...or you or any contact can roll. If you use a non-gear contact, this costs +1 marker.        	|
-|                          	| 13-18                	| If you have a gear contact specialising in this type of gear, you get it automatically.  … or you or any gear contact can roll (again, this costs +1 marker.) 	|
+| Below 18                 	| Below 9              	| You get it automatically. This doesn’t need you to use any scenes, either. You still pay markers as above.                                                                                   	|
+| 18+                      	| 8-12                 	| If you have any gear-related contact, you get it automatically; if not, you or any contact can roll. If you use a non-gear contact, this costs +1 marker.        	|
+|                          	| 13-18                	| If you have a gear contact specialising in this type of gear, you get it automatically. If not, you or any gear contact can roll (again, this costs +1 marker.) 	|
 |                          	| 18+                  	| A gear specialist contact can roll. This costs +3 favour markers.                                                                                             	|
 
 (These numbers err somewhat on the side of generosity.)
@@ -173,7 +178,11 @@ If the result is “can roll”, remember you are rolling against the availabili
 
 If you have an appropriate skill (Hardware for Matrix damage, Mechanic for vehicle/drone damage, etc), you can repair up to your total dice pool in damage track boxes across any of your gear for one scene’s worth of your time. You can spend multiple scenes on this if your gear is really badly banged up.
 
-You have to have access to a facility; either a Garage/Workshop/Facility in your dwelling or access to one via a contact. If the character has their own, these add 25% to the character’s lifestyle cost.
+You have to have access to a facility; either a Garage/Workshop/Facility in your dwelling or access to one via a contact. 
+
+{{% alert title="TODO" color="warning" %}}
+Write clearer rules for the requirements here. The ones in Run Faster are silly.
+{{% /alert %}} 
 
 There is no further cost; a supply of parts comes with the nuyen you paid for the garage/workshop/facility.
 
@@ -208,7 +217,13 @@ Learning the spell takes two entire scenes, divided by the number of hits on the
 
 You can create a number of trinkets equal to your Alchemy skill in a single downtime scene. See Reagents in the Magic section for more information. **ADD LINK**
 
-## Other
+1. Choose how many drams of reagent to use
+1. Roll Alchemy + Magic (this will usually be rolled and not fall back to buying hits)
+1. Resultant trinket has Force equal to the *lesser* of the roll and the number of drams used. 
+
+NB: Regardless of resulting power, all the reagents you declared in step 1 are consumed.
+
+## Other activities
 
 Each scene can be used for 60 hours of downtime to do things like binding spirits, enchanting, making gear, etc. Anything that needs extended tests in the book and isn’t mentioned above can be done via this scene.
 
@@ -219,17 +234,16 @@ Shadowrun has many, many qualities, and probably lots of them should affect the 
 * Side Hustle and Day Job: if you have Day Job, you must spend downtime scenes working.
 	* at the 5 karma level, you have to spend one scene working.
 	* at the 10 karma level, you have to spend two scenes working, but earn a minimum 1,500 nuyen.
-	* at the 15 karma level, you have to spend four scenes working; you earn a minimum 2,500 nuyen.
+	* at the 15 karma level, you have to spend three scenes working; you earn a minimum 2,500 nuyen.
 
 Other qualities I think should affect these downtime rules, but I haven’t yet had a player take them so don’t have numbers at the moment:
 
 * Dependent: reduce scenes
 * Addiction: reduce scenes when it gets past a certain level
 
-
 ## Appendix: important acknowledgements
 
-I didn't realise I wanted downtime rules until I looked at [the ones from A Light In the Dark][1]… then I immediately saw that I did. A few things didn't fit though; they're optimised for a living campaign, so they're a bit too detailed in places and a bit too simple in others.
+I didn't realise I wanted downtime rules until I looked at [the ones from A Light In the Dark][1]... then I immediately saw that I did. A few things didn't fit though; they're optimised for a living campaign, so they're a bit too detailed in places and a bit too simple in others.
 
 So I wrote my own, which you can read here.
 

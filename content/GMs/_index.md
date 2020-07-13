@@ -1,5 +1,5 @@
 ---
-title: "GMing section"
+title: "Stuff for GMs"
 linkTitle: "GMs"
 menu:
   main:

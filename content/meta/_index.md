@@ -1,6 +1,6 @@
 ---
-title: "Meta"
-linkTitle: "Stuff about Shadowrun iteself"
+title: "Stuff about Shadowrun itself"
+linkTitle: "Meta"
 menu:
   main:
     weight: 200

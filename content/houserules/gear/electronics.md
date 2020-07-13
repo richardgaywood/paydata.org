@@ -10,7 +10,8 @@ date: 2020-07-12
 These rules are canon for my current campaign.
 {{% /pageinfo %}}
 
-## Cyberdecks
+
+## Cyberdecks
 
 Cyberdeck prices are reduced to 25% of RAW.
 

@@ -148,7 +148,7 @@ If a turret is being controlled via VR (either a jumped-in rigger or anyone else
 
 
 {{% alert title="TODO" color="warning" %}}
-something with sensors that work like smartguns**
+something with sensors that work like smartguns
 {{% /alert %}}
 
 
