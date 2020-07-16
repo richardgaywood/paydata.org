@@ -69,6 +69,10 @@ Organised criminals like shadowrunners make use of these protocols so they leave
 
 ### Persona AROs
 
+{{% alert title="TODO" color="warning" %}}
+change the below for consistency with the spotting section
+{{% /alert %}} 
+
 Most people are broadcasting a few AROs from their commlink at all times. A basic informational ARO contains their SIN and some basic biographic information: their name, gender representation and pronouns, age, and so on. Anything you’d find on a driving licence. Some people might redact all or part of this, for whatever reason; but not broadcasting at least a SIN will attract attention from the authorities in the better parts of town.
 
 Some people also broadcast their persona’s icon at all times, typically scaled to a few inches high and floating over their head or sitting on their shoulder. Customising and sculpting the persona’s icon is a big business, with every kind of lifestyle brand imaginable making virtual accessories for you to play dress-up with on your digital twin, and that’s before you get to the expert artists and modellers who make all sorts of more outre icons than the basic metahuman figures your commlink came with.

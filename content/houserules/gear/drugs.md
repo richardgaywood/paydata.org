@@ -14,9 +14,3 @@ These rules are canon for my current campaign.
 
 Banned. This stuff is terribly OP.
 
-## Addiction rules
-
-{{% alert title="TODO" color="warning" %}}
-Make some addiction rules that can be understood without flowcharts and equations
-{{% /alert %}}
-
