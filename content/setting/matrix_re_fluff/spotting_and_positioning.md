@@ -53,7 +53,7 @@ Public augmented reality displays wouldn't make a lot of sense if different peop
 
 ## SIN broadcasts & nameplates
 
-Commlink icons have a special sidechannel that usually broadcast the owner's SIN at all times. This isn't mandatory, but will certainly prompt investigation from the cops if it's turned off in nicer parts of town.
+Commlink icons have a special sidechannel that usually broadcast the owner's SIN at all times. This isn't quite mandatory, but will certainly prompt investigation from the cops if it's turned off in most parts of town.
 
 **Nameplates** are a sort of beefed-up public version of this. They are an ARO display that people can enable on their commlinks that shows their name, gender pronouns, P2.1 profile link, and other biographic information. People turn these on in situations where they'll be useful, eg when they meeting new people. Some people spend quite a lot of time customising their nameplate AROs to reflect their personalty. These are also the kind of people that will have an obnoxiously over-the-top persona icon.
 

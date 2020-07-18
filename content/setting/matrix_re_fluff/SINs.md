@@ -57,5 +57,32 @@ This is the middle ground.
 
 ## Fake SINs
 
-THe 
 **legend**
+
+
+
+
+
+{{% alert title="Design notes" %}}
+
+This is a tricky one. Per RAW, it seems all of the following are true about SINs:
+
+1. A SIN is a short string of letters and numbers. It somehow contains your name, date of birth, place of birth, and the nation/corp that issued the SIN. This information can only be decoded by some people. It is typically issued at birth and is immutable. 
+2. SINs are associated with stored biometrics - DNA, retinal scan, fingerprints. 
+3. SINs and biometrics are stored together in two databases: one run by the entity issuing the SIN and the Global SIN Registry. These are "among the most secure on the planet."
+4. SIN broadcasting is close to ubiquitous, especially in civilised parts of town. The SINless are not welcome. A SIN is required to do almost anything - get healthcare, ride public transit, shop.
+5. A SIN cannot be spoofed, duplicated, or stolen. There are no rules for this. 
+6. Instead, criminals use fake SINs, which are created by hacking the SIN databases to insert new data. These fake SINs might have biometrics data in the database that do not match reality.
+7. No employer uses SINs as any sort of identity auth; instead we have numerous rules for keypads, passkeys, swipe badges, etc etc.
+8. SINs can be validated but this validation is usually pretty limited (it only says it is/isn't true). You have to get a long way up before SIN verification involves checking for matching biometrics ie that the DNA/fingerprints/etc on file match the subject.
+9. SINs cannot be reverse searched for biometrics ie. you can't take someone's fingerprints or blood from a crime scene and link it to a SIN.
+
+Notes:
+
+* (1) and (6) are slightly in conflict. It's secure, but people routinely hack it?  
+* (9) makes little sense, why wouldn't it be searchable?
+* (5) and (7) are in conflict. If SINs are very secure, why not use them as the basis for security checkpoints?
+* Unclear how changes of name are handled (re: (1))
+* Unclear how (4) and (5) go together - why can't you just pick up someone else's SIN?
+
+{{% /alert %}}

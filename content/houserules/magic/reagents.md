@@ -16,6 +16,10 @@ These rules are canon for my current campaign.
 * remove all RAW uses of reagents (except binding - see the Summoning section)
 * add a downtime action to **create a trinket**. You can create a number of trinkets equal to your Alchemy skill in a single downtime scene.
 
+{{% alert title="TODO" color="warning" %}}
+Should this is the Artificing skill, rather than Alchemy?
+{{% /alert %}} 
+
 ## Trinkets
 
 Trinkets are small objects that are linked to the caster’s tradition or personality in some way and can offer a one-time boost to a magic test. They are crafted by using reagents:

@@ -21,40 +21,41 @@ These rules are **not yet** canon for my current campaign. Although simpler than
 4. Burnout (25 karma): -3 to all Social tests. -6 penalty to all Mental and/or Physical attribute tests when in withdrawal. 
 5. Beyond burnout: each time a character in Burnout fails an addicition test, they permanently lose 1 point from either Body or Willpower, whichever is higher. 
 
-Dry Addict (also in mild/moderate/severe/burnout levels): must pass a composure test at thresholds 1-5 (depending on stress level) to turn down an offer of the addictive substance. Take a 1-4 dice pool penalty on addiction tests following use of substance. 
+Dry Addict (also in mild/moderate/severe/burnout levels, at 50% of the karma of the above qualities): must pass a composure test at thresholds 1-5 (depending on stress level) to turn down an offer of the addictive substance. Take a 1-4 dice pool penalty on addiction tests following use of substance. 
 
 ## Addictive substances
 
-|                             | Addiction Threshold | Addiction Period    | Recovery Period | Addiction Type |
+|                             | Addiction Threshold | Recovery Period    | Addiction Period | Addiction Type |
 |-----------------------------|---------------------|---------------------|-----------------|----------------|
 | Alcohol [*]                 |                   2 |                   1 |               3 | Both           |
 | Bliss                       |                   3 |                   1 |               3 | Both           |
 | Cram                        |                   3 |                   1 |               3 | Psychological  |
-| Deepweed [*]                | ?                   | ?                   | ?               | Physiological  |
 | Jazz                        |                   3 |                   2 |               2 | Both           |
 | Kamikaze                    |                   3 |                   3 |               1 | Physiological  |
-| Long Haul                   |                   1 |                   0 |               4 | Psychological  |
+| Long Haul                   |                   1 |                   1 |               3 | Psychological  |
 | Nitro                       |                   3 |                   3 |               1 | Both           |
 | Novacoke                    |                   2 |                   2 |               2 | Both           |
-| Psyche [*]                  |                   2 |                   2 |               2 | Psychological  |
-| Soykaf [*]                  |                   2 |                   0 |               4 | Physiological  |
 | Zen                         |                   1 |                   1 |               3 | Psychological  |
 | BTL (Dreamchip)             |                   1 |                   2 |               2 | Psychological  |
 | BTL (Moodchip)              |                   2 |                   2 |               2 | Psychological  |
 | BTL (Personafix)            |                   2 |                   2 |               2 | Psychological  |
 | BTL (Tripchip)              |                   3 |                   2 |               2 | Psychological  |
-| Hot-Sim Simsense [*]        |                   1 |                   1 |               3 | Psychological  |
-| Legal-Strength Simsense [*] |                   1 |                   0 |               4 | Psychological  |
-| Skillwires [*]              |                   2 |                   1 |               3 | Psychological  |
-| Focus [*]                   |                   2 | (Total Force)/3     | [*]             | Psychological  |
 | Essence Drain               |                   2 | (Critter's Magic)/3 | [*]             | Psychological  |
 
+<!-- unused entries
+| Deepweed [*]                | ?                   | ?                   | ?               | Physiological  |
+| Soykaf [*]                  |                   2 |                   0 |               4 | Physiological  |
+| Focus [*]                   |                   2 | (Total Force)/3     | [*]             | Psychological  |
+| Skillwires [*]              |                   2 |                   1 |               3 | Psychological  |
+| Legal-Strength Simsense [*] |                   1 |                   0 |               4 | Psychological  |
+| Hot-Sim Simsense [*]        |                   1 |                   1 |               3 | Psychological  |
+| Psyche [*]                  |                   2 |                   2 |               2 | Psychological  |
+-->
+
 {{% alert title="Notes"%}}
-For the purposes of my campaign, I won't be enforcing addiction rolls against soykaf, skillwires, simsense, or foci. They are included above only for completeness. I will only roll for addiction to alcohol when the character already has the qualities ie. an existing addiction can get worse but a character cannot acquire an addiction during play.
+For the purposes of my campaign, I won't be enforcing addiction rolls against soykaf, skillwires, simsense, or foci. I've removed them from the table above. I will only ask for rolls for addiction to alcohol when the character already has the qualities ie. an existing addiction can get worse but a character cannot acquire an addiction during play.
 
-I've also deleted psyche completely.
-
-Deepweed has no addictiveness ratings in CRB, nor in any errata I can find. I've left it blank for now. 
+I've also deleted psyche completely. Deepweed has no addictiveness ratings in CRB, nor in any errata I can find. I've left it out for now. 
 
 Addiction Period is a new field, calculated as RAW's "addiction rating" divided by 3. Recovery Period is calculated as (4-Addiction Period.) You can use these formulae to work out the stats for other drugs in SR5e not included above. That's also how you calculate the values for Essence Drain addiction, should it come up.
 {{% /alert %}}
@@ -77,9 +78,15 @@ If you use any addictive drugs during the mission that you do not already have a
 
 ### Cravings
 
-During downtime after using any addictive substance, make an Addiction Test as above. You cannot use Edge on this test. If you fail the test, you become addicted, and get the Addict (Mild) quality.
+Drugs are more-ish. That's kinda their whole deal.
 
-Characters with the Dry Addict quality take a penalty of -1 to -4 on this test. In addition, if they fail the test, they get the Addict quality at the same level as their Dry Addict quality.
+After any use of an addictive substance, your character will crave it. This will last for a number of downtime sessions equal to the drug's Recovery Period. Keep track of how many missions you use the drug on while this is happening.
+
+At the end of the Recovery Period, make an Addiction Test. Subtract one from the drug's Addiction Threshold for each entire mission where you didn't use the drug at all. If you pass the test, the cravings end and you're in the clear. If you fail the test, bad news: you now have the Addict (Mild) quality.
+
+Characters with the Dry Addict quality take a penalty of -1 to -4 on this test, depending on the level of their former addiction. In addition, if they fail the test, they get the Addict quality at the same level as their Dry Addict quality, not at the Mild level.
+
+If you pick up an addiction quality this way, you do not receive any karma for it.
 
 ### Addiction-related downtime scenes
 
@@ -90,11 +97,11 @@ You can choose to **Indulge** your addiction. This means you will suffer no ill-
 * Mild - 0 scenes lost
 * Moderate - 1 scene
 * Severe - 2 scenes
-* Burnout - 4 scenes (this means you will not be able to do a Leisure scene, so will not heal stun damage or recover Edge during downtime.)
+* Burnout - 4 scenes (this means you will not be able to do a Leisure scene, so will not heal stun damage or recover Edge during downtime. Yes, this hurts.)
 	
-Instead of indulging, you can **go cold turkey**:
+Instead of indulging, you can **go cold turkey**: you will have to roll for withdrawal at the start of your next mission, and take the penalty for withdrawal if you fail (or choose to get a fix during your next mission.)
 
-* You will have to roll for withdrawal at the start of your next mission, and take the penalty for withdrawal if you fail. 
+Finally, you can choose to **rehab**, for 1-3 scenes of time. Each scene will grant you +2 dice on your next Addiction Test. There is an escalating cost associated with this, as your character spends time in therapy, purchases detox meds, undergoes magical treatments, etc. In a given downtime phase, the first rehab scene costs 1000¥, the second costs 2500¥, and the third costs 10k¥.
 
 ## The downward spiral
 
@@ -107,6 +114,8 @@ To get clean, a character must:
 * Successfully go cold turkey for Recovery Threshold downtime phases in a row
 * not have used the drug during missions 
 * make one final successful Addiction Test (you can use Edge on this test, but this Edge will not return until after your next Downtime phase.)
-* and pay the karma to buy off the negative quality (at full price, so 4 karma for a Mild addiction.)
+* and pay the karma to buy off the negative quality (at 1x price, so 4 karma for a Mild addiction.)
 
 They can then swap the Addiction quality for Dry Addiction. They do not receive karma for this new negative quality.
+
+After another period of (Recovery Threshold) downtimes of complete abstinence (ie. you cannot have rolled any Addiction Tests at all), they can once again pay karma (at 2x the cost of the Dry Addict quality) to remove that as well.

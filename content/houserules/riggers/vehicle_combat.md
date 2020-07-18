@@ -39,7 +39,7 @@ When a vehicle is attacked - either shot at or rammed - we need a dice pool to d
 * **Vehicle or drone on autopilot**: The vehicle or drone defends with pilot + maneuvering autosoft. If it has no autosoft, with twice its pilot. The vehicle can full defense; if it does, it applies its pilot to the roll.
 * **Driving vehicle in the meat** (physical or AR controls): You make defense tests for the vehicle using your Reaction + Intuition, as normal. You can’t block or parry.  You can’t full defense for the vehicle, but you can evasive drive, which applies your intuition to the defense test.  Combat sense applies.
 * **Piloting in VR (no control rig)**: You make defense tests for the vehicle using your Intuition + Intuition. You can’t block or parry  You can’t full defense for the vehicle, but you can evasive drive, which applies your Intuition to the defense test. Combat Sense does not apply. Hotsim does not apply a bonus.
-* **Jumped in (VR, Control Rig)**:  You make defense tests for the vehicle using your Intuition + Intuition. You can block or parry if the drone or vehicle has arms, or arm-equivalents (GM discretion); if you do, the vehicle’s handling is your limit. You can full defense, and if you do, the full defense “follows” you if you switch what vehicle you’re jumped into; it applies your Intuition to the defense test. Your control rig’s rating is not applied to the defense test. The Control Rig Booster or Control Rig Optimization bonuses do apply.  Combat Sense does not apply.
+* **Jumped in (VR, control rig)**:  You make defense tests for the vehicle using your Intuition + Intuition. You can block or parry if the drone or vehicle has arms, or arm-equivalents (GM discretion); if you do, the vehicle’s handling is your limit. You can full defense, and if you do, the full defense “follows” you if you switch what vehicle you’re jumped into; it applies your Intuition to the defense test. Your control rig’s rating is not applied to the defense test. The Control Rig Booster or Control Rig Optimization bonuses do apply.  Combat Sense does not apply.
 
 ### Controlling vehicles
 
@@ -75,9 +75,9 @@ Second, roll to hit:
 * Attacker rolls: Int/Rea + Vehicle skill \[Handling\] or \[Speed\]
 * Defender rolls: defence test as detailed above (usually Rea+Int or Int+Int)
 
-There is no clean miss here. If the defender gets more hits, they can end up damaging the attacker - keep following the below.
+There is no clean miss here. If the defender gets more hits, they can still end up damaging the attacker - keep following the below.
 
-Third, work out the damage code done to the defender: take attacking vehicle's Body, subtract defending vehicle's Body. Add attacker's net hits. Multiply by the impact speed. This is the number of boxes the defending vehicle has to soak with Body + Armour.
+Third, work out the damage code done to the defender: take attacking vehicle's Body, subtract defending vehicle's Body (minimum 1.) Add attacker's net hits. Multiply by the impact speed. This is the number of boxes the defending vehicle has to soak with Body + Armour.
 
 Fourth, work out the damage code done to the defender: take defending vehicle's Body, subtract attacking vehicle's Body, minimum 1. Subtract attacker's net hits. Multiply by the impact speed. This is the number of boxes the attacking vehicle has to soak with Body + Armour.
 
@@ -133,19 +133,19 @@ A gently streamlined list of clock segments and ranges for different types of gu
 
 |                                 	| 0      	| 1      	| 2       	| 3       	| 4      	| 5       	| 6       	|
 |---------------------------------	|--------	|--------	|---------	|---------	|--------	|---------	|---------	|
-| (approximate range in meters)   	| 5      	| 20     	| 40      	| 80      	| 150    	| 500     	| 1000    	|
 | Pistols                         	| Medium 	| Long   	| Extreme 	| -       	| -      	| -       	| -       	|
 | SMGs, shotguns                  	| Short  	| Medium 	| Long    	| Extreme 	| -      	| -       	| -       	|
 | Rifles, long arms               	| Short  	| Short  	| Medium  	| Medium  	| Long   	| Extreme 	| -       	|
 | Machineguns                     	| Short  	| Short  	| Medium  	| Medium  	| Medium 	| Long    	| Extreme 	|
 | Assault cannon, rocket launcher 	| Short  	| Short  	| Short   	| Medium  	| Medium 	| Long    	| Extreme 	|
 
+<!-- | (approximate range in meters)   	| 5      	| 20     	| 40      	| 80      	| 150    	| 500     	| 1000    	| -->
+
 ## Vehicle-mounted weapons
 
 If a gun is being used manually (either via a pintle mount or manual/AR remote controls of a mobile turret), the standard roll is Agility+Gunnery. The character can choose to roll Agility+appropriate weapon skill instead with a -2 penalty. Smartgun bonuses apply to both the above rolls if appropriate.
 
 If a turret is being controlled via VR (either a jumped-in rigger or anyone else in VR), it's Logic+Gunnery. 
-
 
 {{% alert title="TODO" color="warning" %}}
 something with sensors that work like smartguns
