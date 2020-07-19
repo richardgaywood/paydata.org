@@ -4,7 +4,7 @@ title = "paydata.org | a Shadowrun fansite"
 theme = "docsy"
 
 # Seem to be broken right now
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [markup]
   [markup.goldmark]

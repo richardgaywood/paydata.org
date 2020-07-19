@@ -4,6 +4,8 @@ title: Simplified skills
 type: docs
 description: Trim the number of skills back
 weight: 10
+category: "canon"
+tags: ['canon']
 ---
 {{% pageinfo %}} 
 These rules are canon for my current campaign.
