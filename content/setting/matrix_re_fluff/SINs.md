@@ -15,9 +15,7 @@ SINs are issued by a wide variety of governmental and extra-territorial corporat
 
 Physically, a SIN is string of alphanumeric characters. Part of this contains the issuing entity - country or corp - who ultimately controls the SIN. What counts is the data associated with those numbers in various online hosts and datafiles.
 
-## You are your SIN
-
-SINs have become the *de facto* unique identifier in the Sixth World. They are tracked everywhere, both in person and in the Matrix. Every interaction and transaction you have can be tied to your SIN and tracked in some database - and almost all of them will be. Hence every SIN has trailing behind it wakes of data, scattered across thousands of databases. 
+SINs have become the *de facto* unique identifier in the Sixth World. They are tracked everywhere, both in person and in the Matrix. Every interaction and transaction you have can be tied to your SIN and tracked in some database - and almost all of them will be. Hence every SIN has, trailing behind it, wakes of data, scattered across thousands of databases. 
 
 The SINless are condemned to a life of misery. They are locked out of legal employment, of reasonable healthcare, even their basic civil rights are reduced. They face a lifetime of grinding for low cash-only wages and paying shady landlords high rent for shitty apartments, and preying that when they get sick there's room at the charity hospital for them. 
 
@@ -31,19 +29,33 @@ There are three broad methods used to verify SINs.
 
 ### The global SIN registry
 
-The global SIN registry is a fairly simple database of every SIN, world-wide, attached to some basic biographical information: name, gender, metahuman race, date of birth, and the issuing authority to which the SIN is attached.
+The global SIN registry is a fairly simple database of every SIN, world-wide, attached to some basic biographical information: name, gender, metahuman race, date of birth, and the issuing authority to which the SIN is attached. It takes a few seconds to look up a given SIN on the registry.
 
-Unfortunately, the global SIN registry is only as trustworthy as the least secure entity that can access it, and (by definition) it has to be writable by every entity that can issue SINs. It's a relatively trivial process for the purveyors of fake identities to get enough of a hack against some smaller nation-state to insert fake SINs into the global registry.
+The outcome of a check against the SIN registry is either:
 
-So, this is a pretty low-grade check, and easy to fool. Still, it provides enough of a verification to keep out the real low-lifes.
+1. the provided SIN does not exist or
+2. the provided SIN exists or
+3. the provided SIN exists, and here is the associated biographic data. There is a small fee charged for this service, which means it is not done as often as the simple "does/does not exist" check.
+
+Unfortunately, the global SIN registry is only as trustworthy as the least secure entity that can access it, and (by definition) it has to be writable by every entity that can issue SINs. It's a relatively trivial process for the purveyors of fake identities to get enough of a hack against some smaller nation-state to insert fake SINs into the global registry. So, this is a pretty low-grade check, and easy to fool. Still, it provides enough of a verification to keep out the real low-lifes.
+
+{{% alert title="Notes"%}}
+*This is a change from RAW, where the global SIN registry is very secure and has stored biometric data against each SIN. In game terms, a check against the global SIN registry is a rating 1-2 check.* 
+{{% /alert %}}
 
 ### Be the SIN issuer
 
-If you are the entity that issued the SIN, you have a lot more information about it at your fingertips. If a given SIN is in the global registry but not in your own databases, then ding ding ding, you've caught a faker. This is the sort of check that happens before you take out substantial credit or vote in an election.
+If you are the entity that issued the SIN, you have a lot more information about it at your fingertips to perform verifications with.
+
+For a start, if a given SIN that claims you issued it is in the global registry but not in your own databases (quite common for low-grade fake SINs), then you've caught a faker.
 
 Creating a fake SIN that can fool this kind of check is a deep hack against much more secure systems than the global SIN registry, and even then, it won't be permanent. Sooner or later, system integrity checks will find the fake and delete it.
 
 Of course, if you aren't the SIN issuer of a SIN you want to check, you can't do this. The SIN issuers are often secretive megacorps who compete with each other, or paranoid nation-states that are barely on speaking terms with each other. They don't share their SIN details except under exceptional circumstances.
+
+The SIN issuer databases also contain biometric data for each SIN - retina scans, fingerprints, DNA samples. As such, if they are willing to take the time to gather that information from an individual, they can apply a very high standard of verification. This typically takes at least several minutes, however, so can be impractical in many circumstances.
+
+SIN issuers can also "reverse search" their own databases, ie take a DNA sample or fingerprint and scan for SINs that match it.
 
 ### Online profiling
 
@@ -67,7 +79,7 @@ This is the middle ground.
 
 This is a tricky one. Per RAW, it seems all of the following are true about SINs:
 
-1. A SIN is a short string of letters and numbers. It somehow contains your name, date of birth, place of birth, and the nation/corp that issued the SIN. This information can only be decoded by some people. It is typically issued at birth and is immutable. 
+1. A SIN is a short string of letters and numbers. It contains, encoded within it, your name, date of birth, place of birth, and the nation/corp that issued the SIN. This information can only be decoded by some people. It is typically issued at birth and is immutable. 
 2. SINs are associated with stored biometrics - DNA, retinal scan, fingerprints. 
 3. SINs and biometrics are stored together in two databases: one run by the entity issuing the SIN and the Global SIN Registry. These are "among the most secure on the planet."
 4. SIN broadcasting is close to ubiquitous, especially in civilised parts of town. The SINless are not welcome. A SIN is required to do almost anything - get healthcare, ride public transit, shop.
@@ -84,5 +96,6 @@ Notes:
 * (5) and (7) are in conflict. If SINs are very secure, why not use them as the basis for security checkpoints?
 * Unclear how changes of name are handled (re: (1))
 * Unclear how (4) and (5) go together - why can't you just pick up someone else's SIN?
+* How does the encoding in (1) work in such a way that the KE beat cop can decode it but your team's decker can't?
 
 {{% /alert %}}

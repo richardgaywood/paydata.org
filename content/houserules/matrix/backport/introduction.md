@@ -11,8 +11,6 @@ The SR6e ruleset contains a gently streamlined version of the Matrix rules from 
 
 Some of the changes to the Matrix rules are not compatible with the rest of SR5e: for example, the use of attack and defence ratings to distribute Edge during Matrix actions. Fortunately, it is easy to ignore those, and still use other parts of the SR6e Matrix system within SR5e. This document aims to do just that.
 
-
-
 *   **Goals of doc**:
     *   To present a set of house rules for deckers in Shadowrun 5e, based on the Matrix rules in Shadowrun 6e. 
     *   Where possible, existing 5e rules from the wider system (stuff like limits, the action economy, etc) will be kept, in order to maintain compatibility with other 5e houserules, splatbooks, etc. 
