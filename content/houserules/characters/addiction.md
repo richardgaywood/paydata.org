@@ -90,7 +90,7 @@ If you pick up an addiction quality this way, you do not receive any karma for i
 
 ### Addiction-related downtime scenes
 
-Addictions place certain requirements on you between your missions.
+Addictions place certain requirements on you between your missions, as per [my downtime houserules]({{< relref "downtime.md#addiction-related-activities" >}}).
 
 You can choose to **Indulge** your addiction. This means you will suffer no ill-effects during your next mission. However, you lose a number of downtime scenes according to your addiction level:
 

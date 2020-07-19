@@ -52,66 +52,7 @@ However, these increases do need some investment during downtime:
 
 You spend time pitching your skills to do side jobs for your contacts and your contacts’ contacts. See calculation below. Most characters can earn 750-2000¥ for one scene spent on Side Hustle. You can only spend one scene on this; your contacts and their contacts only have so many opportunities for these sorts of off-the-books odd jobs.
 
-First, choose a skill you are going to use to freelance. Find your highest relevant skill dicepool on this list:
-
-| Skill                                                                                                         	| Base 	|
-|---------------------------------------------------------------------------------------------------------------	|------	|
-| Medicine, Biotechnology, Cybertechnology                                                                      	| 4    	|
-| Technical skills (except the ones above)                                                                      	| 3    	|
-| Pilot Aircraft, Pilot Aerospace, Pilot Exotic <br/\> Sneak                                                          	| 2    	|
-| Social Active skills<br/\>Combat Active skills<br/\>Professional knowledge skills<br/\> Arcana <br/\>Pilot Walker, Pilot Watercraft 	| 1    	|
-| Academic knowledge skills <br/\> Pilot Groundcraft                                                                   	| 0    	|
-
-
-Add +1 to this for every rank you have in the skill over 4. Don’t include things like improved ability, reflex recorder, etc - just the normal skill score.
-
-Add bonuses (these all stack):
-
-| Skill                                                                                                                             	| Bonus                  	|
-|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------	|
-| One or more specialisations in your chosen skill                                                                                  	| 1                      	|
-| At least 4 ranks in any Influence skill (Leadership, Negotiation, Etiquette) that you are not using for the skill you are selling 	| 1                      	|
-| At least 4 ranks in a skill related to the skill you have chosen                                                                  	| 1                      	|
-| At least 4 ranks in 4+ skills related to the skill you have chosen                                                                	| 1 (plus the 1 above)   	|
-| Have a rating 6 fake SIN, or a real national/corporate SIN                                                                        	| 1                      	|
-| You have a control rig & are using a vehicle skill                                                                                	| 2                      	|
-| You have the Fame quality at National or higher level                                                                             	| 1                      	|
-| Your best fake SIN is of rating 3 or below                                                                                        	| -1                     	|
-| No fake SIN, or your best fake SIN is rating 1                                                                                    	| -1 (plus the -1 above) 	|
-| Lifestyle is Squatter                                                                                                             	| -1                     	|
-| Lifestyle is Street                                                                                                               	| -2                     	|
-
-Add all these together to get your multiplier.
-
-Finally, work out how many hits you can buy in your chosen skill - that’s your dice pool, divided by 4, rounded down. 
-
-Each scene spent freelancing will earn you:
-
-**multiplier \* bought hits \* 50¥**
-
-{{% alert title="Example" %}}
-Twitch the decker decides to do some computer freelancing on the side. He has the Software skill at 6, which is a Technical skill, so has a base multiplier of 3, plus 2 for his skill level. He also has four other computer related skills at rank 4 or above (giving +2). His final multiplier is 7.
-
-His Software skill dice pool is 15, so he can buy 3 hits.
-
-Each scene of freelancing will earn Twitch 7*3*50 = 1050¥.
-
-Blitz the rigger has a go too. She has Pilot Aircraft skill at 7, Agility 6, and a level 2 vehicle control rig. She has various other vehicle related skills, a specialisation in Pilot Aircraft, and Negotiation rank 5. Her multiplier is 11, her bought hits are 4, and so her earnings are 2200¥.
-{{% /alert %}}
-
-This is a fair bit of crunch but each character should only need to do it once.
-
-Remember, characters can only spend one scene on doing this sort of work before there are no more opportunities to be done. They don’t have the right sort of criminal networks and reputation to find these jobs endlessly. If they did, they probably wouldn’t be shadowrunners.
-
-Side hustle example activities:
-
-* Deckers - small-scale theft/fencing of low-value paydata; spider work securing illegal business’ Matrix stuff; repairing other people’s gear
-* Riggers - package delivery (for packages of varying illegality); smuggling; repairing other people’s drones
-* Street sams / physads - paid muscle; bodyguards
-* Mages - Astral security for illegal business, providing low-level spirits for one-off services
-* Face - running cons, negotiators on others behalf
-* Medicine skills - patching people up, light including cyberware repair
-* Everyone - training others in their skills
+See [side hustle calculation]({{< relref "downtime.md#side-hustle-calculation" >}}) for details on how to calculate the money earned.
 
 ## Social activities
 
@@ -215,13 +156,23 @@ Learning the spell takes two entire scenes, divided by the number of hits on the
 
 ### Create alchemical trinkets
 
-You can create a number of trinkets equal to your Alchemy skill in a single downtime scene. See Reagents in the Magic section for more information. **ADD LINK**
+You can create a number of trinkets equal to your Alchemy skill in a single downtime scene. See [Reagents]({{< relref "reagents.md" >}}) in the Magic section for more information.
 
 1. Choose how many drams of reagent to use
 1. Roll Alchemy + Magic (this will usually be rolled and not fall back to buying hits)
 1. Resultant trinket has Force equal to the *lesser* of the roll and the number of drams used. 
 
 NB: Regardless of resulting power, all the reagents you declared in step 1 are consumed.
+
+## Addiction related activities
+
+See [addiction houserules]({{< relref "addiction.md" >}}) for full details on these.
+
+* **Indulge** - lose 0/1/2/4 scenes if you choose to indulge your addiction, depending on its level (mild/moderate/severe/burnout)
+* **Go cold turkey** - lose no scenes, but you have to roll for withdrawal at the start of the next mission
+* **Rehab** - spend 1-3 scenes undergoing therapy and treatment for your addiction. Each scene offers a cumulative +2 bonus to your next withdrawl roll. There's also an escalating cost: 1 scene costs  1000¥, the second costs 2500¥, and the third costs 10k¥.
+
+You can't combine indulge and rehab.
 
 ## Other activities
 
@@ -240,6 +191,70 @@ Other qualities I think should affect these downtime rules, but I haven’t yet 
 
 * Dependent: reduce scenes
 * Addiction: reduce scenes when it gets past a certain level
+
+
+## Side hustle calculation
+
+First, choose a skill you are going to use to freelance. Find your highest relevant skill dicepool on this list:
+
+| Skill                                                                                                         	| Base 	|
+|---------------------------------------------------------------------------------------------------------------	|------	|
+| Medicine, Biotechnology, Cybertechnology                                                                      	| 4    	|
+| Technical skills (except the ones above)                                                                      	| 3    	|
+| Pilot Aircraft, Pilot Aerospace, Pilot Exotic <br/\> Sneak                                                          	| 2    	|
+| Social Active skills<br/\>Combat Active skills<br/\>Professional knowledge skills<br/\> Arcana <br/\>Pilot Walker, Pilot Watercraft 	| 1    	|
+| Academic knowledge skills <br/\> Pilot Groundcraft                                                                   	| 0    	|
+
+
+Add +1 to this for every rank you have in the skill over 4. Don’t include things like improved ability, reflex recorder, etc - just the normal skill score.
+
+Add bonuses (these all stack):
+
+| Skill                                                                                                                             	| Bonus                  	|
+|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------	|
+| One or more specialisations in your chosen skill                                                                                  	| 1                      	|
+| At least 4 ranks in any Influence skill (Leadership, Negotiation, Etiquette) that you are not using for the skill you are selling 	| 1                      	|
+| At least 4 ranks in a skill related to the skill you have chosen                                                                  	| 1                      	|
+| At least 4 ranks in 4+ skills related to the skill you have chosen                                                                	| 1 (plus the 1 above)   	|
+| Have a rating 6 fake SIN, or a real national/corporate SIN                                                                        	| 1                      	|
+| You have a control rig & are using a vehicle skill                                                                                	| 2                      	|
+| You have the Fame quality at National or higher level                                                                             	| 1                      	|
+| Your best fake SIN is of rating 3 or below                                                                                        	| -1                     	|
+| No fake SIN, or your best fake SIN is rating 1                                                                                    	| -1 (plus the -1 above) 	|
+| Lifestyle is Squatter                                                                                                             	| -1                     	|
+| Lifestyle is Street                                                                                                               	| -2                     	|
+
+Add all these together to get your multiplier.
+
+Finally, work out how many hits you can buy in your chosen skill - that’s your dice pool, divided by 4, rounded down. 
+
+Each scene spent freelancing will earn you:
+
+**multiplier \* bought hits \* 50¥**
+
+{{% alert title="Example" %}}
+Twitch the decker decides to do some computer freelancing on the side. He has the Software skill at 6, which is a Technical skill, so has a base multiplier of 3, plus 2 for his skill level. He also has four other computer related skills at rank 4 or above (giving +2). His final multiplier is 7.
+
+His Software skill dice pool is 15, so he can buy 3 hits.
+
+Each scene of freelancing will earn Twitch 7*3*50 = 1050¥.
+
+Blitz the rigger has a go too. She has Pilot Aircraft skill at 7, Agility 6, and a level 2 vehicle control rig. She has various other vehicle related skills, a specialisation in Pilot Aircraft, and Negotiation rank 5. Her multiplier is 11, her bought hits are 4, and so her earnings are 2200¥.
+{{% /alert %}}
+
+This is a fair bit of crunch but each character should only need to do it once.
+
+Remember, characters can only spend one scene on doing this sort of work before there are no more opportunities to be done. They don’t have the right sort of criminal networks and reputation to find these jobs endlessly. If they did, they probably wouldn’t be shadowrunners.
+
+Side hustle example activities:
+
+* Deckers - small-scale theft/fencing of low-value paydata; spider work securing illegal business’ Matrix stuff; repairing other people’s gear
+* Riggers - package delivery (for packages of varying illegality); smuggling; repairing other people’s drones
+* Street sams / physads - paid muscle; bodyguards
+* Mages - Astral security for illegal business, providing low-level spirits for one-off services
+* Face - running cons, negotiators on others behalf
+* Medicine skills - patching people up, light including cyberware repair
+* Everyone - training others in their skills
 
 ## Appendix: important acknowledgements
 
