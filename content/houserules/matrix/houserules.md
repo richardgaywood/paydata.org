@@ -220,3 +220,24 @@ Maybe
 	* Roll Hacking against the device's own rating, with no Firewall from the Host
 	* Any access levels you get from this test are applied to the entire Host WAN
 * **Spot icons inside a host**: By default, most personas connected to a secure Host (eg for work) will run silent, so drop off the public grid. Run Matrix Perception test as usual to spot them and initiate a hack.
+{{% alert title="CRB contents" %}}
+1. Matrix skills
+2. Matrix attributes - ASDF
+3. Cyberdecks - allocating attributes, stats
+4. Matrix damage - bricking, repairing, biofeedback, dumpshock, link-locking
+5. User modes - AR, cold/hot sim VR
+6. Connections - noise
+7. Failed illegal action consequences (attack -> damage)
+8. Overwatch Score, convergence
+9. Direct connections
+10. PANs, WANs
+11. Grids
+12. Devices, personas
+13. Matrix Perception, spotting, running silent, noticing hackers
+14. Marks, owners
+15. Actions
+16. Programs
+17. Agents
+18. Hosts - archived files, attributes, host convergence, IC
+
+{{% /alert %}} 
