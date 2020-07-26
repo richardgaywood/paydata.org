@@ -7,6 +7,10 @@ weight: 20
 description: How to use (most of) the 6e Matrix rules in 5e
 ---
 
+{{% pageinfo %}} 
+These rules are canon for my current campaign. However, I am working on superseding them with a set of rules that is further streamlined.
+{{% /pageinfo %}}
+
 ## Marks: change to access levels
 
 Remove the concept of marks entirely. Replace with three levels of access:
