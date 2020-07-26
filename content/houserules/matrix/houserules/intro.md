@@ -5,22 +5,25 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 10
+description: Discussing what I am trying to achieve here
 ---
 
 {{% pageinfo %}} 
 These rules are *not yet* canon for my current campaign.
 {{% /pageinfo %}}
 
-
-
-Note that these rules are designed to be used in conjunction with my [re-written Matrix fluff](/setting/matrix_re_fluff/).
+Note that these rules are intended to be used in conjunction with my [re-written Matrix fluff](/setting/matrix_re_fluff/).
 
 ## tl;dr: comparing these rules to RAW
 
-Some loose, probably incomplete notes on why I've changed some of the things I've changed.
+Some loose, probably incomplete notes on what I've changed and why.
 
 * **Splitting the Matrix into local mesh / backbone**: intended to justify why deckers have to get out into the field and can't hide in a darkened, safe basement somewhere.
-
+* **Streamlined action list**: intended to make it easier to keep track of what deckers roll to Do The Thing without having to rely on cheat sheets. I have attempted to take inspiration from the magic system in Shadowrun: a small number of standardised rolls but with the outcomes applied in different ways, as opposed to the RAW for Matrix actions, where there's a dizzying array to choose from and each is bespoke.
+* **Included a variation on the Probe/Backdoor Actions from SR 6e** to offer more variety between the stealthy and non-stealthy approaches.
+* **Reworked Overwatch Score** and what happens when it reaches convergence; intended to reduce book-keeping but add a push-your-luck mechanic for brave deckers.
+* **Remove data bombs**: encouraging deckers to do Matrix perception to every file before they manipulate it significantly slows play down.
+* **Clarify how deckers mess with other people's gear**: in particular, the limits of Send Command.
 
 ## Ref: CRB TOC
 

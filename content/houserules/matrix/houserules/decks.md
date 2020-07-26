@@ -5,6 +5,7 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 25
+description: Decks, programs, agents
 ---
 
 {{% pageinfo %}} 
@@ -24,6 +25,10 @@ Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< rel
 * decrease to ((Deck Rating) / 2) slots?
 * add a few more impactful ones?
 * add a one-shot +2 dice boosts that burn out after use? (like trinkets) (deckers craft these with Software in downtime?)
+
+### Hacking programs
+
+* **Chaff**: any attempt to Trace Icon against the persona will be inaccurate by (1d6 * 10) metres; if the direction matters, use the scatter rules. This also applies to the tracing that happens after convergence from GOD.
 
 ## Agents
 

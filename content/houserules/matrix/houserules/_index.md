@@ -9,5 +9,4 @@ weight: 10
 These rules are *not yet* canon for my current campaign.
 {{% /pageinfo %}}
 
-
-Note that these rules are designed to be used in conjunction with my [re-written Matrix fluff](/setting/matrix_re_fluff/).
+Note that these rules are intended to be used in conjunction with my [re-written Matrix fluff](/setting/matrix_re_fluff/).

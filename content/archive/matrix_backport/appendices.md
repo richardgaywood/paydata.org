@@ -7,10 +7,6 @@ date: 2020-07-19
 weight: 1000
 ---
 
-
-
-
-
 ## Appendix: citations and posts of interest
 
 [https://forums.shadowruntabletop.com/index.php?topic=30050.msg524803#msg524803](https://forums.shadowruntabletop.com/index.php?topic=30050.msg524803#msg524803)
@@ -24,9 +20,3 @@ weight: 1000
 [Re: hash check](https://forums.shadowruntabletop.com/index.php?topic=30383.0)
 
 [LVN’s Matrix Lite for 5e](https://www.reddit.com/r/Shadowrun/comments/7nhmcr/lite_matrix_rules/)
-
-
-
-
-<p style="text-align: right">
-<em>discuss this document: (<a href="https://www.reddit.com/r/Shadowrun/comments/explj3/houserules_to_use_sr6es_matrix_system_in_sr5e/">Reddit thread</a>, <a href="https://forums.shadowruntabletop.com/index.php?topic=30918">SR forum thread</a>)</em></p>

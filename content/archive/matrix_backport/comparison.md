@@ -1,27 +1,24 @@
 ---
-title: Summary of key differences between Matrix rules in SR5e to SR6e
+title: Key differences between Matrix rules in SR5e to SR6e
 linkTitle: Comparison of 5e and 6e
 type: docs
 draft: true
 date: 2020-07-19
 weight: 100
+description: Line-by-line comparison of the Matrix rulesets
 ---
-
-
 
 I will ignore here the wider changes to SR6e that the decker rules fall into line with, eg. attack-rating-vs-defence-rating, Edge, and so forth. I’m concentrating on Matrix rules.
 
-
-
-*   **Decker action economy is simplified:** mostly by making deckers able to do more with a single action and single test then they could in SR5e, where they’d often have to roll to get marks then roll again to achieve goals. This could be particularly difficult during combat, where the decker might target one opponent to get marks against, only for that opponent to be killed by other team-mates before the decker could exploit the marks. 
-    *   **Hack on the Fly:** this is the stealth-orientated method for deckers to get access to things they shouldn’t. In 6e, it is replaced by two separate actions: Probe[^2], which is slow but establishes backdoors, and can be done hours ahead of time. And then Backdoor Entry[^3], which exploits weaknesses found earlier by Probe to give the decker access as they need it during the run. 
+*   **Decker action economy is simplified:** mostly by making deckers able to do more with a single action and single test then they could in SR5e, where they'd often have to roll to get marks then roll again to achieve goals. This could be particularly difficult during combat, where the decker might target one opponent to get marks against, only for that opponent to be killed by other team-mates before the decker could exploit the marks. 
+    *   **Hack on the Fly:** this is the stealth-orientated method for deckers to get access to things they shouldn't. In 6e, it is replaced by two separate actions: Probe[^2], which is slow but establishes backdoors, and can be done hours ahead of time. And then Backdoor Entry[^3], which exploits weaknesses found earlier by Probe to give the decker access as they need it during the run. 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [See more here](#heading=h.hi9vkszacpz3).
 
 
-    *   In SR6e, **Spoof Command** can be used by a decker to send a single command to a device _without _first getting any marks/access levels on anything. In SR5e, the decker would first need a mark on a device that can control the target device to do this. Again, this gives deckers more ability to be useful in the field and react to dynamic situations. 
+	*   In SR6e, **Spoof Command** can be used by a decker to send a single command to a device _without _first getting any marks/access levels on anything. In SR5e, the decker would first need a mark on a device that can control the target device to do this. Again, this gives deckers more ability to be useful in the field and react to dynamic situations. 
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 

@@ -5,9 +5,8 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 20
+description: How to use (most of) the 6e Matrix rules in 5e
 ---
-
-This is the meat of the document: the changes to be made to 5e in order to try and graft as much as possible and desirable of the SR6e system into it. I have organised this section to follow the same topic order as the 5e CRB.
 
 ## Marks: change to access levels
 
@@ -21,9 +20,7 @@ Remove the concept of marks entirely. Replace with three levels of access:
 
 All iconography around marks is also removed. No more visible marks or designing a mark that matches your persona.
 
-In addition, most of the time, a character’s hack targets will be an entire PAN or WAN, not not an individual device ([see below](#heading=h.6qw6jzl0r0wu)). Accordingly, access levels are tracked against the entire PAN or WAN. This also reduces book-keeping.
-
-{{% alert title="TODO" color="warning" %}}cross-link above{{% /alert %}} 
+In addition, most of the time, a character’s hack targets will be an entire PAN or WAN, not not an individual device ([see below]({{< relref "#pans-and-wans" >}})). Accordingly, access levels are tracked against the entire PAN or WAN. This also reduces book-keeping.
 
 ### Programs and effects that depend on marks
 
@@ -56,7 +53,7 @@ No changes to dumpshock or link-locking.
 
 Your failed Attack actions no longer give you Matrix damage, and your failed Sleaze actions no longer give the target marks against you. 
 
-{{% alert title="TODO" color="warning" %}}
+{{% alert title="Notes" %}}
 *Rejected rules: 6e also reduces matrix damage and changes the damage resistance test, in line with how normal damage works throughout 6e, but I'd rather keep these rules consistent with 5e's damage model. 6e has a slightly different Matrix repair test using the extended test mechanics, but it's slower to resolve, so I have left it out. 6e changes the damage codes for dumpshock, again to be inline with the reduced damage codes used throughout the edition. This is better left alone in 5e.*
 
 *However, I've kept the changes to failed actions in, because getting hurt just because you failed to hit someone seems un-fun and (more importantly) not at all how any other Shadowrun combat type works. I prefer mechanical consistency across systems, where possible.*
@@ -66,7 +63,7 @@ Your failed Attack actions no longer give you Matrix damage, and your failed Sle
 
 No changes.
 
-{{% alert title="Notes" %}}Rejected rule: 6e reduces VR initiative. As *I'm sticking with the 5e action economy in my game, I don't see the need to backport this change. I'm also keeping 5e's +2 dice pool bonus for hot sim VR, as without it hot sim offers a lot of risk for rather modest reward.*
+{{% alert title="Notes" %}}*Rejected rule: 6e reduces VR initiative. As I'm sticking with the 5e action economy in my game, I don't see the need to backport this change. I'm also keeping 5e's +2 dice pool bonus for hot sim VR, as without it hot sim offers a lot of risk for rather modest reward.*
 {{% /alert %}}
 
 ## Connections; Noise
@@ -75,7 +72,7 @@ No changes.
 
 ## Overwatch, GOD, convergence
 
-As in 5e, all hits rolled against the decker in opposed tests on illegal actions add to the Overwatch Score. These are any actions that use the [Attack] or [Sleaze] stats of your deck to determine their limit.
+As in 5e, all hits rolled against the decker in opposed tests on illegal actions add to the Overwatch Score. These are any actions that use the \[Attack\] or \[Sleaze\] stats of your deck to determine their limit.
 
 However, remove the secret +2d6 that is added to OS every 15 minutes. Instead, deckers accumulate OS in three new ways:
 
@@ -113,9 +110,7 @@ Three important changes:
 
 Stealth tags are always running silent and resist Matrix perception actions with 10 dice.
 
-
 ## Matrix actions
-
 
 ### Sleaze attacks: Probe / Backdoor Entry
 
@@ -123,11 +118,11 @@ Remove the Hack on the Fly action. Replace it with two new linked actions:
 
 {{% alert title="PROBE (illegal)" color="gray" %}}
 * Hacking+Logic [Sleaze] vs Willpower+Firewall or Firewall x 2 (1 Hour)
- * Works at all access levels: Outsider/User/Admin 
+* Works at all access levels: Outsider/User/Admin 
 
 You probe a host, PAN, or device for weaknesses, looking to gain access and create a lasting backdoor to the system. You take your time not to alert any security to your presence, and you can create an exploit that may last until you are ready to use it. While not as fast as using Brute Force, Probing a device does not raise an alarm automatically. Even if your attempt initially fails, it will not trigger an alarm unless you glitch. Systems and devices will not detect your presence until you have gained access to them. 
 
-Once you create the exploit, you may then use the Backdoor Entry action at a later time. Net hits on this test count as a dice pool bonus on your future Backdoor Entry test. The duration of these backdoors depends on the device or host—generally speaking, the backdoor lasts for [10 – Host/Device Rating] hours. Most systems create a changelog and will automatically correct and report differences to their configurations caused by the presence of these exploits.
+Once you create the exploit, you may then use the Backdoor Entry action at a later time. Net hits on this test count as a dice pool bonus on your future Backdoor Entry test. The duration of these backdoors depends on the device or host—generally speaking, the backdoor lasts for \[10 – Host/Device Rating\] hours. Most systems create a changelog and will automatically correct and report differences to their configurations caused by the presence of these exploits.
 {{% /alert %}} 
 
 {{% alert title="An extended aside about Probe" %}}
@@ -157,7 +152,6 @@ Note that access gained via Brute Force will accrue Overwatch Score as long as t
 
 Also: Brute Force no longer does optional Matrix damage, in the name of up speeding play and simplifying things. One action = one result.
 
-
 ### Spoof Command
 
 In these houserules, as in SR6e, Spoof Command no longer needs any marks on anything to work. (In SR5e, it requires a mark on an icon that can legitimately command the target device.)
@@ -168,13 +162,12 @@ _“You spoof a device’s owner’s identity, making the device think that your
 
 **This needs consideration and playtesting; I don’t have the answers yet.**
 
-
 ### New action: Tarpit
 
 A sort of stun-damage analog to the physical-damage attack of Data Spike:
 
 {{% alert title="TARPIT (illegal)" color="gray" %}}
-* Cracking + Logic [Attack] vs. Data Processing + Firewall (Complex Action)
+* Cracking + Logic \[Attack\] vs. Data Processing + Firewall (Complex Action)
 * Works at all access levels: Outsider/User/Admin 
 
 Sometimes you want to deliver as much hurt as possible; sometimes you want to deliver a little pain and a little slowness, in order to make the rest of your blows land easier. If you succeed in making this attack, do (1 + net hits) damage to the icon you attacked while also reducing their Data Processing rating by the same amount. If a device's Data Processing rating is reduced to 0, the user cannot perform a Matrix action until it is 1 or more. The Data Processing rating recovers at a rate of 1 point per combat round.
@@ -185,8 +178,9 @@ Sometimes you want to deliver as much hurt as possible; sometimes you want to de
 A very minor detail, but this is the counterpart to Crack File. This functionality is in 5e but buried in a weird little alternate mode in a footnote to the Edit File action.
 
 {{% alert title="ENCRYPT FILE (legal)" color="gray" %}}
-* Computer + Logic [Data Processing] (Complex Action)
+* Computer + Logic \[Data Processing\] (Complex Action)
 * User/Admin 
+
 The hits on the Encrypt File test establish an Encryption Rating that's used to oppose future Crack File attempts.
 {{% /alert %}}
 
@@ -256,7 +250,7 @@ To make it explicit, I don’t suggest changing anything on this list. They shou
 
 [^5]: “PAN's were not originally meant to be as restrictive on number of devices as they ended up (if errata does not get approved to change it a good house rule would be to make it Device Rating x3 for max number of devices)” [source](https://forums.shadowruntabletop.com/index.php?topic=30059.msg524805;topicseen#msg524805)
 
-[^6]: This is a housrule; in 6e RAW, direct connection doesn’t grant the firewall bypass.
+[^6]: This is a houserule; in 6e RAW, direct connection doesn’t grant the firewall bypass.
 
 [^7]: I have little love for the extended test mechanic in general. It’s good in theory, but it simply takes too long to roll 50-100 dice and count the hits.
 

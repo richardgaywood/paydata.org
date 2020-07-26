@@ -5,6 +5,7 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 100
+description: Short examples of common tasks for criminals
 ---
 
 * **Spy on phone calls**: run Snoop while you have spotted one or more personas on the call. Once you run Snoop, you automatically spot all personas on the call, regardless of where they are.

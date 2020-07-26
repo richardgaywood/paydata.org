@@ -5,6 +5,7 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 20
+description: Matrix attributes, damage
 ---
 
 {{% pageinfo %}} 
@@ -40,31 +41,8 @@ Unchanged from RAW; used as a combination of limits for tests and part of a dice
 * Data Processing
 * Firewall
 
-## Cyberdecks
-
-Stats are unchanged from RAW; Cyberdecks have an attribute array that can be allocated across the four Matrix stats. Takes a Free action to swap any two stats. Remember you can only do one Free action per turn. If you want to do more reconfiguring than that, you can use Matrix Simple Actions.
-
-Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< relref "electronics.md#cyberdecks" >}}) for more information and statblocks.
-
 ## Matrix damage
 
 * Each device has (Device Rating / 2) boxes of Matrix damage.
 * Matrix damage is resisted with Device Rating + Firewall.
 * Tests using the device take a -1 penalty per 3 boxes of incurred Matrix damage.
-
-
-
-
-## Programs
-
-Maybe 
-
-* decrease to ((Deck Rating) / 2) slots?
-* add a few more impactful ones?
-* add a one-shot +2 dice boosts that burn out after use? (like trinkets) (deckers craft these with Software in downtime?)
-
-## Agents
-
-* Deck can only run agents of a rating equal to or less than the deck rating
-* Agent stats are equal to the deck rating and deck's ASDF, agent skills are equal to its rating
-* If used to assist the decker on an action, it takes a Simple Action to order the agent to help. Then it rolls its dice pool as a teamwork test.

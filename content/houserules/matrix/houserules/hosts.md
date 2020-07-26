@@ -5,6 +5,7 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 50
+description: Hosts, common devices, and IC
 ---
 
 
