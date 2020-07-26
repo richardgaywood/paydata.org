@@ -1,53 +1,20 @@
 ---
 title: Key differences between Matrix rules in SR5e to SR6e
-linkTitle: Comparison of 5e and 6e
+linkTitle: 5e/6e compared
 type: docs
-draft: true
-date: 2020-07-19
+date: 2020-07-26
 weight: 100
 description: Line-by-line comparison of the Matrix rulesets
 ---
 
-I will ignore here the wider changes to SR6e that the decker rules fall into line with, eg. attack-rating-vs-defence-rating, Edge, and so forth. I’m concentrating on Matrix rules.
-
-*   **Decker action economy is simplified:** mostly by making deckers able to do more with a single action and single test then they could in SR5e, where they'd often have to roll to get marks then roll again to achieve goals. This could be particularly difficult during combat, where the decker might target one opponent to get marks against, only for that opponent to be killed by other team-mates before the decker could exploit the marks. 
-    *   **Hack on the Fly:** this is the stealth-orientated method for deckers to get access to things they shouldn't. In 6e, it is replaced by two separate actions: Probe[^2], which is slow but establishes backdoors, and can be done hours ahead of time. And then Backdoor Entry[^3], which exploits weaknesses found earlier by Probe to give the decker access as they need it during the run. 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[See more here](#heading=h.hi9vkszacpz3).
-
-
-	*   In SR6e, **Spoof Command** can be used by a decker to send a single command to a device _without _first getting any marks/access levels on anything. In SR5e, the decker would first need a mark on a device that can control the target device to do this. Again, this gives deckers more ability to be useful in the field and react to dynamic situations. 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[See more here](#heading=h.w1bh1cq8pwvd).
-*   **Marks have been replaced by Access Levels**, which helps reduce book-keeping slightly. There are fewer access levels than there were mark levels, and they’re easier to remember. 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[See more here](#heading=h.g1635x2xhawn).
-*   **Overwatch Score (OS) accumulation is different**. Instead of getting 2d6 every 15 minutes, as happens in 5e, in 6e the decker accumulates OS as they remain connected to compromised systems or use hacking programs. They continue to get OS from dice rolled against them in opposed hacking tests. 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[See more here](#heading=h.d2qldtph72sf).
-*   **Matrix damage gives penalties to dice pools** just like physical and stun damage; ie -1 per 3 boxes. This makes Data Spike deckers more dangerous, as even if they don’t do enough damage to take a device offline, they can still damage it. 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See more here"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[See more here](#heading=h.pk9pqsaxi54g).
-*   **Grids**: in SR6e, grids no longer have any mechanical effect. They are kept only as cosmetic fluff. Every host/device is equally accessible on every grid. Players never need to hop grids to get to targets[^4].
-
-
-## Comparing SR5e and SR6e
-
 What follows in this section is a line-by-line comparison of the 5e and 6e Matrix rules. I wrote this section first, to make sure I understood the changes across the two systems. I’ve kept it here in case you are interested but you shouldn’t need to read this to use the houserules presented above.
 
+{{% pageinfo %}} 
+The formatting of this section has suffered a bit when I transferred it from Google Docs to this website. It might be clearer to read [the original doc](https://docs.google.com/document/d/1V-G6O3SOEJuuHBEzpOrTUpT9Owig_GqCUWcPeIZVAx4/edit#heading=h.2bhwccupb19g).
+{{% /pageinfo %}}
 
-### Matrix fundamentals 
 
+## Matrix fundamentals 
 
 <table>
   <tr>
@@ -61,27 +28,17 @@ What follows in this section is a line-by-line comparison of the 5e and 6e Matri
   <tr>
    <td>Matrix attributes
    </td>
-   <td>There are four attributes (ASDF.) These are intrinsic to the deck the decker is using.  \
- \
-They act as limits on most skill checks.
+   <td>There are four attributes (ASDF.) These are intrinsic to the deck the decker is using. They act as limits on most skill checks.
    </td>
-   <td>The same four attributes are intrinsic to the deck and cyberjack the decker is using.  \
- \
-
-<p>
-They are used to calculate Attack and Defence Ratings, which in turn grant Edge on Matrix actions.
+   <td>The same four attributes are intrinsic to the deck and cyberjack the decker is using. They are used to calculate Attack and Defence Ratings, which in turn grant Edge on Matrix actions.
    </td>
   </tr>
   <tr>
    <td>Matrix condition monitor
    </td>
-   <td>8 + (Device Rating / 2) boxes \
- \
-No penalties to actions from accumulated damage
+   <td>8 + (Device Rating / 2) boxes. No penalties to actions from accumulated damage
    </td>
-   <td>Same. \
- \
--1 to all tests per three boxes of damage
+   <td>Same. -1 to all tests per three boxes of damage
    </td>
   </tr>
   <tr>
@@ -103,38 +60,17 @@ No penalties to actions from accumulated damage
   <tr>
    <td>Dumpshock
    </td>
-   <td>6S if in cold-sim \
-6P if in hot-sim \
- \
-Resisted with Willpower + Firewall \
-(if deck just got bricked, Firewall is 0) \
- \
--2 dicepool on everything for (10-Willpower) minutes
+   <td>6S if in cold-sim, 6P if in hot-sim. Resisted with Willpower + Firewall (if deck just got bricked, Firewall is 0). -2 dicepool on everything for (10-Willpower) minutes
    </td>
-   <td>3S if in cold-sim \
-3P if in hot-sim \
- \
-Resisted with Willpower only \
- \
- \
-
-<p>
-Cannot gain or use Edge on any actions for (10-Willpower) minutes
+   <td>3S if in cold-sim, 3P if in hot-sim. Resisted with Willpower only. Cannot gain or use Edge on any actions for (10-Willpower) minutes
    </td>
   </tr>
   <tr>
    <td>Link-locking
    </td>
-   <td>Cannot use Switch Interface Mode, Enter/Exit Host, or Reboot on the device your persona is using. \
- \
-Defeated with a successful opposed Jack Out action. (But will give dump shock.)
+   <td>Cannot use Switch Interface Mode, Enter/Exit Host, or Reboot on the device your persona is using. Defeated with a successful opposed Jack Out action. (But will give dump shock.)
    </td>
-   <td>Same. \
- \
- \
- \
- \
-Same.
+   <td>Same. 
    </td>
   </tr>
   <tr>
@@ -142,14 +78,9 @@ Same.
    </td>
    <td>Straight test:
 <p>
-Hardware + Logic [Mental] \
- \
-Takes 1 hour \
- \
-Each hit = 1 box repaired <em>or</em> cut time in half
+Hardware + Logic [Mental]. Takes 1 hour. Each hit = 1 box repaired <em>or</em> cut time in half
    </td>
-   <td>Extended test: \
-Engineering + Logic (num_box_damage / 1 hour) 
+   <td>Extended test: Engineering + Logic (num_box_damage / 1 hour) 
    </td>
   </tr>
   <tr>
@@ -195,8 +126,8 @@ Host gets three marks on deck
 <p>
 IC is deployed
    </td>
-   <td>When OS reaches 40 \
- \
+   <td>When OS reaches 40 
+ 
 Bricks device
 <p>
 User dumped (w/ dumpshock)
@@ -209,33 +140,28 @@ No special rules for convergence in a host.
   <tr>
    <td>Matrix initiative
    </td>
-   <td>AR: physical init \
- \
-VR cold sim:  \
-Data Processing + Int + 3d6 \
- \
-VR hot sim:  \
-Data Processing + Int + 4d6 \
+   <td>AR: physical init 
+ 
+VR cold sim:  
+Data Processing + Int + 3d6 
+ 
+VR hot sim:  
+Data Processing + Int + 4d6 
 +2 dice pool to all actions
    </td>
-   <td>AR: physical init \
- \
-VR cold sim:  \
-Data Processing + Int + 2d6 \
- \
-VR hot sim:  \
-Data Processing + Int + 3d6 \
+   <td>AR: physical init 
+ 
+VR cold sim:  
+Data Processing + Int + 2d6 
+ 
+VR hot sim:  
+Data Processing + Int + 3d6 
 
    </td>
   </tr>
 </table>
 
-
-
-### 
-
-
-### Skills
+## Skills
 
 There is no major difference in skills between 5e and 6e, other than the fact that the 5e Skill Groups become Skills in 6e. The way the skills are used are the same however.
 
@@ -293,10 +219,10 @@ There is no major difference in skills between 5e and 6e, other than the fact th
 
 
 
-### Any action using any skill in the Cracking group - so any action that uses the Cybercombat, Electronic Warfare, or Hacking skills - is considered to be illegal by the Grid Overwatch Division. These actions will increase a decker’s overwatch score when used.
+Any action using any skill in the Cracking group - so any action that uses the Cybercombat, Electronic Warfare, or Hacking skills - is considered to be illegal by the Grid Overwatch Division. These actions will increase a decker’s overwatch score when used.
 
 
-### Security & bypassing it
+## Security & bypassing it
 
 
 <table>
@@ -309,7 +235,7 @@ There is no major difference in skills between 5e and 6e, other than the fact th
    </td>
   </tr>
   <tr>
-   <td>Getting into a Host \
+   <td>Getting into a Host 
 
    </td>
    <td>
@@ -360,50 +286,9 @@ Brute Force: normally grants User access. Decker can opt to attempt for Admin ac
 
 
 
-### 
+## Actions
 
-
-### Actions
-
-
-<table>
-  <tr>
-   <td><strong>5e</strong>
-   </td>
-   <td><strong>6e</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-
-#### Getting in / Mark manipulation
+### Getting in / Mark manipulation
 
 Where I list the 6e mechanics as “same” below, what I mean is:
 
@@ -424,17 +309,17 @@ Where I list the 6e mechanics as “same” below, what I mean is:
    </td>
   </tr>
   <tr>
-   <td>Brute Force \
-<em>(illegal)</em> \
+   <td>Brute Force 
+<em>(illegal)</em> 
 
    </td>
-   <td><em>roll: </em>Cybercombat + Logic [Attack] \
-<em>resist: </em>Willpower + Firewall \
+   <td><em>roll: </em>Cybercombat + Logic [Attack] 
+<em>resist: </em>Willpower + Firewall 
 <em>action:</em> Complex
 <p>
 <em>requires: </em>no marks
 <p>
-Gain one mark on target per net hit.  \
+Gain one mark on target per net hit.  
 
 <p>
 Every two net hits optionally also does 1 DV or Matrix damage, resisted with Device Rating + Firewall.
@@ -443,9 +328,9 @@ Can attempt to get two marks in one go at -4 dice pool, or three marks in one go
 <p>
 Can also use this action to hop grids.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same 
+<em>action:</em> same 
 <em>requires: </em>same
 <p>
 Gain User or Admin access on the target if the test succeeds.
@@ -458,23 +343,23 @@ No mechanics for grid hopping.
    </td>
   </tr>
   <tr>
-   <td>Hack on the Fly (5e) \
+   <td>Hack on the Fly (5e) 
 
 <p>
-Probe /  \
+Probe /  
 Backdoor Entry (6e)
 <p>
 <em>(illegal)</em>
    </td>
    <td><strong>Hack on the Fly:</strong>
 <p>
-<em>roll: </em>Hacking + Logic [Sleaze] \
-<em>resist: </em>Intuition + Firewall \
+<em>roll: </em>Hacking + Logic [Sleaze] 
+<em>resist: </em>Intuition + Firewall 
 <em>action:</em> Complex
 <p>
 <em>requires: </em>no marks
 <p>
-Gain one mark on target per net hit.  \
+Gain one mark on target per net hit.  
 
 <p>
 Every two net hits also counts as a one hit on a Matrix Perception test, so you get some information too.
@@ -485,23 +370,18 @@ Can also use this action to hop grids.
    </td>
    <td><strong>Probe:</strong>
 <p>
-<em>roll: </em>same \
-<em>resist: </em>Willpower + Firewall or Firewall x2 \
-<em>action:</em> <em>Extended, 1 minute</em>[^12] \
+<em>roll: </em>same 
+<em>resist: </em>Willpower + Firewall or Firewall x2 
+<em>action:</em> <em>Extended, 1 minute</em>[^12] 
 <em>requires: </em>no access
 <p>
 <strong>Backdoor Entry:</strong>
 <p>
-<em>roll: </em>same \
-<em>resist: </em>Willpower + Firewall \
-<em>action:</em> Major Action \
+<em>roll: </em>same 
+<em>resist: </em>Willpower + Firewall 
+<em>action:</em> Major Action 
 <em>requires: </em>no access
-<p>
-See 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.hi9vkszacpz3">above</a> for a discussion of these actions.
 <p>
 No mechanics for grids.
    </td>
@@ -509,8 +389,8 @@ No mechanics for grids.
   <tr>
    <td>Erase Matrix Signature
 <p>
-<em>(illegal)</em> \
- \
+<em>(illegal)</em> 
+ 
 
    </td>
    <td><em>roll: </em>Computer + Resonance [Attack]
@@ -568,10 +448,7 @@ Same.
 
 
 
-### 
-
-
-#### Device Manipulation
+### Device Manipulation
 
 
 <table>
@@ -640,7 +517,7 @@ If in AR, use normal physical stats. If in VR, use mental stats (Body->Willpower
    </td>
   </tr>
   <tr>
-   <td>Format Device  \
+   <td>Format Device  
 <em>(illegal in 5e)</em>
 <p>
 <em>(legal in 6e)</em>
@@ -657,9 +534,9 @@ Next time device reboots, it fails to restart until repaired.
 <p>
 Repair is an extended Software+Logic [Mental] (12, 1 hour) test.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>Willpower + Firewall or Firewall x2 \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>Willpower + Firewall or Firewall x2 
+<em>action:</em> same 
 <em>requires: </em>same (Admin)
 <p>
 Same.
@@ -682,9 +559,9 @@ Repair is the same as a bricked device, requiring number of hits equal to the de
 <p>
 Can’t be linked-locked, suffer dumpshock, reset OS. Comes back online at end of next Combat Turn.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>Willpower + Firewall or Firewall x2 \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>Willpower + Firewall or Firewall x2 
+<em>action:</em> same 
 <em>requires: </em>same (Admin)
 <p>
 Same.
@@ -709,9 +586,9 @@ Need mark on owner you are imitating.
 <p>
 <em>“You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. You need one mark on the icon you are imitating; you do not need a mark on the target. The opposing dice roll is still based on the target, though. This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons.“ </em>
    </td>
-   <td><em>roll: </em>Cracking + Logic \
-<em>resist: </em>Firewall + (Data Processing or Pilot) \
-<em>action:</em> same \
+   <td><em>roll: </em>Cracking + Logic 
+<em>resist: </em>Firewall + (Data Processing or Pilot) 
+<em>action:</em> same 
 <em>requires: </em>none
 <p>
 Same.
@@ -725,7 +602,7 @@ No access needed on anything.
 
 
 
-#### File Manipulation
+### File Manipulation
 
 
 <table>
@@ -752,16 +629,16 @@ No access needed on anything.
 <p>
 Remove encryption on a file.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same 
+<em>action:</em> same 
 <em>requires: </em>same
 <p>
 Same.
    </td>
   </tr>
   <tr>
-   <td>Disarm Data Bomb \
+   <td>Disarm Data Bomb 
 
 <p>
 <em>(illegal</em>[^13]<em>)</em>
@@ -776,9 +653,9 @@ Same.
 <p>
 Attempt to disarm a data bomb. Bomb deleted if you get any net hits. If not, data bomb activates, damaging file it was attached to.
    </td>
-   <td><em>roll: </em>Cracking + Logic \
-<em>resist: </em>same \
-<em>action:</em> same \
+   <td><em>roll: </em>Cracking + Logic 
+<em>resist: </em>same 
+<em>action:</em> same 
 <em>requires: </em>User or Admin
 <p>
 Same.
@@ -801,9 +678,9 @@ Create, change, copy, delete file.
 <p>
 Defender is either the host holding the file or the owner of the file if it’s not on a host.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same <em>or </em>Intuition + Sleaze[^14] \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same <em>or </em>Intuition + Sleaze[^14] 
+<em>action:</em> same 
 <em>requires: </em>same
 <p>
 Same.
@@ -844,9 +721,9 @@ Bomb can be detected with Matrix Perception and then removed with Disarm Data Bo
 </li>
 </ul>
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same 
+<em>action:</em> same 
 <em>requires: </em>same
 <p>
 Same
@@ -867,8 +744,8 @@ Same.
    </td>
    <td>N/A
    </td>
-   <td><em>roll: </em>Electronics + Logic \
-<em>action:</em> Major \
+   <td><em>roll: </em>Electronics + Logic 
+<em>action:</em> Major 
 <em>requires: </em>User/Admin
 <p>
 Number of hits is the Encryption Rating on the file.
@@ -878,10 +755,8 @@ Number of hits is the Encryption Rating on the file.
 
 
 
-### 
 
-
-#### Information Gathering
+### Information Gathering
 
 
 <table>
@@ -894,7 +769,7 @@ Number of hits is the Encryption Rating on the file.
    </td>
   </tr>
   <tr>
-   <td>Check Overwatch Score \
+   <td>Check Overwatch Score 
 
 <p>
 <em>(illegal)</em>
@@ -944,14 +819,6 @@ Simple test when used to analyze a Matrix object or scan for silent running icon
 If trying to spot icons further than 100 m away, take a simple test: first hit spots target, then additional hits reveal things as above.
 <p>
 To spot an icon running silent, make an opposed test as above. First hit spots it, other hits can be used for more information.
-<p>
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
-
    </td>
    <td><em>roll: </em>same
 <p>
@@ -990,13 +857,6 @@ Threshold determined by table below.
 Hit beyond the threshold can be used to reduce the time taken (divide the time by the number of net hits.) If you fail the test, still spend the entire base time looking.
 <p>
 Can also use Matrix Search while inside a host. Always has a base time of 1 minute. Only works if the information is online within the host; some is in cold (offline) storage.
-<p>
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td><em>roll: </em>same
@@ -1014,14 +874,6 @@ Threshold determined by Legwork Table (see below.)
 N/A. 
 <p>
 Replaced by the Hash Search action (see below.)
-<p>
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
-
    </td>
   </tr>
   <tr>
@@ -1039,9 +891,9 @@ Replaced by the Hash Search action (see below.)
 <p>
 Intercept traffic sent to and from target. Listen to, view, or read data live, or save it to storage.
    </td>
-   <td><em>roll: </em>stat changes to Logic \
-<em>resist: </em>same <em>or </em>Data Processing + Firewall[^17] \
-<em>action:</em> same \
+   <td><em>roll: </em>stat changes to Logic 
+<em>resist: </em>same <em>or </em>Data Processing + Firewall[^17] 
+<em>action:</em> same 
 <em>requires: </em>Admin access
 <p>
 Same.
@@ -1050,7 +902,7 @@ Same.
   <tr>
    <td>Trace Icon
 <p>
- \
+ 
 <em>(illegal but I think should be legal)</em>
    </td>
    <td><em>roll: </em>Computer + Intuition [Data Processing]
@@ -1067,9 +919,9 @@ After succeeding with this action, you know the target;’s location as long as 
 <p>
 Doens’t work on hosts (as they have no physical location), or IC programs (as they live inside hosts.)
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same <em>or</em> Firewall + Sleaze[^18] \
-<em>action:</em> same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same <em>or</em> Firewall + Sleaze[^18] 
+<em>action:</em> same 
 <em>requires: </em>Admin access
 <p>
 Same.
@@ -1080,15 +932,15 @@ Same, but it does work on offline hosts with physical hardware. (But you likely 
    </td>
   </tr>
   <tr>
-   <td>Hash Check[^19] \
- \
+   <td>Hash Check[^19] 
+ 
 (illegal)
    </td>
    <td>N/A
    </td>
-   <td><em>roll: </em>Electronics + Logic (1 or 4) \
-<em>resist: </em>threshold 1 or 4 \
-<em>action:</em>Major \
+   <td><em>roll: </em>Electronics + Logic (1 or 4) 
+<em>resist: </em>threshold 1 or 4 
+<em>action:</em>Major 
 <em>requires: </em>User access
 <p>
 Search for a file on a host or device based on known metadata. Threshold is 1 if the hash data was known (eg. given to them by Mr Johnson), 4 otherwise.
@@ -1102,10 +954,7 @@ If the number of matches is too large after the first test, can repeat, with the
 
 
 
-### 
-
-
-#### Matrix Combat
+### Matrix Combat
 
 
 <table>
@@ -1118,7 +967,7 @@ If the number of matches is too large after the first test, can repeat, with the
    </td>
   </tr>
   <tr>
-   <td>Crash Program  \
+   <td>Crash Program  
 (illegal)
    </td>
    <td><em>roll: </em>Cybercombat + Logic [Attack]
@@ -1131,16 +980,16 @@ If the number of matches is too large after the first test, can repeat, with the
 <p>
 Overload a chosen program on a chosen target, crashing it. Can use Matrix Perception first to figure out what programs are running, or can observe its effects. Device has to reboot to use the program again.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>Data Processing + Device Rating \
-<em>action: </em>same \
+   <td><em>roll: </em>same 
+<em>resist: </em>Data Processing + Device Rating 
+<em>action: </em>same 
 <em>requires: </em>Admin access
 <p>
 Same.
    </td>
   </tr>
   <tr>
-   <td>Data Spike  \
+   <td>Data Spike  
 (illegal)
    </td>
    <td><em>roll: </em>Cybercombat + Logic [Attack]
@@ -1153,19 +1002,19 @@ Same.
 <p>
 <em>requires: </em>no marks
 <p>
-Does Matrix damage.  \
- \
+Does Matrix damage.  
+ 
 DV = persona’s Attack rating
 <p>
 ...plus one box of damage per net hit
 <p>
 ...plus two additional boxes of damage for each mark you have on the target
    </td>
-   <td><em>roll: </em>same \
+   <td><em>roll: </em>same 
 <em>resist: </em>Data Processing + Firewall
 <p>
-<em>damage resist: </em>Firewall \
-<em>action: </em>same \
+<em>damage resist: </em>Firewall 
+<em>action: </em>same 
 <em>requires: </em>same
 <p>
 Same.
@@ -1186,7 +1035,7 @@ DV = persona’s Attack rating / 2 (round up)
 <p>
 Adds Willpower to defence pool against all Matrix Attack actions for the rest of the Combat Turn.
    </td>
-   <td><em>action: </em>Major \
+   <td><em>action: </em>Major 
 <em>requires: </em>any access level
 <p>
 Add Firewall to the “next time you are attacked in the Matrix.”[^21]
@@ -1198,10 +1047,6 @@ Add Firewall to the “next time you are attacked in the Matrix.”[^21]
    <td>N/A
    </td>
    <td>
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "See above"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.w1bh1cq8pwvd">See above</a>.
 <p>
 Tarpit is a sort of stun-damage analog to the Matrix damage attack of Data Spike.
    </td>
@@ -1210,10 +1055,8 @@ Tarpit is a sort of stun-damage analog to the Matrix damage attack of Data Spike
 
 
 
-### 
 
-
-#### Miscellaneous
+### Miscellaneous
 
 
 <table>
@@ -1290,9 +1133,9 @@ If test succeeds, target has to do a new Matrix Perception test to find you agai
 <p>
 Cannot hide from a target that has a mark on you.
    </td>
-   <td><em>roll: </em>same \
-<em>resist: </em>same <em>or</em> Data Processing + Sleaze \
-<em>action: </em>same \
+   <td><em>roll: </em>same 
+<em>resist: </em>same <em>or</em> Data Processing + Sleaze 
+<em>action: </em>same 
 <em>requires: </em>same
 <p>
 Same.
@@ -1321,11 +1164,11 @@ Defence pool only applies if persona is link-locked and comes from the persona t
 <p>
 Can only Jack Out to yourself.
    </td>
-   <td><em>roll: </em>same \
+   <td><em>roll: </em>same 
 <em>resist: </em>Charisma[^22] + Data Processing <em>or</em>
 <p>
-            Attack + Data Processing \
-<em>action: </em>Major \
+            Attack + Data Processing 
+<em>action: </em>Major 
 <em>requires: </em>any
 <p>
 Same.
@@ -1356,8 +1199,8 @@ Jam rating: hits on test
 <p>
 Cannot use it for anything else while it is being a jammer.
    </td>
-   <td><em>roll: </em>same \
-<em>action: </em>same \
+   <td><em>roll: </em>same 
+<em>action: </em>same 
 <em>requires: </em>Admin[^23]
 <p>
 Same.
@@ -1398,9 +1241,9 @@ Cannot jump in if someone else is already jumped in to it.
 </li>
 </ol>
    </td>
-   <td><em>roll: </em>Electronics + Logic \
-<em>resist: </em>same <em>or</em> Firewall x2 \
-<em>action: </em>same \
+   <td><em>roll: </em>Electronics + Logic 
+<em>resist: </em>same <em>or</em> Firewall x2 
+<em>action: </em>same 
 <em>requires: </em>User/Admin
 <p>
 Same.
@@ -1425,7 +1268,7 @@ When jumped in, the device’s icon becomes part of your persona.
 <p>
 Send a message to a commcode: a short sentence, or an image, or a single file. If you’re using the Matrix through DNI (even if via AR), can send a longer message (about a paragraph.) Can also use this to open a live feed (audio/video/whatever) to one or more recipients.
    </td>
-   <td><em>action: </em>same \
+   <td><em>action: </em>same 
 <em>requires: </em>same
 <p>
 Same.
@@ -1442,12 +1285,12 @@ Same.
 <p>
 Switch from AR to VR, or vice versa. Cannot do this if you are link-locked. Can’t do it to other people.
    </td>
-   <td><em>action: </em>same \
+   <td><em>action: </em>same 
 <em>requires: </em>same
 <p>
 Same.
 <p>
- \
+ 
 
 <p>
 Can also turn silent running on or off.
@@ -1457,10 +1300,7 @@ Can also turn silent running on or off.
 
 
 
-### 
-
-
-### PANs & WANs
+## PANs & WANs
 
 
 <table>
@@ -1481,8 +1321,8 @@ If you get a mark on any slave, you also get a mark on the master.
    </td>
    <td>All devices inside the PAN can use the master commlink or deck’s Firewall stat and the master device’s owner’s Willpower attribute to make Matrix defence tests.
 <p>
-Deckers attempting to gain access levels to a device inside the PAN must first compromise the PAN. They cannot Hack on the Fly or Probe devices within a PAN directly. Once they get a level of access against the PAN (User or Admin), they have that level of access for every device on the PAN. \
- \
+Deckers attempting to gain access levels to a device inside the PAN must first compromise the PAN. They cannot Hack on the Fly or Probe devices within a PAN directly. Once they get a level of access against the PAN (User or Admin), they have that level of access for every device on the PAN. 
+ 
 However, Data Spike, Tarpit, and Spoof Command can be used against any device a decker can see on the Matrix, regardless of its PAN status, and without hacking the PAN first.[^24]
    </td>
   </tr>
@@ -1526,15 +1366,13 @@ If you are inside a host with a WAN, you are considered to be directly connected
 
 
 
-### Noise
+## Noise
 
 Nose is the same in 5e and 6e: the same numeric values, under the same conditions, and with the same mechanical effect.
 
 
-### 
 
-
-### Running silent & Matrix Perception
+## Running silent & Matrix Perception
 
 
 <table>
@@ -1618,7 +1456,7 @@ This test can also be used to attempt to spot any icons in the vicinity that are
 
 
 
-### Hosts & intrusion countermeasures
+## Hosts & intrusion countermeasures
 
 
 <table>
@@ -1633,7 +1471,7 @@ This test can also be used to attempt to spot any icons in the vicinity that are
   <tr>
    <td>Host stats
    </td>
-   <td>Host Rating, HR+1, HR+2, HR+3 \
+   <td>Host Rating, HR+1, HR+2, HR+3 
 
 <p>
 Distributed across ASDF similarly to how cyberdecks work
@@ -1656,18 +1494,18 @@ Same.
    </td>
    <td>(Host Rating x 2) for IC Attack Rating (limited by hosts’s [Attack]).
 <p>
-Initiative: Host Rating + Data Processing + 4D6.  \
+Initiative: Host Rating + Data Processing + 4D6.  
 
 <p>
 Condition monitor: 8+(Host Rating /2)[^27]
 <p>
- \
+ 
 Defensive rolls and effects vary by IC type.
    </td>
-   <td>(Host Rating x 2) for Attack Rating, Condition Monitor, and most rolls. \
+   <td>(Host Rating x 2) for Attack Rating, Condition Monitor, and most rolls. 
 
 <p>
-Initiative: (Data Processing x 2) + 3D6.  \
+Initiative: (Data Processing x 2) + 3D6.  
 
 <p>
 Condition monitor: (Host Rating x2)
@@ -1679,7 +1517,7 @@ Same.
 
 
 
-### IC
+## IC
 
 
 <table>
@@ -1752,7 +1590,7 @@ If get 1+ hits, target is link-locked.
 <p>
 (Attack) DV Matrix damage
 <p>
-…+1 DV per net hit
+...+1 DV per net hit
 <p>
 …+2 DV per mark on target
 <p>
@@ -1901,13 +1739,10 @@ Same, but does not require any access levels / marks on the target. The location
 
 
 
-### 
+## Programs
 
 
-### Programs
-
-
-#### Common programs
+### Common programs
 
 
 <table>
@@ -1987,7 +1822,7 @@ Same, but does not require any access levels / marks on the target. The location
 
 
 
-#### Hacking programs
+### Hacking programs
 
 
 <table>
@@ -2171,155 +2006,43 @@ If you are Converged on, GOD don’t get your physical location.
 
 
 
-### 
-
-
-### Device specs (cyberdecks, cyberjacks)
-
-SR5e:
-
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-SR6e:
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
-
-
-
-
-
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
 
-[^1]:
-     Your delight is not guaranteed. 
+[^12]: 6e RAW is “unless major mistakes are made”, I have changed this to “glitch” which is what the German CRB uses.
 
-[^2]:
+[^13]: This is a deviation from SR6e RAW, which imposes a -2 dice pool penalty plus gives the defender +4 Defence Rating on the test (which makes them more likely to earn Edge.) These mechanics don’t work in 5e unless you backport the entire Edge system (which I don’t want to do.) I made up this -6/-4.
 
-     Snigger.
+[^14]: This is my houserule, not a 6e thing.
 
-[^3]:
-     Snigger. Again.
+[^15]: See <a href="https://forums.shadowruntabletop.com/index.php?topic=30394.0">this thread</a> for details.
 
-[^4]:
+[^16]: see Banshee’s posts about Probe’s nature as an extended test <a href="https://forums.shadowruntabletop.com/index.php?topic=30383.msg528689#msg528689">here</a>.
 
-     This showed up in 5e as an optional rule in Kill Code.
+[^17]: The 6e CRB lists this as a legal action, but it uses the Cracking skill so I am going to decide it is illegal.
 
-[^5]:
+[^18]: The 6e CRB doesn’t seem to tell you when you’d roll Intuition + Sleaze for this action, though. Unattended devices maybe?
 
-     “PAN's were not originally meant to be as restrictive on number of devices as they ended up (if errata does not get approved to change it a good house rule would be to make it Device Rating x3 for max number of devices)” [source](https://forums.shadowruntabletop.com/index.php?topic=30059.msg524805;topicseen#msg524805)
+[^19]: It’s not clear exactly what you need Admin access to. I guess it’s if you want to use this to check someone else’s Overwatch Score...?
 
-[^6]:
+[^20]: This sounds to me like Matrix Perception in 6e is intended to always be opposed.
 
-     This is a housrule; in 6e RAW, direct connection doesn’t grant the firewall bypass.
+[^21]: It’s not clear to me when you use the second resistance roll.
 
-[^7]:
-     I have little love for the extended test mechanic in general. It’s good in theory, but it simply takes too long to roll 50-100 dice and count the hits.
+[^22]: It’s not clear to me when you use the second resistance roll.
 
-[^8]:
+[^23]: I would suggest renaming this to “Metadata Search”. If only because of the mode where you can use it to search for files when you don’t know the hash...
 
-     This is the rule in 5e, also, as of Kill Code (see page 32.)
+[^24]: Bit weird, that one. It’s not like you can do Full Matrix defence to anyone else.
 
-[^9]:
-      Confirmed by Banshee (Matrix rules author) as his intention [here](https://forums.shadowruntabletop.com/index.php?topic=30891.msg533892#msg533892).
+[^25]: It’s weird this doesn’t last the rest of the turn. The meatspace version of Full Defense does, in both 5e and 6e. Perhaps a mistake.
 
-[^10]:
+[^26]: Wait, what?!
 
-     RAW is one minute; [Banshee originally intended it to be an hour](https://forums.shadowruntabletop.com/index.php?topic=30918.msg534063#msg534063). I prefer his version.
+[^27]: Hmm. So can I hack a security spider’s deck, get Admin access, then turn it into a jammer to knock them offline? ;)
 
-[^11]:
+[^28]: I <em>think</em> this is consistent with SR6e RAW, although it’s a little convoluted here so I might be accidentally houseruling. 
 
-     Note I have removed the word “extended” here -- see the note below.
+[^29]: However, this was <a href="https://forums.shadowruntabletop.com/index.php?topic=30059.msg524805#msg524805">refuted</a> by the lead author of the Matrix rules section. His intention was to have a much higher restriction, and for each member of a runner team to have their own PAN, then put that under the umbrella of the decker’s PAN.
 
-[^12]:
-<p>
-     6e RAW is “unless major mistakes are made”, I have changed this to “glitch” which is what the German CRB uses.
-
-[^13]:
-<p>
-     This is a deviation from SR6e RAW, which imposes a -2 dice pool penalty plus gives the defender +4 Defence Rating on the test (which makes them more likely to earn Edge.) These mechanics don’t work in 5e unless you backport the entire Edge system (which I don’t want to do.) I made up this -6/-4.
-
-[^14]:
-<p>
-     This is my houserule, not a 6e thing.
-
-[^15]:
-<p>
-     See <a href="https://forums.shadowruntabletop.com/index.php?topic=30394.0">this thread</a> for details.
-
-[^16]:
-<p>
-     see Banshee’s posts about Probe’s nature as an extended test <a href="https://forums.shadowruntabletop.com/index.php?topic=30383.msg528689#msg528689">here</a>.
-
-[^17]:
-<p>
-     The 6e CRB lists this as a legal action, but it uses the Cracking skill so I am going to decide it is illegal.
-
-[^18]:
-<p>
-     The 6e CRB doesn’t seem to tell you when you’d roll Intuition + Sleaze for this action, though. Unattended devices maybe?
-
-[^19]:
-<p>
-     It’s not clear exactly what you need Admin access to. I guess it’s if you want to use this to check someone else’s Overwatch Score…?
-
-[^20]:
-<p>
-     This sounds to me like Matrix Perception in 6e is intended to always be opposed.
-
-[^21]:
-<p>
-     It’s not clear to me when you use the second resistance roll.
-
-[^22]:
-<p>
-     It’s not clear to me when you use the second resistance roll.
-
-[^23]:
-<p>
-     I would suggest renaming this to “Metadata Search”. If only because of the mode where you can use it to search for files when you don’t know the hash...
-
-[^24]:
-<p>
-     Bit weird, that one. It’s not like you can do Full Matrix defence to anyone else.
-
-[^25]:
-<p>
-     It’s weird this doesn’t last the rest of the turn. The meatspace version of Full Defense does, in both 5e and 6e. Perhaps a mistake.
-
-[^26]:
-<p>
-     Wait, what?!
-
-[^27]:
-<p>
-     Hmm. So can I hack a security spider’s deck, get Admin access, then turn it into a jammer to knock them offline? ;)
-
-[^28]:
-<p>
-     I <em>think</em> this is consistent with SR6e RAW, although it’s a little convoluted here so I might be accidentally houseruling. 
-
-[^29]:
-<p>
-     However, this was <a href="https://forums.shadowruntabletop.com/index.php?topic=30059.msg524805#msg524805">refuted</a> by the lead author of the Matrix rules section. His intention was to have a much higher restriction, and for each member of a runner team to have their own PAN, then put that under the umbrella of the decker’s PAN.
-
-[^30]:
-<p>
-     This sounds to me like Matrix Perception in 6e is intended to always be opposed.
+[^30]: This sounds to me like Matrix Perception in 6e is intended to always be opposed.

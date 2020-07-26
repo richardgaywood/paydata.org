@@ -2,8 +2,7 @@
 title: Appendices & notes
 linkTitle: Appendices
 type: docs
-draft: true
-date: 2020-07-19
+date: 2020-07-26
 weight: 1000
 ---
 

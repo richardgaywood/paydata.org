@@ -1,9 +1,8 @@
 ---
-title: Backporting the 6e Matrix into 5e
+title: The houserules
 linkTitle: Rules
 type: docs
-draft: true
-date: 2020-07-19
+date: 2020-07-26
 weight: 20
 description: How to use (most of) the 6e Matrix rules in 5e
 ---
@@ -20,7 +19,7 @@ Remove the concept of marks entirely. Replace with three levels of access:
 
 All iconography around marks is also removed. No more visible marks or designing a mark that matches your persona.
 
-In addition, most of the time, a character’s hack targets will be an entire PAN or WAN, not not an individual device ([see below]({{< relref "#pans-and-wans" >}})). Accordingly, access levels are tracked against the entire PAN or WAN. This also reduces book-keeping.
+In addition, most of the time, a character’s hack targets will be an entire PAN or WAN, not not an individual device ([see below]({{< relref "rules.md#pans--wans" >}})). Accordingly, access levels are tracked against the entire PAN or WAN. This also reduces book-keeping.
 
 ### Programs and effects that depend on marks
 
@@ -76,9 +75,8 @@ As in 5e, all hits rolled against the decker in opposed tests on illegal actions
 
 However, remove the secret +2d6 that is added to OS every 15 minutes. Instead, deckers accumulate OS in three new ways:
 
-{{% alert title="TODO" color="warning" %}}links below{{% /alert %}} 
-
-* +1 to OS every time they do an action that is affected by any [Hacking program](#heading=h.b2hfbz2wxzr4) (see the list on SR5e CRB page 245)
+* +1 to OS every time they do an action that is affected by any [Hacking program]({{< relref "comparison.md#hacking-programs" >}})
+ (see the list on SR5e CRB page 245)
 * +1 to OS every combat turn that the decker maintains User access to a host or device that was gained via Brute Force
 * +3 to OS every combat turn that the decker maintains Admin access to a host or device that was gained via Brute Force
 
@@ -156,11 +154,13 @@ Also: Brute Force no longer does optional Matrix damage, in the name of up speed
 
 In these houserules, as in SR6e, Spoof Command no longer needs any marks on anything to work. (In SR5e, it requires a mark on an icon that can legitimately command the target device.)
 
-The scope of Spoof Command has always been fairly unclear. Can you use it to eject a clip from a smartgun? Can you use it to loop a camera feed? These seem reasonable. Can you use it to shut down an opponent’s wired reflexes or cyberarm? That seems overly powerful, as well as making Spoof Command overlap with other, more explicit methods to achieve that goal (eg Data Spike, Format Device / Reboot device.) Force a hostile drone to fire on its allies? That one seems ok…?
+{{% alert title="Notes"%}}
+*The scope of Spoof Command has always been fairly unclear. Can you use it to eject a clip from a smartgun? Can you use it to loop a camera feed? These seem reasonable. Can you use it to shut down an opponent’s wired reflexes or cyberarm? That seems overly powerful, as well as making Spoof Command overlap with other, more explicit methods to achieve that goal (eg Data Spike, Format Device / Reboot device.) Force a hostile drone to fire on its allies? That one seems ok...?*
 
-_“You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. ...  This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons.“ _
+*"You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. ...  This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons."*
 
 **This needs consideration and playtesting; I don’t have the answers yet.**
+{{% /alert %}}
 
 ### New action: Tarpit
 
@@ -186,11 +186,7 @@ The hits on the Encrypt File test establish an Encryption Rating that's used to 
 
 ### Smaller action changes
 
-There are a large number of small changes to various dice rolls and mechanics for actions throughout 6e. In the main, I am choosing not to include these in my houserules. I don’t think any of them have a drastic effect on gameplay, and they will invalidate the 5e quick reference material I use, which is painful. All these changes are documented in the 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Matrix Actions Comparison"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Matrix Actions Comparison](#heading=h.2xlkhiwxnhia) section below, if you want to see them.
+There are a large number of small changes to various dice rolls and mechanics for actions throughout 6e. In the main, I am choosing not to include these in my houserules. I don’t think any of them have a drastic effect on gameplay, and they will invalidate the 5e quick reference material I use, which is painful. All these changes are documented in the [Matrix Actions Comparison]({{< relref "comparison.md#actions" >}}) section, if you want to see them.
 
 Here are some smaller changes I do think it’s worth making:
 
@@ -205,9 +201,7 @@ Here are some smaller changes I do think it’s worth making:
 
 ## Programs
 
-Almost all programs can be left as-is. 6e removes a number of programs that are in 5e ([see the comparison for details](#heading=h.qq42cy2eu42o)), but they are harmless to leave in place, I think. 6e also changes how a few programs work in order to use the new Edge mechanic; again, this can be ignored.
-
-{{% alert title="TODO" color="warning" %}}link above{{% /alert %}} 
+Almost all programs can be left as-is. 6e removes a number of programs that are in 5e ([see the comparison for details]({{< relref "comparison.md#programs" >}})), but they are harmless to leave in place, I think. 6e also changes how a few programs work in order to use the new Edge mechanic; again, this can be ignored.
 
 The only exception is the **Guard** program, which should be removed, as it only works in the context of marks gained against the decker.
 
@@ -219,9 +213,7 @@ The only exception is the **Guard** program, which should be removed, as it only
 
 ## Hosts & IC
 
-{{% alert title="TODO" color="warning" %}}links{{% /alert %}} 
-
-Keep host and IC initiative, stats, and attack rolls the same. [See below for a detailed comparison](#heading=h.qq42cy2eu42o), but in general, make the following changes to IC effects:
+Keep host and IC initiative, stats, and attack rolls the same. [See below for a detailed comparison]({{< relref "comparison.md#hosts--intrusion-countermeasures" >}}), but in general, make the following changes to IC effects:
 
 *   **Hosts no longer get marks on deckers**: this is one less thing to keep track of. IC actions no longer grant marks or require marks. Remove the damage boost related to marks from Black IC, Blaster, etc.
 *   **Scramble** forces a reboot at the end of the next Combat Turn[^10]. Otherwise it becomes a bit of a powerful one-blow-knockout against the decker, as it no longer requires any marks against them as a prerequisite.
