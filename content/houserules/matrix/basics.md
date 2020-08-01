@@ -5,7 +5,7 @@ type: docs
 draft: true
 date: 2020-07-19
 weight: 20
-description: Matrix attributes, damage
+description: Matrix attributes, types of devices, commlinks
 ---
 
 {{% pageinfo %}} 
@@ -23,6 +23,7 @@ This is covered in more detail in [Matrix fundamentals]({{< relref "fundamentals
 	* the backbone is a world-wide network of fibre cables, satellite links, and other high-tech stuff that carries data around at approximately infinite capacity and speed. 
 	* the local mesh and the backbone are bridged by uplink nodes, which are extremely well-guarded hosts.
 	* devices co-operate to send traffic between each other until it reaches an uplink node, at which point it is whisked away to the backbone.
+	* hence, deckers are masters of the local mesh, but are hampered by having to get within range of their hacking targets
 * Hosts are the "servers" of the Matrix
 	* Some are "local hosts" - hosts that only work with devices within local grid range. These are smaller / cheaper. 
 	* Others are "cloud hosts." These are connected to the backbone so are accessible world-wide. They are larger / more expensive.
@@ -40,4 +41,21 @@ Unchanged from RAW; used as a combination of limits for tests and part of a dice
 * Sleaze
 * Data Processing
 * Firewall
+
+## Icons
+
+Every Matrix-enabled device - and in the Sixth World, that's a lot - is represented in the Matrix by an icon.
+
+Some of these are *persona devices*: those that can let you get onto the Matrix and form a persona so you can interact with it. Examples include commlinks, cyberdecks, and RCCs. 
+
+* **Commlinks** are the everyday Matrix devices of the masses.
+* **Cyberdecks** are like hot-rodded commlinks with the extra processors and software necessary to break the rules of the Matrix and bend it to your will
+* **RCCs** are the rigger's cousin to the cyberdeck, optimised to allow long-range signals for remote drone control.
+
+## Personas
+
+When you sign into the Matrix via a commlink, cyberdeck, or RCC, the device gets a special icon called a persona. Personas are your own personal digital mirror image. Persona's appearances are often very elaborately customised, particularly by wankers. 
+
+You cannot steal anyone else's persona, nor can you have two personas at once. ([More on why here]({{< relref "legal_matrix.md#personas-your-commlink-as-the-keys-to-your-life" >}}).)
+
 

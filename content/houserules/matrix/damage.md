@@ -4,8 +4,8 @@ linkTitle: Damage
 type: docs
 draft: true
 date: 2020-07-31
-weight: 19
-description: Various kinds of Matrix damage, linklocking, biofeedback, etc
+weight: 31
+description: Various kinds of Matrix damage, link-locking, biofeedback, etc
 ---
 
 ## Matrix damage
@@ -15,7 +15,9 @@ description: Various kinds of Matrix damage, linklocking, biofeedback, etc
 * Tests using the device take a -1 penalty per 3 boxes of incurred Matrix damage.
 * If the Matrix damage track fills, the device is bricked, and is non-operable until repaired.
 
-{{% alert title="Notes" %}}Like 6e, but unlike 5e, I am applying penalties for Matrix damage.{{% /alert %}} 
+{{% alert title="Notes" %}}
+*Like 6e, but unlike 5e, I am applying penalties for Matrix damage.*
+{{% /alert %}} 
 
 ### Repairing Matrix damage
 
@@ -32,7 +34,9 @@ description: Various kinds of Matrix damage, linklocking, biofeedback, etc
 * Physical damage if in hot-sim VR
 * Resisted with Willpower + Firewall
 
-	{{% alert title="Notes" %}}Unlike RAW, biofeedback can affect AR users also if they are using DNI. I have made this change because my houserules make AR generally more powerful, so the risks should be greater to compensate.{{% /alert %}}
+{{% alert title="Notes" %}}
+*Unlike RAW, biofeedback can affect AR users also if they are using DNI. I have made this change because my houserules make AR generally more powerful, so the risks should be greater to compensate.*
+{{% /alert %}}
 
 ## Dumpshock
 
@@ -44,7 +48,7 @@ description: Various kinds of Matrix damage, linklocking, biofeedback, etc
 * -2 dice on all actions for next (10-Willpower) minutes
 
 {{% alert title="Notes" %}}
-My [action economy changes]({{< relref "action_economy.md" >}}) put AR with DNI on a similar footing to cold-sim VR. Hence, I have also made it equally vulnerable to dumpshock and link-locking. This also makes sense to me from an in-game perspective as both access modes are based on DNI.
+*My [action economy changes]({{< relref "action_economy.md" >}}) put AR with DNI on a similar footing to cold-sim VR. Hence, I have also made it equally vulnerable to dumpshock and link-locking. This also makes sense to me from an in-game perspective as both access modes are based on DNI.*
 {{% /alert %}} 
 
 ## Link-locking

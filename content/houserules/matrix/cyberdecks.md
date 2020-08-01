@@ -1,34 +1,16 @@
 ---
 title: Cyberdecks
-linkTitle: "'Decks"
+linkTitle: Cyberdecks
 type: docs
 draft: true
 date: 2020-07-19
-weight: 25
+weight: 55
 description: Decks, programs, agents
 ---
-
-## Icons
-
-Every Matrix-enabled device - and in the Sixth World, that's a lot - is represented in the Matrix by an icon.
-
-Some of these are *persona devices*: those that can let you get onto the Matrix and form a persona so you can interact with it. Examples include commlinks, cyberdecks, and RCCs. 
-
-## Commlinks
-
-Commlinks are the everyday Matrix devices of the masses.
-
-## Cyberdecks
 
 Stats are unchanged from RAW; Cyberdecks have an attribute array that can be allocated across the four Matrix stats. Takes a Free action to swap any two stats. Remember you can only do one Free action per turn. If you want to do more reconfiguring than that, you can use Matrix Simple Actions.
 
 Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< relref "electronics.md#cyberdecks" >}}) for more information and statblocks.
-
-## Personas
-
-When you sign into the Matrix via a commlink, cyberdeck, or RCC, the device gets a special icon called a persona. Personas are your own personal digital mirror image. Persona's appearances are often very elaborately customised, particularly by wankers. 
-
-You cannot steal anyone else's persona, nor can you have two personas at once. ([More on why here]({{< relref "legal_matrix.md#personas-your-commlink-as-the-keys-to-your-life" >}}).)
 
 ## Programs
 

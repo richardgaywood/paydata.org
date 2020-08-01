@@ -4,7 +4,7 @@ linkTitle: Hosts & devices
 type: docs
 draft: true
 date: 2020-07-19
-weight: 50
+weight: 60
 description: Hosts, common devices, and IC
 ---
 
@@ -28,7 +28,7 @@ Some devices from rating 4 up might run additional protection software that gran
 Unattended vehicles with active GridLink subscriptions automatically connect to a GridLink firewall service, giving them +3 to Firewall.
 
 {{% alert title="Notes" %}}
-This is intended to make parked cars less of a trivial target. Otherwise every script kiddie with a hacking dongle would be causing routine chaos.
+*This is intended to make parked cars less of a trivial target. Otherwise every script kiddie with a hacking dongle would be causing routine chaos.*
 {{% /alert %}}
 
 ## Hosts
@@ -38,11 +38,11 @@ This is intended to make parked cars less of a trivial target. Otherwise every s
 * Cloud hosts are planet-scale servers attached to the backbone. They can be accessed from anywhere on the planet. They are close to unhackable, not only because of their own defences, but also because of the security on uplink nodes and the backbone itself prevents hacking traffic from ever reaching them.
 * Local hosts are hosts that only work in the context of the local mesh. Most corp facilities will have a local host that runs the office, provides security to wageslave's devices, and keeps all their files and work. Corporate local hosts are often combined with RF-blocking buildings to further reduce their range to inside an office. Local hosts can connect to cloud hosts for backup etc, either via the backbone or via dark fibre.
 
-For more information, see [Matrix fundamentals]({{< relref "fundamentals.md#hosts" >}}) 
+For more information, see [Matrix fundamentals]({{< relref "fundamentals.md#hosts" >}}).
 
 ### Subsystems    
 
-Many hosts are internally divided into different subsystems. Each subsystem has a different purpose and different access levels.
+Many larger local hosts are internally divided into different subsystems. Each subsystem has a different purpose and different access levels.
 
 For example, a corp R&D facility might have:
 
@@ -51,7 +51,7 @@ For example, a corp R&D facility might have:
 * secure file storage: where the eggheads keep their juicy data 
 * security: runs the cameras, doorlocks, turrets, etc. Also runs the WAN that hosts the security personnel's guns and gear.
 
-In game terms, each subsystem is treated as a separate host in terms of hacking rolls. Access levels are per-subsystem. However, for Overwatch Score accumulation, the entire host is tracked as one value. For example, if a decker has Admin access to the secure file storage subsystem and User access to the general host, it's still only +2 OS per turn.
+In game terms, each subsystem is treated as a separate host in terms of hacking rolls. Access levels are per-subsystem. Completing a hack on the general host doesn't give access to the security subsystem, and so the invading decker needs to complete a second round of hacking. However, for the purposes of Overwatch Score accumulation, the entire host is tracked as one value. For example, if a decker has Admin access to the secure file storage subsystem and User access to the general host, it's still only +2 OS per turn.
 
 Note that there is no "map" of these hosts; the internal architecture is flat. Any user can see all the subsystems at once and move between them with ease.
 
