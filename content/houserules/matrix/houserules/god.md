@@ -8,7 +8,10 @@ weight: 60
 description: All about the Grid's po-po
 ---
 
+The Grid Overwatch Division is the Matrix police. **TODO: MORE**
+
 ## Overwatch
+
 Overwatch is a 12-segment clock. Clock is public. (Delete: baby monitor program, check OS action.)
 
 The clock ticks up when:

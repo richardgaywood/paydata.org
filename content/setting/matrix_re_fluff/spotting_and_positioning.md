@@ -13,7 +13,7 @@ Everything on the Matrix is represented by an icon. Each device -- your commlink
 
 So: suppose Wally Wageslave is using his commlink to view the Matrix. **Spotting** is the process by which his commlink discovers there's an icon to show him. Spotting is tied to the local mesh, the part of the Matrix that runs on device-to-device connections. You can consider spotting range as a sort of short-range horizon, it's the distance around you that you device is actively keeping track of so it can keep your connection going.
 
-Wally's commlink doesn't concern itself too much with devices that aren't really nearby, as it's really only trying to keep its connection alive. By default, the spotting horizon extends to about a hundred metres or so (the exact amount can vary with network conditions.) If he wants - although he probably doesn't - Wally can tell his commlink to look further than that, and show him all the devices it can find at a larger range.
+Wally's commlink doesn't concern itself too much with devices that aren't really nearby, as it's really only trying to keep its connection alive. By default, the spotting horizon extends to about a hundred metres or so (the exact amount can vary with network conditions.) If he wants - although he probably doesn't - Wally can tell his commlink to look further than that, and show him all the devices it can find at a larger range, up to the limits of the local mesh.
 
 ## Invisible icons
 
@@ -21,7 +21,7 @@ There are some circumstances in which Wally might not see an icon for a nearby M
 
 1. If the icon is part of a PAN, it won't show up, at least by default. He'll just see the icon of the device running the PAN instead (ie. the owner's persona). This is because the PAN's controlling device is running all the Matrix traffic, so the child devices in the PAN aren't participating in the mesh network, so Wally's commlink isn't interested in them. 
 2. Persona icons subsume devices they are controlling. Your commlink doesn't have its own icon distinct from your persona. If a rigger jumps into a drone, the drone's icon is replaced by the rigger's persona.
-3. Devices can deliberately hide themselves from the public Matrix, which is commonly called **running silent.** This involves carefully minimising the flow of traffic back and forth and refusing all incoming network requests. Careful analysis can still reveal them though.
+3. Devices can deliberately hide themselves from the public Matrix, which is commonly called **running silent.** This involves carefully minimising the flow of traffic back and forth and refusing all incoming network requests. Careful analysis can still reveal them though by the footprint of data connections they still have.
 
 ## How mesh routing works & what it means
 

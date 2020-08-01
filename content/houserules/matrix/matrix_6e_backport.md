@@ -1,11 +1,12 @@
 ---
 date: 2020-06-30
 title: Backporting the 6e Matrix into 5e
+linkTitle: Matrix backport
 type: docs
 ---
 
 {{% pageinfo %}} 
-These rules are canon for my current campaign.
+These rules are currently canon for my current campaign.
 {{% /pageinfo %}}
 
 My Matrix houserules are based on a backport of most of the new ideas from Shadowrun 6e to 5e.

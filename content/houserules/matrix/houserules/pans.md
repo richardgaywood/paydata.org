@@ -11,11 +11,11 @@ weight: 27
 These rules are *not yet* canon for my current campaign.
 {{% /pageinfo %}}
 
-Personal Area Networks - PANs - are local networks of devices all sheltered under a controller device. The controller must be a device running a persona, so a commlink, cyberdeck, or RCC. The controller monitors all traffic within the PAN and between the PAN and the public Matrix, guarding against hack attacks.
+Personal Area Networks - PANs - are local networks of devices all sheltered under a controller. The controller must be a device running a persona, so a commlink, cyberdeck, or RCC. The controller monitors all traffic within the PAN and between the PAN and the public Matrix, guarding against hack attacks.
 
-PANs always run across the local mesh part of the Matrix, so have a restricted range to around 100 metres. Devices that pass out of range will drop off the PAN.
+PANs always run across the local mesh part of the Matrix, and have a restricted range to around 500 metres, depdning on local network conditions (it gets smaller if the area is noisy). Devices that pass out of range will drop off the PAN.
 
-PANs have essentially no limit in how many devices can be within them.
+PANs can have dozens of devices attached to them; for most game purposes it isn't worth keeping track of.
 
 A device in a PAN can choose to roll the PAN controller's ASDF stats instead of its own to defend against any Matrix action. However, it does not have to do so, eg. if it has a better Firewall stat than the controller does.
 
@@ -25,4 +25,6 @@ Wide Area Networks - WANs - are very similar to PANs, but the controlling device
 
 Like PANs, WANs only work on the local mesh, so have a restricted range and must be controlled by a local host. Cloud hosts cannot be PAN controllers.
 
-It is common for PAN controller hosts to be running silent. See [spotting]({{< relref "spotting.md" >}}) for more information.
+WANs have essentially no limit in how many devices can be attached to them.
+
+It is common for WAN controller hosts used in wageslave offices to be running silent and also protected by RF-blocking building measures. See [spotting]({{< relref "spotting.md" >}}) for more information.
