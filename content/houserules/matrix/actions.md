@@ -2,7 +2,6 @@
 title: Matrix actions
 linkTitle: Actions
 type: docs
-draft: true
 date: 2020-07-19
 weight: 50
 description: A streamlined set of Matrix actions

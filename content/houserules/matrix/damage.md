@@ -2,7 +2,6 @@
 title: Matrix damage and how to fix it
 linkTitle: Damage
 type: docs
-draft: true
 date: 2020-07-31
 weight: 31
 description: Various kinds of Matrix damage, link-locking, biofeedback, etc

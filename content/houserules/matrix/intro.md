@@ -2,7 +2,6 @@
 title: Introduction to my Matrix houserules
 linkTitle: Introduction
 type: docs
-draft: true
 date: 2020-07-19
 weight: 10
 description: Discussing what I am trying to achieve here

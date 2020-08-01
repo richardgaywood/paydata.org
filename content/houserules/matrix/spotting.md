@@ -2,7 +2,6 @@
 title: Spotting icons & hiding on the Matrix
 linkTitle: Spotting
 type: docs
-draft: true
 date: 2020-07-19
 weight: 25
 description: How to find things, and avoid being found
@@ -15,6 +14,8 @@ description: How to find things, and avoid being found
 Spotting is an automatic function of basic Matrix protocols within a short horizon; typically around 100 metres, although it can vary with network conditions (more noise = shorter range). Your device is constantly keeping track of these devices as it helps to route traffic around in the local mesh. To detect icons further out, you can instruct your commlink or cyberdeck to actively monitor local mesh connections. See Matrix Perception, below. 
 
 Cloud hosts are always spotted, from anywhere on the planet. Local hosts are spotted the same as any other device.
+
+Once your persona has spotted an icon, it receives an approximate physical location and direction of travel for it, typically accurate to a couple of metres but can randomly vary. In AR, this positioning information is used by your commlink/deck/etc to decide where in your vision to place the icon. In VR, your device will probably play a little looser with reality, and icon positions will be optimised for usability (for example, overlapping icons will be spread out a bit to make them easier to see.)
 
 For more information on the in-universe experience of spotting icons in AR and VR, see [Spotting & Positioning]({{< relref "spotting_and_positioning.md" >}}).
 

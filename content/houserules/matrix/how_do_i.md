@@ -2,7 +2,6 @@
 title: Common Matrix actions & how to do them
 linkTitle: How do I...
 type: docs
-draft: true
 date: 2020-07-19
 weight: 500
 description: Short examples of common tasks for criminals

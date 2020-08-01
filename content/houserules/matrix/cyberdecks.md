@@ -2,7 +2,6 @@
 title: Cyberdecks
 linkTitle: Cyberdecks
 type: docs
-draft: true
 date: 2020-07-19
 weight: 55
 description: Decks, programs, agents

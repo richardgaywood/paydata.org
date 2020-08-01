@@ -2,7 +2,6 @@
 title: Overwatch, GOD & convergence
 linkTitle: GOD
 type: docs
-draft: true
 date: 2020-07-19
 weight: 70
 description: All about the Grid's po-po

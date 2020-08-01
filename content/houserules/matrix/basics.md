@@ -2,7 +2,6 @@
 title: Matrix basics
 linkTitle: Basics
 type: docs
-draft: true
 date: 2020-07-19
 weight: 20
 description: Matrix attributes, types of devices, commlinks
