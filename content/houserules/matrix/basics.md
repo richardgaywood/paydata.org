@@ -22,7 +22,7 @@ This is covered in more detail in [Matrix fundamentals]({{< relref "fundamentals
 	* the backbone is a world-wide network of fibre cables, satellite links, and other high-tech stuff that carries data around at approximately infinite capacity and speed. 
 	* the local mesh and the backbone are bridged by uplink nodes, which are extremely well-guarded hosts.
 	* devices co-operate to send traffic between each other until it reaches an uplink node, at which point it is whisked away to the backbone.
-	* hence, deckers are masters of the local mesh, but are hampered by having to get within range of their hacking targets
+	* hence, deckers are masters of the local mesh, but are hampered by having to get within range of their hacking targets.
 * Hosts are the "servers" of the Matrix
 	* Some are "local hosts" - hosts that only work with devices within local grid range. These are smaller / cheaper. 
 	* Others are "cloud hosts." These are connected to the backbone so are accessible world-wide. They are larger / more expensive.

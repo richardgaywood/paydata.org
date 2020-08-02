@@ -23,7 +23,7 @@ For more information on the in-universe experience of spotting icons in AR and V
 
 Once a persona has spotted an icon, they can keep track of it as long as it is within local mesh range. They will automatically get an approximate physical location and direction of travel, and if they also have (hacked or legitimate) access they can make that perfectly accurate via Trace Icon actions. If someone knows or suspects they are being tracked this way, they have a few options to escape:
 
-* Try to shake the tail by moving to within range of a different uplink node, so as to break the local mesh range. The tracker can attempt to re-establish contact (via another Matrix percetion action) if they can get back within range.
+* Try to shake the tail by moving to within range of a different uplink node, so as to break the local mesh range. The tracker can attempt to re-establish contact (via another Matrix perception action) if they can get back within range.
 * Run a succesful Hide action (opposed test) to confuse the tracker and lose their attention.
  
  Note that rebooting your device is not enough to break spotting, but the persona being tracked could turn all their devices off completely instead.

@@ -26,6 +26,8 @@ Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< rel
 ## Agents
 
 * Deck can only run agents of a rating equal to or less than the deck rating.
-* Agent stats are equal to the deck rating and deck's ASDF, agent skills are equal to its rating. Hence agents are typically rolling ((agent rating) + (deck rating)) as a dice pool.
-* If used to assist the decker on an action, it takes a Simple Action to order the agent to help. Then it rolls its dice pool as a teamwork test.
-* Agents running the same task repeatedly (eg Matrix perception) are subject to the same -1 penalty per repeated attempt as any other character. Additionally, this will typically be resolved by buying hits.
+* Agents take a program slot while active.
+* Agents have a hardware module with embedded memory chips and co-processors. As such, they cannot be swapped in and out of a deck like other programs. They take a few minutes to connect or disconnect.
+* Agent stats are equal to the deck rating, agents use the deck's ASDF, and agent skills are equal to its rating. Hence agents are typically rolling ((agent rating) + (deck rating) \[Deck stat\]) as a dice pool.
+* If used to assist the decker on an action, it takes a Simple Action to order the agent to help. Then it rolls its dice pool as a teamwork test. It then takes another Simple Action to order the agent to resume whatever it was doing before, if the decker desires.
+* Agents running the same task over and over (eg Matrix perception to watch for nearby icons that are running silent) are not subject to the -1 penalty per repeated attempt as other characters. However, any tests required are always resolved by buying hits on both sides of the test.

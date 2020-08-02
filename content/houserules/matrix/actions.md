@@ -11,18 +11,19 @@ description: A streamlined set of Matrix actions
 These rules are *not yet* canon for my current campaign.
 {{% /pageinfo %}}
 
-## Test resist dice pools for devices and hosts
+## Dice pools for devices
 
 All resistance rolls below are expressed as an Attribute plus one of the ASDF stats. However, this only applies when the defender is a persona. When it is a host or device, substitute values for the roll as follows:
 
 * For the resistance Attribute: use the Host Rating or Device Rating.
 * For the ASDF stat:
 	* Naked/standalone device: use Rating for D/F, use 0 for A/S (unless it's special)
+	  * Unattended vehicles with an active Gridlink subscription get +3 bonus Firewall, as Gridlink has some limited monitoring of Matrix traffic for devices under its purview.
 	* Device in a PAN or WAN: use the PAN/WAN controller's ASDF stat 
 	* Host: use (Rating+2) for D/F, use Rating for A/S (most Hosts are defensively configured, but this can vary if desired)
 
 {{% alert title="TODO" color="warning" %}}
-Personas can add dice to this test via an interrupt action
+Personas can add dice to this test via an interrupt action...?
 {{% /alert %}} 
 
 ## Just lookin'
@@ -130,7 +131,7 @@ These are all Complex actions.
 
 * Snoop (no access required): listen in on the link between any two or more devices. Can be used to monitor a video feed, listen to an audio call, intercept commands sent to drones, etc.
 
-	Note that if you have Admin access to any device in the link, you can perform Snoop without any test being required.
+	Note that if you have Admin access to any device in the link, you can perform Snoop without any test being required. You only need to roll the above test if you do not have access to the devices.
 	
 	Once you have performed Snoop, you can also insert hacking commands into the datastream to hack the remote device. This can even be achieved if the remote device is outside of local mesh range. Roll Probe/Backdoor Entry/Brute Force as normal.
 * Spoof Command (no access required): send a single command to a device, carefully constructed to look like it came from a legitimate source. See below for discussion.
@@ -139,16 +140,14 @@ These are all Complex actions.
 
 ### Spoof Command
 
-Spoofed commands are considered to have User level access, not Admin.
-
-What you can do with Spoof Command:
+Spoofed commands are considered to have User level access, not Admin. This causes some limitations in what you can do with Spoof Command, such as:
 
 * Lock or unlock electronic doors and maglocks
 * Tell a camera to replay its last footage endlessly, creating a camera loop
 * Tell a drone to target a specific person, as long as that person is not specifically tagged as a friendly
 * Tell a drone to cease firing (although its controlling host or rigger will likely tell it to start again soon afterwards)
 
-What you cannot do with Spoof Command:
+But some things you cannot do with Spoof Command:
 
 * Interfere with cyberware - the neural interface used by cyberware overrides commands sent from the Matrix
 * Reboot, format, or shut down devices completely - these need Admin level access
@@ -157,6 +156,7 @@ What you cannot do with Spoof Command:
 ## Manipulating yourself (mostly no tests)
 
 * Switch AR/VR mode
-* Jack out (opposed test if link locked)
+* Jack out
+	* Opposed test if link locked
 * Reconfigure deck
 * Matrix defence / counterhacking (something like counterspelling?)

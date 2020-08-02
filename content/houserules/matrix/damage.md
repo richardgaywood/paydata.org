@@ -9,7 +9,7 @@ description: Various kinds of Matrix damage, link-locking, biofeedback, etc
 
 ## Matrix damage
 
-* Each device has (Device Rating / 2) boxes of Matrix damage.
+* Each device has 8+(Device Rating / 2) boxes of Matrix damage track.
 * Matrix damage is resisted with Device Rating + Firewall.
 * Tests using the device take a -1 penalty per 3 boxes of incurred Matrix damage.
 * If the Matrix damage track fills, the device is bricked, and is non-operable until repaired.
