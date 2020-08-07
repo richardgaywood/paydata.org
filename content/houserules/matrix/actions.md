@@ -29,11 +29,38 @@ Personas can add dice to this test via an interrupt action...?
 ## Just lookin'
 
 * Roll: Computer + Intuition \[Data Processing\]
-* Resist: Logic + Sleaze 
+* Resist: Logic + Sleaze (for Perception)
   *or* against a threshold
 
-* Matrix search
-* Matrix perception
+### Matrix search
+
+Determine threshold and base time as below. Hits over threshold used to divide the base time. If the test fails, the character spends the full time looking before coming up empty-handed.
+
+|                                      	| Threshold 	| Time   	|
+|--------------------------------------	|-----------	|--------	|
+| General knowledge / public           	| 1         	| 1 min  	|
+| Of limited interest / not publicised 	| 3         	| 30 min 	|
+| Hidden / actively hunted & erased    	| 6         	| 12 hrs 	|
+| Protected / secret                   	| N/A       	| N/A    	|
+
+Suggested dice pool mods:
+
+* -1 if information is intricate or specialised
+* -2 if information is obscure
+
+### File search
+
+When looking for specific files inside a host, use thresholds as above. The base time is always 1 minute.
+
+{{% alert title="Notes" %}}*This might work better as an extended test.*{{% /alert %}} 
+
+### Matrix perception
+
+To spot nearby silent running icons on the local mesh: do an opposed test as above (ie against the icon's Logic+Sleaze.) The decker rolls once against every silent running icon, and spots all the ones that fail the test in one go.
+
+Repeated attempts within a short period of time take a cumulative -1 penalty, as usual.
+
+To examine a device, roll a simple test. Each hit answers one question from CRB page 235.
 
 ## Getting into places you shouldn't be
 
@@ -85,9 +112,9 @@ Ways to deal damage or crash software. These are all Complex actions.
 * Popup (requires User access): Target must be a persona using AR. Flooded with Matrix spam. Takes (net hits) as a negative ongoing dice pool penalty to all tests until the end of the next turn.
 * Denial of Service: Target is one or more specific devices. Target's data streams are polluted with noise. Take 2*(net hits) as an ongoing penalty to all use of the device until the end of the next turn.
 
-  If the decker has no access, this can only be used against a single device. If the decker has User access to a PAN or host, it can be used against up to 3 devices that are in that PAN/WAN. If the decker has Admin access, it can be used on 6 devices. 
-  
-  "Devices" can include smartguns and cyberware.
+	If the decker has no access, this can only be used against a single device. If the decker has User access to a PAN or host, it can be used against up to 3 devices that are in that PAN/WAN. If the decker has Admin access, it can be used on 6 devices. 
+	
+	"Devices" can include smartguns and cyberware. If a given action is affected by Denial of Service more than once - eg. if DoS is used against a character's cybereyes, and cyberarm, and smartgun - then the penalties stack.
 
 ## Manipulating icons
 

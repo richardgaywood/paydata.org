@@ -66,6 +66,10 @@ First number is the dice pool, second number the bought hits.
 
 For more information, see [Matrix fundamentals]({{< relref "fundamentals.md#hosts" >}}).
 
+### Entering hosts
+
+xxx
+
 ### Local vs cloud hosts
 
 Why don't the corps put all their valuable secrets on impregnable cloud hosts, outside of the grasp of shadowrunners? Sadly for the corps, it's not that easy.
@@ -74,6 +78,10 @@ Why don't the corps put all their valuable secrets on impregnable cloud hosts, o
 * Cloud hosts are very powerful, but they still don't have enough data processing capability to run vast chunks of a megacorp's infrastructure. 
 * Cloud hosts cannot form WANs, as the latency becomes too great. So corp facilities always require local hosts to run their physical security infrastructure (locks, cameras, drones, guards with guns), as well as less exciting stuff like the building's AC and the egghead's research terminals.
 * The corps do not completely trust GOD, and GOD has complete dominion over traffic on the backbone. Megacorps worry their rivals will have demi-GODs in their pocket, stealing their secrets. Smaller corps worry the megacorps will steal everything. So for the most valuable secrets, the most important R&D data, the darkest paydata, there is still a need for guarded data storage in anonymous facilities and data couriers with wetware storage to move it around.
+
+### Wired vs wireless for security PANs
+
+xxx
 
 ### Subsystems    
 

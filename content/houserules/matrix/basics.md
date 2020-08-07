@@ -45,7 +45,7 @@ Unchanged from RAW; used as a combination of limits for tests and part of a dice
 
 Every Matrix-enabled device - and in the Sixth World, that's a lot - is represented in the Matrix by an icon.
 
-Some of these are *persona devices*: those that can let you get onto the Matrix and form a persona so you can interact with it. Examples include commlinks, cyberdecks, and RCCs. 
+Some of these are *persona devices*: these are the subset of devices that can let people get onto the Matrix, in the process creating a persona so they can interact with other devices. Examples include commlinks, cyberdecks, and RCCs. 
 
 * **Commlinks** are the everyday Matrix devices of the masses.
 * **Cyberdecks** are like hot-rodded commlinks with the extra processors and software necessary to break the rules of the Matrix and bend it to your will
