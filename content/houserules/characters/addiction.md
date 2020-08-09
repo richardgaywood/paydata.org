@@ -17,9 +17,9 @@ These rules are **not yet** canon for my current campaign. Although simpler than
 
 1. Mild (4 karma):  If suffering from withdrawal, the character takes a -2 penalty to all tests that use Physical and/or Mental attributes, depending if the addiction is physiological, psychological, or both.
 2. Moderate (9 karma): Withdrawal penalty is now -4.
-3. Severe (20 karma): -2 to all Social tests all times as the character's degradation becomes obvious. Same -4 when in withdrawal as for Moderate addiction.
+3. Severe (20 karma): constant -2 to all Social tests as the character's degradation becomes obvious to everyone. Same -4 when in withdrawal as for Moderate addiction.
 4. Burnout (25 karma): -3 to all Social tests. -6 penalty to all Mental and/or Physical attribute tests when in withdrawal. 
-5. Beyond burnout: each time a character in Burnout fails an addicition test, they permanently lose 1 point from either Body or Willpower, whichever is higher. 
+5. Beyond burnout: each time a character in Burnout fails an addiction test, they permanently lose 1 point from either Body or Willpower, whichever is higher. 
 
 Dry Addict (also in mild/moderate/severe/burnout levels, at 50% of the karma of the above qualities): must pass a composure test at thresholds 1-5 (depending on stress level) to turn down an offer of the addictive substance. Take a 1-4 dice pool penalty on addiction tests following use of substance. 
 
@@ -70,7 +70,7 @@ When asked to roll an Addiction or Withdrawal test, the dice roll is:
 
 ## Addiction during missions
 
-If you have an addiction and start a mission after not indulging in your addiction during the last downtime, you must roll for **withdrawal**. Roll an addiction test as above. If you fail, you take a penalty on all rolls as follows, according to your addiction level, as listed above. This will vanish immediately if you use the drug again.
+If you have an addiction and start a mission after not indulging in your addiction during the last downtime, you must roll for **withdrawal**. Roll an addiction test as above. If you fail, you take an ongoing penalty on all rolls, according to your addiction level, as listed above. This will vanish immediately if you use the drug again.
 
 If you use any addictive drugs during the mission that you do not already have an addiction to, make a note that during the next downtime you will experience **cravings**.
 
@@ -80,9 +80,9 @@ If you use any addictive drugs during the mission that you do not already have a
 
 Drugs are more-ish. That's kinda their whole deal.
 
-After any use of an addictive substance, your character will crave it. This will last for a number of downtime sessions equal to the drug's Recovery Period. Keep track of how many missions you use the drug on while this is happening.
+After any use of an addictive substance, your character will crave it. This will last for a number of downtime sessions equal to the drug's Addiction Period. Keep track of how many missions you use the drug on while this is happening.
 
-At the end of the Recovery Period, make an Addiction Test. Subtract one from the drug's Addiction Threshold for each entire mission where you didn't use the drug at all. If you pass the test, the cravings end and you're in the clear. If you fail the test, bad news: you now have the Addict (Mild) quality.
+At the end of the Recovery Period, make an Addiction Test. Subtract one from the drug's Addiction Threshold for each entire mission where you didn't use the drug at all. You cannot use Edge on this test. If you pass the test, the cravings end and you're in the clear. If you fail the test, bad news: you now have the Addict (Mild) quality.
 
 Characters with the Dry Addict quality take a penalty of -1 to -4 on this test, depending on the level of their former addiction. In addition, if they fail the test, they get the Addict quality at the same level as their Dry Addict quality, not at the Mild level.
 

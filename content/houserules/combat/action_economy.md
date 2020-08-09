@@ -77,7 +77,7 @@ As above, the bonus actions received can only be used for Matrix actions. These 
 
 Drugs that increase your initiative roll do not grant extra actions. However, their effect does stack with extra actions gained from other sources. So an initiated mage using Kamikaze can go earlier in the turn and still use their 2 normal simple actions and any bonus magical actions from initiating.
 
-Obviously, combat drugs come with other downsides...
+Obviously, combat drugs come with [other downsides]({{< relref “addiction.md” >}})...
 
 ### Multiple competing bonus actions
 
