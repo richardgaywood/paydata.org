@@ -55,6 +55,6 @@ Some of these are *persona devices*: these are the subset of devices that can le
 
 When you sign into the Matrix via a commlink, cyberdeck, or RCC, the device gets a special icon called a persona. Personas are your own personal digital mirror image. Persona's appearances are often very elaborately customised, particularly by wankers. 
 
-You cannot steal anyone else's persona, nor can you have two personas at once. ([More on why here]({{< relref "legal_matrix.md#personas-your-commlink-as-the-keys-to-your-life" >}}).)
+You cannot steal anyone else's persona, nor can you have two personas at once. ([More on why here]({{< relref "personas.md" >}}).)
 
 
