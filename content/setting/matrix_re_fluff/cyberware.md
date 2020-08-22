@@ -4,7 +4,7 @@ linkTitle: "The Matrix & cyberware"
 type: docs
 description: How the Matrix interacts with cyberware and other gear
 date: 2020-07-05
-weight: 30
+weight: 6000
 ---
 ## Why cyberware has wireless components
 

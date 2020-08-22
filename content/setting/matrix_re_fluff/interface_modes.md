@@ -1,15 +1,29 @@
 ---
-title: "Virtual reality"
-linkTitle: "VR"
+title: Interface modes
+linkTitle: Interface modes
 type: docs
-description: Viewing and using the Matrix in VR
-date: 2020-07-09
-weight: 15
+description: Augmented reality and virtual reality
+date: 2020-08-23
+weight: 200
 ---
+
+## Virtual reality versus augmented reality
+
+Although the Matrix started as a VR-only technology, once ubiquitous AR came along it rapidly fell out of favour. Most people just don’t feel comfortable completely disconnected from their surroundings, particularly if they’re in any sort of public space. Plus, while you can move really fast in VR - with the Matrix flowing as fast as your thoughts - it turns out that’s exhausting if you do it for more than a few hours. VR is now sufficiently uncommon that for most commlinks a SimSense module is an add-on and not a standard feature.
+
+So for most ordinary folk, work time and leisure time that involves computers is mostly done through AR, not VR. They dip into VR now and again -- mostly either for virtual meetings in work with people in different offices or when safe at home -- but that’s all. Extensive time in VR is the domain of serious gamers, the most dedicated sports fans watching live broadcasts, and deckers/spiders/other socially isolated buttonheads.
+
+{{% alert title="Notes"%}}
+This is motivated partly by aesthetics - I still want Shadorun to contain offices where people go to work, and I want them to look broadly like you expect offices to. If everyone is in VR all the time, there's no need for huge spaces crammed with tiny desks and beige walls and miserable people. And that aesthetic, to my mind, is an important part of any pan-corporate dystopia. 
+
+I also think it helps make deckers feel distinct from everyday Matrix users. In early SR, VR wasn't ubiquitous (requiring expensive cyberterminals to use), and was mostly only used routinely by hardcore hackers. I want this to still be true.
+{{% /alert %}}
+
+## Virtual reality
 
 Consider the basic, unsculpted Matrix in full VR: how it looks if you disable all visual re-skins normally added by your service provider, your commlink manufacturer, your settings, and so on. Like you’re some sort of 2052-era cave-dwelling metahuman back in the primordial grid. What do you see?
 
-## Geography & the grid (VR edition)
+### Geography & the grid (VR edition)
 
 Imagine an infinite plane of black, overlaid with a fine silver grid, stretching to the horizon. This is the **lower grid**. It’s populated with icons for all the devices within local mesh range of your commlink - maybe a few hundred meters, depending on network conditions. Personas are represented by a special icon that is configured according to the user’s wishes. Devices in PANs are hidden, by default, to make the display less cluttered; although you can turn that off if you want to see everything. Devices outside of PANs are represented by icons, typically utilitarian factory-default ones like cartoonishly coloured caricatures of what they are, tiny corporate logos of whoever made it, or eerily photorealistic modelled and rendered versions of whatever the icon represents.
 
@@ -30,3 +44,21 @@ Neon-coloured wireframes and faceless chrome figures may have been cool last cen
 At the big end of the scale, hosts in VR are sculpted to look like… well, anything the owner desires, right down to changing the laws of physics inside the host. Want it to look like infinitely high sky scrapers with the users navigating sections of the host by jumping between them in zero gee? Sure, you can do that. You probably shouldn’t, unless you want to clean a lot of puke off the floors, but you can.
 
 At the small end, people spend _incredible_ amounts of time and nuyen sculpting their persona’s icon. Cosmetic options and add-ons and accessories can be bought from just about any corp on planet Earth, perfect to show your devotion to this or that brand. People often broadcast their persona icon in an ARO, so there’s a lot of pressure to get the look just right.
+
+## Augmented Reality
+
+VR is yesterday's tech. It's where you go to use the computer, but who wants to go somewhere to use a computer? You want the computer to come to where you are. You want the computer to bleed into your everyday reality. Chummer: you want your reality augmented.
+
+Welcome to AR.
+
+### Your world, augmented
+
+{{% alert title="TODO" color="warning"%}}
+stuff
+{{% /alert %}}
+
+### Positioning in AR vs the real world
+
+{{% alert title="TODO" color="warning"%}}
+stuff
+{{% /alert %}}

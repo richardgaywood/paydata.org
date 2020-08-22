@@ -4,7 +4,7 @@ linkTitle: "SINs"
 type: docs
 description: The ins and outs of proving you are a member of society
 date: 2020-08-22
-weight: 19
+weight: 400
 ---
 
 ## What a SIN is
@@ -33,7 +33,7 @@ The converse is also true; broadcasting a SIN out in the Barrens can mark you ou
 
 If the SIN is just a short string, and everyone is broadcasting theirs to the world at all times, why not just take someone else's? Why bother with fake SINs at all?
 
-The first answer is that legal devices won't let you. They don't let you set your SIN yourself, nor do they store it anyway. Instead, when you boot your persona, they query a host belonging to your SIN issuer, which does a [DNI-auth check]({{< relref "legal_matrix.md#personas-your-commlink-as-the-keys-to-your-life" >}}) of your brainwave patterns before giving your device the SIN it should broadcast. 
+The first answer is that legal devices won't let you. They don't let you set your SIN yourself, nor do they store it anyway. Instead, when you boot your persona, they query a host belonging to your SIN issuer, which does a [DNI-auth check]({{< relref "personas.md" >}}) of your brainwave patterns before giving your device the SIN it should broadcast. 
 
 Even if you hack your device to broadcast an arbitrary SIN, though, this still doesn't work. The same trackers and profiles that are listening for your SIN will almost immediately notice (a) if two different personas are broadcasting the same SIN at the same time and (b) if a SIN has moved from one persona to another. Either condition will result in them broadcasting an alert that will lock the persona completely out of the Matrix until they reboot their device and sign back in to their account.
 
@@ -111,11 +111,15 @@ In game terms, a check against profile brokers is a rating 3-6 check, depending 
 Fake SINs consist of several parts, of escalating levels of quality:
 
 1. A listing on the Global SIN Registry (GSINR), plus plausible biographic information and biometrics. On the crudest fakes, the biographic information might not match the user of the fake SIN at all; these are often recycled SINs for deceased users that were prevented from being marked as inactive. At the higher levels, the fakes will have biometrics that match the bearer of the SIN.
-
-   These SINs are created through a combination of outright hacks against smaller corps or nation-states that have access to the GSINR, coupled with bribery of corrupt insiders.
 2. As above, plus a realistic "legend", meaning a faked life logged onto tracking services. This is where the SIN creator's skills as a forger are really tested, crafting a historical data trail for the SIN that will fool trackers and profilers. This is where the SIN fakers earn their nuyen.
 3. As above, plus entry of the fake SIN into the issuing entity's master SIN database, with matching biometrics. This level of compromise over the SIN registries - whether via bribery or security breach - is extremely difficult (and hence expensive) to pull off.
 
+Lower rating fake SINs are created through a combination of outright hacks against smaller corps or nation-states that have access to the GSINR, coupled with bribery of corrupt insiders, but have no matching entries in the issuing entity's private SIN database. 
+
+
+## Appendix: references
+
+This section was written based on, in part, the discussion in [this thread](https://forums.shadowruntabletop.com/index.php?topic=31747.0).
 
 <!--
 ## Appendix: Design notes

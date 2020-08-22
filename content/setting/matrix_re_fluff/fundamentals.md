@@ -4,7 +4,7 @@ linkTitle: "What the Matrix is"
 type: docs
 description: The devices that make up the Matrix's infrastructure
 date: 2020-07-05
-weight: 10
+weight: 100
 ---
 
 ## Matrix infrastructure

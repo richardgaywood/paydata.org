@@ -4,7 +4,7 @@ linkTitle: Iconography
 type: docs
 description: How your commlink decides what to show you and where to put it
 date: 2020-07-13
-weight: 17
+weight: 300
 ---
 
 ## Spotting
