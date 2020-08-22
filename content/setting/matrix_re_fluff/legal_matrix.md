@@ -42,21 +42,23 @@ When you boot up your commlink, the first thing you do is sign into it, via some
 
 However, like any newborn, your persona comes into the world naked and powerless. So the next thing that happens is your commlink reaches out through the local mesh and up to various cloud hosts that live on the backbone. 
 
-Each of these hosts in turn establishes that the person using your persona matches their fingerprint. For users with direct neural connections, this is carried out as a brainwave challenge/response. The host reaches down through your interface and… pokes… your brain a little, inducing certain patterns. It measures how your brain responds to the poking, and compares it to patterns stored in very secure cloud hosts that were recorded as part of a cryptokey exchange when you created the account. If they match, the host is satisfied you are who you claim to be.
+Each of these hosts in turn establishes that the person using your persona matches their fingerprint. For users with direct neural connections, this is carried out as a brainwave challenge/response in a process called **DNI-auth**. The host reaches down through your interface and… pokes… your brain a little, inducing certain patterns. It measures how your brain responds to the poking, and compares it to patterns stored in very secure cloud hosts that were recorded as part of a cryptokey exchange when you created the account. If they match, the host is satisfied you are who you claim to be.
 
-This process is completely safe, or so the corps say. Any resemblance between the transient brainwave states triggered and those recorded in epileptics is purely coincidental.
+Think of it as being like tossing a rock into a lake, and carefully examining the patterns in the ripples.
+
+The corps are very insistent that this process is completely safe. Any resemblance between the transient brainwave states triggered and those recorded in epileptics is purely coincidental. Apparently.
 
 This process is extremely difficult to fool, particularly for lots of hosts at once; although there are urban legends of particularly wily deckers pulling off successful man-in-the-middle attacks against people using trodes rather than datajacks. 
 
-Unfortunately, users without DNI suffer much lower security. They have to rely on crude biometrics such as fingerprints and retina scans, all of which are much more vulnerable to fakery, even if they use very expensive and high-end scanners.
+Unfortunately, users without DNI-auth suffer much lower security. They have to rely on crude biometrics such as fingerprints and retina scans, all of which are much more vulnerable to fakery, even if they use very expensive and high-end scanners.
 
 Once a given host is happy the persona is under your control, it issues your persona with access permissions over whatever it controls. (Deckers call these Access Control Lists, or ACLs - pronounced “ackles”.) One host might belong to Ford, and grant your persona access to drive your Americar. A Horizon host would give you access to your P2.1 social media account. An Ares host, after particularly thorough examination, would enable you to fire your Predator. And so on and so forth - even a low-key user will have hundreds of these permissions.
 
 This all happens in a few seconds.
 
-Personas are ephemeral things. They only last as long as the commlink is running and you are attached to it. (This is particularly irritating for trode users; if the trodes get jostled too much, they can disconnect entirely, and you have to sign in all over again.) Furthermore, to guard against… shenanigans…, the more secure hosts will re-run spot checks of brainwave patterns periodically.
+Personas are ephemeral things. They only last as long as the commlink is running and you are attached to it. (This is particularly irritating for trode users; if the trodes get jostled too much, they can disconnect entirely, and you have to sign in all over again.) Furthermore, to guard against… shenanigans…, the more secure hosts will re-run DNI-auth spot checks periodically.
 
-Note also you can never have two personas. The cloud hosts will immediately detect if you attempt to sign in with a second device while the first is still running, and — depending on its paranoia level — either insist one persona is shut down first or completely lock the account down until you contact customer services to get it unlocked.
+Note also you can never have two personas. The cloud hosts will immediately detect if you attempt to sign in with a second device while the first is still running, and — depending on its paranoia level — either insist one persona is shut down first or completely lock the account down until you contact customer services to get it unlocked. This also works to prevent anyone stealing your persona.
 
 ### Going off the grid
 
