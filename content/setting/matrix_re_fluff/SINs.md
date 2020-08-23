@@ -3,21 +3,21 @@ title: "SINs and SINners"
 linkTitle: "SINs"
 type: docs
 description: The ins and outs of proving you are a member of society
-date: 2020-08-22
+date: 2020-08-23
 weight: 400
 ---
 
 ## What a SIN is
 
-In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number. A combination of citizenship, a passport, voting rights, and taxation obligations, it guarantees you at least some protection under the law and the chance to work gruelling 100 hour weeks until you die. What an honour.
+In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number. A combination of citizenship, a passport, voting rights, and taxation obligations, it guarantees you at least some protection under the law and the chance to work gruelling hundred-hour weeks until you die. What an honour.
 
 SINs are issued by a wide variety of governmental and extra-territorial corporate entities. They can be granted by birth or by a similar process to obtaining citizenship. Sometimes, corps grant them to particularly desirable hires. Often, corps use the threat of revoking someone's SIN to keep their workers in line.
 
-Physically, a SIN is merely a string of alphanumeric characters. The only human-readable part of it is a prefix code indicating the issuing entity - country or corp - who ultimately controls the SIN. What counts isn't the SIN itself so much as the data associated with it in various online hosts and datafiles.
+Physically, a SIN is merely a string of alphanumeric characters. The only human-readable part of it is a prefix code indicating the issuing entity - country or corp - who owns and controls the SIN. What counts isn't so much the SIN itself as the data associated with it in various online hosts and datafiles.
 
 SINs have become the *de facto* unique identifier in the Sixth World. They are tracked everywhere, both in person and in the Matrix. Every interaction and transaction you have can be tied to your SIN and tracked in some database - and almost all of them will be. Hence every SIN has, trailing behind it, vast wakes of data, scattered across innumerable databases. 
 
-The SINless are condemned to a life of misery. They are locked out of legal employment, of all banking, of reasonable healthcare. They cannot vote and they have no social safety net; even their basic civil rights are reduced. They face a lifetime of grinding for low cash-only wages and paying shady landlords high rent for shitty apartments, and praying that when they get sick there's room at the charity hospital for them. 
+Those who don't have a SIN - the *SINless* - are condemned to a life of misery. They are locked out of legal employment, of all banking, of reasonable healthcare. They cannot vote and they have no social safety net; even their basic civil rights are reduced almost to nothing. They face a lifetime of grinding for low cash-only wages and paying shady landlords high rent for shitty apartments, and praying that when they get sick there's room at the charity hospital for them. 
 
 This naturally creates a market for fake SINs, anything that might give the hopeless some hope. And, in turn, that creates a market for checking SINs are real.
 
@@ -31,9 +31,9 @@ The converse is also true; broadcasting a SIN out in the Barrens can mark you ou
 
 ### SIN-bombing
 
-If the SIN is just a short string, and everyone is broadcasting theirs to the world at all times, why not just take someone else's? Why bother with fake SINs at all?
+If the SIN is just a short string, and everyone is broadcasting theirs to the world at all times, why not just take someone else's? Why bother with complicated fake SINs at all?
 
-The first answer is that legal devices won't let you. They don't let you set your SIN yourself, nor do they store it anyway. Instead, when you boot your persona, they query a host belonging to your SIN issuer, which does a [DNI-auth check]({{< relref "personas.md" >}}) of your brainwave patterns before giving your device the SIN it should broadcast. 
+The first answer is that legal devices can't do this at all. They don't let you set your SIN yourself, nor do they store it anywhere. Instead, when you boot your persona, they query a host belonging to your SIN issuer, which does a [DNI-auth check]({{< relref "personas.md#dni-auth" >}}) of your brainwave patterns before giving your device the SIN it should broadcast. 
 
 Even if you hack your device to broadcast an arbitrary SIN, though, this still doesn't work. The same trackers and profiles that are listening for your SIN will almost immediately notice (a) if two different personas are broadcasting the same SIN at the same time and (b) if a SIN has moved from one persona to another. Either condition will result in them broadcasting an alert that will lock the persona completely out of the Matrix until they reboot their device and sign back in to their account.
 
@@ -41,13 +41,15 @@ This can be used as an attack vector, called "SIN-bombing": deliberately copying
 
 ### Why SIN broadcasts are not used for security
 
-If you are a corpsec architect, SIN broadcasts appear to be a very useful tool. It is supremly difficult to spoof or steal either personas or SINs, which means in theory they can provide very strong guarantees that someone trying to get through a security gate is who they say they are. Particularly when the corp in question is also the issuer of the SIN in question, as is typically the case, which means they have unfettered access to the SIN biographic and biometric data.
+If you are a corpsec architect, SIN broadcasts appear to be a very useful tool. It is supremly difficult to spoof or steal either personas or SINs, which means in theory they can provide very strong guarantees that someone trying to get through a security gate is who they say they are. Particularly when the corp in question is also the issuer of the SIN, as is typically the case for its employees, which means they have unfettered access to the SIN biographic and biometric data.
 
-Unfortunately for the corps, it doesn't work that way in practice. Several high-profile data thefts took place in the early 2070s where Shadowrunner teams used a SIN-bombing attack combined with a powerful local jammer to clog up Matrix traffic. The duplicate SIN was noticed and shut down a few seconds later, delayed by the jammers... but during that narrow window, the attackers were able to open doors, shut down security systems, and disable countermeasures. The third or fourth time this happened to any given corp, they quickly switched gears, and pulled SIN scanners out of critical security systems. Today, the state-of-the-art in local security systems consists of biometric scanners coupled with a database of allowed users held locally on a powerful host.
+Unfortunately for the corps, it doesn't work that way in practice. Several high-profile data thefts took place in the early 2070s where Shadowrunner teams used a SIN-bombing attack combined with a powerful local jammer to clog up Matrix traffic. The duplicate SIN was noticed and shut down a few seconds later, delayed by the jammers... but during that narrow window, the attackers were able to open doors, shut down security systems, and disable countermeasures. The third or fourth time this happened to any given corp, they quickly switched gears, and pulled SIN scanners out of critical security systems. Today, the state-of-the-art in local security systems consists of biometric scanners coupled with a database of allowed users held locally on a well-secured host.
 
 ## Verifying SINs
 
-It is crucial that the *haves* protect their stuff from the *have-nots*. Hence, it is important to be able to verify a given SIN is real and not an imposter. Fortunately for plucky criminals trying to live outside the law, a combination of inter-corp paranoia and mistrust makes checking if a SIN is fake a much more difficult problem than it could be.
+It is crucial that the *haves* protect their stuff from the *have-nots*. Hence, it is important to be able to verify a given SIN is real and not an imposter. Fortunately for plucky criminals trying to live outside the law, a combination of inter-corp paranoia and mistrust makes checking if a SIN is fake a much more difficult problem than it could be[^dystopia].
+
+[^dystopia]: Shadowrun is a hyper-capitalist corporate dystopia, not a panopticon surveillance dystopia.
 
 There are, broadly, three methods used to verify that someone presenting a SIN is doing so honestly.
 
