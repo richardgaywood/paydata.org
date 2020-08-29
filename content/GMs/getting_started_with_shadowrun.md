@@ -197,8 +197,7 @@ This document was compiled from the many excellent suggestions in these followin
 * "[GMing Shadowrun is stressful, how can I improve? I am starting to feel like I am just not good enough to do it.](https://reddit.com/r/Shadowrun/comments/i6b7l6/gming_shadowrun_is_stressful_how_can_i_improve_i/)" - the thread that inspired this doc
 * "['I am a new GM' tips and tricks doc](https://reddit.com/r/Shadowrun/comments/i8bfh0/i_am_a_new_gm_tips_n_tricks_doc/)" - thread where I first suggested creating this doc.
 * [Your worst/most fiddly/most baffling rules in the 5e CRB](https://reddit.com/r/Shadowrun/comments/if4xon/your_worstmost_fiddlymost_baffling_rules_in_the/)
-
-
+* [Thread were I posted this doc](https://reddit.com/r/Shadowrun/comments/iit9b5/i_wrote_a_getting_started_with_shadowrun_guide/) looking for feedback and suggestions.
 
 
 
