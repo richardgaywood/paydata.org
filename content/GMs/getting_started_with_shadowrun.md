@@ -116,7 +116,7 @@ Other stuff:
 
 ## GMing
 
-### Fake it till you make it[^bamce]
+### Fake it till you make it
 
 For all of Shadowrun's voluminous rules, and 80+ skills, and millions of items of gear, and modifiers, and modifiers that modify the modifiers (!), it almost always boils down to the player:
 
@@ -144,8 +144,6 @@ It's perfectly OK to skip the modifiers and just change the threshold instead. T
 
 If there really isn't a skill to match, you can also ask for an attribute+attribute roll. There's a few of these defined in core rules, like Judge Intentions (Int+Cha) or Composure (Wil+Cha). 
 
-[^bamce]: /u/bamce: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0umicn/?context=1
-
 ### Difficulty setting & NPC stats
 
 Character generation is overwhelming when you're doing one; what if you need six NPCs?!
@@ -167,7 +165,7 @@ In-game, these dice can come from some combination of attribute, skill, and gear
 
 I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions:
 
-* **magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters/
+* **magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters.
 * **vehicle mods from Rigger 5.0** - I don't love the rules themselves, but the crunch is all done away from the table, and I think it makes riggers way cooler.
 * **the decker actions from Kill Code** - gives deckers a lot more tactical flexibility.
 
