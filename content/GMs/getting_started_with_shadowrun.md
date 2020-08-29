@@ -3,24 +3,26 @@ title: Getting started with Shadowrun
 linkTitle: Getting started
 type: docs
 description: Tips and tricks for first-time tables
-date: 2020-08-22
+date: 2020-08-29
 ---
 
 Scenario: you and your RPG group want to play Shadowrun. You've never played before; maybe you have experience of other RPGs, maybe you don't. You're intrigued by the *man-meets-magic-and-machine* setting but you've read some stuff about the game system. It sounds... daunting. Maybe you've gotten as far as looking through the rulebook, and thought: *eep!*
 
 If this is you, I hope to help!
 
-Shadowrun is a pretty tricky beast at first -- but (I swear!) it does start to make a degree of sense once you get started. This document presents a grab-bag of tips and suggestions that might help you get past that initial barrier.
+Shadowrun is a pretty tricky beast at first -- but I swear it does start to make a degree of sense once you get started. This document presents a grab-bag of tips and suggestions that might help you get past that initial barrier.
 
-Note that this document was written specifically for Shadowrun Fifth Edition (5e), although much of the more generic advice applies to other editions also.
+Note that this document was written specifically for Shadowrun Fifth Edition (5e), although some of the more generic advice applies to other editions also.
+
+**What I'm not going to discuss**: to keep this document manageable, I am going to focus only on Shadowrun's mechanics. I am not going to talk about non-mechanical GMing advice (eg how to write and pace a mission) or suggest houserules to patch over some of Shadowrun's more annoying problems (these are very much a matter of taste, anyway.) There's plenty of material already written that covers both of those angles. 
 
 ## Things to immediately dispense with
 
-There's a few obvious things that you and your table can agree not to use that'll make your initial games earlier without leaving any glaring holes in the game:
+There's a few obvious things that you and your table can agree not to use that'll make your initial games far easier without leaving any glaring holes in the game:
 
 1. **Set the splatbooks to one side**: The SR core rulebook has plenty of content for all kinds of characters. So make a pact across your table that you'll start off without any of the content from the "splatbooks" (the per-character-type expansion books: Run Faster, Run & Gun, Street Grimoire, Rigger 5.0, etc.) Now, don't get me wrong - there's a lot of richness in there you'll want to use, probably sooner rather than later; this is a just-for-now deal. You can add the content back in as you find you want it.
 2. **Leave technomancers out**: You'll all have enough on your hands with The Regular Matrix, let alone The Magical Matrix. Keep them aside for later.
-3. **Approach riggers with caution** [^riggers]: it pains me to write this, because I love riggers and I think they're a huge amount of fun. But playing ones involves a huge amount of special rules and even some special core mechanics, so they can be an uphill battle. And they are the least important of the core set of character types. So if you have no strong feelings, maybe avoid them for now. If you do want a rigger at your table, start on the small side with a driver and build up to drone armies.
+3. **Approach riggers with caution** [^riggers]: it pains me to write this, because I love riggers and I think they're a huge amount of fun. But playing one involves a huge amount of special rules and even some special core mechanics, so they can be an uphill battle. And they are the least important of the core set of character types. So if you have no strong feelings, maybe avoid them for now. If you do want a rigger at your table, start on the small side with a driver and build up to drone armies.
 4. **Aspected magicians** and **mystic adepts**: these character types suffer from some non-obvious problems and it's easy to build under- or over-powered characters with them. Plus, they don't add any flavour to the game that you don't get from having a regular, full mage. Consider them to be an advanced chargen option.
 
 [^riggers]: thanks to [u/CelticSurfer for this suggestion](https://reddit.com/r/Shadowrun/comments/if4xon/_/g2oiibn/)
@@ -118,23 +120,25 @@ Other stuff:
 
 ### Fake it till you make it
 
-For all of Shadowrun's voluminous rules, and 80+ skills, and millions of items of gear, and modifiers, and modifiers that modify the modifiers (!), it almost always boils down to the player:
+Your player just said they want to do something, and you know there are rules for this but you can't remember how they work but you do remember they span several pages and you've already paused the session twice in the last hour to look stuff up. This doesn't feel like a good time to stop play. So now what?
+
+*Don't panic*. For all of Shadowrun's voluminous rules, and 80+ skills, and millions of items of gear, and modifiers, and modifiers that modify the modifiers (!), it almost always boils down to the player:
 
 * rolling a skill 
 * ...plus an attribute
 * ... plus or minus some modifiers
 * ...against a threshold.
 
-*As GM, you are well within your rights to make this up on the spot*. Now, whether to do so or not can be a judgement call, with a few factors to weigh:
+*As GM, you are well within your rights to make this up on the spot*. Now, whether or not to do so can be a tricky judgement call, with a few factors to weigh up:
 
-* Is the character doing something the rules don't cover? If so, you're definitely going to be ad-libbing.
+* Is the character doing something the rules don't cover? If so, you're definitely going to be ad-libbing. (Despite the huge number of rules, this still happens a lot. Players are a wily bunch.)
 * Is this something the rules cover, but you know the rules are too detailed and fiddly to use right now, perhaps because the player is taking a low-stakes or low-risk action? Then short-cut the rules down to a single roll.
-* Is this something the rules cover, but you don't know them well enough to confidently use the full rules? You have a choice here: either pause play to look them up, or handwave them down to a single roll. There's no right answer, it depends on the situation and your table's preferences.
+* Is this something the rules cover, but you don't know them well enough to confidently use the full rules? You have a choice here: either pause play to look them up, or handwave them down to a single roll and look them up afterwards. There's no right answer, it depends on the situation and your table's preferences.
 
 Suppose you want to make a roll up. How do you do that?
 
 * **Picking a skill** - this isn't usually too tricky, because despite Shadowrun having a lot of skills, they're fairly well defined without too much overlap. The social skills can be slightly tricky - the lines between Con and Negotiate and Etiquette can be blurry - so watch out for that. If you're really finding the skill list overwhelming, consider collapsing it down to just the ~25 skill groups.
-* **Picking an attribute** - every skill has a linked attribute, which is a fine choice. Sometimes you might want to change it though, and that's perfectly fine. For example, I have made players roll Strength + Unarmed Combat when attempting to grab someone and hold them still.
+* **Picking an attribute** - every skill has a linked attribute, which is a fine choice. Sometimes you might want to change it though, and that's perfectly fine too. For example, I have made players roll Strength + Unarmed Combat when attempting to grab someone and hold them still.
 * **Modifiers** - use these to represent the situation going on. Are things making the character's job harder? Do they have inadequate tools, are they working under time pressure, is the mana field here polluted, is the concealed weapon they are looking for small? Impose -2, -4, or -6. Are they trying to work out where a loud sound came from, or convince a friendly NPC to do something, or search the Matrix for public information? Impose +2, +4, or +6.
 * **Threshold** - use this to capture the intrinsic difficulty of the job. Are they picking a poor quality lock? Use a threshold of 1. Are they trying to drive a motorbike through a narrow gap at high speed? Use a threshold of 3.
 
@@ -155,7 +159,7 @@ A real common GM trick is the "rule of threes". If you need a dice roll for an N
 * If their skill level is **basic**, roll **6 dice**. Examples: wageslaves driving a car, gangers trying to intimidate someone.
 * If their skill level is **trained**, roll **9 dice**. Examples: wageslaves doing their job, gangers or mall cops fighting. 
 * If their skill level is **skilled**, roll **12 dice**. Examples: standard security guards fighting, bouncers looking for concealed weapons.
-* If their skill level is **professional**, roll **15 dice**. Examples: high threat response teams in combat, Mr Johnson lying or negotiating.
+* If their skill level is **professional**, roll **15 dice**. Examples: high threat response teams in combat, a Mr Johnson lying or negotiating.
 * If their skill level is **elite**, roll **18 or more dice**. 
 
 In-game, these dice can come from some combination of attribute, skill, and gear - it doesn't matter which.
@@ -165,9 +169,9 @@ In-game, these dice can come from some combination of attribute, skill, and gear
 
 I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions:
 
-* **magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters.
-* **vehicle mods from Rigger 5.0** - I don't love the rules themselves, but the crunch is all done away from the table, and I think it makes riggers way cooler.
-* **the decker actions from Kill Code** - gives deckers a lot more tactical flexibility.
+* **Magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters.
+* **Vehicle mods from Rigger 5.0** - I don't love the rules themselves, but the crunch is all done away from the table, and I think it makes riggers way cooler.
+* **The decker actions from Kill Code** - gives deckers a lot more tactical flexibility.
 
 <!--
 ## If RAW is not for you, but you still like the setting
@@ -186,9 +190,9 @@ There are [alternative systems](https://www.reddit.com/r/Shadowrun/comments/fidd
 --> 
 
 
-## Acknowledgements 
+## Acknowledgements & further reading
 
-This document was compiled from the many excellent suggestions in these posts on r/shadowrun:
+This document was compiled from the many excellent suggestions in these following posts on r/shadowrun. I have only included a small selection of the tips contained in these links, so if you want more, click through!
 
 * "[GMing Shadowrun is stressful, how can I improve? I am starting to feel like I am just not good enough to do it.](https://reddit.com/r/Shadowrun/comments/i6b7l6/gming_shadowrun_is_stressful_how_can_i_improve_i/)" - the thread that inspired this doc
 * "['I am a new GM' tips and tricks doc](https://reddit.com/r/Shadowrun/comments/i8bfh0/i_am_a_new_gm_tips_n_tricks_doc/)" - thread where I first suggested creating this doc.
