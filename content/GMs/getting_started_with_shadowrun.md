@@ -139,20 +139,18 @@ Suppose you want to make a roll up. How do you do that?
 
 * **Picking a skill** - this isn't usually too tricky, because despite Shadowrun having a lot of skills, they're fairly well defined without too much overlap. The social skills can be slightly tricky - the lines between Con and Negotiate and Etiquette can be blurry - so watch out for that. If you're really finding the skill list overwhelming, consider collapsing it down to just the ~25 skill groups.
 * **Picking an attribute** - every skill has a linked attribute, which is a fine choice. Sometimes you might want to change it though, and that's perfectly fine too. For example, I have made players roll Strength + Unarmed Combat when attempting to grab someone and hold them still.
-* **Modifiers** - use these to represent the situation going on. Are things making the character's job harder? Do they have inadequate tools, are they working under time pressure, is the mana field here polluted, is the concealed weapon they are looking for small? Impose -2, -4, or -6. Are they trying to work out where a loud sound came from, or convince a friendly NPC to do something, or search the Matrix for public information? Impose +2, +4, or +6.
+* **Modifiers** - use these to represent the situation. Are things making the character's task harder or easier? Do they have inadequate tools, are they working under time pressure, is the mana field here polluted, is the concealed weapon they are looking for small? Impose -2, -4, or -6. Was the sound they're trying to locate really loud, are they trying to convince a friendly NPC to do something innocuous, or are they searching the Matrix for public information? Give them +2, +4, or +6.
 * **Threshold** - use this to capture the intrinsic difficulty of the job. Are they picking a poor quality lock? Use a threshold of 1. Are they trying to drive a motorbike through a narrow gap at high speed? Use a threshold of 3.
 
-Note that there's a lot of overlap between modifiers and threshold, particularly when ad-libbing a roll like this. This is true on a statistical level as well, as a modifier of +3 is equivalent to changing the required threshold by -1. 
+Note that there's a lot of overlap between modifiers and threshold, particularly when ad-libbing a roll like this. This is true on a statistical level as well, as a modifier of +3 is equivalent to changing the required threshold by -1. It's perfectly OK to skip the modifiers and just change the threshold instead. This is particularly true of tests like Perception, where the result is graduated rather than a flat pass/fail. I rarely modify Perception checks, and instead I vary the information the player received based on the outcome of an unmodified roll.
 
-It's perfectly OK to skip the modifiers and just change the threshold instead. This is particularly true of tests like Perception, where the result is graduated rather than a flat pass/fail. I rarely modify Perception checks, and instead I vary the information the player received based on the outcome of an unmodified roll.
-
-If there really isn't a skill to match, you can also ask for an attribute+attribute roll. There's a few of these defined in core rules, like Judge Intentions (Int+Cha) or Composure (Wil+Cha). 
+If there really isn't a skill to match, you can also ask for an attribute+attribute roll. There's a few of these defined in core rules, like Judge Intentions (Int+Cha) or Composure (Wil+Cha). You can combine any two you like though.
 
 ### Difficulty setting & NPC stats
 
-Character generation is overwhelming when you're doing one; what if you need six NPCs?!
+Character generation is overwhelming enough when you're only doing one; what if you need six NPCs?!
 
-The very short answer is: don't. It's not necessary. 
+The very short answer is: don't. It's not usually necessary. 
 
 A real common GM trick is the "rule of threes". If you need a dice roll for an NPC, pick a level:
 
@@ -164,10 +162,11 @@ A real common GM trick is the "rule of threes". If you need a dice roll for an N
 
 In-game, these dice can come from some combination of attribute, skill, and gear - it doesn't matter which.
 
+When you want to speed play up even further, you can swap out opposed tests against NPCs for a threshold test against their dice pool divided by 3. (Don't use 4, here, as you usually would for buying hits, unless you want to make your NPCs even more cannon-foddery than they already are.) So a ganger would always roll 3 hits to attack and 3 hits to defend. This can get a bit boring if over-used though.
 
 ## Best splatbook content
 
-I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions:
+I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions to look at first:
 
 * **Magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters.
 * **Vehicle mods from Rigger 5.0** - I don't love the rules themselves, but the crunch is all done away from the table, and I think it makes riggers way cooler.
