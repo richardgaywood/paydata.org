@@ -25,8 +25,6 @@ There's a few obvious things that you and your table can agree not to use that'l
 3. **Approach riggers with caution** [^riggers]: it pains me to write this, because I love riggers and I think they're a huge amount of fun. But playing one involves a huge amount of special rules and even some special core mechanics, so they can be an uphill battle. And they are the least important of the core set of character types. So if you have no strong feelings, maybe avoid them for now. If you do want a rigger at your table, start on the small side with a driver and build up to drone armies.
 4. **Aspected magicians** and **mystic adepts**: these character types suffer from some non-obvious problems and it's easy to build under- or over-powered characters with them. Plus, they don't add any flavour to the game that you don't get from having a regular, full mage. Consider them to be an advanced chargen option.
 
-[^riggers]: thanks to [u/CelticSurfer for this suggestion](https://reddit.com/r/Shadowrun/comments/if4xon/_/g2oiibn/)
-
 ## How to approach character generation
 
 *Oh my god there's so much stuff.*
@@ -39,24 +37,33 @@ You might consider using pregen characters. But pregens suck, and the ones in th
 
 First and foremost: use a tool to help you make characters. [Chummer5](https://github.com/chummer5a/chummer5a) is free. Make sure it's configured to use only the core rulebook.
 
-* **Consider using karmagen** - I think new players get tripped up with prioritygen where they run out of points in one category, reshuffle the letters, and now have to re-do a category they already finished because of it. Karmagen is a real chore to do by hand but chummer5 makes it easy.
-* Consider **using only skillgroups, not skills** - this is not only easier for players to navigate / attempt to optimise, but is also easier for GMs too when they need to find a skill to roll against for some random check. However, note that this will need a tiny houserule if you're using prioritygen to make skill points and skill group points interchangeable.
+Secondly, a word about chargen systems. Shadowrun has 3.5 different ways to generate characters (Priority, Sum-to-Ten, Karma, and Life Modules.) Each one has significant downsides. (Yes, I know this beggars belief.)
+
+Priority gen is the one in the core rulebook, with the letters A-E. It's the default choice. It has two major downsides. Firstly, it makes some characters really difficult to make (famously, troll deckers are almost impossible.) Secondly, it can cause failure feedback loops. You allocate, say, D to resoures. You do all your skills and attributes. You start buying gear... and realise you need a C in resources. Now you need to go back to skills and attributes and re-do them so you can take the C and give it to resources. New players can bounce around this loop at lot and it gets really frustrating.
+
+Sum-to-Ten is a minor variation on priority gen, described in Run Faster. It lets you trade letters eg. you can have AABEE or BBBEE. It fixes the first problem but not the second.
+
+Life Modules (also in Run Faster) is this hippy weirdo thing were you pick different stages of your character's life and each grants you points in skills or attributes or whatever. Unless you're really good with it, it makes really, really jack-of-all-trade weird characters who aren't skilled enough at any single thing. Avoid.
+
+Finally, we come to what the internet tends to call Karmagen (but Run Faster calls "Point Buy"; same thing.) Basically, you start with a pool of karma and 1 in all your attributes, and just buy whatever increases and gear and abilities you need from the pool. The major downside here is that it's a pain in the arse to do by hand, but [Chummer5](https://github.com/chummer5a/chummer5a) frees you from that. The risk is that it can be a bit overwhelming, but I think on balance as long as you're not doing chargen by hand this is the best option for new players.
 
 ### Thinking about characters
 
 Shadowrun is classless, and you can build anything, which is great -- but also overwhelming. How do you get started navigating all this stuff?
 
-* Think about **core archetypes** - most characters will pick a role in the team and specialise in it. Combat, magic, hacking are the most obvious and clear-cut examples.
+* Think about **core archetypes** - most characters will pick a role in the team and specialise in it. Combat, magic, hacking are the most obvious and clear-cut examples. Shadowrun is a game of specialists, where the team is usually made up of people who do different things really well (as opposed to everyone doing everything poorly.)
 * What does specialisation mean? This can vary a bit across tables but a good rule of thumb is being able to roll 12-15 dice in a few key skills. (Fewer than 12 and you're probably a little underpowered. Much more than 15 and you're probably over-specialised and may be better off spreading your points around across a broader base of skills.)
 	* For a combat character, key skills might be a selection of small/concealable weapons and larger/more dangerous weapons. 
 	* For deckers, it's the skills in the Hacking and Software groups. 
 	* For magicians, it's spellcasting and summoning. 
-* Think about **other roles** - faces (negotiation and social infiltration), physical infiltration and breaking & entering, vehicles, and many, many more. This is where the classless system in Shadowrun really shines. 
+* Once you have a core role, about **other secondary roles** you might take up - faces (negotiation and social infiltration), physical infiltration and breaking & entering, vehicles, and many, many more. This is where the classless system in Shadowrun really shines. There's usually enough room in your build to be rolling 9-12 dice in a few skills grouped around a secondary role.
 	* Some of these other roles naturally pair off with other archetypes. For example, combat characters have high Agility for combat, and B&E skills mostly use Agility. So any combat character can roll good numbers of dice in skills like Lockpicking and Sneaking for a modest number of skillpoints.
-* Think about **stuff everyone should be able to do** - you probably want ~6 dice in some basic skills:
+* Think about **stuff everyone should be able to do** - you probably want 4-6 dice in some standard-issue crime skills:
 	* Firing a weapon, if only as a backup
-	* Lying to people (Con skill)
+	* Lying to people (Con)
 	* Blending in with crowds (Etiquette)
+	* Noticing stuff (like ambushes!) (Perception) [^EnigmaticOxygen]
+	* Being stealthy (Sneaking) [^EnigmaticOxygen]
 
 ## Some notes on specific rules
 
@@ -64,7 +71,7 @@ Even with the splatbooks left aside, the SR 5e core rulebook (CRB) alone is stil
 
 In addition, some of the rules are just plain *bad*. Either completely confusing, a pain in the arse to use, or both.
 
-Here I'm going to flag up some sections I suggest you ignore.
+Here I'm going to flag up some sections I suggest you ignore.[^Xenon]
 
 ### Rules to definitely skip over
 
@@ -73,6 +80,7 @@ I advise you to not even *read* these.
 Characters:
 
 * **Addiction** and **Overdosing** - these rules are, famously, completely confusing and don't even work that well once you unpick how they're supposed to be used. Skip. This will make combat drugs over-powered, however, as there'll be no counterbalance to them; later on, you might want to explore some simplified houserules for addicition. Or just ignore the issue if you don't mind it.
+* **Swimming** - why does a game of urban cyberpunk thievery need more than half a page of rules for swimming, SCUBA diving, and treading water? Beats me, but I suggest you skip 'em. [^EnigmaticOxygen]
 
 Combat:
 
@@ -81,7 +89,7 @@ Combat:
 Magic: 
 
 * **Background count** - this is a GM-fiat way of subtracting some dice from mages in a way they cannot do anything about. Most people think it's a fairly clumsy and un-fun attempt to balance mages, who are otherwise a bit overpowered. 
-* **Initiation and metamagics** - these are down-the-road advancement options for mages. Safe to ignore until you need them.
+* **Initiation and metamagics** - these are down-the-road advancement options for Awakened characters (magicians and adepts)[^EnigmaticOxygen]. Safe to ignore until you need them.
 
 Matrix:
 
@@ -91,21 +99,19 @@ Vehicles:
 
 * **Sensor targeting** - heck of a lot of dice rolls that add little to the game. Entirely skippable.
 
-[^JerekTelorian]: u/JerekTelorian: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0v0a3v/
-
 ### Rules to approach with caution
 
 Combat:
 
 * **Barriers** - the barrier rules (both for destroying structures and for shooting people through the cover they are cowering behind) are a bit fiddly. They work OK, but aren't the fastest thing to play out at the table. I'd suggest keeping them for only when it really matters. If it's a more trivial set of circumstances with a predictable outcome, like car vs. chain link fence or pistol vs armoured bunker, don't bother looking the rule up.
-* **Surprise** - there's a throwaway line in the rules that suggests you should roll for surprise quite often, basically anytime one side wasn't fully expecting combat to start. However, failing a surprise check is extremely deadly, so rolling it routinely can result in some weird outcomes. I'd suggest saving the surprise rolls for genuinely unexpected ambushes, and handling most "combat is starting now" by simply rolling for initiative. 
+* **Surprise**[^LeonAquilla] - there's a throwaway line in the rules that suggests you should roll for surprise quite often, basically anytime one side wasn't fully expecting combat to start. However, failing a surprise check is extremely deadly, so rolling it routinely can result in some weird outcomes. I'd suggest saving the surprise rolls for genuinely unexpected ambushes, and handling most "combat is starting now" by simply rolling for initiative. 
 * **Scatter** - the scatter rules only work if you're doing your combat on a grid with tokens or miniatures. If you're running anything theatre-of-the-mind, you'll have to do some handwaving to resolve the scatter roll.
 * **Recoil** - recoil accumulates across each character's turns, which is deeply obnoxious to track. It's also reset by the character spending a single action to do anything other than aiming, so it's pretty easy for the character to avoid the penalty anyway. You won't break the game if you just ignore it adding up across turns and only consider it in the context of each individual attack action.
 
 Magic:
 
 * **Enchanting** and **ritual spellcasting** - these both sound cool (because they are cool!) but when you look really hard at the numbers they both turn out to be rather underpowered and consequently dull. If anyone at your table is passionate about them, come back later and houserule to make them more powerful.
-* **Summoning** - there's nothing wrong with the rules here, it's just that spirits are very powerful, to the point where they can easily become unbalancing. There's a lot of houserule suggestions around to nerf them but initially I suggest you start out using the rules as written and see how you go. Just be aware of the problem.
+* **Summoning** - there's nothing wrong with the rules here, it's just that spirits are very powerful, to the point where they can easily become unbalancing. There's a lot of houserule suggestions around to nerf them but initially I suggest you start out using the rules as written and see how you go. Just be aware of the problem. If it gets too much, consider removing the Binding mechanic as a quick fix.[^EnigmaticOxygen]
 
 Vehicles:
 
@@ -137,7 +143,7 @@ Your player just said they want to do something, and you know there are rules fo
 
 Suppose you want to make a roll up. How do you do that?
 
-* **Picking a skill** - this isn't usually too tricky, because despite Shadowrun having a lot of skills, they're fairly well defined without too much overlap. The social skills can be slightly tricky - the lines between Con and Negotiate and Etiquette can be blurry - so watch out for that. If you're really finding the skill list overwhelming, consider collapsing it down to just the ~25 skill groups.
+* **Picking a skill** - this isn't usually too tricky, because despite Shadowrun having a lot of skills, they're fairly well defined without too much overlap. The social skills can be slightly tricky - the lines between Con and Negotiate and Etiquette can be blurry - so watch out for that. 
 * **Picking an attribute** - every skill has a linked attribute, which is a fine choice. Sometimes you might want to change it though, and that's perfectly fine too. For example, I have made players roll Strength + Unarmed Combat when attempting to grab someone and hold them still.
 * **Modifiers** - use these to represent the situation. Are things making the character's task harder or easier? Do they have inadequate tools, are they working under time pressure, is the mana field here polluted, is the concealed weapon they are looking for small? Impose -2, -4, or -6. Was the sound they're trying to locate really loud, are they trying to convince a friendly NPC to do something innocuous, or are they searching the Matrix for public information? Give them +2, +4, or +6.
 * **Threshold** - use this to capture the intrinsic difficulty of the job. Are they picking a poor quality lock? Use a threshold of 1. Are they trying to drive a motorbike through a narrow gap at high speed? Use a threshold of 3.
@@ -152,7 +158,7 @@ Character generation is overwhelming enough when you're only doing one; what if 
 
 The very short answer is: don't. It's not usually necessary. 
 
-A real common GM trick is the "rule of threes". If you need a dice roll for an NPC, pick a level:
+A real common GM trick is the "rule of threes". (This is also similar to the [Rule of Twelves](https://www.youtube.com/watch?v=lFdzTzqUlvw), described here in this video by u/Bamce[^EnigmaticOxygen].) If you need a dice roll for an NPC, pick a level:
 
 * If their skill level is **basic**, roll **6 dice**. Examples: wageslaves driving a car, gangers trying to intimidate someone.
 * If their skill level is **trained**, roll **9 dice**. Examples: wageslaves doing their job, gangers or mall cops fighting. 
@@ -166,9 +172,12 @@ When you want to speed play up even further, you can swap out opposed tests agai
 
 ## Best splatbook content
 
-I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions to look at first:
+I suggested above that you set the splatbook content aside at first, but there's a lot of good stuff in there that you'll want to introduce as you go along. Some suggestions for the most useful expansions to look at first are below. (These are in no particular order.)
 
+* **Armour from Run & Gun** - lots of cool gear here, with lots of flavour.[^EnigmaticOxygen]
+* **Augmentations from Chrome Flesh** - the cyberware, bioware, and other augments expand the options for mundane characters really usefully.[^EnigmaticOxygen]
 * **Magic traditions from Street Grimoire** - I think these add nice flavour to expand role playing options for mage characters.
+* **Vehicles and drones from Rigger 5.0** - Riggers thrive on their gear, and this expands their options a long way.[^EnigmaticOxygen]
 * **Vehicle mods from Rigger 5.0** - I don't love the rules themselves, but the crunch is all done away from the table, and I think it makes riggers way cooler.
 * **The decker actions from Kill Code** - gives deckers a lot more tactical flexibility.
 
@@ -198,6 +207,12 @@ This document was compiled from the many excellent suggestions in these followin
 * [Your worst/most fiddly/most baffling rules in the 5e CRB](https://reddit.com/r/Shadowrun/comments/if4xon/your_worstmost_fiddlymost_baffling_rules_in_the/)
 * [Thread were I posted this doc](https://reddit.com/r/Shadowrun/comments/iit9b5/i_wrote_a_getting_started_with_shadowrun_guide/) looking for feedback and suggestions.
 
+
+[^LeonAquilla]: Thanks to u/LeonAquilla [this suggestion](https://www.reddit.com/r/Shadowrun/comments/if4xon/your_worstmost_fiddlymost_baffling_rules_in_the/g2m4p31/).
+[^EnigmaticOxygen]: Thanks to u/EnigmaticOxygen for [these suggestions](https://www.reddit.com/r/Shadowrun/comments/iit9b5/i_wrote_a_getting_started_with_shadowrun_guide/g3asmqr/).
+[^Xenon]: Thanks to u/ReditXenon for [these suggestions](https://www.reddit.com/r/Shadowrun/comments/iit9b5/i_wrote_a_getting_started_with_shadowrun_guide/g3asmqr/).
+[^JerekTelorian]: u/JerekTelorian: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0v0a3v/
+[^riggers]: thanks to [u/CelticSurfer for this suggestion](https://reddit.com/r/Shadowrun/comments/if4xon/_/g2oiibn/)
 
 
 <!--
