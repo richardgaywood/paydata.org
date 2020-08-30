@@ -13,6 +13,8 @@ Note that although many cyberware systems - for example, replacement limbs - are
 
 *In game terms: replace all "wireless bonuses" with "DNI bonuses." DNI bonuses apply whenever the character has a direct neural interface connection to the item of gear, and hence can control its full funtionality via mental commands. You do not need to maintain any access to the wider Matrix to use them, but you do need either a wired or a wireless connections between the devices and your datajack.*
 
+*In real world analogy terms, think of DNI as being like USB combined with Bluetooth, with one end plugged directly into your brain. Just about anything you own can hook into it and work with anything else, and your brain can command anything hooked into it.*
+
 ## Getting DNI
 
 There are two main ways to handle the interface between your gear and your brain matter:
