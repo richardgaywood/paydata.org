@@ -52,7 +52,7 @@ Finally, we come to what the internet tends to call Karmagen (but Run Faster cal
 Shadowrun is classless, and you can build anything, which is great -- but also overwhelming. How do you get started navigating all this stuff?
 
 * Think about **core archetypes** - most characters will pick a role in the team and specialise in it. Combat, magic, hacking are the most obvious and clear-cut examples. Shadowrun is a game of specialists, where the team is usually made up of people who do different things really well (as opposed to everyone doing everything poorly.)
-* What does specialisation mean? This can vary a bit across tables but a good rule of thumb is being able to roll 12-15 dice in a few key skills. (Fewer than 12 and you're probably a little underpowered. Much more than 15 and you're probably over-specialised and may be better off spreading your points around across a broader base of skills.)
+* What does specialisation mean? This can vary a bit across tables but a good rule of thumb is being able to roll 12-15 dice in a few key skills, across your attribute, the skill itself, and any bonuses from gear. (Fewer than 12 and you're probably a little underpowered. It's fine to have more than 15 if you want, but be wary of being over-specialised; you could be better off spreading your points around across a broader base of skills.)
 	* For a combat character, key skills might be a selection of small/concealable weapons and larger/more dangerous weapons. 
 	* For deckers, it's the skills in the Hacking and Software groups. 
 	* For magicians, it's spellcasting and summoning. 
@@ -112,11 +112,18 @@ Magic:
 
 * **Enchanting** and **ritual spellcasting** - these both sound cool (because they are cool!) but when you look really hard at the numbers they both turn out to be rather underpowered and consequently dull. If anyone at your table is passionate about them, come back later and houserule to make them more powerful.
 * **Summoning** - there's nothing wrong with the rules here, it's just that spirits are very powerful, to the point where they can easily become unbalancing. There's a lot of houserule suggestions around to nerf them but initially I suggest you start out using the rules as written and see how you go. Just be aware of the problem. If it gets too much, consider removing the Binding mechanic as a quick fix.[^EnigmaticOxygen]
+* **Foci** - many people (myself included) feel mages are overpowered in modern Shadowrun editons. This stems from a few key areas, one of which is spirits, but foci is another. In particular, they are very cheap for the benefits they deliver - particularly power, spellcasting, and summoning foci. Consider making the higher-rated ones much more expensive, or banning them entirely until you are comfortable with the rules.[^EnigmaticOxygen]
+
+Matrix:
+
+* **The whole damned thing** - well, I joke, buit only a little. The Matrix rules are pretty slow to play out so you probably want to reserve them for only the decker's spotlight moments: the big hack against the big target for the big score. If they're just, say, snooping someone's commlink to get some intel, I suggest you make them roll once against a threshold and then move on.
+* **Bricking cyberware** - it's annoyingly easy for a hostile decker to render your team's street sam totally inoperable by using Matrix attacks against, say, their cybereyes. This isn't a great deal of fun for the player, and there's not a lot they can do about it either (it's not like they can turn their eyes off...) Steer clear of that at least until your non-decker players understand the risks, because if they're blindsided by it (pun intended) it's gonna piss them off.
 
 Vehicles:
 
 * **Vehicle speeds** - the Shadowrun tables for translating the abstract "speed" stat to actual miles-per-hour are, umm, broken. Don't look too hard at them or things fall apart. If you try really hard, [you can break the world with hilarious consequences](https://www.reddit.com/r/gametales/comments/1nbjhe/xpostshadowrun_everyone_is_dead_san_francisco_is/).
 * **Drones** - drone swarms can get very overpowered very quickly. Also, having lots of drones around can really slow down gameplay, as they all get their own initiative roll, have to resolve their actions, etc. Like spirits, this isn't a reason not to have some (they're cool!), just be aware of the issues.
+* **Vehicle damage** - if you follow the core rulebook to the letter, you will find that vehicles are almost absurdly easy to destroy and ruinously expensive to repair. In turn, your rigger characters will never make enough money to keep up with repair and replacement costs. I don't have any smart answers to this beyond full-on houserules, but at the start I suggest you just handwave your way around it an apply as much vehicle damage as "feels right", regardless of what the rules say.
 
 Other stuff:
 
@@ -125,6 +132,8 @@ Other stuff:
 ## GMing
 
 ### Fake it till you make it
+
+> Shadowrun has a lot of rules that do not come up very often, and for some reason, not all of them are intuitive. Instead of knowing each specific exception, make sure you know well the basic stuff, like skills, combat mechanics, common infiltration rolls and basic magic and hacking stuff. If a niche case comes up in game, make a quick call that makes sense in the system and move on.... Focus on having fun, cool descriptions and in the characters. -- Yomatius[^Yomatius]
 
 Your player just said they want to do something, and you know there are rules for this but you can't remember how they work but you do remember they span several pages and you've already paused the session twice in the last hour to look stuff up. This doesn't feel like a good time to stop play. So now what?
 
@@ -193,7 +202,7 @@ There are [alternative systems](https://www.reddit.com/r/Shadowrun/comments/fidd
 > I second this comment. Shadowrun has a lot of rules that do not come up very often, and for some reason, not all of them are intuitive. Instead of knowing each specific exception, make sure you know well the basic stuff, like skills, combat mechanics, common infiltration rolls and basic magic and hacking stuff. If a niche case comes up in game, make a quick call that makes sense in the system and move on.... Focus on having fun, cool descriptions and in the characters.
 --- Yomatius [^Yomatius]
 
-[^Yomatius]: /u/Yomatius: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0wlzkw/?context=1
+
 
 --> 
 
@@ -213,7 +222,7 @@ This document was compiled from the many excellent suggestions in these followin
 [^Xenon]: Thanks to u/ReditXenon for [these suggestions](https://www.reddit.com/r/Shadowrun/comments/iit9b5/i_wrote_a_getting_started_with_shadowrun_guide/g3asmqr/).
 [^JerekTelorian]: u/JerekTelorian: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0v0a3v/
 [^riggers]: thanks to [u/CelticSurfer for this suggestion](https://reddit.com/r/Shadowrun/comments/if4xon/_/g2oiibn/)
-
+[^Yomatius]: /u/Yomatius: https://reddit.com/r/Shadowrun/comments/i6b7l6/_/g0wlzkw/?context=1
 
 <!--
 ## Basic rules everyone should know
