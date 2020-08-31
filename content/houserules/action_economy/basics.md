@@ -13,16 +13,18 @@ These rules are currently canon for my campaign. Although they are a bit experim
 
 ## The combat turn
 
-A single combat turn runs like this:
+Each combat turn runs like this:
 
-*   Everyone rolls initiative, same as usual.
+*   Everyone rolls initiative.
 *   Count down from highest to lowest; when a character's number comes up, they get their phase.
-	*   (break ties with ERIC as per 5e RAW.)
+	*   (Break ties with ERIC as per 5e RAW.)
+*   During their phase, each character takes their action(s).
+*   During any phase that is not theirs to act on, characters can take one Free action.
 *   When you get to 0, the turn is over[^passes]. Re-roll initiative and start over at the top again[^reroll].
 
-On their phase, everyone gets one normal Complex action as usual, and they might get bonus Simple actions[^bonus] (see below). 
+On their phase, everyone gets one normal Complex or two Simple actions as usual, and they might get bonus Simple actions[^bonus] (see below). 
 
-Complex and Simple actions can still be interchanged as usual (1 Complex = 2 Simple and vice versa.) 
+Complex and Simple actions can be freely interchanged as usual (one Complex = two Simple and vice versa.) 
 
 A character's normal Complex action can be used for anything, but their bonus Simple actions can only be used to perform specific types of action (physical / Matrix / magical), depending on where the character got the bonus actions from.
 
@@ -32,9 +34,9 @@ A character's normal Complex action can be used for anything, but their bonus Si
 
 ## Free actions
 
-Each character can take one Free action on any phase, including their own. They can do this as many times during the turn as there are phases.[^free]
+Each character can take a Free action on any phase, including their own. They can do this as many times during the turn as there are phases.[^free]
 
-[^free]: This restores how Free actions worked in older editions of Shadowrun. It faciliates team communications via the "speak/text/transmit phrase" option. I don't think there are any game balance consequences to speak of.
+[^free]: This restores how Free actions worked in older editions of Shadowrun. It faciliates team communications via the "speak/text/transmit phrase" option. I don't think there are any game balance consequences to speak of, but we’ll revisit this rule if I’m wrong.
 
 ## Rolling for initiative
 
@@ -92,4 +94,4 @@ As usual, the bonus actions received can only be used for Matrix actions. These 
 
 Drugs that increase your initiative roll do *not* grant extra actions. However, their effect does stack with extra actions gained from other sources. So an initiated mage using Kamikaze can go earlier in the turn and still use their normal Complex action and any bonus magical actions from initiating.
 
-Obviously, combat drugs come with [other downsides]({{< relref "addiction.md" >}}) 
+Obviously, combat drugs come with [other downsides]({{< relref "addiction.md" >}}).
