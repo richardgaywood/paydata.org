@@ -15,6 +15,7 @@ With the exception of 4e, Shadowrun has always tightly coupled together two conc
 Other goals:
 
 *   Make streetsams/physads more distinctive by giving them combat powers other archetypes cannot access.
+	*   Also allow them the ability to frontload a number of their attacks, so they get a natural spotlight moment.
 *   Give AR deckers and riggers an easier time of it- so they can get out the car/van and come along on the run without worrying that their floppy meatbods will get hurt while they are in VR because that’s the only way to get a good action economy.
 *   Simplify handling initiative at the table: 
 	*   Don’t change initiative score mid-turn.

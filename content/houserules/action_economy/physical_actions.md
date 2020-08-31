@@ -8,7 +8,61 @@ weight: 100
 ---
 
 
+## Misc
 
+* Speak/text/transmit phrase (Free)
+* Observe in detail (Simple)
+* Use skill (Complex)
+
+## Movement
+
+Characters move at different rates, measured in the number of metres they travel during their phase.
+
+* **Crawling** (no action used) - prone characters can crawl up to 2 metres.
+* **Walking** (no action used) - all characters can walk up to 5 metres[^walking] in their phase without using any actions or taking any penalties.
+* **Running** (Free) - characters can quicken their pace to a run by spending a Free action. This lets them move 10+(Agi×2) metres. They will take a -2 penalty to most actions they do during the turn where they are running. (Although note it becomes a +2 to melee combat; the 'charging in' bonus.)
+* **Sprinting** (Complex) - characters may travel even faster by spending a Complex action to make a sprinting test (Running + Strength [Physical]). For every hit on this test, most metatypes can travel a further 2 metres than their running distance. Dwarves can only travel 1 metre further per hit, however. They will continue to take a -2 penalty, as for running.
+
+[^walking]: This is deliberately a fair bit less than RAW. My table plays theatre-of-the-mind and we hardly ever have accurate grids during combat. So I wanted there to be a clearer difference between 'walking' and 'running' rates.
+
+### Take cover (Simple) 
+
+Assuming there is some nearby suitable object, this grants the in cover bonus (+2 or +4 to defence rolls) until the character moves again. Note they might get flanked though.
+
+### Drop prone (Free) / Stand up (Simple)
+
+Drop to the ground or get back up again.
+
+
+
+## Gear
+
+* Drop object (Free)
+* Pick up / put down object (Simple)
+* Change device mode 
+	* w/ DNI (Free)
+	* w/o DNI (Simple)
+* Use simple device (Free)
+
+## Weapons
+
+* Ready weapon:
+	* Pistol w/ quick draw holster (Free)
+	* Handgun or short melee weapon (Simple)
+	* Long gun, sword, bow, etc (Complex)
+* Eject clip:
+	* w/ DNI (Free)
+	* w/o DNI (Simple)
+* Insert clip (Simple)
+* Reload non-clip weapon (special)
+
+## Attacking related
+
+* Call a shot (Free)
+* Declare split attack (Free)
+* Take Aim (special) (see below)
+* Attack (Complex) (see below)
+* Carnival of Carnage (special) (see below)
 
 ### Attacks
 
@@ -20,7 +74,6 @@ All the attacks from the SR5e CRB become Complex actions (but see "New Multiple 
 	*   Fire Weapon (SA, BF, FA)
 	*   Throw Weapon
 	*   Melee Attack
-	*   Quick Draw
 *   Complex + variable number of Simple actions:
 	*   _Carnival of Carnage_ multi-attack (full dice pool; see below)
 *   Complex + Free action:

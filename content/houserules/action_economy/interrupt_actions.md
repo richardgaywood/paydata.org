@@ -7,8 +7,13 @@ type: docs
 weight: 600
 ---
 
+There are two different systems for interrupt actions here; one is the ones we are currently using. The other is a more radical system that uses Edge instead of changing initiative score. These are not currently in use.
 
 ## Interrupt actions
+
+{{% pageinfo %}} 
+These rules are currently canon for my campaign. Although they are a bit experimental...
+{{% /pageinfo %}}
 
 Interrupt actions no longer change your initiative score by -5 or -10 when taken. Instead:
 
@@ -32,3 +37,12 @@ Example: Alice (streetsam) and Bob (ganger) are still fighting.
 	*   Note that Bob cannot use Parry, as he does not have any Simple Actions saved up.
 {{% /alert %}}
 
+
+
+## Edge interrupt actions
+
+{{% pageinfo %}} 
+These rules are **not currently** canon for my campaign. Although I plan for them to replace the rules above in time.
+{{% /pageinfo %}}
+
+**TODO**

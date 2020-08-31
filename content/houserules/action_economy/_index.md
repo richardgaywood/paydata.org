@@ -7,5 +7,5 @@ type: docs
 weight: 15
 ---
 {{% pageinfo %}} 
-These rules are currently canon for my campaign (see sub-pages.)
+These rules are mostly canon for my campaign (see sub-pages.)
 {{% /pageinfo %}}

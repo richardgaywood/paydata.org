@@ -7,6 +7,21 @@ type: docs
 weight: 300
 ---
 
+## Magic
+
+* Activate focus (Simple)
+
+* Shift perception (Simple)
+* Astral projection (Complex)
+
+* Summon spirit (Complex)
+* Call bound spirit (Simple)
+* Command spirit (Simple)
+* Banish spirit (Complex)
+* Dismiss spirit (Simple)
+
+* Reckless spellcasting (Simple)
+* Cast spell (Complex)
 
 
 ### Mages
