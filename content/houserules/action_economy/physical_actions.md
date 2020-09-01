@@ -23,43 +23,40 @@ Characters move at different rates, measured in the number of metres they travel
 * **Running** (Free) - characters can quicken their pace to a run by spending a Free action. This lets them move 10+(Agi×2) metres. They will take a -2 penalty to almost all actions they do during the phase, though. (However, note it becomes a +2 bonus to melee combat; this is the 'charging in' modifier.)
 * **Sprinting** (Complex) - characters may travel even faster by spending a Complex action to make a sprinting test (Running + Strength [Physical]). For every hit on this test, most metatypes can travel a further 2 metres than their running distance. Dwarves can only travel 1 metre further per hit, however. They will continue to take a -2 penalty, as for running.
 
-[^walking]: This is deliberately a fair bit less than RAW. My table plays theatre-of-the-mind and we hardly ever have accurate grids during combat. So I wanted there to be a clearer difference between 'walking' and 'running' rates.
+[^walking]: This is deliberately a fair bit less than RAW for many characters. My table plays theatre-of-the-mind and we hardly ever have accurate grids during combat. So I wanted there to be a clearer difference between 'walking' and 'running' rates.
 
 ### Take cover (Simple) 
 
-Assuming there is some nearby suitable object, this grants the in cover bonus (+2 or +4 to defence rolls) until the character moves again. Note they might get flanked though.
+Assuming there is some nearby suitable object, this grants the in cover bonus (+2 or +4 to defence rolls) until the character moves again. Note they might get flanked, though.
 
 ### Drop prone (Free) / Stand up (Simple)
 
-Drop to the ground or get back up again.
+Drop to the ground or get back up again[^standup].
 
-
+[^standup]: I have removed the requirement to pass a test to stand up if the character is wounded.
 
 ## Gear
 
 * Drop object (Free)
 * Pick up / put down object (Simple)
-* Change device mode 
-	* w/ DNI (Free)
-	* w/o DNI (Simple)
-* Use simple device (Free)
+* Use simple device
+  * with DNI (Free)
+  * without DNI (Simple)
+  * Includes pressing buttons, turning something on or off, ejecting a weapon clip, changing a weapon's fire mode, etc.
 
 ## Weapons
 
 * Ready weapon:
-	* Pistol w/ quick draw holster (Free)
-	* Handgun or short melee weapon (Simple)
+	* Pistol w/ slide or quick draw holster (Free)
+	* Handgun (up to SMG) or short melee/thrown weapon (Simple)
 	* Long gun, sword, bow, etc (Complex)
-* Eject clip:
-	* w/ DNI (Free)
-	* w/o DNI (Simple)
 * Insert clip (Simple)
 * Reload non-clip weapon (special)
 
 ## Attacking related
 
 * Call a shot (Free)
-* Declare split attack (Free)
+* Declare split multiple attack (Free)
 * Take Aim (special) (see below)
 * Attack (Complex) (see below)
 * Carnival of Carnage (special) (see below)

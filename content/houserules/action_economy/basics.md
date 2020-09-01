@@ -13,20 +13,22 @@ These rules are currently canon for my campaign. Although they are a bit experim
 
 ## The combat turn
 
+Initiative time is split into a series of *turns*, with each turn representing a few seconds of in-game time. During a turn, each character gets a *phase* in which to do their actions. The order in which characters get phases is determined by the initiative roll. 
+
 Each combat turn runs like this:
 
 *   Everyone rolls initiative.
 *   Count down from highest to lowest; when a character's number comes up, they get their phase.
-	*   (Break ties with ERIC as per 5e RAW.)
+	*   (Break ties with "ERIC" as per 5e RAW - compare the two characters Edge, Reaction, Intuition stats. If it's still a draw, flip a coin.)
 *   During their phase, each character takes their action(s).
-*   During any phase that is not theirs to act on, characters can take one Free action.
+*   During any phase that is not theirs to act on, any character can take one Free action.
 *   When you get to 0, the turn is over[^passes]. Re-roll initiative and start over at the top again[^reroll].
 
-On their phase, everyone gets one normal Complex or two Simple actions as usual, and they might get bonus Simple actions[^bonus] (see below). 
+On their phase, everyone gets one normal Complex or two Simple actions as usual, and they might also get bonus Simple actions[^bonus] (see below). 
 
 Complex and Simple actions can be freely interchanged as usual (one Complex = two Simple and vice versa.) 
 
-A character's normal Complex action can be used for anything, but their bonus Simple actions can only be used to perform specific types of action (physical / Matrix / magical), depending on where the character got the bonus actions from.
+A character's normal Complex action can be used for any type of action, but their bonus Simple actions can only be used to perform specific types of action (physical / Matrix / magical), depending on where the character got the bonus actions from.
 
 [^reroll]: Or keep the values same and start over without re-rolling as SR 6e does, if you prefer. I like the dynamic feel of re-rolling each turn though.
 [^passes]: These rules eliminate multiple passes. 
@@ -53,6 +55,21 @@ What you roll is determined by "where" your character is:
 * For avoidance of doubt: mages who aren't astrally projecting and deckers/riggers who are using AR roll physical initiative.
 
 ## Getting bonus actions
+
+Summary table; discussion follows below:
+
+|                                     	|          	| Bonus                	|
+|-------------------------------------	|----------	|----------------------	|
+| Wired Reflexes / Improved Reactions 	| Rating 1 	| +1 Simple (physical) 	|
+|                                     	| Rating 2 	| +2 Simple (physical) 	|
+|                                     	| Rating 3 	| +3 Simple (physical) 	|
+| Drugs                               	|          	| None                 	|
+| AR with DNI or cold-sim VR          	|          	| +2 Simple (Matrix)   	|
+| Hot-sim VR                          	|          	| +3 Simple (Matrix)   	|
+| Initiated magician                  	| Grade 1  	| +1 Simple (magic)    	|
+|                                     	| Grade 2  	| +2 Simple (magic)    	|
+|                                     	| Grade 3  	| 3 Simple (magic)     	|
+
 
 Note that no metahuman brain can cope with the multiplicity of inputs of being active in more than one “world” at once. Hence, characters can receive bonus meatspace actions, bonus matrix actions, or bonus magic actions; but only one. If they are eligible for more than one at once, through whatever combination of gear/augments/spells/etc, they can choose freely when rolling for initiative which “world” is getting their attention and hence which bonus minor actions they will receive.
 

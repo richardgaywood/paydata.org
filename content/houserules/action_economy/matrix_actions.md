@@ -13,10 +13,11 @@ TODO(check CRB pg 202-203)
 
 ## Matrix actions
 
-The SR5 core rulebook has 37 normal actions plus 9 magic actions. It also has 42 Matrix actions. Kill Code adds another 11. *This is too many.* I am working on [reducing them]({{< relref "houserules/matrix/actions.md" >}}). 
+The SR5 core rulebook has 37 normal actions plus 9 magic actions. It also has 42 Matrix actions. Kill Code adds another 11. *This is too many.* See [my matrix houserules]({{< relref "houserules/matrix/actions.md" >}}) for a streamlined set.
 
+<!--
 **Fork** - modify Fork to work the same as Carnival of Carnage above (1 Complex action for the first target, then +1 Simple action for each additional target.)
-
+-->
 
 
 ## Riggers
