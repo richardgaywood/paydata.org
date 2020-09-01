@@ -58,9 +58,9 @@ What you roll is determined by "where" your character is:
 
 Summary table; discussion follows below:
 
-|                                     	|          	| Bonus                	|
+|                                     	|          	| Bonus actions               	|
 |-------------------------------------	|----------	|----------------------	|
-| Wired Reflexes / Improved Reactions 	| Rating 1 	| +1 Simple (physical) 	|
+| Wired Reflexes / Improved Reactions (etc) 	| Rating 1 	| +1 Simple (physical) 	|
 |                                     	| Rating 2 	| +2 Simple (physical) 	|
 |                                     	| Rating 3 	| +3 Simple (physical) 	|
 | Drugs                               	|          	| None                 	|
@@ -68,7 +68,7 @@ Summary table; discussion follows below:
 | Hot-sim VR                          	|          	| +3 Simple (Matrix)   	|
 | Initiated magician                  	| Grade 1  	| +1 Simple (magic)    	|
 |                                     	| Grade 2  	| +2 Simple (magic)    	|
-|                                     	| Grade 3  	| 3 Simple (magic)     	|
+|                                     	| Grade 3  	| +3 Simple (magic)     	|
 
 
 Note that no metahuman brain can cope with the multiplicity of inputs of being active in more than one “world” at once. Hence, characters can receive bonus meatspace actions, bonus matrix actions, or bonus magic actions; but only one. If they are eligible for more than one at once, through whatever combination of gear/augments/spells/etc, they can choose freely when rolling for initiative which “world” is getting their attention and hence which bonus minor actions they will receive.

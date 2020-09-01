@@ -39,26 +39,27 @@ Drop to the ground or get back up again[^standup].
 
 * Drop object (Free)
 * Pick up / put down object (Simple)
-* Use simple device
+* Use simple device - includes pressing buttons, turning something on or off, ejecting a weapon clip, changing a weapon's fire mode, etc.
   * with DNI (Free)
   * without DNI (Simple)
-  * Includes pressing buttons, turning something on or off, ejecting a weapon clip, changing a weapon's fire mode, etc.
 
 ## Weapons
 
-* Ready weapon:
+* Ready weapon [^readyweapon]
 	* Pistol w/ slide or quick draw holster (Free)
 	* Handgun (up to SMG) or short melee/thrown weapon (Simple)
 	* Long gun, sword, bow, etc (Complex)
 * Insert clip (Simple)
 * Reload non-clip weapon (special)
 
+[^readyweapon]: This is changed from RAW; I have removed the Quick Draw action and instead made quick draw holsters a Free action. Larger weapons become a Complex action rather than a Simple to ready up.
+
 ## Attacking related
 
 * Call a shot (Free)
-* Declare split multiple attack (Free)
-* Take Aim (special) (see below)
+* Take Aim (special) (**TODO**)
 * Attack (Complex) (see below)
+* Declare split multiple attack (Free)
 * Carnival of Carnage (special) (see below)
 
 ### Attacks
@@ -80,16 +81,26 @@ You can do as many attacks, during your turn, as you have actions to spend; the 
 
 [^coc]: Shoutout to the rad action movie RPG Feng Shui, from whence I stole this name.
 
-Recoil is no longer tracked across turns, but it does apply (in total) across all the attacks done within a single phase. For example, if a character has two Complex actions to spend, and uses them to do two Fire Weapon (BF) attacks, that's 6 points of recoil that apply across both attacks. If they have four points of Recoil Compensation, they will take a net -2 penalty on *both* attacks. However, when they start their next turn, the recoil counter is reset.
+**Recoil** is no longer tracked across turns, but it does apply (in total) across all the attacks done within a single phase.
+
+{{% alert title="Recoil example" %}}
+Alice has two Complex actions to spend, and uses them to do two Fire Weapon (BF) attacks, so that's 6 points of recoil that applies across both of her attacks. If she has four points of Recoil Compensation, she takes a net -2 penalty on *both* attacks. However, when she starts her next turn, the recoil counter is reset.
+{{% /alert %}}
 
 ### Carnival of Carnage 
 
-If the attacker has:
+If the attacker has either:
 
-1. extra physical/meatspace actions and 
+1. a ranged weapon *and*
+1. extra physical/meatspace actions *and* 
 1. a smartlink with a DNI connection to a smartgun 
 
-...then they can use a new type of multiple attack, _Carnival of Carnage_.  They can also perform CoC with a melee attack with any weapon, as long as they can move far enough to reach everyone during their phase.
+or:
+
+1. a melee weapon *and*
+1. multiple targets within movement range
+
+...then they can use a new type of multiple attack, _Carnival of Carnage_. 
 
 To use CoC:
 

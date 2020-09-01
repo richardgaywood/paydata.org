@@ -45,7 +45,7 @@ When a vehicle is attacked - either shot at or rammed - we need a dice pool to d
 
 A person controlling a vehicle manually must spend at least one Complex Action per turn on a Control Vehicle action, otherwise they will lose control of the vehicle at the end of the turn. Uncontrolled vehicles impose -2 dice pool penalties on all occupants as they skid around, and will either be brought under control by the autopilot or crash.
 
-However, if the driver is controlling the vehicle via AR and choose to receive two bonus Matrix simple actions, they can use those actions to control the vehicle, effectively doing so for "free." This does mean they cannot receive any bonus meatspace actions, however. See the [action economy page]({{<relref "action_economy/basics.md">}}) for more information.
+However, if the driver is controlling the vehicle via AR and choose to receive two bonus Matrix simple actions, they can use those actions to control the vehicle, effectively doing so for "free." This does mean they cannot receive any bonus meatspace actions, however. See the [action economy page]({{<relref "houserules/action_economy/basics.md">}}) for more information.
 
 A jumped-in rigger can do their Control Vehicle for a vehicle with a Free action.
 

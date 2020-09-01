@@ -47,7 +47,7 @@ description: Various kinds of Matrix damage, link-locking, biofeedback, etc
 * -2 dice on all actions for next (10-Willpower) minutes
 
 {{% alert title="Notes" %}}
-*My [action economy changes]({{< relref "action_economy/basics.md" >}}) put AR with DNI on a similar footing to cold-sim VR. Hence, I have also made it equally vulnerable to dumpshock and link-locking. This also makes sense to me from an in-game perspective as both access modes are based on DNI.*
+*My [action economy changes]({{< relref "houserules/action_economy/basics.md" >}}) put AR with DNI on a similar footing to cold-sim VR. Hence, I have also made it equally vulnerable to dumpshock and link-locking. This also makes sense to me from an in-game perspective as both access modes are based on DNI.*
 {{% /alert %}} 
 
 ## Link-locking
