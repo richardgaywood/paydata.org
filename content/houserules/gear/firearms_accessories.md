@@ -71,4 +71,4 @@ However, to really unlock the full potential, the user has to have DNI and also 
 * Everything in the above list. 
 * +2 dice to all attacks with the gun. 
 * Integration of the gun camera into their AR setup, meaning the can blind fire (eg around corners or from full cover) at -4 dice pool. 
-* The ability to use [a powerful multi-target attack action]({{< relref "action_economy.md#new-multiple-attack" >}}). 
+* The ability to use [a powerful multi-target attack action]({{< relref "action_economy/physical_actions.md#carnival_of_carnage" >}}). 
