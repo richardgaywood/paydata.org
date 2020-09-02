@@ -11,10 +11,15 @@ description: Gun modifications and accessories
 
 Holsters:
 
-* Concealable Holster: -2 to weapon concealability. Only for pistols/tasers. Weapon cannot be quick drawn.
-* Arm slide: Only for holdout/light/taser pistols. -1 to weapon concealibility. Allows Quick Draw action. 
-	* DNI: can ready the weapon as a Free Action, no need to Quick Draw.
-* Quick draw holster: Only for pistols/tasers. Allows Quick Draw action.
+* Concealable Holster: -2 to weapon concealability. Only for pistols/tasers. Weapon takes a Complex action to draw.
+* Arm slide: Only for holdout/light/taser pistols. No change to concealability. Weapon takes a Free action to draw.
+* Quick draw holster: +1 to weapon concealability. Only for pistols/tasers. Weapon takes a Free action to draw.
+* Standard holster: suitable for any handgun (up to SMGs). Weapon takes a Simple action to draw.
+
+Long guns:
+
+* Strap: lets you wear a gun on your shoulder. Weapon takes a Complex action to ready. It might be (just about) concealable, if you're wearing bulky clothing.
+* Tactical sing: suitable for any long gun. Holds weapon around your chest. Weapon takes a Simple action to ready, but it cannot be hidden.
 
 Accuracy modifications:
 
@@ -27,7 +32,7 @@ Recoil compensation (RC) mods:
 
 * Bipod: 2 points of RC. Requires 1 Simple Action to set it up and get into a firing position, which must be repeated each time the firer moves.
 * Shock pad: 1 points of RC. Only usable on weapons with stocks.
-* Gas-vent system: 1-3 points of RC.
+* Gas-vent system: 2 points of RC.
 * Gyro mount: 6 points of RC.
 
 Other mods:
