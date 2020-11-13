@@ -36,6 +36,8 @@ As per RAW, stunts are an unopposed driving tests with a threshold of between 1 
 
 When a vehicle is attacked - either shot at or rammed - we need a dice pool to defend against that damage. What this dice pool should be is pretty unclear from RAW. I am borrowing the below wholesale from [A Light In The Dark](https://docs.google.com/document/d/1OY5wjybJXY297QBfUvXPCJZww72tRXYn-NqE0Umknno/edit); that link has further discussion about why they made these choices.
 
+A vehicle can only roll this test if it is in motion. Stationary vehicles do not get a defence test.
+
 * **Vehicle or drone on autopilot**: The vehicle or drone defends with pilot + maneuvering autosoft. If it has no autosoft, with twice its pilot. The vehicle can full defense; if it does, it applies its pilot to the roll.
 * **Driving vehicle in the meat** (physical or AR controls): You make defense tests for the vehicle using your Reaction + Intuition, as normal. You can’t block or parry.  You can’t full defense for the vehicle, but you can evasive drive, which applies your intuition to the defense test.  Combat sense applies.
 * **Piloting in VR (no control rig)**: You make defense tests for the vehicle using your Intuition + Intuition. You can’t block or parry  You can’t full defense for the vehicle, but you can evasive drive, which applies your Intuition to the defense test. Combat Sense does not apply. Hotsim does not apply a bonus.
@@ -65,10 +67,12 @@ First, work out the impact speed:
 
 * If the vehicle is ramming a stationary object, as long as it has enough runup, the driver can choose any speed up the vehicle's maximum. GM might restrict this if there's not enough room.
 * If it's vehicle versus vehicle and both are moving:
-	* If it's a handling environment, use the two vehicles' Acceleration stat. Putting on a last-second surge of speed is the important thing here.
-	* If it's a speed environment, use the two vehicles' Speed stat. Raw top speed is what matters.
-	* If it's a head-on collision, the attacker can choose the impact speed, up to their vehicle's full Speed or Acceleration stat.
-	* If it's a from-behind collision, subtract the stats. If this ends up less than 1, use 1.
+	* First, pick a vehicle stat to use:
+		* If it's a handling environment, use the two vehicles' Acceleration stats. Putting on a last-second surge of speed is the important thing here.
+		* If it's a speed environment, use the two vehicles' Speed stat. Raw top speed is what matters.
+	* Now, compare the stats:
+		* If it's a head-on collision, the attacker can choose the impact speed, up to their vehicle's full Speed or Acceleration stat.
+		* If it's a from-behind collision, subtract the stats. If this ends up less than 1, use 1.
 
 Second, roll to hit:
 
@@ -79,7 +83,7 @@ There is no clean miss here. If the defender gets more hits, they can still end 
 
 Third, work out the damage code done to the defender: take attacking vehicle's Body, subtract defending vehicle's Body (minimum 1.) Add attacker's net hits. Multiply by the impact speed. This is the number of boxes the defending vehicle has to soak with Body + Armour.
 
-Fourth, work out the damage code done to the defender: take defending vehicle's Body, subtract attacking vehicle's Body, minimum 1. Subtract attacker's net hits. Multiply by the impact speed. This is the number of boxes the attacking vehicle has to soak with Body + Armour.
+Fourth, work out the damage code done to the defender: take defending vehicle's Body, subtract attacking vehicle's Body (minimum 1.) Subtract attacker's net hits. Multiply by the impact speed. This is the number of boxes the attacking vehicle has to soak with Body + Armour.
 
 {{% alert title="Example" %}}
 Alice is jumped in and driving a Ford Americar (Body 8, Armour 4, Acceleration 2) and tries to ram Bob who's riding a Suzuki Mirage (Body 5, Armour 6, Acceleration 3). It's a Handling environment. Bob is trying to get away, so we use the difference in the stats.
