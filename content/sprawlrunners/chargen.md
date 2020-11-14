@@ -63,7 +63,7 @@ You can use LPs to buy stuff in chargen if you want, just to get a feel for what
 
 If you want more LPs, look at the Rich or Filthy Rich edges. You will also earn more as your character advances.
 
-### Special gear: cyberware, foci
+### Special gear: cyberware, foci, signature weapons
 
 Items your character owns permanently, like cyberware or magical foci, works differently. You choose an Edge and get the gear, forever, without spending LPs.
 
@@ -73,4 +73,4 @@ Some common/small cyberware doesn't cost any Implant Points. To get these, you h
 
 ### Adept powers
 
-Adept powers work similarly to 
+Adept powers work similarly to Implant Points. You get Chi Points with your Arcane Background edge, and more via other edges. Then you spend those points on powers.
