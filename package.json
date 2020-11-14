@@ -10,6 +10,6 @@
     "postcss": "x",
     "postcss-cli": "x",
     "postcss-reporter": "x",
-    "autoprefixer": "x",  
+    "autoprefixer": "x"
   }
 }
