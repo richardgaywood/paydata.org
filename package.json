@@ -1,5 +1,5 @@
 {
-  "name": "paydata.org contents",
+  "name": "paydata.org",
   "description": "",
   "version": "1.0.0",
   "repository": {
@@ -7,7 +7,9 @@
     "url": "https://github.com/richardgaywood/blog/tree/master/paydata.org/"
   },
   "dependencies": {
+    "postcss": "x",
     "postcss-cli": "x",
-    "autoprexer": "x"
+    "postcss-reporter": "x",
+    "autoprefixer": "x",  
   }
 }
