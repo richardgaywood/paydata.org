@@ -1,6 +1,6 @@
 ---
-title: Chargen
-linkTitle: Chargen
+title: Wireless matrix & hacking
+linkTitle: Wireless
 type: docs
 description: Wi-fi for all!
 date: 2020-07-05

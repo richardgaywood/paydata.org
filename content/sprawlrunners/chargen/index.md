@@ -57,7 +57,7 @@ Some notes about specific skills:
 
 ### Guns, vehicles, and other gear
 
-Sprawlrunners uses an innovative system for gear where you do not purchase it at character generation. Instead, your character has Logistics Points (LPs), representing their cash on hand, contacts, and trustworthiness. You "spend" these points during play to acquire gear you need for the mission, then discard the gear later so you can't be traced or tracked through it.
+Sprawlrunners uses an innovative system for gear where you do not purchase it at character generation. Instead, your character has Logistics Points (LPs), representing their cash on hand, contacts, and trustworthiness. You "spend" these points during play to acquire gear you need for the mission, then discard the gear later so you can't be traced or tracked through it. This gear is off-the-books; your contacts have taken the time to scrub it clean of any identifying or traceable marks, and it comes complete with fake licences where appropriate.
 
 You can use LPs to buy stuff in chargen if you want, just to get a feel for what it costs, but you're not committed to those purchases.
 
