@@ -1,8 +1,8 @@
 ---
-title: Magic houserules
-linkTitle: Magic
+title: Astral space, perception, and projection
+linkTitle: Astral
 type: docs
-description: Things I'm changing about magic
+description: The astral plane; how to go there and what to do
 date: 2020-07-05
 weight: 400
 ---

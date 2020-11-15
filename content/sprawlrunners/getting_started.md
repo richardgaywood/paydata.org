@@ -4,7 +4,7 @@ linkTitle: "Getting started"
 type: docs
 description: A brief overview of the Savage Worlds RPG system
 date: 2020-07-05
-weight: 100
+weight: 50
 ---
 
 You need two books:
