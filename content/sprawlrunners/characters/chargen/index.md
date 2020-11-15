@@ -7,7 +7,7 @@ date: 2020-07-05
 weight: 200
 ---
 
-There is a character generation tool for Savage Worlds at [savaged.us](https://savaged.us/). It's free, and has support for Sprawlrunners, but there's a few non-obvious things to getting the best from it.
+There is a character generation tool for Savage Worlds at [savaged.us](https://savaged.us/). It's free, and has support for Sprawlrunners, but there's a few non-obvious things to getting the best from it. It also has a few minor areas in which it doesn't quite reflect the Sprawlrunners rules, so you'll need to manually adjust your character or just ignore it's validation warnings.
 
 NB: the chargen quick reference in the SWADE CRB, pages 55-63, are very good and are recommended reading. Remember that the Sprawlrunners book adds extra options on top of those, though.
 
@@ -36,7 +36,7 @@ To play a **mage, shaman, or physical adept** character, skip ahead to Edges and
 
 ### Hindrances
 
-Remember you are restricted to no more than 4 points of hindrances, where a Minor hindrance is worth 1 point and a Major hindrance is worth 2 points. When you're done, select "Add an Edge" in the "Perks" box in the left column to spend the points you got for the hindrances.
+Remember that you are restricted to no more than 4 points of hindrances, where a Minor hindrance is worth 1 point and a Major hindrance is worth 2 points. You can use these points for various boosts, like increasing skills or more Edges. You can choose how to use each point in the "Perks" box in the left column.
 
 For descriptions of the Hindrances, see the SWADE CRB and the Sprawlrunners book. You also get a one-line summary within savaged.us when you add them to your character.
 
@@ -67,10 +67,18 @@ If you want more LPs, look at the Rich or Filthy Rich edges. You will also earn 
 
 Items your character owns permanently, like cyberware or magical foci, works differently. You choose an Edge and get the gear, forever, without spending LPs.
 
-To get cyberware, take the Chromed, Man And Machine, and/or More Machine Than Man edges. Each of these gives you 2 Implant Points to spend on cyberware. Note that (for technical reasons) the cyberware part of savaged.us lists the "cost" of cyberware as Logistic Points, but this is incorrect, they're actually Implant Points.
+To get cyberware, take the Chromed, Man And Machine, and/or More Machine Than Man edges. Each of these gives you 2 Implant Points to spend on cyberware. Note that (for technical reasons) the cyberware part of savaged.us lists the "cost" of cyberware as Logistic Points, but this is incorrect, they're actually Implant Points. You'll have to double check the calculation manually.
 
-Some common/small cyberware doesn't cost any Implant Points. To get these, you have to take the Implanted edge. You can take any amount of zero-rated cyberware once you take the Implanted edge once.
+Some common/small cyberware doesn't cost any Implant Points. To get these, you have to take the Implanted edge. You can take any amount of zero-rated cyberware once you take the Implanted edge once. The Implanted edge is free, but note that savaged.us will charge you a point for it. 
 
-### Adept powers
+### Adept powers & spells 
 
-Adept powers work similarly to Implant Points. You get Chi Points with your Arcane Background edge, and more via other edges. Then you spend those points on powers.
+To select your spells or adept powers, you'll use the Powers tab. This will appear once you select an arcane background.
+
+Adept powers work similarly to Implant Points. You get Chi Points with your Arcane Background edge, and more via other edges as your character progresses. Then you spend those points on powers.
+
+Mages and shamans also use the Powers tab to select their spells. Note that shaman have a much shorter list of allowed powers, but their summoned spirits can cast spells, whereas a mage's elementals cannot.
+
+Note also that you need use the Summon Ally power to summon spirits or elementals. **As a houserule, I am making this power available to all mages and shamans for free, in addition to the 3 powers you start with.** 
+
+
