@@ -9,6 +9,8 @@ weight: 400
 
 ## Astral space
 
-Sprawlrunners RAW does not use astral projection.
+Sprawlrunners RAW does not use astral projection and significantly linits astral perception.
 
 As a houserule, I will allow astral projection in my campaign.
+
+
