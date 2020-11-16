@@ -27,9 +27,9 @@ All characters get a d4 rank in these skills for free, without having to spend a
 * Athletics (Agility): Running, climbing, jumping, balancing, throwing (including weapons), catching.
 * Common Knowledge (Smarts): General knowledge of daily life in the Sixth World.
   * See note above for specialisations.
-* Notice (Smarts): Awareness and perception; the ability to spot trouble coming or non-obvious clues.
-* Persuasion (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies.
-* Stealth (Agility): The ability to sneak and hide, tail people without being noticed, and spot a tail thats on you.
+* Notice (Smarts): Awareness and perception; the ability to spot trouble coming, find non-obvious clues, or read body language to guess at someone's emotional state.
+* Persuasion (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
+* Stealth (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
 
 ## Combat skills
 
@@ -59,14 +59,15 @@ See also "Athletics" and "Stealth" under common skills, above.
 
 * Gambling (Smarts): Skill and familiarity with games of chance. 
 * Healing (Smarts): The ability to treat and heal Wounds and diseases, and decipher forensic evidence. Note that dealing with cyberware systems might also need Electronics and/or Repair, depending on what you're doing.
-* Thievery (Agility): Sleight of hand, pickpocketing, lockpicking, and other such dubious feats of legerdemain.
 * Survival (Smarts): How to find food, water, or shelter (including in urban environments).
+* Thievery (Agility): Sleight of hand, pickpocketing, lockpicking, setting/disabling traps, and other such dubious feats of legerdemain.
+
 
 ## Social skills
 
 See also "Persuasion" under common skills, above.
 
-*  Etqiuette (Smarts): A character's ability to blend in with the background, carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
+*  Etqiuette (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
 	 * Academic
 	 * Corporate
    * Organised crime
@@ -76,6 +77,8 @@ See also "Persuasion" under common skills, above.
 *  Intimidation (Spirit): The ability to threaten others into compliance. 
 *  Performance (Spirit): Singing, dancing, acting, or other forms of public expression.
 *  Taunt (Smarts): Insulting or belittling another. Can be done during combat to distract opponents.
+
+If using a social skill in a language other than the character's native tongue, if their language dice is lower than their social skill dice, roll the language dice instead.
 
 ## Magical skills
 
@@ -87,17 +90,19 @@ See also "Persuasion" under common skills, above.
 ## Technical skills
 
 *  Electronics (Smarts): The use of electronic and computerised devices and systems. Their manipulation, repair, and sabotage. Anything involving computer hardware (as opposed to software, which is Hacking.) 
-*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions do not require a Hacking roll.)
-*  Repair (Smarts): The ability to fix, build, and modify mechanical gadgets, including weapons, vehicles, etc.
+*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll.)
+*  Repair (Smarts): The ability to fix, build, and modify mechanical and electrical gadgets, including weapons, vehicles, etc. Also used for setting and using explosives and demolitions.
+
+When repairing or modifying electronics, use the lowest of the characters' Repair and Electronics skills.
 
 ## Knowledge skills
+
+See also Common Knowledge, above.
 
 *  Language (Smarts): Knowledge and fluency in a particular language. 
 *  Occult (Smarts): Knowledge of magical theory, supernatural events, creatures, history, and ways.
 *  Research (Smarts): Finding written information from various sources. Used for Matrix searches.
 *  Science (Smarts): Theoretical knowledge of scientific fields such as biology, chemistry, geology, engineering, etc.
-
-See also Common Knowledge, above.
 
 ## For reference: what I've changed
 
