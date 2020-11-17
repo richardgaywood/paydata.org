@@ -37,6 +37,12 @@ Most of this is completely optional but selecting your native language is helpfu
 
 Don't worry about adding Sprawlspeak to your character sheet at this point. There's no way to do it that won't cost you points. We'll take care of that during play.
 
+### Character level
+
+For now, I think we'll be starting freshly generated characters at the Seasoned rank. This will not only make you more powerful, it'll also significantly expand the options open to you. 
+
+To do that, go to the Advances tab and enter "4". You don't need to use those advances -- for extra edges, points etc -- just yet. But doing this now will open up options to you through the rest of character generation. 
+
 ### Awakened characters
 
 To play a **mage, shaman, or physical adept** character, skip ahead to Edges and add "Arcane Background", then come back. This will unlock other options you want to take.
@@ -46,6 +52,8 @@ To play a **mage, shaman, or physical adept** character, skip ahead to Edges and
 Remember that you are restricted to no more than 4 points of hindrances, where a Minor hindrance is worth 1 point and a Major hindrance is worth 2 points. You can use these points for various boosts, like increasing skills or more Edges. You can choose how to use each point in the "Perks" box in the left column.
 
 For descriptions of the Hindrances, see the SWADE CRB and the Sprawlrunners book. You also get a one-line summary within savaged.us when you add them to your character.
+
+Also remember that you can use Hindrances to your advantage -- when you roleplay them well, I'll generally five give you a Bennie. 
 
 ### Traits
 
@@ -62,9 +70,11 @@ Some notes about specific skills:
 * **Persuasion** is your go-to "lie convincingly" skill.
 * **Notice** is your perception skill.
 
+For more information, see the Skills page. 
+
 ### Guns, vehicles, and other gear
 
-Sprawlrunners uses an innovative system for gear where you do not purchase it at character generation. Instead, your character has Logistics Points (LPs), representing their cash on hand, contacts, and trustworthiness. You "spend" these points during play to acquire gear you need for the mission, then discard the gear later so you can't be traced or tracked through it. This gear is off-the-books; your contacts have taken the time to scrub it clean of any identifying or traceable marks, and it comes complete with fake licences where appropriate.
+Sprawlrunners uses an innovative system for most gear where you do not purchase it at character generation. Instead, your character has Logistics Points (LPs), representing their cash on hand, contacts, and trustworthiness. You "spend" these points during play to acquire gear you need for the mission, then discard the gear later so you can't be traced or tracked through it. This gear is off-the-books; your contacts have taken the time to scrub it clean of any identifying or traceable marks, and it comes complete with low-grade fake licences where appropriate.
 
 You can use LPs to buy stuff in chargen if you want, just to get a feel for what it costs, but you're not committed to those purchases.
 
@@ -85,7 +95,4 @@ To select your spells or adept powers, you'll use the Powers tab. This will appe
 Adept powers work similarly to Implant Points. You get Chi Points with your Arcane Background edge, and more via other edges as your character progresses. Then you spend those points on powers.
 
 Mages and shamans also use the Powers tab to select their spells. Note that shaman have a much shorter list of allowed powers, but their summoned spirits can cast spells, whereas a mage's elementals cannot.
-
-Note also that you need use the Summon Ally power to summon spirits or elementals. **As a houserule, I am making this power available to all mages and shamans for free, in addition to the 3 powers you start with.** 
-
 
