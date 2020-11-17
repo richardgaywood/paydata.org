@@ -51,7 +51,7 @@ All characters get a d4 rank in these skills for free, without having to spend a
 * Boating (Agility): Ability to sail or pilot a boat, ship, submarine, or any other watercraft.
 * Driving (Agility): The ability to control, steer, and operate ground vehicles - whether with wheels, treads, or legs (eg. walker drones).
 * Piloting (Agility): Skill with maneuvering vehicles that operate in three dimensions, such as airplanes, helicopters, spaceships, etc. Includes ground-effect vehicles like t-birds and rotordrones.
-* Riding (Agility): A character's skill in mounting, controlling, and riding a tamed beast. Probably not very useful in an urban cyberpunk game! 
+* Riding (Agility): A character's skill in mounting, controlling, and riding a tamed beast. Probably not very useful in an urban cyberpunk game!
 
 ## Physical active skills
 
