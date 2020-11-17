@@ -15,10 +15,17 @@ NB: the chargen quick reference in the SWADE CRB, pages 55-63, are very good and
 
 You can only access the Sprawlrunners tools in savaged.us if you register for the site. So do that. Note that it has a bit of a habit of logging you out unexpectedly - keep an eye on that (if it does log you out, it'll have a Login prompt at the top right.)
 
-Once you do that, select Characters in the left toolbar (1), then the New Character icon at the bottom right (2), then select Sprawlrunners from the list of settings (3). This will pre-load some rules customisations.
+I have a custom setting for our campaign here: [savaged.us/s/qlp2jxy3](https://savaged.us/s/qlp2jxy3). It includes, wherever possible, houserules we are using. Click that link and click "use setting" at the top right to start generating your character. 
+
+{{% alert title="Note" color="warning" %}}
+This custom setting is pretty experimental right now and I'm changing it quite often.
+{{% /alert %}} 
+
+<!-- Once you do that, select Characters in the left toolbar (1), then the New Character icon at the bottom right (2), then select Sprawlrunners from the list of settings (3). This will pre-load some rules customisations.
 
 {{< imgproc "savaged_01_make_character.png" Resize "600x" >}}
 {{< /imgproc >}}
+-->
 
 ## Notes on each step
 
