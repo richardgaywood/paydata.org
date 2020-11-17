@@ -28,8 +28,8 @@ All characters get a d4 rank in these skills for free, without having to spend a
 * Common Knowledge (Smarts): General knowledge of daily life in the Sixth World.
   * See note above for specialisations.
 * Notice (Smarts): Awareness and perception; the ability to spot trouble coming, find non-obvious clues, or read body language to guess at someone's emotional state.
-* Persuasion (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
-* Stealth (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
+* Persuasion (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
+* Stealth (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
 
 ## Combat skills
 
