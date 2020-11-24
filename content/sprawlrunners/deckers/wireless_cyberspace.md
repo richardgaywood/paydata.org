@@ -11,6 +11,8 @@ By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: 
 
 *NB I will use Shadowrun-speak below ie "decker" not "operator", "host" not "system."*
 
+This doc concentrates on just the mechanics. To read information on how it works in the setting, see [Wireless World]({{< relref "wireless_world/_index.md" >}}).
+
 ## Goals
 
 The main game scenarios these rules are intended to support are: 

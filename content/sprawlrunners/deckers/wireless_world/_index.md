@@ -4,7 +4,7 @@ linkTitle: Wireless World
 type: docs
 description: Setting information on how the wireless Matrix works from an in-game perspective
 date: 2020-11-21
-weight: 300
+weight: 800
 ---
 
 {{% alert title="Notes" %}}
