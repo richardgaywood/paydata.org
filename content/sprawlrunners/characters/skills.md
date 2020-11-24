@@ -3,6 +3,7 @@ title: "Skills for my campaign"
 linkTitle: "Skills"
 type: docs
 weight: 500
+date: 2020-11-18
 ---
 
 My houserules make some small changes to the available skills in Savage Worlds and Sprawlrunners. Below is a complete reference to all the skills, including the ones in core SWADE. It also has some clarifications of which skill applies to some common actions where it's perhaps not immediately obvious (eg. is a Matrix search Electronics, Hacking, or Research?)

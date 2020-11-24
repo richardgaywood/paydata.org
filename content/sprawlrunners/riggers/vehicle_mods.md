@@ -7,26 +7,7 @@ date: 2020-07-05
 weight: 600
 ---
 
-Per Sprawlrunners RAW, anyone can purchase an untraceable vehicle with LP; riggers get no special abilities to tune their vehicles. This aims to address that by giving riggers access to a workshop (via an edge) that can be used to boost vehicle stats or outfit them with add-ons.
-
-Mod Points represent access to tools and parts, and are spent like Logistics Points. They can be used to tweak vehicles before the mission, or even during it if the opportunity presents itself.
-
-## New Edges
-
-### Mod Shop
-
-Requirements: Novice, Repair d6+ \
-Character gains a pool of 3 Mod Points.
-
-### Improved Mod Shop
-
-Requirements: Seasoned, Repair d8+, Mod Shop \
-Character gains a further 4 Mod Points.
-
-### Mod God
-
-Requirements: Veteran, Repair d10+, Improved Mod Shop \
-Character gains a further 5 Mod Points.
+Per Sprawlrunners RAW, anyone can purchase an untraceable vehicle with LP; riggers get no special abilities to tune their vehicles. This aims to address that by giving riggers access to a workshop (via [new edges]({{< relref "edges.md" >}}) ) that can be used to boost vehicle stats or outfit them with add-ons.
 
 ## Spending Mod Points
 

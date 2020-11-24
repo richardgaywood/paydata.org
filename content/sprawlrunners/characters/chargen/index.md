@@ -3,7 +3,7 @@ title: Chargen
 linkTitle: Chargen
 type: docs
 description: Quick notes on how to generate characters for Sprawlrunners
-date: 2020-07-05
+date: 2020-11-15
 weight: 200
 ---
 
