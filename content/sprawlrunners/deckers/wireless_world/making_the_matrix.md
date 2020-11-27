@@ -11,7 +11,14 @@ weight: 100
 
 The third-generation Matrix is a technological marvel, delivering complex AR and VR applications to users wirelessly. But how does it manage such fast connections without requiring the user to physically connect a cable? The answer comes in two parts.
 
-The first part is the *global grid*, also known colloquially as *the backbone*. This is broadly equivalent to what we today call "the cloud"; it's the sum of all the physical infrastructure of fibre trunks, satellite uplinks, and other super-speed connections that connect all the Matrix's hosts together. Within the backbone, speed is functionally infinite, and distance is no issue. 
+The first part is the *global grid*, also known colloquially as **the backbone**. This is broadly equivalent to what we today call "the cloud"; it's the sum of all the physical infrastructure of fibre trunks, satellite uplinks, and other super-speed connections that connect all the Matrix's hosts together. Within the backbone, speed is functionally infinite, and distance is no issue. But you can only use the backbone if you have a physical, wired connection to it.
+
+Early 21st century cellular wireless standards don't work. The Matrix demands very fast high-frequency ultra-wideband radios, but they are easily blocked by the gleaming steel-and-glass towers of the sprawl. You'd never get a signal. How to square this circle? 
+
+The answer is a *mesh network*. Suppose Alice wants to check the latest updates on her P2.1 social feed. Her commlink sends the request to her neighbour Bob's commlink. From there, it's forwarded to Charlie's commlink. And so it travels, until it reaches an *uplink host* - which has a hardline connection to the backbone. From there, it can whizz off to the right host. The P2.1 host sees the request, and sends the response back down the same link. This all happens in the blink of an eye.
+
+...
+
 
 But to get traffic from your commlink onto the backbone without a cable, you need the *local mesh*. This is a semi-autonomous mesh network of all nearby devices, co-operating and co-ordinating to route data from device to device until it reaches its destination. This mesh network is crucial, as the connections required for the Matrix need ultra-wideband high frequency radio signals, which only have a range of a few dozen meters. Without the local mesh, you could only get a signal when you were adjacent to an *uplink host*.
 

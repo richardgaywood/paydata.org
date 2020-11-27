@@ -1,8 +1,8 @@
 ---
-title: The Wireless Matrix
-linkTitle: Wireless World
+title: Setting information about the wireless Matrix
+linkTitle: Setting
 type: docs
-description: Setting information on how the wireless Matrix works from an in-game perspective
+description: How the wireless Matrix works, from an in-game perspective
 date: 2020-11-21
 weight: 800
 ---
