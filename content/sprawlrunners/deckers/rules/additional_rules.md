@@ -3,7 +3,7 @@
 title: Additional rules
 linkTitle: Additional rules
 type: docs
-description: xxx
+description: Extra bits and pieces; hacking via back doors; new utilities
 date: 2020-11-27
 weight: 800
 ---
