@@ -18,9 +18,9 @@ Sprawlrunners' RAW defines one type of hack target - nodes. In my houserules, th
 
 ## Local mesh hacking
 
-All hacking against standalone devices or PANs is done over the local mesh. This means the hacker must be able to reach the target on the local mesh, which is typically around 50-100 metres (but can vary with local network conditions.)
+All hacking against standalone devices or PANs is done over [the local mesh]({{< relref "making_the_matrix.md" >}}) . This means the hacker must be able to reach the target via the local mesh, which is typically around 50-100 metres (but can vary with local network conditions.)
 
-To carry out the hack, the decker rolls Hacking skill vs the device's Firewall stat (the device rating dice type divided by two - same as Toughness.) If hacking a PAN consisting of lots of devices protected by a commlink, it's the commlink's rating that is used here.
+To carry out the hack, the decker rolls Hacking skill vs the device's Firewall stat (the device rating dice type divided by two - same as Toughness in meatspace.) If hacking a PAN consisting of lots of devices protected by a commlink, it's the commlink's rating that is used here.
 
 Hacking attempts against standalone devices or PANs contribute to [the local mesh alarm state]({{< relref "alarms.md" >}}) as follows:
 
@@ -50,20 +50,20 @@ Civilian PANs have ratings and Firewall (Matrix toughness) as follows:
 * High-end consumer: d6 / 3
 * Elite consumer: d8 / 4
 
-To manipulate devices attached to a PAN, first the decker must hack into the PAN itself. Once there, the decker can manipulate devices on the PAN (eg snoop on phone calls, or trace the device's precise physical location). Each of those is an action and a further Hacking roll against the PAN's toughness (note: not the device's toughness), same as Sprawlrunners RAW.
+To manipulate devices attached to a PAN, first the decker must hack into the PAN itself. Once there, the decker can manipulate devices on the PAN (eg snoop on phone calls, or trace the device's precise physical location). Each of those is an action and a further Hacking roll against the PAN's firewall (note: not the device's firewall), same as Sprawlrunners RAW.
 
-To interfere with all gear connected to a PAN, a decker can also use the Smoke action; this applies a -2 penalty to all actions that use gear attached to the PAN or node, or -4 penalty on a Raise. This does not affect cyberware but does affect comms, weapons, drones, etc.
+To interfere with all gear connected to a PAN, a decker can also use the Smoke action; this applies a -2 penalty to all actions that use gear attached to the PAN, or a -4 penalty on a Raise. This does not affect cyberware but does affect comms, weapons, drones, etc.
 
 **Any** failed hacking roll against a PAN immediately makes the owner aware of the intrusion attempt; they will typically react by rebooting or shutting down their device, unless they are distracted or have some reason to think they are not under attack.
 
 ## Hacking Secure PANs
 
-Secure PANs, guarded over by a watchful decker, cannot be hacked via stealth. Any would-be attacker has to engage them in active cybercombat. Cybercombat does not contribute to the local mesh alarm score.
+Secure PANs, guarded over by a watchful decker, cannot be hacked via stealth. Any would-be attacker has to engage them in active [cybercombat]({{< relref "cybercombat.md" >}}) . Cybercombat does not contribute to the local mesh alarm score.
 
 ## Hacking Hosts and WANs
 
 A WAN can only be hacked by entering the host or node that controls it, in VR, and avoiding or defeating the ICE within. See Sprawlrunners for rules.
 
-Once a decker has gained access to the WAN, they can issue commands to the devices connected to the WAN. This includes the Smoke action, which can be used to disrupt the gear of security forces.
+Once a decker has gained access to the host or node that is running the WAN, they can issue commands to the devices connected to the WAN. This includes the Smoke action, which can be used to disrupt the gear of security forces *en masse*.
 
 

@@ -33,7 +33,7 @@ As per Sprawlrunners core. Shaken applies to the decker using the 'deck. Cyberde
 
 ### Commlinks and other devices
 
-A commlink or other device that is Shaken is put into a crashed state. It can attempt to restart itself each turn by making an unshake roll, as usual. Until it does so, it is offline, cannot function, and cannot be targeted for further Matrix attacks. The owner/controller of a Shaken device can choose to immediately restart it as an action.
+A commlink or other device that is Shaken is put into a crashed state. Starting on the next turn, it can attempt to restart itself (on the owner's turn, but not costing the owner an action) by making an unshake roll using the device's rating die type. Until it does so, it is offline, cannot function, and cannot be targeted for further Matrix attacks. The owner/controller of a Shaken device can choose to immediately restart it as an action without needing to pass any test.
 
 If the device takes a Wound (via a raise on the attack roll) then they are bricked. They do not function again until repaired.
 
@@ -41,6 +41,6 @@ If the commlink that is running a PAN is Shaken, every device on the PAN is Shak
 
 ## Consequences of crashing things
 
-**Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. 
+**Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. Note that it might be more effective for offensive deckers to use a Smoke action to inflict penalties when using the gear than to brick it outright.
 
 Similarly, if you disrupt the Matrix component of a **vehicle**, then the autopilot and navigation is disrupted, but the occupants can still use manual controls to drive it. If they don't, then a backup failsafe will attempt to bring it to a safe halt.
