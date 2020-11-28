@@ -23,7 +23,23 @@ First, they built high walls around their kingdoms. Some of the most sophisticat
 
 But ICE isn't all-powerful, so the corps also set people to guard those walls. These counter-hackers, called *spiders* in the language of the street, sit in the middle of webs of sensors and alarms. Attract their attention, and they are swiftly dispatched to deal with you. And they are *good*, with all the equipment and training of their deep-pocketed masters.
 
+## The Grid Overwatch Division (GOD)
+
+Each megacorp can hire its own security staff to patrol its own hosts, but that leaves the backbone itself vulnerable to attacks. It's too important to leave undefended, so the Corporate Court formed the Grid Overwatch Division (GOD). GOD is a semi-autonomous organisation, tasked with defending public grid infrastructure, staffed by deckers and technicians loaned from the AA and AAA megacorps.
+
 ## How to hack
 
-...tbd...
+### Hacking on the local mesh
+
+On the local mesh, even a novice decker with a Saturday night special 'deck reigns supreme. Vending machines, security cameras, commlinks, door locks - few will cause a decker to even break stride.
+
+
+
+### Hacking local hosts and WANs
+
+### Hacking uplink and cloud hosts
+
+You don't. Not unless you're faster than Fastjack, and even then, it's still a suicide mission, *omae*.
+
+See, everything on the backbone - everything from the uplink host inwards - is GOD's dominion. And GOD are tough, fast, supremely well-trained, and ruthless. Most deckers survive by flying under their radar and never going toe-to-toe with them -- so you stay off their turf.
 

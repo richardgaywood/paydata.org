@@ -11,22 +11,19 @@ weight: 100
 
 The third-generation Matrix is a technological marvel, delivering complex AR and VR applications to users wirelessly. But how does it manage such fast connections without requiring the user to physically connect a cable? The answer comes in two parts.
 
-The first part is the *global grid*, also known colloquially as **the backbone**. This is broadly equivalent to what we today call "the cloud"; it's the sum of all the physical infrastructure of fibre trunks, satellite uplinks, and other super-speed connections that connect all the Matrix's hosts together. Within the backbone, speed is functionally infinite, and distance is no issue. But you can only use the backbone if you have a physical, wired connection to it.
+The first part is the *global grid*, also known colloquially as **the backbone**. This is broadly equivalent to what was known in the early 21st century as "the cloud"; it's the sum of all the physical infrastructure of fibre trunks, satellite uplinks, and other super-speed connections that connect all the Matrix's hosts together. Within the backbone, speed is functionally infinite, and distance is no issue. But you can only use the backbone if you have a physical, wired connection to it. Nobody wants that.
 
-Early 21st century cellular wireless standards don't work. The Matrix demands very fast high-frequency ultra-wideband radios, but they are easily blocked by the gleaming steel-and-glass towers of the sprawl. You'd never get a signal. How to square this circle? 
+Early 21st century cellular wireless standards are no help. The Matrix demands very fast high-frequency ultra-wideband radios, but they are easily blocked by the gleaming steel-and-glass towers of the sprawl. You'd never get a signal. How to square this circle? 
 
-The answer is a *mesh network*. Suppose Alice wants to check the latest updates on her P2.1 social feed. Her commlink sends the request to her neighbour Bob's commlink. From there, it's forwarded to Charlie's commlink. And so it travels, until it reaches an *uplink host* - which has a hardline connection to the backbone. From there, it can whizz off to the right host. The P2.1 host sees the request, and sends the response back down the same link. This all happens in the blink of an eye.
+The answer is a *mesh network*. Suppose Alice wants to check the latest updates on her P2.1 social feed. Her commlink sends the request to her neighbour Bob's commlink. From there, it's forwarded to Charlie's commlink. And so it travels, until it reaches an *uplink host* - which has a hardline connection to the backbone. From there, it can speed off to its final destination. The P2.1 host sees the request, and sends the response back down the same link. This all happens in the blink of an eye.
 
-...
-
-
-But to get traffic from your commlink onto the backbone without a cable, you need the *local mesh*. This is a semi-autonomous mesh network of all nearby devices, co-operating and co-ordinating to route data from device to device until it reaches its destination. This mesh network is crucial, as the connections required for the Matrix need ultra-wideband high frequency radio signals, which only have a range of a few dozen meters. Without the local mesh, you could only get a signal when you were adjacent to an *uplink host*.
-
-Speaking of which: uplink hosts are the third piece of the puzzle; sometimes they are called *beanstalks* (because they lead to the cloud...) Beanstalks are the on-ramps to the global grid; they bridge between the backbone and the local mesh. When you want to check your social media feeds, your connection jumps through the local mesh until it reaches a beanstalk. From there, it moves onto the global grid, and speeds off to whichever host you need to talk to.
+Every Matrix device automatically self-organises itself into a reliable mesh network, and sets up forwarding and routing so that everything transparently works. This is the **local mesh**. At all times, your Matrix devices exist in a bubble, extending perhaps a few hundred meters around you. Somewhere in that bubble is your closest uplink host, the one you will send backbone traffic to. 
 
 ## Hosts
 
 Hosts come in a few major types, depending on what kind of connection they have.
+
+First, there are the aforementioned uplink hosts, sometimes called *beanstalks*. These bridge between the backbone and the local mesh, a bit like an old-time cell tower. People don't really think about them too much; like any piece of reliable infrastructure, they fade into the background. But they're there, scattered around the sprawl.
 
 The most common type people interact with in their personal lives are *cloud hosts*. These are hosts made up of many physical servers distributed around the planet, all with their own connection to the backbone. They exist everywhere and nowhere at once. Cloud hosts are very powerful and very secure.
 
@@ -36,9 +33,9 @@ There are other, less common types of host. *Offline hosts* are computers that a
 
 ## Dark fibre
 
-The backbone infrastructure is administered and patrolled by GOD, and is theoretically neutral between the megacorps. But the corps didn’t get rich by trusting each other. Where security demands it, it’s not unusual for corporations to run their own private communication lines - for example between a secure, hidden facility and a more public one. This lets the secure facility access the Matrix discreetly without making its location or purpose obvious. This is called *dark fibre*.
+The backbone infrastructure is administered and patrolled by the Grid Overwatch Division, and is theoretically neutral between the megacorps. But the corps didn’t get rich by trusting each other. Where security demands it, it’s not unusual for corporations to run their own private communication lines - for example between a secure, hidden facility and a more public one. This lets the secure facility access the Matrix discreetly without making its location or purpose obvious. This is called *dark fibre*.
 
-On the local mesh, dark fibre functions like a wormhole. If you can hack the controlling host on one end, you can coerce it to carry your traffic to the other, and suddenly you can "see" devices that could be hundreds of kilometers away. Occasionally, wily shadowrunners use this as part of a smash-and-grab, using a forgotten dark fibre link to hack into a distant host that is too physically well-protected to get near in the physical world.
+On the local mesh, dark fibre functions like a wormhole. If you can hack the controlling host on one end, you can coerce it to carry your traffic to the other, and suddenly you can "see" devices that could be dozens or even hundreds of kilometers away. Occasionally, wily shadowrunners use this as part of a smash-and-grab, using a forgotten dark fibre link to hack into a distant host that is too physically well-protected to get near in the physical world.
 
 
 
