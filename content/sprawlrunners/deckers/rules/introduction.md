@@ -24,12 +24,3 @@ The main game scenarios these rules are intended to support are:
 ## A note about hosts and nodes in my game
 
 Sprawlrunners RAW describes very large hosts that are made up of many, many nodes, arranged in sprawling, labyrinthian structures. I do not plan to use this (typically, at least). Most hosts in my game will either have a single node that takes care of everything; or they will be divided into a handful of nodes, each dedicated to a task (eg. file storage, building system control, security.) Each node can typically be accessed from any other node; there is no internal "map" as such.
-
-## Comparing these rules to Shadowrun 5e
-
-These rules attempt to simplify the Shadowrun 5e Matrix rules by removing a number of options. For quick reference, some of the changes I have made include:
-
-* Streamline and merge the "AR / VR" and "in host / on grid" distinctions. Now, being in a host means always being in VR, and if you're not in a host then you are in AR.
-* Mostly remove the concepts of personas and unhackable digital ownership.
-* Distill all primary decker offensive actions to two kinds: hacking (stealthy, grants access) and cybercombat (violent, crashes devices.) 
-* If a device is in a PAN or WAN, it cannot be hacked directly; the attacker must hack the PAN or WAN instead (as per Shadowrun 6e, to be fair.)

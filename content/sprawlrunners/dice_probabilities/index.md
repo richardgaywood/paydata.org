@@ -4,7 +4,7 @@ linkTitle: Dice reference
 type: docs
 description: The chances of beating certain target numbers in Savage Worlds
 date: 2020-07-05
-weight: 1000
+weight: 5000
 ---
 
 The core dice mechanic in Savage Worlds is simple to explain, but not always easy to reason about: roll your attribute or skill dice (a d4, d6, d8, d10, or d12), plus your Wild Dice. Each dice explodes, ie. if you roll the maximum, you re-roll, and add on; repeat as needed. Once you've finished exploding each dice, take the highest of the two numbers.
