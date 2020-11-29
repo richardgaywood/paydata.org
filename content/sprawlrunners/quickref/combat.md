@@ -20,6 +20,7 @@ weight: 200
 * Normal actions:
   * Running
   * Attacking
+  * Aiming
 	* Supporting allies
 	* Testing foes
 	* Using a power
@@ -93,5 +94,21 @@ Each gun has a rate of fire (ROF) stat. If this is greater than 1, it can fire m
 2. Roll one Shooting dice per shot taken, plus one Wild die.
 3. Assign the dice to targets however you want. Any single Shooting die can be replaced by the Wild die roll, if you want.
 4. Resolve each damage rolls separately.
+
+## Supporting others
+
+Declare how you are helping, what skill of yours this is using, and what skill roll you are supporting. Roll a test using the skill as usual.
+
+On a success, the person you are helping takes +1 on their next action using the skill you declared. Get another +1 per Raise. But if you critically fail, they take -2!
+
+If they don't use their bonuses before the end of the round, they expire.
+
+## Testing opponents
+
+This is the opposite of supporting: it's annoying an enemy in some way. Declare what you're doing and a skill for it. Roll an opposed test of your skill vs. the opponents stat that is linked to the skill.
+
+On a success, you can choose to inflict Distracted or Vulnerable.
+
+Taunt is a good skill for this!
 
 
