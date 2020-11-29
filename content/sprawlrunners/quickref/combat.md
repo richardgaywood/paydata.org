@@ -9,18 +9,18 @@ weight: 200
 ## Actions
 
 * Initiative is determined by card draw. Some Edges let you manipulate this.
-* On your go, you can do one or more free actions and 1x normal action.
+* On your go, you can perform a few free actions and one normal action. Multiple free actions can be combined only if they can reasonably be done at the same time in real life, eg. speaking a sentence and drawing a gun while dropping prone.
 * If you are shaken, you first attempt to unshake as a free action.
 * Free actions:
-	* Move up to your Pace stat
+	* Move up to your Pace stat (without penalty). (NB: -1 to Pace stat per Wound taken.)
+	* Run up to your Pace stat + Running die (at -2 penalty to all other actions during this turn)
 	* Speak a couple of sentences
 	* Drop prone
 	* Drop an item
 	* Ready up to two weapons or other items, as long as they are not in awkward positions eg. ankle holsters.
 * Normal actions:
-  * Running
   * Attacking
-  * Aiming
+  * Aiming (special rules apply; see SWADE pg 97)
 	* Supporting allies
 	* Testing foes
 	* Using a power
@@ -34,7 +34,9 @@ weight: 200
 1. Attacker rolls Shooting skill vs target number 4 (for ranged combat) or defender's Parry score (for melee combat).
 2. Roll damage for the weapon type. Ranged weapons are fixed; armed melee are weapon + Strength state; unarmed is just Strength (some Edges increase that).
 3. If damage < target Toughness, nothing happens.
-4. If damage >= Toughness, target is Shaken. If they were already Shaken, they take a Wound. For each Raise on the attack roll, they take a further Wound. 
+4. If damage >= Toughness, stuff happens. (Full rules: SWAGE pg 94.)
+	5. Target wasn't Shaken: they become Shaken. They also take an additional Wound for each Raise.
+	6. Target was already Shaken: they take a Wound. The first Raise does nothing. Second and subsequent Raises each do a further Wound.
 5. Target can spend a Benny to Soak damage. Roll Vigor; each Success and Raise reduces damage by one Wound. If they soak all Wounds, they also remove Shaken.
 
 ### Common ranged combat situational modifiers
@@ -42,7 +44,7 @@ weight: 200
 * **Range**: -2 at Medium; -4 at Long; -8 at Extreme. Aim action is mandatory at Extreme.
 * **Light level**: -2 (dim) / -4 (dark; can only see 10" distance) / -6 (pitch darkness / target invisible or totally concealed). Can be countered by vision augmentation.
 * **Recoil**: -2 if shooting multiple rounds in one attack. Reduced by gas-vent or some other gun mods.
-* **Called shots**: -2 for limbs, -4 for hand/vitals/head. Can be used to shoot around armour.
+* **Called shots**: -2 for limbs, -4 for hand/vitals/head. Can be used to shoot around armour. Vitals/head shots do +4 damage. Hand shots can disarm.
 * **Injured**: -1 for each Wound you have taken. 
 * **Scale**: from -6 to +10 when attacking objects of different sizes. 
   * Small drones are -2.
@@ -57,7 +59,7 @@ weight: 200
 
 ## Armour
 
-**Armour**: armour adds its value to the character's Toughness stat, and therefore effects what damage roll is needed to inflict Shaken or Wounds. Their toughness is written as eg. 11 (2), meaning they have 11 total toughness and 2 of those 11 points come from armour.
+**Armour**: armour adds its value to the character's Toughness stat, and therefore effects what damage roll is needed to inflict Shaken or Wounds. Toughness is written as eg. 11 (2), meaning they have 11 total toughness and 2 of those 11 points come from worn armour.
 
 Some weapons are **armour piercing**: they remove the value of their AP stat from the defender's armour value before the damage effect is calculated.
 
@@ -74,7 +76,7 @@ Some weapons are **armour piercing**: they remove the value of their AP stat fro
 
 These are caused by various things happening to you.
 
-* **Shaken**: can only take free actions until you pass a Spirit check or spend a Bennie to cancel the Shaken status.**Note that this makes Spirit an important stat for combat characters.**
+* **Shaken**: can only take free actions until you pass a Spirit check or spend a Bennie to cancel the Shaken status.
 * **Distracted**: take -2 on all Trait rolls until the end of the next turn.
 * **Vulnerable**: All actions and attacks against you take +2 until the end of the next turn.
 
@@ -95,7 +97,7 @@ Each gun has a rate of fire (RoF) stat. If this is greater than 1, it can fire m
 3. Assign the dice to targets however you want. Any single Shooting die can be replaced by the Wild die roll, if you want.
 4. Resolve each damage rolls separately.
 
-#### Three-Round Bursts
+### Three-Round Bursts
 
 If a gun description notes it can fire Three-Round Bursts (or it has been modified to add that ability), then that counts as a RoF of 1 (so incurs no penalty to attack), but it adds +1 to Shooting and damage rolls. This can only be done against a single opponent.
 
