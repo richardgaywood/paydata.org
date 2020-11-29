@@ -64,7 +64,7 @@ Some weapons are **armour piercing**: they remove the value of their AP stat fro
 ## Mixing ranged and melee
 
 * **Firing into melee**: on a normal shot, each skill dice that rolls a 1 hits the wrong target. If using a shotgun or firing more than 1 bullet, becomes a 1 or a 2.
-* **Using a ranged weapon in melee:** nothing larger than a pistol. Target number for test is the defender's Parry stat. If firing against anyone other than the person they're in melee with, they become Vulnerable.
+* **Using a ranged weapon in melee:** nothing larger than a pistol. Target number for test is the defender's Parry stat. If you fire against anyone other than the person you're in melee with, you become Vulnerable.
 
 ## Slow attacks and evasion
 
@@ -86,14 +86,18 @@ Shotguns firing shot give attackers +2 to hit. They do 3d6 damage at Short range
 
 Shotguns firing slugs do 2d10 damage at all ranges. You don't get the +2 bonus to hit.
 
-### Automatics
+### Full-auto fire
 
-Each gun has a rate of fire (ROF) stat. If this is greater than 1, it can fire more than a single shot in each attack. With most guns (but not all), this is optional, and you can fire at a lower ROF if you want.
+Each gun has a rate of fire (RoF) stat. If this is greater than 1, it can fire more than a single shot in each attack. With most guns (but not all), this is optional, and you can fire at a lower RoF if you want.
 
 1. Declare how many shots you are going to take and who you are targeting.
 2. Roll one Shooting dice per shot taken, plus one Wild die.
 3. Assign the dice to targets however you want. Any single Shooting die can be replaced by the Wild die roll, if you want.
 4. Resolve each damage rolls separately.
+
+#### Three-Round Bursts
+
+If a gun description notes it can fire Three-Round Bursts (or it has been modified to add that ability), then that counts as a RoF of 1 (so incurs no penalty to attack), but it adds +1 to Shooting and damage rolls. This can only be done against a single opponent.
 
 ## Supporting others
 
