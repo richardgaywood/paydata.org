@@ -97,6 +97,8 @@ Each gun has a rate of fire (RoF) stat. If this is greater than 1, it can fire m
 3. Assign the dice to targets however you want. Any single Shooting die can be replaced by the Wild die roll, if you want.
 4. Resolve each damage rolls separately.
 
+Note that full-auto attacks take a -2 recoil penalty to all Shooting rolls (listed under situational modifiers above.) This penalty can be reduced by Edges and gun modifications.
+
 ### Three-Round Bursts
 
 If a gun description notes it can fire Three-Round Bursts (or it has been modified to add that ability), then that counts as a RoF of 1 (so incurs no penalty to attack), but it adds +1 to Shooting and damage rolls. This can only be done against a single opponent.
