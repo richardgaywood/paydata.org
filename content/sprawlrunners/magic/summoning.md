@@ -1,15 +1,17 @@
 ---
-title: Powers
-linkTitle: Powers
+title: Summoning
+linkTitle: Summoning
 type: docs
-description: New and changed powers
+description: Rules for summoning spirits
 date: 2020-11-18
 weight: 300
 ---
 
-## Altered powers
+## Summoning powers
 
 ### Banish
+
+*(Slightly changed from RAW.)*
 
 Rank: Seasoned *(changed from Veteran in RAW)*\
 Power Points: See below \
@@ -26,8 +28,6 @@ The power point cost, and hence roll penalty, is determined by the target spirit
 * Seasoned rank (eg lesser elemental): -2 to roll (4PP)
 * Veteran rank (eg 'standard'): -3 to roll (6PP)
 * Heroic rank (eg greater elemental): -4 to roll (8PP)
-
-
 
 <!--
 spirit powers
