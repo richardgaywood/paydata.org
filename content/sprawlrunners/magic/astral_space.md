@@ -1,13 +1,11 @@
 ---
 title: Astral space, perception, and projection
-linkTitle: Astral
+linkTitle: Astral space
 type: docs
 description: The astral plane; how to go there and what to do
 date: 2020-12-03
 weight: 1000
 ---
-
-## Astral space
 
 Sprawlrunners RAW does not use astral projection and significantly limits astral perception.
 
