@@ -13,28 +13,27 @@ Almost all of this are stock SprawlRunners & SWADE; gathered here for quick refe
 
 These are intrinsic to the weapon when it is purchased. Below are the standard Sprawlrunners ones:
 
-* Automatic pistol (1LP, RoF 2)
-* Burst fire mode (SMG/AR) (1LP)
-* Compact frame (1LP, -25% shots, -2 penalty to Notice)
-* Foldable stock (1LP, -1 penalty to Notice when folded, 1 Action to deploy)
-* Reinforced frame (1LP, flechette pistol can fire slugs)
+* Machine pistol (+1LP, RoF 2)
+* Burst fire mode (SMG/AR) (+1LP)
+* Compact frame (+1LP, -25% shots, -2 penalty to Notice)
+* Foldable stock (+1LP, -1 penalty to Notice when folded, 1 Action to deploy, -1 if shoot without deploying stock)
+* Reinforced frame (+1LP, flechette pistol can fire slugs)
 
 And some houseruled additions:
 
 * Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action.
 * Heavy calibre: applies +1 AP. Costs +1LP.
+* Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward shape.
 
 ### Accessories
 
-These can be added/removed from the weapon.
-
-* Bipod (1LP, negate recoil/min Str penalty, takes action to deploy)
-* Gas vent system (1LP, -1 recoil penalty)
-* Gyro-mount harness (3LP, remove recoil or unstable platform penalty)
-* Laser sight (1LP) (+1 bonus at short range)
-* Scope (1LP, +1LP for low light/thermal, cancel 2 additional penalty points when Aiming)
-* Smartgun (1LP)
-* Suppressor (1LP, -2 to Notice)
+* Bipod (+1LP, negate recoil/min Str penalty, takes action to deploy)
+* Gas vent system (+1LP, -1 recoil penalty)
+* Gyro-mount harness (+3LP, remove recoil or unstable platform penalty)
+* Laser sight (+1LP) (+1 bonus at short range)
+* Scope (+1LP, +1LP for low light/thermal, cancel 2 additional penalty points when Aiming)
+* Smartgun (+1LP)
+* Suppressor (+1LP, -2 to Notice)
 
 ### Ammo types
 
@@ -64,11 +63,11 @@ Base cost: 1LP \
 
 * Ares Lightfire 70 (*sleek*)
 	* The classic subcompact pistol from Ares.
-* Streetline Special (2LP, shots:7) 
-  * *compact frame* (stacks; -4 to Notice)
-* Walther Palm Pistol (2LP, shots:2 ) 
+* Streetline Special (2LP, shots:7, -4 to Notice) 
+  * Compact frame
+* Walther Palm Pistol (2LP, shots:2, -4 to Notice) 
   * Double-barrelled Derringer pistol; can fire both barrels for +1 damage.
-  * *compact frame* (stacks; -4 to Notice)
+  * Compact frame
 
 ### Light pistols
 
@@ -80,8 +79,14 @@ Min strength: d4 \
 Weight: 2 \
 Base cost: 2LP
 
+* Colt America L36
+* Beretta 201T (3LP, RoF:2)
+	* Machine pistol
 * Ares Lightfire 75 (*sleek*) (4LP)
 	* Silencer, internal smartlink
+	* The Lightfire 70's bigger brother.
+* Fichetti Security 600 (4LP, shots:20, +2 Notice) 
+	* Extended mag, laser sight
 
 ### Heavy Pistols
 
