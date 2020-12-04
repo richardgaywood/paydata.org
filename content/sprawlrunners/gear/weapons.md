@@ -63,7 +63,7 @@ And some houseruled additions:
 |------------------------------------------|---------------------|------|----------------------------------------------------|
 | Ares Lightfire 70              |                     |      | *Sleek*.                                                   |
 | Streetline Special                       | shots: 7, -4 Notice | 2 LP | Compact Frame.                                     |
-| Walther Palm Pistol | shots: 2, -4 Notice | 2 LP | Double-barrelled, Compact Frame. Can fire both barrels for +1 damage. |
+| Walther Palm Pistol | shots: 2, -4 Notice | 2 LP | *Double-barrelled*, Compact Frame. Can fire both barrels for +1 damage. |
 
 ### Light pistols
 
@@ -71,14 +71,12 @@ And some houseruled additions:
 |----------|--------|----|-----|-------|---------|--------|------|
 | 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 2 LP  |
 
-* Colt America L36
-* Beretta 201T (3LP, RoF:2)
-	* Machine pistol
-* Ares Lightfire 75 (*sleek*) (4LP)
-	* Silencer, internal smartlink
-	* The Lightfire 70's bigger brother.
-* Fichetti Security 600 (4LP, shots:20, +2 Notice) 
-	* Extended mag, laser sight
+|                                          | Stats               | Cost | Notes                                              |
+|------------------------------------------|---------------------|------|----------------------------------------------------|
+| Colt America L36 |||
+| Beretta 201T | RoF:2 | 3 LP | Machine pistol |
+| Ares Lightfire 75 | | 4 LP | Silencer, internal smartlink, *sleek* |
+| Fichetti Security 600 | shots:20, +2 Notice | Extended mag, laser sight |
 
 ### Heavy Pistols
 
