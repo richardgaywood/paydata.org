@@ -12,7 +12,6 @@ For avoidance of doubt, here's all the houserules that are in use in our current
 * [Simplified skills](/houserules/characters/skills) slightly reduces the overall skill count in SR5e and makes some changes to skill groups to make life a little easier for archetypes like deckers and riggers.
 * My [streamlined action economy]({{< relref "houserules/action_economy/basics.md" >}}) changes initative tracking, eliminates multiple passes, and gives streetsams and physads a powerful new multi-attack option.
 * For magicians there are houserules for [summoning]({{< relref "houserules/magic/summoning.md" >}}), [foci]({{< relref "foci.md" >}}) and [initiation]({{< relref "initiation.md" >}}). I've also added a new capability to create [trinkets]({{< relref "reagents.md" >}}) from reagents.
-* For the Matrix, I am currently using [these houserules]({{< relref "rules.md" >}}) which attempt to bring the Shadowrun 6e Matrix rules back into Shadowrun 5e. However, I am also working on a comprehensive Matrix rules re-write, which I hope to have ready soon.
 * Gear houserules:
   * [Electronics houserules]({{< relref "electronics.md" >}}) reduce the price of cyberdecks
   * [Drugs]({{< relref "drugs.md" >}}) removes psyche, which is painfully OP for magicians.
