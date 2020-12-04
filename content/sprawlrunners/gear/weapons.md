@@ -22,7 +22,7 @@ These are intrinsic to the weapon when it is purchased. Below are the standard S
 And some houseruled additions:
 
 * Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action.
-* Heavy calibre: applies +1 AP. Costs +1LP.
+* Heavy calibre: applies +1 AP, requires 1 more die type in Str. Costs +1LP.
 * Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward shape.
 
 ### Accessories
@@ -37,16 +37,17 @@ And some houseruled additions:
 
 ### Ammo types
 
-* APDS (1LP, +1 AP)
-* Ex-Ex (1LP, +1 damage, can cook off)
-* Gel rounds (1LP, set AP to 0, non-lethal damage)
+* APDS (+1LP, +1 AP)
+* Ex-Ex (+1LP, +1 damage, can cook off)
+* Gel rounds (+1LP, set AP to 0, non-lethal damage)
 
 ### Cosmetic trappings
 
 * *Imposing* - oversized; bulky; threatening.
-* *Blinged* - made of mirror-polished chrome; AR broadcast of a killcount holo.
-* *Sleek* - matte black; no protrusions; looks efficient.
-* *Sci-fi* - weird shapes; sculpted to look bio-organic; covered in neon lights.
+* *Blinged* - made of mirror-polished chrome; public AR broadcast of a killcount holo.
+* *Sleek* - matte black; no protrusions; looks militaristic and efficient.
+* *Tacticool* - thinks it is *sleek* but is actually covered in superfluous grips, accessory ports, flashlights, and other junk only valued by weekend warriors.
+* *Sci-fi* - weird shapes; modern smart materials; sculpted to look bio-organic; covered in neon lights.
 * *Double-barrelled*
 
 ## Sample weapons
@@ -61,8 +62,8 @@ And some houseruled additions:
 
 |                                          | Stats               | Cost | Notes                                              |
 |------------------------------------------|---------------------|------|----------------------------------------------------|
-| Ares Lightfire 70              |                     |      | *Sleek*.                                                   |
-| Streetline Special                       | shots: 7, -4 Notice | 2 LP | Compact Frame.                                     |
+| Ares Lightfire 70              |---|---| *Sleek*                                                   |
+| Streetline Special                       | shots: 7, -4 Notice | 2 LP | Compact Frame                                     |
 | Walther Palm Pistol | shots: 2, -4 Notice | 2 LP | *Double-barrelled*, Compact Frame. Can fire both barrels for +1 damage. |
 
 ### Light pistols
@@ -77,21 +78,44 @@ Examples:
 
 |  | Stats | Cost | Notes |
 |--|--|--|--|
-| Colt America L36 | | | |
+| Colt America L36 |---|---|---|
 | Beretta 201T | RoF:2 | 3 LP | Machine pistol |
-| Ares Lightfire 75 | | 4 LP | Silencer, internal smartlink, *sleek* |
+| Ares Lightfire 75 |---| 4 LP | Silencer, internal smartlink, *sleek* |
 | Fichetti Security 600 | shots:20, +2 Notice | 4 LP | Extended mag, laser sight |
 
 ### Heavy Pistols
+
+Default stats:
 
 | Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
 |----------|--------|----|-----|-------|---------|--------|------|
 | 12/24/48 | 2d6+1  | 1  | 1   | 12    | d4      | 4      | 3 LP  |
 
+Examples:
 
-* Ares Predator (*imposing*) (4LP)
-	* Integrated smartlink
-* Browning Ultra-Power (*sleek*) (4LP)
-	* Laser sight
-* Ruger Super Warhawk (revolver, heavy calibre, *imposing*) (4LP, shots:6, AP2)
+|  | Stats | Cost | Notes |
+|--|--|--|--|
+|Ares Predator|---|4LP|Integrated smartlink, *imposing*|
+|Browning Ultra-Power|---|4LP|Laser sight, *sleek*|
+|Ruger Super Warhawk|shots:6, AP2, minStr:d6|4LP|Revolver, heavy calibre, extremely *imposing*|
+|Colt Government 2066|---|---|---|
 
+
+### Flechette Pistols
+
+Default stats:
+
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 5/10/20 | 1-3d6-1 | ---  | 1   | 6    | d4      | 5      | 3 LP  |
+
+* Shotgun (can only use slug ammo with Reinforced Frame mod)
+* Cannot use suppressor 
+
+Examples:
+
+|  | Stats | Cost | Notes |
+|--|--|--|--|
+|Fichette Tiffani Needler | shots:4 | 4LP | Compact Frame |
+|Remington Roomsweeper | --- | --- | --- |
+|Remington Roomsweeper (slug) | damage:2d8 | 4LP | Reinforced Frame |
