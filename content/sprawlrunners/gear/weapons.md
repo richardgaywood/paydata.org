@@ -67,16 +67,20 @@ And some houseruled additions:
 
 ### Light pistols
 
+Default stats:
+
 | Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
 |----------|--------|----|-----|-------|---------|--------|------|
-| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 2 LP  |
+| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 
 
-|                                          | Stats               | Cost | Notes                                              |
-|------------------------------------------|---------------------|------|----------------------------------------------------|
+Examples:
+
+|  | Stats | Cost | Notes |
+|--|--|--|--|
 | Colt America L36 |||
 | Beretta 201T | RoF:2 | 3 LP | Machine pistol |
 | Ares Lightfire 75 | | 4 LP | Silencer, internal smartlink, *sleek* |
-| Fichetti Security 600 | shots:20, +2 Notice | Extended mag, laser sight |
+| Fichetti Security 600 | shots:20, +2 Notice | 4 LP | Extended mag, laser sight |
 
 ### Heavy Pistols
 
