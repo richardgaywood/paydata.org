@@ -53,13 +53,10 @@ These can be added/removed from the weapon.
 
 ### Holdout pistols
 
-Range: 10/20/30 \
-Damage: 2d6-1 (AP0) \
-RoF: 1 \
-Shots: 10 \
-Min strength: d4 \
-Weight: 1 \
-Base cost: 1LP \
+| Range    | Damage | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|-----|-------|---------|--------|------|
+| 10/20/30 | 2d6-1  | 1   | 10    | d4      | 1      | 1LP  |
+
 -2 Notice penalty to attempts to spot weapon when concealed
 
 * Ares Lightfire 70 (*sleek*)
