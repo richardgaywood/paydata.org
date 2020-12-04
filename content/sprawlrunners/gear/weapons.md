@@ -48,47 +48,39 @@ These can be added/removed from the weapon.
 * *Blinged* - made of mirror-polished chrome; AR broadcast of a killcount holo.
 * *Sleek* - matte black; no protrusions; looks efficient.
 * *Sci-fi* - weird shapes; sculpted to look bio-organic; covered in neon lights.
+* *Double-barrelled*
 
 ## Sample weapons
 
 ### Holdout pistols
 
-| Range    | Damage | RoF | Shots | Min Str | Weight | Cost |
-|----------|--------|-----|-------|---------|--------|------|
-| 10/20/30 | 2d6-1  | 1   | 10    | d4      | 1      | 1LP  |
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 10/20/30 | 2d6-1  | 0  | 1   | 10    | d4      | 1      | 1 LP  |
 
--2 Notice penalty to attempts to spot weapon when concealed
+* -2 Notice penalty to attempts to spot weapon when concealed.
 
-* Ares Lightfire 70 (*sleek*)
-	* The classic subcompact pistol from Ares.
-* Streetline Special (2LP, shots:7) 
-  * *compact frame* (stacks; -4 to Notice)
-* Walther Palm Pistol (2LP, shots:2 ) 
-  * Double-barrelled Derringer pistol; can fire both barrels for +1 damage.
-  * *compact frame* (stacks; -4 to Notice)
+|                                          | Stats               | Cost | Notes                                              |
+|------------------------------------------|---------------------|------|----------------------------------------------------|
+| Ares Lightfire 70 (*sleek*)              |                     |      |                                                    |
+| Streetline Special                       | shots: 7, -4 Notice | 2 LP | Compact Frame.                                     |
+| Walther Palm Pistol (*double-barrelled*) | shots: 2, -4 Notice | 2 LP | Compact Frame. Can fire both barrels for +1 damage. |
 
 ### Light pistols
 
-Range: 12/24/48 \
-Damage: 2d6 (AP1) \
-RoF: 1 \
-Shots: 15 \
-Min strength: d4 \
-Weight: 2 \
-Base cost: 2LP
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 2 LP  |
 
 * Ares Lightfire 75 (*sleek*) (4LP)
 	* Silencer, internal smartlink
 
 ### Heavy Pistols
 
-Range: 12/24/48 \
-Damage: 2d6+1 (AP1) \
-RoF: 1 \
-Shots: 12 \
-Min strength: d4 \
-Weight: 4 \
-Base cost: 3 LP
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 12/24/48 | 2d6+1  | 1  | 1   | 12    | d4      | 4      | 3 LP  |
+
 
 * Ares Predator (*imposing*) (4LP)
 	* Integrated smartlink
