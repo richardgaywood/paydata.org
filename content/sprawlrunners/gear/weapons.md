@@ -7,7 +7,11 @@ weight: 500
 
 ## Weapon changes
 
+Almost all of this are stock SprawlRunners & SWADE; gathered here for quick reference.
+
 ### Modifications
+
+These are intrinsic to the weapon when it is purchased. Below are the standard Sprawlrunners ones:
 
 * Automatic pistol (1LP, RoF 2)
 * Burst fire mode (SMG/AR) (1LP)
@@ -15,7 +19,14 @@ weight: 500
 * Foldable stock (1LP, -1 penalty to Notice when folded, 1 Action to deploy)
 * Reinforced frame (1LP, flechette pistol can fire slugs)
 
+And some houseruled additions:
+
+* Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action.
+* Heavy calibre: applies +1 AP. Costs +1LP.
+
 ### Accessories
+
+These can be added/removed from the weapon.
 
 * Bipod (1LP, negate recoil/min Str penalty, takes action to deploy)
 * Gas vent system (1LP, -1 recoil penalty)
@@ -38,12 +49,6 @@ weight: 500
 * *Sleek* - matte black; no protrusions; looks efficient.
 * *Sci-fi* - weird shapes; sculpted to look bio-organic; covered in neon lights.
 
-Some trappings have minor rule changes:
-
-* *Revolver*: reduced shots (reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action.
-* *Heavy calibre*: applies +1 AP. Costs +1LP.
-
-
 ## Sample weapons
 
 ### Holdout pistols
@@ -58,7 +63,7 @@ Base cost: 1LP \
 -2 Notice penalty to attempts to spot weapon when concealed
 
 * Ares Lightfire 70 (*sleek*)
-	* The classic small pistol from Ares.
+	* The classic subcompact pistol from Ares.
 * Streetline Special (2LP, shots:7) 
   * *compact frame* (stacks; -4 to Notice)
 * Walther Palm Pistol (2LP, shots:2 ) 
@@ -92,5 +97,5 @@ Base cost: 3 LP
 	* Integrated smartlink
 * Browning Ultra-Power (*sleek*) (4LP)
 	* Laser sight
-* Ruger Super Warhawk (*revolver*, *heavy calibre*, *imposing*) (4LP, shots:6, AP2)
+* Ruger Super Warhawk (revolver, heavy calibre, *imposing*) (4LP, shots:6, AP2)
 
