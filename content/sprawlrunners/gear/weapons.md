@@ -77,7 +77,7 @@ Examples:
 
 |  | Stats | Cost | Notes |
 |--|--|--|--|
-| Colt America L36 |||
+| Colt America L36 | | | |
 | Beretta 201T | RoF:2 | 3 LP | Machine pistol |
 | Ares Lightfire 75 | | 4 LP | Silencer, internal smartlink, *sleek* |
 | Fichetti Security 600 | shots:20, +2 Notice | 4 LP | Extended mag, laser sight |
