@@ -61,9 +61,9 @@ And some houseruled additions:
 
 |                                          | Stats               | Cost | Notes                                              |
 |------------------------------------------|---------------------|------|----------------------------------------------------|
-| Ares Lightfire 70 (*sleek*)              |                     |      |                                                    |
+| Ares Lightfire 70              |                     |      | *Sleek*.                                                   |
 | Streetline Special                       | shots: 7, -4 Notice | 2 LP | Compact Frame.                                     |
-| Walther Palm Pistol (*double-barrelled*) | shots: 2, -4 Notice | 2 LP | Compact Frame. Can fire both barrels for +1 damage. |
+| Walther Palm Pistol | shots: 2, -4 Notice | 2 LP | Double-barrelled, Compact Frame. Can fire both barrels for +1 damage. |
 
 ### Light pistols
 
