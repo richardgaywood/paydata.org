@@ -29,7 +29,7 @@ You spend time honing your skills. Take a free point of karma.
 
 ## Hang out
 
-You spend some quality time with your nearest and dearest. Write me a scene telling us what you do together, and take a free point of karma for your trouble!
+You spend some quality time with your nearest and dearest. Write a scene telling us what you do together, and take a free point of karma for your trouble!
 
 ## Network
 
