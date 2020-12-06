@@ -3,6 +3,7 @@ title: "Weapons"
 linkTitle: "Weapons"
 type: docs
 weight: 500
+date: 2020-12-06
 ---
 
 ## Weapon changes
@@ -76,12 +77,21 @@ Default stats:
 
 Examples:
 
+|                       | Stats               | Cost | Notes                                 |
+|-----------------------|---------------------|------|---------------------------------------|
+| Colt America L36      | ---                 | ---  | ---                                   |
+| Beretta 201T          | RoF:2               | 3 LP | Machine pistol                        |
+| Ares Lightfire 75     | ---                 | 4 LP | Silencer, internal smartlink, *sleek* |
+| Fichetti Security 600 | shots:20, +2 Notice | 4 LP | Extended mag, laser sight             |
+
+<!--
 |  | Stats | Cost | Notes |
 |--|--|--|--|
 | Colt America L36 |---|---|---|
 | Beretta 201T | RoF:2 | 3 LP | Machine pistol |
 | Ares Lightfire 75 |---| 4 LP | Silencer, internal smartlink, *sleek* |
 | Fichetti Security 600 | shots:20, +2 Notice | 4 LP | Extended mag, laser sight |
+-->
 
 ### Heavy Pistols
 
@@ -93,13 +103,21 @@ Default stats:
 
 Examples:
 
+|                      | Stats                   | Cost | Notes                                         |
+|----------------------|-------------------------|------|-----------------------------------------------|
+| Ares Predator        | ---                     | 4LP  | Integrated smartlink, *imposing*              |
+| Browning Ultra-Power | ---                     | 4LP  | Laser sight, *sleek*                          |
+| Ruger Super Warhawk  | shots:6, AP2, minStr:d6 | 4LP  | Revolver, heavy calibre, extremely *imposing* |
+| Colt Government 2066 | ---                     | ---  | ---                                           |
+
+<!--
 |  | Stats | Cost | Notes |
 |--|--|--|--|
 |Ares Predator|---|4LP|Integrated smartlink, *imposing*|
 |Browning Ultra-Power|---|4LP|Laser sight, *sleek*|
 |Ruger Super Warhawk|shots:6, AP2, minStr:d6|4LP|Revolver, heavy calibre, extremely *imposing*|
 |Colt Government 2066|---|---|---|
-
+-->
 
 ### Flechette Pistols
 
@@ -114,8 +132,16 @@ Default stats:
 
 Examples:
 
+|                              | Stats      | Cost | Notes            |
+|------------------------------|------------|------|------------------|
+| Fichette Tiffani Needler     | shots:4    | 4LP  | Compact Frame    |
+| Remington Roomsweeper        | ---        | ---  | ---              |
+| Remington Roomsweeper (slug) | damage:2d8 | 4LP  | Reinforced Frame |
+
+<!--
 |  | Stats | Cost | Notes |
 |--|--|--|--|
 |Fichette Tiffani Needler | shots:4 | 4LP | Compact Frame |
 |Remington Roomsweeper | --- | --- | --- |
 |Remington Roomsweeper (slug) | damage:2d8 | 4LP | Reinforced Frame |
+-->
