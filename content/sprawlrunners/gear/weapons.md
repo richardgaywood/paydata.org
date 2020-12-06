@@ -16,14 +16,14 @@ These are intrinsic to the weapon when it is purchased. Below are the standard S
 * Machine pistol (+1LP, RoF 2)
 * Burst fire mode (SMG/AR) (+1LP)
 * Compact frame (+1LP, -25% shots, -2 penalty to Notice)
-* Foldable stock (+1LP, -1 penalty to Notice when folded, 1 Action to deploy, -1 if shoot without deploying stock)
+* Foldable stock (+1LP, -1 penalty to Notice when folded, 1 Action to deploy, -1 if shoot without deploying stock first)
 * Reinforced frame (+1LP, flechette pistol can fire slugs)
 
 And some houseruled additions:
 
-* Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action.
+* Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action. Plus swinging the gate open to dump spent brass is extremely cool.
 * Heavy calibre: applies +1 AP, requires 1 more die type in Str. Costs +1LP.
-* Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward shape.
+* Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward, bulky shape.
 
 ### Accessories
 
@@ -44,11 +44,11 @@ And some houseruled additions:
 ### Cosmetic trappings
 
 * *Imposing* - oversized; bulky; threatening.
-* *Blinged* - made of mirror-polished chrome; public AR broadcast of a killcount holo.
-* *Sleek* - matte black; no protrusions; looks militaristic and efficient.
-* *Tacticool* - thinks it is *sleek* but is actually covered in superfluous grips, accessory ports, flashlights, and other junk only valued by weekend warriors.
+* *Blinged* - made of mirror-polished chrome; colour-changing smartpaint; public AR broadcast of a killcount holo.
+* *Sleek* - matte black; no protrusions; militaristic and efficient.
+* *Tacticool* - thinks it is *sleek* but is actually covered in superfluous grips, accessory ports, flashlights, and other junk only valued by poseurs.
 * *Sci-fi* - weird shapes; modern smart materials; sculpted to look bio-organic; covered in neon lights.
-* *Double-barrelled*
+* *Double-barrelled* - has two barrels (shock).
 
 ## Sample weapons
 
