@@ -36,22 +36,21 @@ All characters get a d4 rank in these skills for free, without having to spend a
 
 * Battle (Smarts): Strategy, tactics, and understanding military operations. Particularly important in the Mass Battles game mechanic.
 * Fighting (Agility): Skill in armed and unarmed melee combat. Specialisations:
-	* Unarmed (including Killing Hands)
-	* Cyber-implant weaponry
+	* Unarmed (including Killing Hands and cyber-implant weapons)
 	* Blunt (any crushing weapon)
 	* Blades (all knives and swords)
 	* Exotic (eg. mono-filament whip)
 * Shooting (Agility): Precision with any type of ranged weapon, including bows (but not thrown weapons). Specialisations for this skill: 
-  * Ballistic weapons (bows etc)
-  * Handguns (including all pistols, machine pistols, SMGs)
-  * Longarms (all rifles and machine guns)
-  * Heavy (any turret-mounted gun; launchers of all kinds; flamethrowers; assault cannons)
+  * Projectile weapons (bows, crossbows, etc)
+  * Handguns (including all tasers, pistols, machine pistols, compact SMGs)
+  * Longarms (normal SMGs, all rifles and light/medium machine guns)
+  * Heavy (any turret-mounted gun; heavy machine guns; launchers of all kinds; flamethrowers; assault cannons)
 
 ## Vehicle skills
 
 * Boating (Agility): Ability to sail or pilot a boat, ship, submarine, or any other watercraft.
 * Driving (Agility): The ability to control, steer, and operate ground vehicles - whether with wheels, treads, or legs (eg. walker drones).
-* Piloting (Agility): Skill with maneuvering vehicles that operate in three dimensions, such as airplanes, helicopters, spaceships, etc. Includes ground-effect vehicles like t-birds and rotordrones.
+* Piloting (Agility): Skill with maneuvering vehicles that operate in three dimensions, such as airplanes, helicopters, spaceships, etc. Includes ground-effect vehicles like t-birds. Also includes rotordrones and fixed-wing drones.
 * Riding (Agility): A character's skill in mounting, controlling, and riding a tamed beast. Probably not very useful in an urban cyberpunk game!
 
 ## Physical active skills
@@ -61,8 +60,7 @@ See also "Athletics" and "Stealth" under common skills, above.
 * Gambling (Smarts): Skill and familiarity with games of chance. 
 * Healing (Smarts): The ability to treat and heal Wounds and diseases, and decipher forensic evidence. Note that dealing with cyberware systems might also need Electronics and/or Repair, depending on what you're doing.
 * Survival (Smarts): How to find food, water, or shelter (including in urban environments).
-* Thievery (Agility): Sleight of hand, pickpocketing, lockpicking, setting/disabling traps, and other such dubious feats of legerdemain.
-
+* Thievery (Agility): Sleight of hand, pickpocketing, lockpicking, setting/disabling traps, and other such ethically dubious feats of legerdemain.
 
 ## Social skills
 
@@ -84,7 +82,7 @@ If using a social skill in a language other than the character's native tongue, 
 ## Magical skills
 
 * Astral (Smarts): The skill to assense living beings' aura or engage in combat on the Astral Plane.
-* Conjuration (Spirit): the skill for summoning or banishing spirits, for both shamans and mages.
+* Conjuration (Spirit): the skill for summoning or banishing spirits, for all magical traditions.
 * Sorcery (Smarts): The spellcasting skill for Arcane Background (mage).
 * Sorcery (Spirit): The spellcasting skill for Arcane Background (shaman).
 
