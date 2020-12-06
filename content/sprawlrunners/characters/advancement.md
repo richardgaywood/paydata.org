@@ -9,9 +9,9 @@ date: 2020-12-06
 
 Core SWADE has a simple structure for advancement: every so often, the character earns an *advance*. Each advance can be spend on a few things, such as improving traits or new Edges. Every three advances, the character also improves their *rank*, which unlocks new Edges and other abilities. Sprawlrunners doesn't change this structure.
 
-Advances are quite "large", as it were. Each one is quite a significant power boost for a character. It's slightly to work out at what rate to hand them out, as our mission length varies quite a lot and our sessions are quite short.
+Advances are quite "large", as it were. Each one is quite a significant power boost for a character. It's slightly tricky to work out at what rate to hand them out, as our mission length varies quite a lot and our sessions are quite short.
 
-For my campaign, to smooth over this, I'm going to make a small change, and re-introduce karma from Shadowrun. Karma will be simply spent on advances at a straight 10:1 ratio (ie. one advance costs 10 karma.) This means I can have a slightly more granular mechanic to reward you than just SWADE advances.
+For my campaign, to smooth over this, I'm going to make a small change, and re-introduce karma from Shadowrun. Karma will be simply spent on advances at a straight 10:1 ratio (ie. one advance costs 10 karma.) This means I can have a slightly more granular mechanic to reward you than just SWADE advances, but it doesn't change any game balance.
 
 ## Mission rewards
 

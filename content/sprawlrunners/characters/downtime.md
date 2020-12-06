@@ -29,7 +29,7 @@ You spend time honing your skills. Take a free point of karma.
 
 ## Hang out
 
-You spend some quality time with your nearest and dearest. Take a free point of karma. If you can, write me a scene telling me what you do together!
+You spend some quality time with your nearest and dearest. Write me a scene telling us what you do together, and take a free point of karma for your trouble!
 
 ## Network
 
@@ -41,7 +41,7 @@ You can only do Network once in a given downtime.
 
 ## Side hustle
 
-Shadowrunner's skill sets can be used for more mundane activities than epic, daring heists. Riggers can do courier work; streetsams can work as bodyguards; mages can provide protection services; deckers can skim low-security systems for paydata.
+Shadowrunner's skill sets can be used for more mundane activities than the epic, daring heists we play out at the table. Riggers can do courier work; streetsams can work as bodyguards; mages can provide protection services; deckers can skim low-security systems for paydata.
 
 If your character spends their downtime on a side hustle, they can earn a little extra cash in their pocket. Take a one-off bonus to their [wealth die type]({{< relref "wealth.md" >}}) for the next mission.
 
