@@ -2,7 +2,7 @@
 title: Tacnets
 linkTitle: Tacnets
 type: docs
-draft:true
+draft: true
 weight: 700
 ---
 
