@@ -7,9 +7,9 @@ description: Handling money for incidental purchases
 date: 2020-12-06
 --- 
 
-Your character's gear will be bought with Logistic Points, as per Sprawlrunners. LP represents not just the cost of acquiring any old gear, but the cost of acquiring gear suitable for crime: untraceable, scrubbed of all hidden RFID tags, no logged ballistics records, etc.
+Your character's gear will be bought with Logistic Points, as per Sprawlrunners. LP represents not just the cost of acquiring any old gear, but the cost of acquiring gear suitable for crime: untraceable, scrubbed of all hidden RFID tags, no inconvenient ballistics records on file, etc.
 
-Occasionally, though, your character might need to buy other things, though. Incidental lifestyle expenses in the game (eg. if Mr Johnson stiffs you on the restaurant bill.) Bribes to get past a snooty nightclub bouncer. Spreading some cash around to grease the wheels during legwork.
+Occasionally, though, your character might need to buy other things. Incidental lifestyle expenses in the game (eg. if Mr Johnson stiffs you on the restaurant bill.) Bribes to get past a snooty nightclub bouncer. Spreading some cash around to grease the wheels during legwork.
 
 For these, I am going to use the SWADE wealth mechanic (pg 145.) These abstract the amount of liquid cash your character has available to a SWADE-style die type.
 

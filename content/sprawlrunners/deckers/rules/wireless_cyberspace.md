@@ -4,6 +4,7 @@ linkTitle: Hacking
 type: docs
 description: What to hack and how to hack it
 date: 2020-07-05
+lastmod: 2020-12-07
 weight: 200
 ---
 
@@ -51,8 +52,6 @@ Civilian PANs have ratings and Firewall (Matrix toughness) as follows:
 * Elite consumer: d8 / 4
 
 To manipulate devices attached to a PAN, first the decker must hack into the PAN itself. Once there, the decker can manipulate devices on the PAN (eg snoop on phone calls, or trace the device's precise physical location). Each of those is an action and a further Hacking roll against the PAN's firewall (note: not the device's firewall), same as Sprawlrunners RAW.
-
-To interfere with all gear connected to a PAN, a decker can also use the Smoke action; this applies a -2 penalty to all actions that use gear attached to the PAN, or a -4 penalty on a Raise. This does not affect cyberware but does affect comms, weapons, drones, etc.
 
 **Any** failed hacking roll against a PAN immediately makes the owner aware of the intrusion attempt; they will typically react by rebooting or shutting down their device, unless they are distracted or have some reason to think they are not under attack.
 

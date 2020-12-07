@@ -4,6 +4,7 @@ linkTitle: Introduction
 type: docs
 description: What these rules are trying to achieve
 date: 2020-11-27
+lastmod: 2020-12-07
 weight: 100
 ---
 
@@ -24,3 +25,7 @@ The main game scenarios these rules are intended to support are:
 ## A note about hosts and nodes in my game
 
 Sprawlrunners RAW describes very large hosts that are made up of many, many nodes, arranged in sprawling, labyrinthian structures. I do not plan to use this (typically, at least). Most hosts in my game will either have a single node that takes care of everything; or they will be divided into a handful of nodes, each dedicated to a task (eg. file storage, building system control, security.) Each node can typically be accessed from any other node; there is no internal "map" as such.
+
+## Changelog
+
+* 2020-12-07: changed hacking interference action to align with SWADE "Test" mechanic; moved to [Additional Rules]({{< relref "additional_rules.md" >}}) 

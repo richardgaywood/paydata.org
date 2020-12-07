@@ -5,6 +5,7 @@ type: docs
 weight: 300 
 description: Houserules for metahuman races
 date: 2020-12-01
+lastmod: 2020-12-06
 --- 
 
 {{% alert title="Notes" %}}
@@ -18,7 +19,7 @@ Note also that players in my campaign using [my custom setting in savaged.us](ht
 ## Human
 
 * Adaptable (2): Humans seem to have an unlimited ability to adapt to their circumstances. They begin with a free Novice Edge.
-* Lucky (2): Fortune smiles on base-model humans. They start with the Lucky Edge, meaning they get four Bennies when refreshed.
+* Lucky (2): Fortune smiles on base-model humans. Every time Bennies are refreshed, humans get an extra one. This stacks with Edges like Luck.
 
 ## Dwarf
 
@@ -47,6 +48,6 @@ Note also that players in my campaign using [my custom setting in savaged.us](ht
 * Insanely Strong (4): As the strongest metatype, Trolls start with a d8 in Strength (with a maximum of d12+2).
 * Brickhouse (2): Trolls can take a beating. They start with a d6 in Vigor (with a maximum of d12+1).
 * Dermal Plates (1): Bony deposits on their skin grant them +1 to Toughness.
-* Oversized (-2): It’s not easy living in a world made for smaller beings. Trolls subtract 2 from Trait rolls when using equipment that wasn’t specifically designed for them and cannot wear armor or clothing designed for other metatypes. Equipment, food, and clothing cost double the listed price.
+* Oversized (-2): It’s not easy living in a world made for smaller beings. Trolls subtract 2 from Trait rolls when using equipment that wasn’t specifically designed for them and cannot wear armor or clothing designed for other metatypes. Their food, clothing, and other lifestyle items are more expensive; so they have a penalty of one step applied to their [wealth die]({{< relref "wealth.md" >}}). They may take situational modifiers when trying to work in cramped conditions that other metahumans would ignore.
 * Ostracised (-1): Trolls have suffered the most from marginalization, and are often looked upon with prejudice and stereotyped as dumb knuckle draggers. They often have little recourse other than resorting to crime or security work to make ends meet. They begin with the Outsider (Minor) Hindrance.
 * Too Big To Hide (-1): Trolls tend to be terrible at moving quietly and hiding. Can you blame them, they’re huge! Stealth is not a Core Skill (starts Untrained instead of at d4).

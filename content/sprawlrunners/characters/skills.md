@@ -4,6 +4,7 @@ linkTitle: "Skills"
 type: docs
 weight: 500
 date: 2020-11-18
+lastmod: 2020-12-06
 ---
 
 My houserules make some small changes to the available skills in Savage Worlds and Sprawlrunners. Below is a complete reference to all the skills, including the ones in core SWADE. It also has some clarifications of which skill applies to some common actions where it's perhaps not immediately obvious (eg. is a Matrix search Electronics, Hacking, or Research?)
@@ -72,12 +73,12 @@ See also "Persuasion" under common skills, above.
    * Organised crime
    * Street/gang
    * Security/military  
-   * Socialite/elites
+   * Socialite/elites/high society
 *  Intimidation (Spirit): The ability to threaten others into compliance. 
 *  Performance (Spirit): Singing, dancing, acting, or other forms of public expression.
 *  Taunt (Smarts): Insulting or belittling another. Can be done during combat to distract opponents.
 
-If using a social skill in a language other than the character's native tongue, if their language dice is lower than their social skill dice, roll the language dice instead.
+If using a social skill in a language other than the character's native tongue, if their language dice is lower than their social skill dice, roll the language dice instead. If you're playing a social manipulator role, strongly consider the Linguist edge so you can talk to people in their native language.
 
 ## Magical skills
 

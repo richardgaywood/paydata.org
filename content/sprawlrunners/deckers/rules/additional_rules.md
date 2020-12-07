@@ -5,8 +5,23 @@ linkTitle: Additional rules
 type: docs
 description: Extra bits and pieces; hacking via back doors; new utilities
 date: 2020-11-27
+lastmod: 2020-12-07
 weight: 800
 ---
+
+## Distraction hacking
+
+A decker facing an opponent using wirelessly connected devices can distract them by interfering with the systems using a special form of the Test action (see SWADE pg 108.) The decker makes a Hacking roll opposed by the target's Smarts stat. The following modifiers apply:
+
+* If the target has a few items of cyberware and/or wireless gear: no modifier.
+	* If they have lots of gear, extensive cyberware, or both: +1 to the decker's roll
+	* If the target is a drone or vehicle working on autopilot: +2 to the decker's roll
+* If the target's gear is protected by a PAN and the decker hasn't hacked the PAN: -2 to the decker's roll
+* If the target's gear is protected by a secure PAN, or by a WAN that the decker hasn't hacked: -4 to the decker's roll
+
+On a success, the decker can inflict either Distracted or Vulnerable on the target, as they prefer. On a Raise, they can also inflict Shaken.
+
+{{% alert title="TODO" color="warning" %}}Add something here about internal routers?{{% /alert %}} 
 
 ## Hacking hosts via a back door
 
