@@ -4,7 +4,7 @@ linkTitle: Introduction
 type: docs
 description: What these rules are trying to achieve
 date: 2020-11-27
-lastmod: 2020-12-07
+lastmod: 2020-12-08
 weight: 100
 ---
 
@@ -12,15 +12,15 @@ By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: 
 
 *NB I will use Shadowrun-speak in this section ie "decker" not "operator", "host" not "system."*
 
-This doc concentrates on just the mechanics. To read information on how it works in the setting, see [Wireless World]({{< relref "../wireless_world/_index.md" >}}).
+This section is split into two parts. [Rules]({{< relref "rules/_index.md" >}}) covers just the game mechanics; [Wireless World]({{< relref "wireless_world/_index.md" >}}) describes how augmented reality and wireless hacking within the game-world.
 
 ## Goals
 
 The main game scenarios these rules are intended to support are: 
 
 1. Sleazing on commlinks - snooping on calls and files, legwork type stuff, tracing people and tracking them.
-2. Hacking the security host in a facility (in VR), then switching to AR (so the decker can move with the team), and then during combat, use that access to mess with gear on the defending security team - AR spam, disrupt smartlinks/smartguns, take down their comms, etc.
-3. Environmental support hacking - switch the lights off so the enemies are confused, turn traffic lights to green to expediate an escape, make GridGuid freak out to block pursuers with traffic, trigger a fire alarm in a building to cause confusion. The Matrix-of-things world are a decker's playground.
+2. Hacking the security host in a facility (in VR), then switching to AR (so the decker can move with the team), and then during combat, using that access to mess with gear on the defending security team - AR spam, disrupt smartlinks/smartguns, take down their comms, etc.
+3. Environmental support hacking - switch the lights off so the enemies are confused, turn traffic lights to green to expediate an escape, make GridGuid freak out to block pursuers with traffic, trigger a fire alarm in a building to cause confusion. The Matrix-of-things world is a decker's playground.
 
 ## A note about hosts and nodes in my game
 
@@ -29,3 +29,5 @@ Sprawlrunners RAW describes very large hosts that are made up of many, many node
 ## Changelog
 
 * 2020-12-07: changed hacking interference action to align with SWADE "Test" mechanic; moved to [Additional Rules]({{< relref "additional_rules.md" >}}) 
+
+*(Changes before this not tracked.)*
