@@ -4,13 +4,12 @@ linkTitle: "Weapons"
 type: docs
 weight: 500
 date: 2020-12-06
+lastmod: 2020-12-08
 ---
 
-## Weapon changes
+Almost all of the below mechanics are RAW SprawlRunners & SWADE; they is gathered here for quick reference. I aim to provide some sample weapons using these rules.
 
-Almost all of this are stock SprawlRunners & SWADE; gathered here for quick reference.
-
-### Modifications
+## Modifications
 
 These are intrinsic to the weapon when it is purchased. Below are the standard Sprawlrunners ones:
 
@@ -26,7 +25,7 @@ And some houseruled additions:
 * Heavy calibre: applies +1 AP, requires 1 more die type in Str. Costs +1LP.
 * Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward, bulky shape.
 
-### Accessories
+## Accessories
 
 * Bipod (+1LP, negate recoil/min Str penalty, takes action to deploy)
 * Gas vent system (+1LP, -1 recoil penalty)
@@ -36,13 +35,13 @@ And some houseruled additions:
 * Smartgun (+1LP)
 * Suppressor (+1LP, -2 to Notice)
 
-### Ammo types
+## Ammo types
 
 * APDS (+1LP, +1 AP)
 * Ex-Ex (+1LP, +1 damage, can cook off)
 * Gel rounds (+1LP, set AP to 0, non-lethal damage)
 
-### Cosmetic trappings
+## Cosmetic trappings
 
 * *Imposing* - oversized; bulky; threatening.
 * *Blinged* - made of mirror-polished chrome; colour-changing smartpaint; public AR broadcast of a killcount holo.
@@ -55,9 +54,9 @@ And some houseruled additions:
 
 ### Holdout pistols
 
-| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
-|----------|--------|----|-----|-------|---------|--------|------|
-| 10/20/30 | 2d6-1  | 0  | 1   | 10    | d4      | 1      | 1 LP  |
+| Range    | Dmg | AP | RoF | Shots | Min Str | Cost |
+|----------|--------|----|-----|-------|---------|------|
+| 10/20/30 | 2d6-1  | 0  | 1   | 10    | d4      | 1 LP |
 
 * -2 Notice penalty to attempts to spot weapon when concealed.
 
@@ -71,13 +70,13 @@ And some houseruled additions:
 
 Default stats:
 
-| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
-|----------|--------|----|-----|-------|---------|--------|------|
-| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 
+| Range    | Dmg | AP | RoF | Shots | Min Str | Cost |
+|----------|--------|----|-----|-------|---------|------|
+| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2 LP |
 
 Examples:
 
-|                       | Stats               | Cost | Notes                                 |
+| Name                  | Stats               | Cost | Notes                                 |
 |-----------------------|---------------------|------|---------------------------------------|
 | Colt America L36      | ---                 | ---  | ---                                   |
 | Beretta 201T          | RoF:2               | 3 LP | Machine pistol                        |
@@ -97,13 +96,13 @@ Examples:
 
 Default stats:
 
-| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
-|----------|--------|----|-----|-------|---------|--------|------|
-| 12/24/48 | 2d6+1  | 1  | 1   | 12    | d4      | 4      | 3 LP  |
+| Range    | Dmg | AP | RoF | Shots | Min Str | Cost |
+|----------|--------|----|-----|-------|---------|------|
+| 12/24/48 | 2d6+1  | 1  | 1   | 12    | d4      | 3 LP  |
 
 Examples:
 
-|                      | Stats                   | Cost | Notes                                         |
+| Name                 | Stats                   | Cost | Notes                                         |
 |----------------------|-------------------------|------|-----------------------------------------------|
 | Ares Predator        | ---                     | 4LP  | Integrated smartlink, *imposing*              |
 | Browning Ultra-Power | ---                     | 4LP  | Laser sight, *sleek*                          |
@@ -123,16 +122,17 @@ Examples:
 
 Default stats:
 
-| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
-|----------|--------|----|-----|-------|---------|--------|------|
-| 5/10/20 | 1-3d6-1 | ---  | 1   | 6    | d4      | 5      | 3 LP  |
+| Range    | Dmg | AP | RoF | Shots | Min Str | Cost |
+|---------|--------|----|-----|-------|----------|------|
+| 5/10/20 | * | ---  | 1   | 6    | d4     | 3 LP  |
 
-* Shotgun (can only use slug ammo with Reinforced Frame mod)
+* Shotgun (can only use slug ammo with Reinforce Frame mod)
+* damage: 3d6-1 at short range, 2d6-1 at medium, 1d6-1 at long
 * Cannot use suppressor 
 
 Examples:
 
-|                              | Stats      | Cost | Notes            |
+| Name                         | Stats      | Cost | Notes            |
 |------------------------------|------------|------|------------------|
 | Fichette Tiffani Needler     | shots:4    | 4LP  | Compact Frame    |
 | Remington Roomsweeper        | ---        | ---  | ---              |
