@@ -40,7 +40,7 @@ All characters get a d4 rank in these skills for free, without having to spend a
 	* Unarmed (including Killing Hands and cyber-implant weapons)
 	* Blunt (any crushing weapon)
 	* Blades (all knives and swords)
-	* Exotic (eg. mono-filament whip)
+	* Exotic (eg. mono-filament whips)
 * Shooting (Agility): Precision with any type of ranged weapon, including bows (but not thrown weapons). Specialisations for this skill: 
   * Projectile weapons (bows, crossbows, etc)
   * Handguns (including all tasers, pistols, machine pistols, compact SMGs)
@@ -78,19 +78,23 @@ See also "Persuasion" under common skills, above.
 *  Performance (Spirit): Singing, dancing, acting, or other forms of public expression.
 *  Taunt (Smarts): Insulting or belittling another. Can be done during combat to distract opponents.
 
-If using a social skill in a language other than the character's native tongue, if their language dice is lower than their social skill dice, roll the language dice instead. If you're playing a social manipulator role, strongly consider the Linguist edge so you can talk to people in their native language.
+If using a social skill in a language other than the character's native tongue, if their language dice is lower than their social skill dice, roll the language dice instead. Sprawlspeak (a pidgin made up of English, Japanese, Korean, Spanish, German, and many others) never counts as a native language for this rule, as it's somewhat clumsy and not suited to rhetoric. If you're playing a social manipulator role, strongly consider taking the Linguist edge so you can talk to people in their native language.
 
 ## Magical skills
 
-* Astral (Smarts): The skill to assense living beings' aura or engage in combat on the Astral Plane.
-* Conjuration (Spirit): the skill for summoning or banishing spirits, for all magical traditions.
-* Sorcery (Smarts): The spellcasting skill for Arcane Background (mage).
-* Sorcery (Spirit): The spellcasting skill for Arcane Background (shaman).
+* Astral (Smarts): The skill to assense living beings' auras or engage in combat on the Astral Plane.
+* Conjuration (Spirit): The skill for summoning or banishing spirits, for all magical traditions.
+* Sorcery (Smarts): The spellcasting skill for Arcane Background (logical spellcaster).
+* Sorcery (Spirit): The spellcasting skill for Arcane Background (intuitive spellcaster).
 
 ## Technical skills
 
 *  Electronics (Smarts): The use of electronic and computerised devices and systems. Their manipulation, repair, and sabotage. Anything involving computer hardware (as opposed to software, which is Hacking.) 
-*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll.)
+*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.) Specialisations:
+	*  Intrusion: used to discreetly break into systems and take control of devices.
+	*  Cybercombat: used to violently crash systems.
+	*  EWAR (electronic warfare): used to disrupt Matrix signals and interfere with device's functionality.
+	*  Spoofing/Masking/Cloaking/Running Silent/Disguise (**name TBD**): used to disguise your Matrix activity.
 *  Repair (Smarts): The ability to fix, build, and modify mechanical and electrical gadgets, including weapons, vehicles, etc. Also used for setting and using explosives and demolitions.
 
 When repairing or modifying electronics, use the lowest of the characters' Repair and Electronics skills.
