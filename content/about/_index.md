@@ -30,6 +30,9 @@ No additional restrictions — You may not apply legal terms or technological me
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="grey" %}}
+
+**Shadowrun licence stuff:**
+
 _The Topps Company, Inc. has sole ownership of the names, logo, artwork, marks, photographs, sounds, audio, video and/or any proprietary material used in connection with the game Shadowrun. The Topps Company, Inc. has granted permission to paydata.org to use such names, logos, artwork, marks and/or any proprietary materials for promotional and informational purposes on its website but does not endorse, and is not affiliated with paydata.org in any official capacity whatsoever._
 
 <center>
@@ -37,5 +40,13 @@ _The Topps Company, Inc. has sole ownership of the names, logo, artwork, marks, 
 _[more information](https://www.shadowruntabletop.com/legal/)_ | 
 _[snapshot of page at time of writing](http://web.archive.org/web/20190928030024/https://www.shadowruntabletop.com/legal/)_
 </center>
+
+**Savage Worlds licence stuff:**
+
+_This game references the Savage Worlds game system, available from Pinnacle Entertainment Group at [www.peginc.com](www.peginc.com). Savage Worlds and all associated logos and trademarks are copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no representation or warranty as to the quality, viability, or suitability for purpose of this product._
+
+**[Sprawlrunners](https://www.drivethrurpg.com/product/334278/Sprawlrunners?affiliate_id=313188) licence stuff:**
+
+_This product references Sprawlrunners by Veiled Fury Entertainment. Used with permission. Veiled Fury Entertainment makes no representation or warranty as to the quality, viability, or suitability for purpose of this product.
 
 {{% /blocks/section %}}

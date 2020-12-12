@@ -1,17 +1,27 @@
 ---
 title: "Weapons"
 linkTitle: "Weapons"
-description: Some sample weapons drawn from Shadowrun, statted for Sprawlrunners
 type: docs
 weight: 500
-date: 2020-12-06
-lastmod: 2020-12-12
+date: 2020-12-12
+draft: true
 ---
 
+## Weapon changes
+
+Almost all of this are stock SprawlRunners & SWADE; gathered here for quick reference.
 
 ### Modifications
 
-These are intrinsic to the weapon when it is purchased. Below are some houseruled additions to the standard ones list in Sprawlrunners (pg 56):
+These are intrinsic to the weapon when it is purchased. Below are the standard Sprawlrunners ones:
+
+* Machine pistol (+1LP, RoF 2)
+* Burst fire mode (SMG/AR) (+1LP)
+* Compact frame (+1LP, -25% shots, -2 penalty to Notice)
+* Foldable stock (+1LP, -1 penalty to Notice when folded, 1 Action to deploy, -1 if shoot without deploying stock first)
+* Reinforced frame (+1LP, flechette pistol can fire slugs)
+
+And some houseruled additions:
 
 * Revolver: reduced shots (already reflected in statline). If it is a smartgun, character can load different ammo types in different cylinders, and choose which cylinders to fire for each attack via a mental command as a free action. Plus swinging the gate open to dump spent brass is extremely cool.
 * Heavy calibre: applies +1 AP, requires 1 more die type in Str. Costs +1LP.
@@ -19,7 +29,19 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 
 ### Accessories
 
-* Smartgun (houserule version): subtracts 2 points of penalties from a Shooting role *or* adds 1 to the roll. (+1LP to weapon cost)
+* Bipod (+1LP, negate recoil/min Str penalty, takes action to deploy)
+* Gas vent system (+1LP, -1 recoil penalty)
+* Gyro-mount harness (+3LP, remove recoil or unstable platform penalty)
+* Laser sight (+1LP) (+1 bonus at short range)
+* Scope (+1LP, +1LP for low light/thermal, cancel 2 additional penalty points when Aiming)
+* Smartgun (+1LP)
+* Suppressor (+1LP, -2 to Notice)
+
+### Ammo types
+
+* APDS (+1LP, +1 AP)
+* Ex-Ex (+1LP, +1 damage, can cook off)
+* Gel rounds (+1LP, set AP to 0, non-lethal damage)
 
 ### Cosmetic trappings
 
@@ -34,6 +56,12 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 
 ### Holdout pistols
 
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 10/20/30 | 2d6-1  | 0  | 1   | 10    | d4      | 1      | 1 LP  |
+
+* -2 Notice penalty to attempts to spot weapon when concealed.
+
 |                                          | Stats               | Cost | Notes                                              |
 |------------------------------------------|---------------------|------|----------------------------------------------------|
 | Ares Lightfire 70              |---|---| *Sleek*                                                   |
@@ -41,6 +69,14 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 | Walther Palm Pistol | shots: 2, -4 Notice | 2 LP | *Double-barrelled*, Compact Frame. Can fire both barrels for +1 damage. |
 
 ### Light pistols
+
+Default stats:
+
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 12/24/48 | 2d6    | 1  | 1   | 15    | d4      | 2      | 
+
+Examples:
 
 |                       | Stats               | Cost | Notes                                 |
 |-----------------------|---------------------|------|---------------------------------------|
@@ -60,6 +96,14 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 
 ### Heavy Pistols
 
+Default stats:
+
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 12/24/48 | 2d6+1  | 1  | 1   | 12    | d4      | 4      | 3 LP  |
+
+Examples:
+
 |                      | Stats                   | Cost | Notes                                         |
 |----------------------|-------------------------|------|-----------------------------------------------|
 | Ares Predator        | ---                     | 4LP  | Integrated smartlink, *imposing*              |
@@ -77,6 +121,17 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 -->
 
 ### Flechette Pistols
+
+Default stats:
+
+| Range    | Damage | AP | RoF | Shots | Min Str | Weight | Cost |
+|----------|--------|----|-----|-------|---------|--------|------|
+| 5/10/20 | 1-3d6-1 | ---  | 1   | 6    | d4      | 5      | 3 LP  |
+
+* Shotgun (can only use slug ammo with Reinforced Frame mod)
+* Cannot use suppressor 
+
+Examples:
 
 |                              | Stats      | Cost | Notes            |
 |------------------------------|------------|------|------------------|
