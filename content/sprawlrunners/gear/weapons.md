@@ -17,11 +17,11 @@ These are intrinsic to the weapon when it is purchased. Below are some houserule
 * Heavy calibre: applies +1 AP, requires 1 more die type in Str. Costs +1LP.
 * Extended mag: +33% shots, +1LP, +2 to Notice due to the weapon's awkward, bulky shape.
 
-### Accessories
+## Accessories
 
 * Smartgun (houserule version): subtracts 2 points of penalties from a Shooting role *or* adds 1 to the roll. (+1LP to weapon cost)
 
-### Cosmetic trappings
+## Cosmetic trappings
 
 * *Imposing* - oversized; bulky; threatening.
 * *Blinged* - made of mirror-polished chrome; colour-changing smartpaint; public AR broadcast of a killcount holo.

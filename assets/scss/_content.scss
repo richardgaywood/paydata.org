@@ -1,0 +1,10 @@
+//
+// Style Markdown content
+//
+
+.td-content {
+    > table {
+        @extend .table-hover;
+        @extend .table;
+    }
+}
