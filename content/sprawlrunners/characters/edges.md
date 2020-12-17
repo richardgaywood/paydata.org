@@ -5,25 +5,33 @@ type: docs
 weight: 600 
 description:  New and improved edges 
 date: 2020-11-18 
+lastmod: 2020-11-18
 --- 
 
 ## New rigger edges
 
-### Mod Shop
+The below edges grant Mod Points, used to represent access to tools and parts. They are spent similarly to Logistic Points, and can be used to upgrade vehicles before the mission, or even during it if the opportunity presents itself. See [vehicle mods]({{< relref "vehicle_mods.md" >}}) for how to use Mod Points.
 
-Requirements: Novice, Repair d6+ \
-Character gains a pool of 3 Mod Points, to spend on customising vehicles acquired via LP.
+{{% pageinfo %}}
+**Mod Shop** \
+Requirements: Novice, Repair d6+
 
-See [vehicle mods]({{< relref "vehicle_mods.md" >}}) for how to use Mod Points.
+Character gains a pool of 3 Mod Points.
+{{% /pageinfo %}} 
 
-#### Improved Mod Shop
+{{% pageinfo %}}
+**Improved Mod Shop**\
+Requirements: Seasoned, Repair d8+, Mod Shop 
 
-Requirements: Seasoned, Repair d8+, Mod Shop \
-Character gains a further 4 Mod Points.
+Character gains a further 4 Mod Points, in addition to the 3 granted for Mod Shop.
+{{% /pageinfo %}} 
 
-#### Mod God
+{{% pageinfo %}}
+**Mod God** \
+Requirements: Veteran, Repair d10+, Improved Mod Shop
 
-Requirements: Veteran, Repair d10+, Improved Mod Shop \
-Character gains a further 5 Mod Points.
+Character gains a further 5 Mod Points. This Edge can be taken again at Legendary rank.
+{{% /pageinfo %}} 
 
-Mod Points represent access to tools and parts, and are spent like Logistics Points. They can be used to tweak vehicles before the mission, or even during it if the opportunity presents itself.
+
+
