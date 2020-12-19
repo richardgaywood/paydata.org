@@ -1,0 +1,47 @@
+
+{{ $pages := .Site.Pages }}
+{{ $root := .Page }}
+<!-- {{ $recusive_below := .Page.RegularPagesRecursive.ByWeight }} -->
+{{ $pages_below := .Page.RegularPages.ByWeight }}
+{{ $sections_below := .Page.Sections.ByWeight }}
+
+<div class="section-index">
+    {{ range $sections_below }}
+        <div class="entry">
+            <h5>
+                <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+            </h5>
+            <p>{{ .Description | markdownify }}</p>
+        </div>
+
+        <div class="indent">
+            {{ $pages_below_section := .RegularPagesRecursive.ByWeight }}
+                {{ range $pages_below_section }}
+                <div class="entry">
+                    <h5>
+                        <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+                    </h5>
+                    <p>{{ .Description | markdownify }}</p>
+                </div>
+            {{ end }}
+        </div>
+    {{end}}
+    {{ range $pages_below }}
+            <div class="entry">
+                <h5>
+                    <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+                </h5>
+                <p>{{ .Description | markdownify }}</p>
+            </div>
+    {{ end }}
+</div>
+
+
+<!--
+https://gist.github.com/myobie/00c1c51b18dde80b078e93ff06be17ed
+https://adamogrady.id.au/dev/hugo-recursive-templates/
+https://stackoverflow.com/questions/47904764/hugo-how-to-display-in-section-page-a-list-of-subsections
+https://discourse.gohugo.io/t/shortcode-and-nested-shortcodes-with-variables/2874/4
+https://www.stackbit.com/blog/advanced-hugo-templates/
+-->
+

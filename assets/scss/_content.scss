@@ -8,3 +8,10 @@
         @extend .table;
     }
 }
+
+.section-index {
+    .indent {
+        margin-left: 50px;
+        border-left: 1px solid -grey-dark;
+    }
+} 
