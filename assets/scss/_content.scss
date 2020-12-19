@@ -10,8 +10,19 @@
 }
 
 .section-index {
-    .indent {
+    .pages-in-section {
         margin-left: 50px;
         border-left: 1px solid gray;
+
+        .entry {
+            padding-top: 0.25rem;
+            padding-bottom: 0.25rem;
+
+        }
     }
+
+    p {
+        margin-bottom: 0.25rem;
+    }
+
 } 

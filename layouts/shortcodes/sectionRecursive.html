@@ -1,6 +1,8 @@
 {{ $pages_below := .Page.RegularPages.ByWeight }}
 {{ $sections_below := .Page.Sections.ByWeight }}
 
+<hr class="panel-line">
+
 <div class="section-index">
     {{ range $sections_below }}
         <div class="entry">
@@ -10,7 +12,7 @@
             <p>{{ .Description | markdownify }}</p>
         </div>
 
-        <div class="indent">
+        <div class="pages-in-section">
             {{ $pages_below_section := .RegularPagesRecursive.ByWeight }}
                 {{ range $pages_below_section }}
                 <div class="entry">
@@ -31,3 +33,5 @@
             </div>
     {{ end }}
 </div>
+
+<hr class="panel-line">
