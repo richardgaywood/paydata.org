@@ -7,9 +7,9 @@
     "url": "https://github.com/richardgaywood/blog/tree/master/paydata.org/"
   },
   "dependencies": {
+    "autoprefixer": "^10.1.0",
     "postcss": "x",
     "postcss-cli": "x",
-    "postcss-reporter": "x",
-    "autoprefixer": "x"
+    "postcss-reporter": "x"
   }
 }
