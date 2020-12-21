@@ -7,14 +7,14 @@ date: 2020-12-21
 weight: 150
 ---
 
-{{% alert title="Author's Note" color="gray" %}}
-On this page, I present an overview of my personal canon for how augmented reality works in my cyberpunk setting.
+{{% alert title="Author's Note" color="info" %}}
+*On this page, I present an overview of my personal canon for how augmented reality works in my cyberpunk setting.*
 
-I freely admit that I am attempting to have my cake and eat it. Traditional '80s cyberpunk has a traditional view of computing and in particular the internet: it is a place where you go to. Computers are large, they are fixed in place, and they are used mostly by specialists. This is mirrored by the role of VR in my campaign.
+*I freely admit that I am attempting to have my cake and eat it. Traditional '80s cyberpunk has a traditional view of computing and in particular the internet: it is a place where you go to. Computers are large, they are fixed in place, and they are used mostly by specialists. This is mirrored by the role of VR in my campaign.*
 
-The modern world of the 2020s have obsoleted this view. Smartphones have made computing and the internet ubiquitous, always within arm's reach, and accessible to everyone. This is mirrored by the use of AR in my campaign. 
+*The modern world of the 2020s have obsoleted this view. Smartphones have made computing and the internet ubiquitous, always within arm's reach, and accessible to everyone. This is mirrored by the use of AR in my campaign.* 
 
-Hopefully, my approach blends the two; maintains the feeling that VR is a special and specialised domain only open to a few, while keeping AR for the future masses who are as addicted to their social media feeds as we are today.
+*Hopefully, my approach blends the two; maintains the feeling that VR is a special and specialised domain only open to a few, while keeping AR for the future masses who are as addicted to their social media feeds as we are today.*
 {{% /alert %}} 
 
 ## Augmented reality is not telepathy
