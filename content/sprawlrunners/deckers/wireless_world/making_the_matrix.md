@@ -2,7 +2,7 @@
 title: Making the Matrix
 linkTitle: Making the Matrix
 type: docs
-description: What the Matrix is made of\: the backbone and the local mesh; hosts and other icons
+description: "What the Matrix is made of: the backbone and the local mesh; hosts and other icons"
 date: 2020-11-21
 lastmod: 2020-12-16
 weight: 100
