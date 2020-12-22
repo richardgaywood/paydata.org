@@ -10,6 +10,10 @@ weight: 100
 
 The third-generation Matrix of the 2070s is a technological marvel, delivering immersive AR and VR applications to users without the need for wires. But how does it manage such fast connections without requiring the user to physically connect a cable? The answer comes in two parts.
 
+{{% alert title="Notes" %}}
+*The design intent here is to keep deckers close to the action by tying their hacking activities to a short-range mesh network.*
+{{% /alert %}} 
+
 ## The backbone
 
 The first part is the *global grid*, also known colloquially as **the backbone**. This is broadly equivalent to what was known in the early 21st century as "the cloud"; it's the sum of all the physical infrastructure of fibre trunks, satellite uplinks, and other super-speed connections that connect all the Matrix's hosts together. Within the backbone, speed is functionally infinite, and distance is no issue. But you can only use the backbone if you have a physical, wired connection to it. Nobody wants that.
@@ -50,13 +54,6 @@ Everything on the Matrix is represented by an *icon*. Icons can look like anythi
 * **Hosts**: as mentioned above, these are the "servers" of the Matrix; big computer systems you can go into and do stuff within. So the social network P2.1 has a host that you go into to read your friends' updates, post messages, play games with them; that sort of thing.
 	* Some hosts are so big that internally they are sub-divided into zones called **nodes**.
 
-## Dark fibre
-
-{{% alert title="TODO" color="warning" %}}move this section?{{% /alert %}} 
-
-The backbone infrastructure is administered and patrolled by the Grid Overwatch Division, and is theoretically neutral between the megacorps. But the corps didn’t get rich by trusting each other. Where security demands it, it’s not unusual for corporations to run their own private communication lines - for example between a secure, hidden facility and a more public one. This lets the secure facility access the Matrix discreetly without making its location or purpose obvious. This is called **dark fibre**.
-
-On the local mesh, dark fibre functions like a wormhole. If you can hack the controlling host on one end, you can coerce it to carry your traffic to the other, and suddenly you can "see" devices that could be dozens or even hundreds of kilometers away. Occasionally, wily shadowrunners use this as part of a smash-and-grab, using a forgotten dark fibre link to hack into a distant host that is too physically well-protected to get near in the physical world.
 
 
 
