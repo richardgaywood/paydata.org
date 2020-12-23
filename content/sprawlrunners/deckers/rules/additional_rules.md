@@ -21,14 +21,6 @@ A decker facing an opponent using wirelessly connected devices can distract them
 
 On a success, the decker can inflict either Distracted or Vulnerable on the target, as they prefer. On a Raise, they can also inflict Shaken.
 
-{{% alert title="TODO" color="warning" %}}Add something here about internal routers?{{% /alert %}} 
-
-## Hacking hosts via a back door
-
-If a decker can get physical access to debug ports on a device that is connected to a WAN, they can use this to get into the host that is running the WAN more easily. This will usually require a roll of the lower of Electronics and Repair to open up the device and hook up the necessary connections. If the decker succeeds, they take +2 on all actions in the connected node.
-
-Sysadmins are aware of this weakness, and do not usually put external devices like cameras or maglocks onto WANs for that reason. Security WANs tend to be reserved for more serious defences that are harder to get near, like turrets or security guard's weapons.
-
 ## Maintaining access to a hacked node from AR
 
 Suppose a decker has hacked into a building facility's security node in VR and now wish to move with the team while maintaining that access.
@@ -41,6 +33,6 @@ The decker has to keep KeepAlive in their deck's memory to maintain the access. 
 
 Deckers can use a new utility called **Spoof** to dodge the effects of a high local mesh alarm score. Spoof works by routing all the decker's traffic through a nearby device, setting it up to look like the culprit when the authorities notice.
 
-The decker has to have had Spoof loaded before the first hack begun, and kept it loaded throughout. Whenever Spoof is unloaded, the local mesh alarm value immediately halves (rounded down).
+The decker has to have had Spoof loaded before the first hack begun, and kept it loaded throughout. When Spoof is unloaded, the local mesh alarm value immediately halves (rounded down).
 
 Spoof doesn't help with host hacking.

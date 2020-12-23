@@ -4,7 +4,7 @@ linkTitle: Making the Matrix
 type: docs
 description: "What the Matrix is made of: the backbone and the local mesh; hosts and other icons"
 date: 2020-11-21
-lastmod: 2020-12-16
+lastmod: 2020-12-22
 weight: 100
 ---
 
@@ -46,7 +46,7 @@ But how do you actually get stuff done on the Matrix? Well, you interact with ic
 
 Everything on the Matrix is represented by an *icon*. Icons can look like anything; cartoonish symbols, abstract runes, photorealistic 3d images; anything (although most sane Matrix designers use icons that at least vaguely resemble what they are used for). Icons can represent one of a few different types of thing:
 
-* **Tags**: tiny little passive chips. They have no batteries or computing power of their own; they are powered by wireless power gathered from the Matrix. They typically hold and/or broadcast some number of files. They cannot be hacked, as such, as they lack any processor of their own.
+* **Tags**: tiny little passive chips. They have no batteries or computing power of their own; they are powered by wireless power gathered from the Matrix. They typically hold and/or broadcast some number of files. They cannot be hacked, as such, as they lack any processor of their own. See [Tags]({{< relref "other_stuff.md#Tags" >}}) for more.  
 * **Files**: any type of data (text, audio, video, computer code, ...), stored on any type of medium (in a tag, on a commlink, in a host, on a storage chip, ...).
 * **Devices**: toasters, cars, door locks, speakers, microwaves, etc etc etc. In the Sixth World, near enough everything that has electrons flowing through it also has a functioning Matrix connection of its very own.
 	* **Commlinks**: special devices that people use to see and interact with the Matrix.
