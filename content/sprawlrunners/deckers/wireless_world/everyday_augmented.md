@@ -18,21 +18,13 @@ weight: 200
 *Hopefully, my approach blends the two; maintains the feeling that VR is a special domain only open to a few, while keeping AR for the future masses who are as addicted to their social media feeds as we are today.*
 {{% /alert %}} 
 
-## Augmented reality is not telepathy
+## Interface issues: augmented reality is not telepathy
 
 When a user is in VR, their body's nervous system is partially shut down by a [RAS override](https://shadowrun.fandom.com/wiki/RAS_Override). One of the effects of this is that by blocking sensory input to the brain from the user's body, it makes it much easier for their datajack to read their conscious and sub-conscious impulses. This, in turn, creates a really efficient control surface; the user can send instructions as fast as they can think. 
 
 AR doesn't work like that, as it has no RAS override. The datajack has to try and pick out the impulses amongst a storm of unrelated sensory processing. For this reason, most control of devices via AR is done indirectly through holos (see below) instead of direct brain-computer interfacing as is typical in VR.
 
 One area where AR can directly read thoughts quite successfully is via a sort of text-to-speech service. As long as the user deliberately and clearly forms words in their mind, their inner monologue can be picked up by the datajack and sent to a commlink or other device. This is often used for text messaging or sending very simple commands, eg. to turn a smart device on/off or fire a smartgun. Compared to doing stuff in VR, it's glacially slow, though - only about the same speed as talking, perhaps a bit faster if the user has had a lot of practice.
-
-## Icons everywhere
-
-When you view the world in AR, your commlink or cyberdeck can overlay [icons]({{< relref "icons.md" >}}) for any (and all) nearby matrix devices onto your vision. This is rather overwhelming - in an urban area, the local mesh can contain thousands of icons. So most people run filtering routines that hide most of them and only show ones deemed important. For example, in a crowded street, you might only show icons for commlinks for people you know, and hide the rest.
-
-The mesh networking routing protocols that keep the wireless matrix working tracks the approximate position and motion of all these devices, so it can predict when devices are about to go out of range of each other and have fallback routes prepared to keep traffic flowing. AR leverages this information to position icons in the user's sensorium in vaguely the correct place, relative to where the device is. 
-
-When the user has line-of-sight to the device, this positioning is quite accurate; glance at a coffee machine in AR and you'll see its glowing matrix icon hovering just over it. When there's no line of sight, position accuracy drifts randomly, often by a few metres. If you are in a shopping mall and your friend is in the store a few doors down from you, you'll see an icon for their commlink, but it'll appear vague and fuzzed-out so you know it's only an approximate position.
 
 ## Holos
 
