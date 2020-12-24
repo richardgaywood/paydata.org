@@ -4,11 +4,13 @@ linkTitle: Other stuff
 type: docs
 description: Smaller bits and pieces, plot devices, etc
 date: 2020-12-22
-lastmod: 2020-12-23
+lastmod: 2020-12-24
 weight: 800
 ---
 
-This is a grab-bag of things, mostly intended to be used as plot devices.
+{{% alert title="Notes" %}}
+*This is a grab-bag of small things, intended to be used as optional/situational plot devices or for added flavour.*
+{{% /alert %}} 
 
 ## Dark fibre
 
@@ -27,16 +29,24 @@ Tags are very common in my campaign, and have numerous uses:
 * Broadcasting a fixed AR holo - eg a billboard, signage, an animated menu outside a restaurant, or a piece of grafitti.
 * Local tracking of things - most goods that cost more than a few nuyen have tags included in the packaging. Warehouses and retailers can use these tags to track inventory and ring up your shopping bill.
 * Global tracking of things - tags can be configured to upload their location to a cloud server whenever they have a working Matrix connection. People use these as locators for any of their stuff they want to keep track of. 
-* Theft prevention - a variation on the tracking idea, most expensive, durable, or legally restricted goods (definitely including vehicles, guns, and ammunition) are infested with multiple tracking tags. If the goods are noticed stolen, they can be swiftly tracked down via the locations being uploaded from the tags. Sneaky users might have tags on their items that do not broadcast their location all the time, but sit passive and undetectable until certain times or they receive an incoming signal; this makes it very difficult to know you've definitely wiped every tag off something you just stole. Items the characters purchase with from the black market LPs have already gone through this.
+* Theft prevention - a variation on the tracking idea, most expensive, durable, or legally restricted goods (definitely including vehicles, guns, and ammunition) are infested with multiple tracking tags. If the goods are noticed stolen, they can be swiftly tracked down via the locations being uploaded from the tags. 
+
+	Sneaky users might have tags on their items that do not broadcast their location all the time, but sit passive and undetectable until certain times or they receive an incoming signal; this makes it very difficult to know you've definitely wiped every tag off something you just stole. Items the characters purchase with from the black market LPs have already gone through this.
 
 ## One-time pad encryption
 
-While most encryption has been superseded by the quantum processors used in cyberdecks, there is one notable exception: one-time pads. This uses a pre-arranged encryption key that is all but uncrackable - but both parties using the encrypted channel have to have exchanged the keys in advance. Furthermore, the keys have to be regularly cycled (every few seconds of a video steam) to avoid them becoming attackable as they become stale.
+While most encryption has been superseded by the quantum processors used in cyberdecks, there is one notable exception: one-time pads. This uses pre-arranged private encryption keys that are all but uncrackable - but both parties using the encrypted channel have to have exchanged the private keys in advance. Furthermore, the keys have to be regularly cycled (every few seconds of a video steam) to avoid them becoming attackable as they become stale.
 
-This means the key management is extremely awkward, and reserved for only the most critically important of communications. Data couriers are often employed to move encryption keys from place to place, but if they are intercepted and the keys stolen, then the communications can be intercepted - without anyone knowing. These are therefore high-value targets for corporate intrigue.
+This makes the key management extremely awkward, and reserved for only the most critically important of communications. Data couriers are often employed to move encryption keys from place to place, but if they are intercepted and the keys stolen, then the communications can be intercepted - without anyone knowing. These are therefore high-value targets for corporate intrigue.
 
 ## RF blocking paint
 
 The local mesh relies on ultra-wide band signals that can barely penetrate walls at the best of times. So it doesn't take much to block them almost entirely via smartpaints that use nanotech to assemble a crude Faraday cage as it dries. This prevents any decker outside the area from seeing in; icons for devices inside cannot be seen from the outside, and all hacking traffic is blocked. 
 
-Smartpaints are quite expensive, so tend to be reserved for only high-security areas within a facility. The are, of course, combined with physical security measures and access controls. Smartpaints are also wildly unpopular with workers, as they are inconveniently cut off from the outside world. 
+Smartpaints are quite expensive, so tend to be reserved for only high-security areas within a facility. These are, of course, combined with physical security measures and access controls. Smartpaints are also wildly unpopular with workers, as they are inconveniently cut off from the outside world. 
+
+## Personas
+
+Personas are a special kind of icon used in VR to represent a human user. They are endlessly customisable, by creating custom 3d models and animations and/or by purchasing expensive digital goods from your favourite brands. Most of humanity is happy with a generic persona, perhaps with a small purchased accessory or two. But for some, particularly those who live in the matrix, persona customisation is an important part of how they express themselves. This is particularly common in decker circles.
+
+People who have spent a lot of time or money customising their persona often want to show it off in AR as well as VR. They run special programs on their commlink that do a public broadcast of their persona as an animated ARO. A miniature version may float over their head or ride around on their shoulder. Some people go so far as to animate a life-size version of their persona and have it envelop their meatbod, effectively hiding them within it. This is very difficult to do well;  often they will clip through the animated persona, ruining the effect.

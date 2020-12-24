@@ -4,8 +4,8 @@ linkTitle: Living in AR
 type: docs
 description: How augmented reality works and feels
 date: 2020-12-21
-lastmod: 2020-12-22
-weight: 150
+lastmod: 2020-12-24
+weight: 200
 ---
 
 {{% alert title="Notes" %}}
@@ -28,7 +28,7 @@ One area where AR can directly read thoughts quite successfully is via a sort of
 
 ## Icons everywhere
 
-When you view the world in AR, your commlink or cyberdeck can overlay icons for any (and all) matrix icons in the local mesh onto your vision. This is rather overwhelming - the local mesh typically extends a few hundred metres or more, so can contain thousands of icons. So most people run filtering routines that hide most of them and only show ones deemed important. For example, in a crowded street, you might only show icons for commlinks for people you know, and hide the rest.
+When you view the world in AR, your commlink or cyberdeck can overlay [icons]({{< relref "icons.md" >}}) for any (and all) nearby matrix devices onto your vision. This is rather overwhelming - in an urban area, the local mesh can contain thousands of icons. So most people run filtering routines that hide most of them and only show ones deemed important. For example, in a crowded street, you might only show icons for commlinks for people you know, and hide the rest.
 
 The mesh networking routing protocols that keep the wireless matrix working tracks the approximate position and motion of all these devices, so it can predict when devices are about to go out of range of each other and have fallback routes prepared to keep traffic flowing. AR leverages this information to position icons in the user's sensorium in vaguely the correct place, relative to where the device is. 
 
