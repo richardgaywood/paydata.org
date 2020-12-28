@@ -11,7 +11,7 @@ Sprawlrunners RAW does not use astral projection and significantly limits astral
 
 Our campaign will allow astral projection as a houserule. Astral perception will work like Shadowrun (long distance) and not Sprawlrunners (where it has a very short range).
 
-Adepts - people with only one Arcane Background - can choose to purchase Astral Perception as a power. They cannot Project. Full mages - with two Arcane Backgrounds - can both perceive and project, without having to buy any powers.
+Adepts - people with only one Arcane Background - can choose to purchase Astral Perception as a power. They cannot astrally project. Full mages - with two Arcane Backgrounds - can both perceive and project, without having to buy any powers.
 
 ## Seeing the astral world
 
@@ -21,10 +21,9 @@ Adepts - people with only one Arcane Background - can choose to purchase Astral 
 
 ## Astral projection
 
-A brief recap of astral projection key concepts:
+A mage can safely astrally project for (Spirit Die/2) hours. 
 
-* Can safely astrally project for (Spirit Die/2) hours. 
-	* Beyond that, the mage must roll a Spirit test every ten minutes, at a cumulative -1 penalty each time (so -1 after 10 minutes; -2 after 20 minutes, etc.) When the caster fails a roll, they get 10 more minutes, then if they do not return to their body they will fade away and die.
+Beyond that, the mage must roll a Spirit test every ten minutes, at a cumulative -1 penalty each time (so -1 after 10 minutes; -2 after 20 minutes, etc.) When the caster fails a roll, they get 10 more minutes, then if they do not return to their body they will fade away and die.
 
 ### Movement
 
@@ -69,11 +68,11 @@ Depending on the outcome, you might learn the following:
 This is handled very much like melee combat:
 
 * Attacker rolls Astral
-* Defender's Astral Parry is (1/2 Astral skill die) +2
+* Defender's Astral Parry is (2 + (1/2 Astral skill die))
 * Base damage is attacker's Spirit die
 	* Weapon Foci add their die type to this
 	* Physical adepts with Killing Hands add their approriate die type
-* Astral toughness is (1/2 Spirit die)+2.
+* Astral toughness is (2 + (1/2 Spirit die))
 * Apply Shaken and Wounds as normal. Wounds dealt in Astral combat manifest themselves upon the mage's comatose body.
 
 Note that - given how fast astral travel is - the back-and-forth of astral combat can easily cover an area hundreds of meters across.

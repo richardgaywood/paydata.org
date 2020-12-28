@@ -10,14 +10,43 @@ weight: 300
 
 {{% pageinfo %}}These rules are only draft / for discussion. They are **not** canon and will almost certainly be changed before they become so.{{% /pageinfo %}} 
 
+## Greatforms and minor forms
+
+Spirits are divided into archetypal groups, called *greatforms*. There are six primary greatforms: earth, air, water, fire, beasts, and man. (Some NPC-only spirits, like insect spirits and blood spirits, fall outside this classification.)
+
+Greatform are not spirits that are summoned but families of spirits from which a summoner can draw. Summoners choose from an endless number of variant *minor forms*, each of which is linked to one of the greatforms. For example, spirits of air could be summoned as Tornado spirits, Storm spirits, or Cloud spirits. Each of these minor forms has a statblock and is associated with one of the spirit power levels - lesser, common, or greater.
+
+Greatforms and minor forms are linked to SWADE skills as follows: 
+
+* Each greatform is a separate instance of the Summon Ally power. For example, a hermetic mage might start play with Summon Ally (Fire) and Summon Ally (Earth). Mages can learn more of these through advances, as usual.
+* When a mage first learns the ability to summon a new greatform, the player defines the first specific minor form it will take for that mage. This is specific to the character and to their magical tradition, and players are encouraged to roleplay our what a given spirit might mean to a given mage. This involves creating the stats for each minor form at a specific power level - Lesser, Common, or Greater.
+* During play, the mage might want to learn more minor forms. A new power, More Minor Forms, allows this; the mage may create two new minor forms for any greatforms they know.
+
+{{% alert title="Example" %}}
+Eddie the chaos mage starts the campaign at Seasoned rank. He learns two greatforms: Fire and Man.
+
+Eddie's player Bobby creates two new spirit types that he feels embodies the philosophy of a chaos mage and fit the greatforms Eddie can summon: Blaze (a lesser spirit of fire) and Hearth (a lesser spirit of man.)
+
+Later in the campaign, Eddie advances to Veteran rank. He now gets to create two new common spirits, one for each of his greatforms. Bobby creates stats and powers for an Inferno spirit (of fire) and a Trickster spirit (of man).
+
+Eddie's next advance is used to purchase a new summoning power - Summon Ally (earth). Bobby can immediately create two new types of earth spirit for Eddie to use. He creates a Mud spirit (lesser earth) and a Rock spirit (common earth.)
+
+Now Eddie advances one more time. He takes the New Powers edge and decides to use one of the powers it grants on two new minor forms. Bobby creates their stats; they can be of any of the greatforms Eddie knows (Fire, Man, and Earth), and at any of the power levels Eddie can summon (lesser or common).
+
+Finally, Eddie does one last advance, taking him to Heroic rank. This unlocks greater spirits. Bobby creates three new spirits, one per greatform that Eddie knows. Eddie is really a force to be reckoned with now!
+{{% /alert %}} 
+
+## Spirit chargen rules
+
+
+
+### Elementals
+
+Earth, air, fire, and water also each have special minor forms called "elementals", which match up to the boring stereotypes used by dreary hermetic mages. There is no such thing as elementals of beasts or man, though.
+
+
 
 ## Summary for discussion
-
-* Spirits come in six different base types, called *greatforms*: earth; air; water; fire; beasts; man.
-* Each greatform can be summoned in an endless number of variant *minor forms*. 
-	* For example, spirits of air could be summoned as Tornado spirits, Storm spirits, or Cloud spirits.
-	* Earth, air, fire, and water also each have special lesser forms called "elementals", which match up to the boring stereotypes used by dreary hermetic mages. There is no such thing as elementals of beasts or man, though.
-	* Most stats and powers are common across all the minor forms of a single greatform. 
 
 As per Sprawlrunners, each minor form can be summoned at three different power levels: Lesser, Common, and Greater. 
 
@@ -55,6 +84,7 @@ By default, summoners can only have one lesser/common/greater spirit summoned at
 
 *(Slightly changed from RAW.)*
 
+{{% pageinfo %}}
 Rank: Seasoned *(changed from Veteran in RAW)*\
 Power Points: See below \
 Range: Smarts \
@@ -70,13 +100,4 @@ The power point cost, and hence roll penalty, is determined by the target spirit
 * Seasoned rank (eg lesser elemental): -2 to roll (4PP)
 * Veteran rank (eg 'standard'): -3 to roll (6PP)
 * Heroic rank (eg greater elemental): -4 to roll (8PP)
-
-<!--
-spirit powers
-
-
-When a Magician or Adept perceive in the Astral Plane they are able to use the Assensing ability and also see creatures and magic. A Magician or an Adept can also use spells to damage creatures from that plane of existence (for half damage). All stats go off of physical abilities as on the character sheet. For a Magician to fully interact with the Astral Plane he must leave his body and project his essence there. While on the Astral Plane any spell cast on a creature there does full damage. Things on the Astral Plane happens faster than in the real world, so if combat is split between the Astral Plane and the physical world, resolve what happens on the Astral Plane in a combat round before the physical plane.
-While on the Astral Plane treat a Magician’s Mental Attributes as one higher than on the character sheet (this goes for Critters as well). Ignore physical attributes. For resisiting damage directed at the Magician or for critters follow this:
-Agility- Use Smarts; Strength and Vigor- Use Spirit.
-
--->
+{{% /pageinfo %}} 
