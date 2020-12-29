@@ -5,7 +5,7 @@ linkTitle: Additional rules
 type: docs
 description: Extra bits and pieces; hacking via back doors; new utilities
 date: 2020-11-27
-lastmod: 2020-12-07
+lastmod: 2020-12-29
 weight: 800
 ---
 
@@ -36,3 +36,19 @@ Deckers can use a new utility called **Spoof** to dodge the effects of a high lo
 The decker has to have had Spoof loaded before the first hack begun, and kept it loaded throughout. When Spoof is unloaded, the local mesh alarm value immediately halves (rounded down).
 
 Spoof doesn't help with host hacking.
+
+## Tacnets
+
+A tacnet is a realtime augmented reality overlay used by all members of a team to co-ordinate their actions and share tactical data. Tacnets were created for us by elite corp special-ops teams, but have been co-opted by shadowrunners and other criminals (at least, those who can afford them.)
+
+Tacnets can only be run by a decker using a cyberdeck. They require an s-PAN, and they require the hosting cyberdeck to be running the **Tacnet** utility.
+
+### Game effects of tacnets
+
+Tacnets extent the Command Range for all Leadership edges to include everyone using it (see SWADE pg 44).
+
+If anyone on the tacnet has a Battle skill of d8 or more, the tacnet itself also gains a Bennie pool with 1 Bennie in it. This can be spent by anyone attached to the tacnet if they have no Bennies of their own left (ie the shared pool is used last.) It refreshes at the same time as other player pools, and receives a bonus Bennie if any user of the tacnet draws a Joker action card.
+
+All of these benefits are lost if the s-PAN is crashed. This makes s-PANs a priority target for Matrix attack during combat - and the deckers priority targets for physical attack.
+
+When the NPCs are using a tacnet, they get an extra Bennie to spend. If the PCs can crash it, the GM loses **two** Bennies immediately.
