@@ -4,7 +4,7 @@ linkTitle: Summoning
 type: docs
 description: Rules for summoning spirits
 date: 2020-11-18
-lastmod: 2020-12-06
+lastmod: 2020-12-29
 weight: 300
 ---
 
@@ -38,28 +38,35 @@ Finally, Eddie does one last advance, taking him to Heroic rank. This unlocks gr
 
 ## Spirit chargen rules
 
+For the main, these will follow the rules in the Savage Worlds [Summoner's Circle](https://www.drivethrurpg.com/m/product/273484) supplement.
 
+Each greatform at each power level has some pre-defined stats that cannot be altered; the player is then free to spend the rest of the build points (per the Summoner's Circle system) to customise them and create the minor form they will summon.
+
+(I haven't created those statblocks yet. We'll fill them in as we need them, and I will document them here as we go along.)
+
+### Common powers
+
+All spirits have the following powers and abilities. Numbers in brackets are the points value from Summoner's Circle.
+
+* -4 damage to mundane ranged attacks (2): difficult to harm with physical objects alone.
+* Dual-natured (1): native to the astral plane; is always astrally perceiving at all times.
+* Elemental (5): doesn't need to eat or breath; immune to poison/disease; immune to called shots; ignores 1 level of Wound penalties.
+* Extraplanar (-2): can be targeted by the Banish power.
+* Fearless (2): immune to fear effects.
 
 ### Elementals
 
 Earth, air, fire, and water also each have special minor forms called "elementals", which match up to the boring stereotypes used by dreary hermetic mages. There is no such thing as elementals of beasts or man, though.
 
+Elementals are different from other spirits; they are plodding, incurious about the world around them, less likely to bear grudges if abused by their summoner.
 
+Elementals use the statblocks from Sprawlrunners RAW.
 
-## Summary for discussion
+### Servants / watchers
 
-As per Sprawlrunners, each minor form can be summoned at three different power levels: Lesser, Common, and Greater. 
+Rules as per Sprawlrunners RAW. 
 
-~*OR* Each minor form has a predefined power level when the mage learns how to summon them; a mage might know how to summon Lesser Mud spirits and Common Storm spirits. This requires a lot less work to create all the statblocks, but makes the mage less flexible.~
-
-Then:
-
-* Summoner characters get 4x starting Powers at chargen. (Suggested use: 3x greatform spirits and Banish.)
-* As usual, the character can spend an Advance to learn 2x new Powers.
-* Learning a new greatform is a Power. At that time, the player can define which minor form they are learning for the greatform, and create its stats at all three power levels.
-* Adding more minor forms to greatforms you already know is also a Power, but you get to learn 2x minor forms for a single Power.
-
-## Summoning process
+## Summoning game mechanic
 
 Roll Summoning skill, taking a penalty according to the level of the spirit:
 
@@ -70,11 +77,11 @@ Roll Summoning skill, taking a penalty according to the level of the spirit:
 
 Take drain on a natural 1 as usual.
 
-Spirit control is based on the concept of *favours*. Each spirit is summoned with two favours by default. Each Raise on the summoning roll adds another favour. If the mage is summoning a spirit of lesser rank than themselves, they get an extra bonus favour.
+Spirit control is based on the concept of *favours*. Each spirit is summoned with two favours by default. Each Raise on the summoning roll adds another favour. If the mage is summoning a spirit of lesser rank than themselves (eg a Veteran mage summoning a lesser spirit), they get an extra bonus favour.
 
 The spirit enters play, materialised on the physical plane, and can act immediately. In combat, they act on the same initiative card as their summoner. Mages can send mental commands to their summoned spirits as a free action.
 
-Any commanded use of the spirit's power outside of combat uses a single favour. Participation in an entire combat uses a favour. Remote service uses all remaining favours.
+Any commanded use of the spirit's powers outside of combat uses a single favour. Participation in an entire combat uses a favour. Remote service uses all remaining favours.
 
 By default, summoners can only have one lesser/common/greater spirit summoned at a time. This does not count as maintaining a power, so there is no ongoing penalty to the mage's rolls. They can also keep one servant/watcher summoned.
 

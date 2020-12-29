@@ -4,6 +4,7 @@ linkTitle: Arcane backgrounds
 type: docs
 description: Different types of Awakened characters
 date: 2020-12-01
+lastmod: 2020-12-28
 weight: 200
 ---
 
