@@ -11,7 +11,7 @@ Cyberware in our campaign will use a two-track system.
 
 Savage Worlds already has a game mechanic that is very similar to cyberware augmentation, in the form of Edges. Unlike cyberware, however, these are available to any character. This (IMO) goes against the grain of cyberpunk a little - I value the genre trope where the only way to survive involves desperate self-sacrifice, by literally having bits of yourself chopped off.
 
-Sprawlrunners extends the core Savage Worlds edge system to offer an additional catalog of cyberware at different power levels. It does this via a series of three Edges (Chromed, Man and Machine, More Machine Than Man) that give you *implant points*. These implant points can be spent on items of cyberware chosen from the catalog.
+Sprawlrunners extends the core Savage Worlds edge system to offer an additional catalog of cyberware at different power levels. This is designed to be complementary to core Savage Worlds edges, not to replace them. It does this via a series of three Edges (Chromed, Man and Machine, More Machine Than Man) that give you *implant points*. These implant points can be spent on items of cyberware chosen from the catalog. This approach is a little unusual, but it keeps the game very close to core Savage Worlds, which is good for game balance.
 
 As a houserule, I will be enforcing that a number of Edges can *only* be taken with a trapping that they are cyberware or physical adept powers. This means they are out of the reach of mundane or mage characters. It also, effectively, extends the cyberware catalog. 
 
