@@ -90,11 +90,9 @@ If using a social skill in a language other than the character's native tongue, 
 ## Technical skills
 
 *  Electronics (Smarts): The use of electronic and computerised devices and systems. Their manipulation, repair, and sabotage. Anything involving computer hardware (as opposed to software, which is Hacking.) 
-*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.) Specialisations:
-	*  Intrusion: used to discreetly break into systems and take control of devices.
-	*  Cybercombat: used to violently crash systems.
-	*  EWAR (electronic warfare): used to disrupt Matrix signals and interfere with device's functionality.
-	*  Spoofing/Masking/Cloaking/Running Silent/Disguise (**name TBD**): used to disguise your Matrix activity.
+*  Hacking (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.) Two specialisations:
+	*  Sleaze: used to discreetly break into systems, take control of devices, and hide your presence on the Matrix or in hosts.
+	*  Cybercombat: used to violently crash systems, disrupt Matrix signals, and interfere with device's functionality.
 *  Repair (Smarts): The ability to fix, build, and modify mechanical and electrical gadgets, including weapons, vehicles, etc. Also used for setting and using explosives and demolitions.
 
 When repairing or modifying electronics, use the lowest of the characters' Repair and Electronics skills.
