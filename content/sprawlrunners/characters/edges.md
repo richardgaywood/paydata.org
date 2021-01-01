@@ -8,6 +8,10 @@ date: 2020-11-18
 lastmod: 2020-12-27
 --- 
 
+## Magical edges
+
+Mage characters will need to take one or two Edges in order to become mages. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more information.
+
 ## Clarification of the Implanted edge
 
 Per Sprawlrunners RAW, the Implanted edge doesn’t cost an Edge point, and once you take it, you can have any amount of zero-implant-point cyberware. This might seem slightly counter-intuitive, but that's because *it only exists to track the effect of these implants on magic users*. 
