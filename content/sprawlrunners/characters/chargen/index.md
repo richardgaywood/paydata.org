@@ -35,9 +35,12 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 	* Toughness is 2 plus half of Vigor, plus any Armor. Note the amount of armor in parentheses like this—Toughness: 11 (2). This means 2 points of the total 11 Toughness comes from Armor. An Armor Piercing attack could bypass those 2 points but not the other 9.
 7. **[Edges]({{< relref "edges.md" >}})**: Use any leftover Hindrance points to take starting Edges if you like. Each Edge costs 2 Hindrance points. Some Edges have additional rules to be aware of:
 	* Mages take one or two special Edges called *arcane backgrounds*. There are four arcane backgrounds: two flavours of spellcasting, spirit summoning, and physical adept. Once you take the arcane background edge, it unlocks powers. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more.
+		* Note that all the Power Edges in core SWADE are removed, with the exception of New Powers. They are replaced by a selection in Sprawlrunners pg 16 (although few are available at chargen.)
 	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some cyberware systems, and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edge_trappings.md" >}}) for details.
+7. **Powers, cyberware, and physad powers**: If you took Edges that give you powers to choose, cyberware implant points to spend, or physad power points (called "chi points" in Sprawlrunners), spend those now. These are chosen from the Sprawlrunners book.
 8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply three advances to your character. Each advance can be used in one of a few ways:
 	* Gain a new Edge.
+		* Note that mages have access to a Power Edge called New Powers that gives you... new powers. You get to pick two new powers each time you take this, and you can take it as many times as you like. This is how you learn new spells.
 	* Increase a skill that is equal to or greater than its linked attribute one die type.
 	* Increase two skills that are lower than their linked attributes by one die type each (including new skills the character didn't have before at d4).
 	* Increase one attribute by a die type. This option may only be taken once per Rank. Legendary characters may raise an attribute every other Advance, up to the racial maximum.
