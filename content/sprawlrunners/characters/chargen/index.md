@@ -11,7 +11,41 @@ There is a character generation tool for Savage Worlds at [savaged.us](https://s
 
 NB: the chargen quick reference in the SWADE CRB, pages 55-63, are very good and are recommended reading. Remember that the Sprawlrunners book adds extra options on top of those, though.
 
-## Getting started 
+## Doing it manually
+
+SWADE chargen is pretty simple, especially compared to Shadowrun, so you might like to do it all by hand. Even if you do use savaged.us, it helps to understand the steps.
+
+This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
+
+### Chargen summary
+
+1. **Concept**: Start with a general idea of what you want to play. Your setting book likely provides many ideas.
+2. **Race**: Choose your character's [race]({{< relref "races.md" >}}) and apply any bonuses or special abilities it grants. The five classic Shadowrun races are available; if you want to play a variant metahuman type, ask me, and we will figure something out.
+3. **Hindrances**: Select up to four points of Hindrances (Major Hindrances are worth 2, Minor are worth 1)
+	* For 2 Hindrance points you can raise an attribute one die type, or choose an Edge (see below.)
+	* For 1 Hindrance point you can gain another skill point.
+4. **Attributes**: Attributes start at d4. You have 5 points to distribute among them. Each step costs 1 point.
+	* Attributes may not be raised beyond d12 unless your hero's racial bonus states otherwise.
+5. **Skills**: Athletics, Common Knowledge, Notice, Persuasion, and Stealth are core skills and start at d4 for free. (Trolls do not get Stealth for free.) See [skills]({{< relref "skills.md" >}}) for a complete list of all skills in my campaign.
+	* You have 15 points to put into these or any other skills. Note that this is raised from 12 in core SWADE.
+	* Each die type costs 1 point up to and equal to the linked attribute; then 2 points per step after that. *Example: Suppose you have d6 Agility and want to take Shooting to d8. It takes 1 point to take Shooting to d4, 1 point to take it to d6, then 2 points to take it to d8, for a total of 4 points.*
+6. **Derived Statistics**
+	* Standard Pace is 6″, but may be changed by racial abilities, Edges, or Hindrances.
+	* Parry is 2 plus half of Fighting. If you don't have Fighting, it's just 2.
+	* Toughness is 2 plus half of Vigor, plus any Armor. Note the amount of armor in parentheses like this—Toughness: 11 (2). This means 2 points of the total 11 Toughness comes from Armor. An Armor Piercing attack could bypass those 2 points but not the other 9.
+7. **[Edges]({{< relref "edges.md" >}})**: Use any leftover Hindrance points to take starting Edges if you like. Each Edge costs 2 Hindrance points. Some Edges have additional rules to be aware of:
+	* Mages take one or two special Edges called *arcane backgrounds*. There are four arcane backgrounds: two flavours of spellcasting, spirit summoning, and physical adept. Once you take the arcane background edge, it unlocks powers. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more.
+	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some cyberware systems, and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edge_trappings.md" >}}) for details.
+8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply three advances to your character. Each advance can be used in one of a few ways:
+	* Gain a new Edge.
+	* Increase a skill that is equal to or greater than its linked attribute one die type.
+	* Increase two skills that are lower than their linked attributes by one die type each (including new skills the character didn't have before at d4).
+	* Increase one attribute by a die type. This option may only be taken once per Rank. Legendary characters may raise an attribute every other Advance, up to the racial maximum.
+	* *[Not during chargen]* Permanently remove a Minor Hindrance, or reduce a Major Hindrance to a Minor (if possible). With the GM's permission, and if it makes sense, two Advances may be saved up and spent to remove a Major Hindrance. 
+
+## Using savaged.us
+
+### Getting started 
 
 You can only access the Sprawlrunners tools in savaged.us if you register for the site. So do that. Note that it has a bit of a habit of logging you out unexpectedly - keep an eye on that (if it does log you out, it'll have a Login prompt at the top right.)
 
@@ -27,27 +61,27 @@ This custom setting is pretty experimental right now and I'm changing it quite o
 {{< /imgproc >}}
 -->
 
-## Notes on each step
+### Notes on each step
 
 Once you've done the above, you'll get a series of tabs you step through in order (more or less) to create your character.
 
-### Character concept
+#### Character concept
 
 Most of this is completely optional but selecting your native language is helpful later. All characters speak two languages by default: your mother tongue (English, Japanese, German, etc) and "Sprawlspeak", a pidgin commonly used on the streets of metroplexes. If you want more, take the Linguist edge.
 
 Don't worry about adding Sprawlspeak to your character sheet at this point. There's no way to do it that won't cost you points. We'll take care of that during play.
 
-### Character level
+#### Character level
 
 For now, I think we'll be starting freshly generated characters at the Seasoned rank. This will not only make you more powerful, it'll also significantly expand the options open to you. 
 
 To do that, go to the Advances tab and enter "4". You don't need to use those advances -- for extra edges, points etc -- just yet. But doing this now will open up options to you through the rest of character generation. 
 
-### Awakened characters
+#### Awakened characters
 
 To play a **mage, shaman, or physical adept** character, skip ahead to Edges and add "Arcane Background", then come back. This will unlock other options you want to take.
 
-### Hindrances
+#### Hindrances
 
 Remember that you are restricted to no more than 4 points of hindrances, where a Minor hindrance is worth 1 point and a Major hindrance is worth 2 points. You can use these points for various boosts, like increasing skills or more Edges. You can choose how to use each point in the "Perks" box in the left column.
 
@@ -55,7 +89,7 @@ For descriptions of the Hindrances, see the SWADE CRB and the Sprawlrunners book
 
 Also remember that you can use Hindrances to your advantage -- when you roleplay them well, I'll generally five give you a Bennie. 
 
-### Traits
+#### Traits
 
 Keep in mind it costs more points to raise a skill to a die type higher than the linked attribute. For example, if you have Agility at d6, it costs 1 skill point to take Shooting to d6, then 2 more skill points to take it to d8.
 
@@ -72,7 +106,7 @@ Some notes about specific skills:
 
 For more information, see the Skills page. 
 
-### Guns, vehicles, and other gear
+#### Guns, vehicles, and other gear
 
 Sprawlrunners uses an innovative system for most gear where you do not purchase it at character generation. Instead, your character has Logistics Points (LPs), representing their cash on hand, contacts, and trustworthiness. You "spend" these points during play to acquire gear you need for the mission, then discard the gear later so you can't be traced or tracked through it. This gear is off-the-books; your contacts have taken the time to scrub it clean of any identifying or traceable marks, and it comes complete with low-grade fake licences where appropriate.
 
@@ -80,7 +114,7 @@ You can use LPs to buy stuff in chargen if you want, just to get a feel for what
 
 If you want more LPs, look at the Rich or Filthy Rich edges. You will also earn more as your character advances.
 
-### Special gear: cyberware, foci, signature weapons
+#### Special gear: cyberware, foci, signature weapons
 
 Items your character owns permanently, like cyberware or magical foci, works differently. You choose an Edge and get the gear, forever, without spending LPs.
 
@@ -88,7 +122,7 @@ To get cyberware, take the Chromed, Man And Machine, and/or More Machine Than Ma
 
 Some common/small cyberware doesn't cost any Implant Points. To get these, you have to take the Implanted edge. You can take any amount of zero-rated cyberware once you take the Implanted edge once. The Implanted edge is free, but note that savaged.us will charge you a point for it. 
 
-### Adept powers & spells 
+#### Adept powers & spells 
 
 To select your spells or adept powers, you'll use the Powers tab. This will appear once you select an arcane background.
 
