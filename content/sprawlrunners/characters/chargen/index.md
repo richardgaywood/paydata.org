@@ -30,7 +30,7 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 	* You have 15 points to increase your skills. Note that this is raised from 12 in core SWADE, because a modern game setting tends to be a little more skill-heavy than a fantasy setting; for example, almost everyone will want a point or two in driving, shooting, etc.
 	* Each die type costs 1 point up to and equal to the linked attribute; then 2 points per step after that. *Example: Suppose you have d6 Agility and want to take Shooting to d8. It takes 1 point to take Shooting to d4, 1 point to take it to d6, then 2 points to take it to d8, for a total of 4 points.*
 	* A d8 is a pretty high skill, think of it as being roughly equivalent to a 12-dice pool in Shadowrun. I would encourage you to target rolling d8 or *at most* d10s in your character's speciality, so you have enough points to build a rounded character. I will be basing NPC power levels around this; a ganger would roll d6 to attack, a trained corpsec d8. 
-		* Also, don't forget PCs also get a Wild Die in addition to their trait die. See [dice probabilities]({{< relref "dice_probabilities/index.md" >}}) for some statistical breakdowns of roll results. 
+		* Also, don't forget PCs also get a Wild Die in addition to their trait die.
 6. **Derived Statistics**
 	* Standard Pace is 6″, but may be changed by racial abilities, Edges, or Hindrances.
 	* Parry is 2 plus half of Fighting. If you don't have Fighting, it's just 2.
