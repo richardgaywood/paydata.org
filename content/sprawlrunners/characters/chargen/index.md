@@ -19,22 +19,22 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 
 ### Chargen summary
 
-1. **Concept**: Start with a general idea of what you want to play. Your setting book likely provides many ideas.
-2. **[Race]({{< relref "races.md" >}})**: Choose your character's race and apply any bonuses or special abilities it grants. The five classic Shadowrun races are available; if you want to play a variant metahuman type, ask me, and we will figure something out.
-3. **Hindrances**: Select up to four points of Hindrances (Major Hindrances are worth 2, Minor are worth 1)
-	* For 2 Hindrance points you can raise an attribute one die type, or choose an Edge (see below.)
-	* For 1 Hindrance point you can gain another skill point.
+1. **Concept**: Start with a general idea of what you want to play. There's many ways to approach that, but a good strategy is always to pick a specialised role and build towards being good at it. The classic list of Shadowrun archetypes include combat (either cybered or physical/qi adept), decking/hacking, rigger/vehicles/drones, magical abilities, or face (social manipulation of others).
+2. **[Race]({{< relref "races.md" >}})**: Choose your character's race and apply the bonuses and special abilities it grants. The five classic Shadowrun races are available; if you want to play a variant metahuman type, ask me, and we will figure something out.
+3. **Hindrances**: Select up to four points of hindrances (major hindrances are worth 2, minor are worth 1)
+	* For 2 hindrance points you can raise an attribute one die type, or choose an edge (see below.)
+	* For 1 hindrance point you can gain another skill point.
 4. **Attributes**: Attributes start at d4. You have 5 points to distribute among them. Each step costs 1 point.
 	* Attributes may not be raised beyond d12 unless your hero's racial bonus states otherwise.
-5. **[Skills]({{< relref "skills.md" >}})** : Athletics, Common Knowledge, Notice, Persuasion, and Stealth are core skills and start at d4 for free. (Trolls do not get Stealth for free.) See [skills]({{< relref "skills.md" >}}) for a complete list of all skills in my campaign.
-	* You have 15 points to put into these or any other skills. Note that this is raised from 12 in core SWADE.
+5. **[Skills]({{< relref "skills.md" >}})** : Athletics, Common Knowledge, Notice, Persuasion, and Stealth are core skills and start at d4 for free. (Trolls do not get Stealth for free.) See [skills]({{< relref "skills.md" >}}) for a complete list of all skills and skill specialisations in my campaign.
+	* You have 15 points to increase your skills. Note that this is raised from 12 in core SWADE, because a modern game setting tends to be a little more skill-heavy than a fantasy setting; for example, almost everyone will want a point or two in driving, shooting, etc.
 	* Each die type costs 1 point up to and equal to the linked attribute; then 2 points per step after that. *Example: Suppose you have d6 Agility and want to take Shooting to d8. It takes 1 point to take Shooting to d4, 1 point to take it to d6, then 2 points to take it to d8, for a total of 4 points.*
-	* A d8 is a pretty high skill, think of it as being roughly equivalent to a 12-dice pool in Shadowrun. I would encourage you to target rolling d8 or at *most* d10s in your character's speciality, so you have enough points to build a rounded character. I will be basing NPC power levels around this; a ganger would roll d6 to attack, a trained corpsec d8. 
+	* A d8 is a pretty high skill, think of it as being roughly equivalent to a 12-dice pool in Shadowrun. I would encourage you to target rolling d8 or *at most* d10s in your character's speciality, so you have enough points to build a rounded character. I will be basing NPC power levels around this; a ganger would roll d6 to attack, a trained corpsec d8. 
 		* Also, don't forget PCs also get a Wild Die in addition to their trait die. See [dice probabilities]({{< relref "dice_probabilities/index.md" >}}) for some statistical breakdowns of roll results. 
 6. **Derived Statistics**
 	* Standard Pace is 6″, but may be changed by racial abilities, Edges, or Hindrances.
 	* Parry is 2 plus half of Fighting. If you don't have Fighting, it's just 2.
-	* Toughness is 2 plus half of Vigor, plus any Armor. Note the amount of armor in parentheses like this—Toughness: 11 (2). This means 2 points of the total 11 Toughness comes from Armor. An Armor Piercing attack could bypass those 2 points but not the other 9.
+	* Toughness is 2, plus half of Vigor, plus any armor. Note the amount of armor in parentheses like this—Toughness: 11 (2). This means 2 points of the total 11 Toughness comes from Armor. An Armor Piercing attack could bypass those 2 points but not the other 9.
 7. **[Edges]({{< relref "edges.md" >}})**: Use any leftover Hindrance points to take starting Edges if you like. Each Edge costs 2 Hindrance points. Some Edges have additional rules to be aware of:
 	* Mages take one or two special Edges called *arcane backgrounds*. There are four arcane backgrounds: two flavours of spellcasting, spirit summoning, and physical adept. Once you take the arcane background edge, it unlocks powers. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more.
 		* Note that all the Power Edges in core SWADE are removed, with the exception of New Powers. They are replaced by a selection in Sprawlrunners pg 16 (although few are available at chargen.)
