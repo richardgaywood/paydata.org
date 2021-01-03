@@ -40,7 +40,7 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 		* Note that all the Power Edges in core SWADE are removed, with the exception of New Powers. They are replaced by a selection in Sprawlrunners pg 16 (although few are available at chargen.)
 	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some cyberware systems, and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edge_trappings.md" >}}) for details.
 7. **Powers, cyberware, and physad powers**: If you took Edges that give you powers to choose, cyberware implant points to spend, or physad power points (called "chi points" in Sprawlrunners), spend those now. These are chosen from the Sprawlrunners book.
-8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply three advances to your character. Each advance can be used in one of a few ways:
+8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply four advances to your character. Each advance can be used in one of a few ways:
 	* Gain a new Edge.
 		* Note that mages have access to a Power Edge called New Powers that gives you... new powers. You get to pick two new powers each time you take this, and you can take it as many times as you like. This is how you learn new spells.
 	* Increase a skill that is equal to or greater than its linked attribute one die type.
