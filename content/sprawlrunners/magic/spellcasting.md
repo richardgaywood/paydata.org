@@ -21,7 +21,7 @@ All powers in SWADE (pgs 154—171) are allowed as part of the Spellcaster arcan
 
 ### Arcane Protection
 
-Note that this overlaps somewhat with the Shielding edge (see Sprawlrunners, pg 17). I wcastn't stop you taking Arcane Protection, but the edge is arguably more powerful and useful.
+Note that this overlaps somewhat with the Shielding edge (see Sprawlrunners, pg 17). I won't stop you taking Arcane Protection, but the edge is arguably more powerful and useful.
 
 ### Healing
 
