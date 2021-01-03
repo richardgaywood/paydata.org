@@ -5,7 +5,7 @@ type: docs
 description: Rules for summoning spirits
 date: 2020-11-18
 lastmod: 2020-12-29
-weight: 300
+weight: 400
 ---
 
 {{% pageinfo %}}These rules are only draft / for discussion. They are **not** canon and will almost certainly be changed before they become so.{{% /pageinfo %}} 
