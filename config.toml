@@ -12,6 +12,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       unsafe = true
 
 
+[outputs]
+	section = [ "HTML", "RSS", "print" ]
+
 # ref: https://github.com/google/docsy-example/blob/master/config.toml
 
 
