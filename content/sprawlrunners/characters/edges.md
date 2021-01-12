@@ -36,7 +36,7 @@ Only available with augmentation trapping.
 {{% pageinfo %}}
 **Rock and Roll!**
 
-Only available with augmentation trapping. (See [cyberlimbs]({{< relref "cyberware.md#cyberlimbs" >}}). 
+Only available with augmentation trapping. (See [cyberlimbs]({{< relref "../gear/cyberware.md#cyberlimbs" >}}). 
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
