@@ -24,6 +24,32 @@ Note that if you take Implanted on savaged.us, it'll use up one of your perk poi
 
 ## New and amended Edges
 
+### Cyberware Edges
+
+{{% pageinfo %}}
+**Chromed** \
+**Man and Machine**
+
+Same as Sprawlrunners RAW (pg 15).
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
+**More Machine than Man**
+
+Same as Sprawlrunners RAW (pg 16) but change rank requirement to Veteran. Can only take this Edge once.
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
+**Betaware**
+Required: Heroic rank, More Machine than Man
+
+**Deltaware**
+Required: Legendary rank, Betaware
+
+The character has gained access to secret black labs that offer the best quality cyberware. Each of these Edges grant 2 implant points.
+{{% /pageinfo %}} 
+
+
 ### Combat edges
 
 {{% pageinfo %}}

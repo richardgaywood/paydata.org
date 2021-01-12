@@ -53,10 +53,13 @@ To clarify: These augments boost the entire body. If the user has cyberlimbs, th
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Wired Reflexes*** \
+**Wired Reflexes** \
+Implant points: N/A (take as an Edge) \
+Requires: Seasoned, Smarts d8+, Chromed\
+
 **Move-By-Wire** \
 Implant points: N/A (take as 1 or 2 Edges) \
-Wired Reflexes requires: Seasoned, Smarts d8+, Chromed\
+Wired Reflexes 
 Move-by-Wire requires: Wired Reflexes 
 
 *Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*

@@ -25,11 +25,11 @@ For cyberware, before you can take an edge with the cyberware trapping, you must
 
 | Edge level | Pre-requisite edge       |
 |------------|--------------------------|
-| Novice     | Implanted                |
-| Seasoned   | Chromed                  |
-| Veteran    | Man and Machine          |
-| Heroic     | More Machine Than Man    |
-| Legendary  | More Machine Than Man x2 |
+| Novice     | Chromed                |
+| Seasoned   | Man and Machine                  |
+| Veteran    | More Machine Than Man          |
+| Heroic     | Betaware    |
+| Legendary  | Deltaware |
 
 For physad powers:
 
