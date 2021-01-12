@@ -3,7 +3,7 @@ title: Edge trappings
 linkTitle: Edge trappings
 type: docs     
 weight: 550 
-description: Required trappings for some edges 
+description: Required trappings for some Edges to make them augments (cyberware, adept powers) 
 date: 2020-12-30
 --- 
 
@@ -43,7 +43,16 @@ For physad powers:
 
 Other edge pre-requisites, including those on skill or stats, remain unchanged.
 
+
+## Edges where augmentation trappings are mandatory
+
 {{% alert title="TODO" color="warning" %}}write up the list of edges that fall under this rule!{{% /alert %}} 
+
+* Rock And Roll!
+
+
+
+
 
 <!--
 ## Edge list

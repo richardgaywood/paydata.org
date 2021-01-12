@@ -5,7 +5,7 @@ description: A brief overview of fake IDs in the Sixth World
 type: docs
 weight: 1000
 date: 2021-01-03
-lastmod: 2021-01-04
+lastmod: 2021-01-12
 ---
 
 In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no support, no right to employment or vote, unable to use public facilities or transit, turned away from shops and restaurants.
@@ -71,3 +71,14 @@ These are far better quality, with skilled counterfeiters creating near-impeccab
 Licences on high quality fake SINs can be open carry, or if the purchaser prefers, "concealed carry" -- meaning the SIN broadcast does not tag the person as carrying concealed weaponry. They are still licensed, however, and get to be extra rude and snooty to any beat cops who notice their gun, stop them assuming they are unlicensed, then discover they are (seemingly) VIPs. 
 
 High quality fake SINs are still deleted after ~1 week, though, just like low-quality ones.
+
+## FAQs about SINs
+
+### Why can't the cops look up my DNA/fingerprints/etc that I left at the crime scene?
+
+Although many SIN issuers do gather and store a biometric profile, they don't make this information available to the authorities (except, rarely, in the case of high-profile crimes like terrorism.) 
+
+xxx
+
+### What about criminal SINs?
+
