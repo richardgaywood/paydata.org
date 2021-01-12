@@ -13,6 +13,18 @@ Advances are quite "large", as it were. Each one is quite a significant power bo
 
 For my campaign, to smooth over this, I'm going to make a small change, and re-introduce karma from Shadowrun. Karma will be simply spent on advances at a straight 10:1 ratio (ie. one advance costs 10 karma.) This means I can have a slightly more granular mechanic to reward you than just SWADE advances, but it doesn't change any game balance.
 
+## Spending advances
+
+Each advance can be used in one of a few ways:
+
+* Gain a new Edge.
+    * Note that mages have access to a Power Edge called New Powers that gives you… new powers. You get to pick two new powers each time you take this, and you can take it as many times as you like. This is how you learn new spells.
+* Increase a skill that is equal to or greater than its linked attribute one die type.
+* Increase two skills that are lower than their linked attributes by one die type each (including new skills the character didn’t have before at d4).
+* Increase one attribute by a die type. This option may only be taken once per Rank. 
+* Legendary characters may raise an attribute every other Advance, up to the racial maximum.
+* Permanently remove a Minor Hindrance, or reduce a Major Hindrance to a Minor (if possible). With the GM’s permission, and if it makes sense, two Advances may be saved up and spent to remove a Major Hindrance.
+
 ## Mission rewards
 
 There are two rewards characters will earn from a mission: karma and nuyen.
