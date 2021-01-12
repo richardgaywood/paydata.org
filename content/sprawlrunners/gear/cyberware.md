@@ -34,7 +34,7 @@ Reduce cost of Thermal Vision and Low-Light Vision to 0.5 implant points each.
 
 {{% pageinfo %}}
 **Hand Razors** \
-Implant points: reduce to 1
+Implant points: 1 (reduced from RAW)
 
 These do not count as natural weapons, and therefore their damage does not stack with Edges like Martial Arts / Brawler / etc. They can be fitted to a cyberlimb, but they do not require one.
 {{% /pageinfo %}} 
@@ -46,15 +46,18 @@ Only available as part of a cyberarm; see below.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Artificial muscle replacement / Muscle enhancement**
+**Artificial muscle replacement** \
+**Muscle enhancement**
 
-These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
+To clarify: These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
 {{% /pageinfo %}} 
 
-
 {{% pageinfo %}}
-**Wired Reflexes / Move-By-Wire**
-Implant points: 2 / 4
+**Wired Reflexes*** \
+**Move-By-Wire** \
+Implant points: N/A (take as 1 or 2 Edges) \
+Wired Reflexes requires: Seasoned, Smarts d8+, Chromed\
+Move-by-Wire requires: Wired Reflexes 
 
 *Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*
 
@@ -62,8 +65,21 @@ A character with Wired Reflexes draws two action cards in combat, and chooses wh
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Pain Editor / Improved Pain Editor**
-Implant points: 2 / 4
+**Synaptic booster** \
+Implant points: N/A (take as Edge) \
+Requires: Novice, Agility d8+, Implanted
+
+*Cyberware trapping for the Quick edges (see SWADE pg 43.)*
+
+When dealt an action card of 5 or lower, you can discard it and draw again; you can repeat until you get a 6 or higher. If combined with Wired Reflexes or Move-by-Wire, you first draw the additional card(s) and pick which one to keep. Then, if it's 5 or below, you draw again.
+{{% /pageinfo %}} 
+
+
+{{% pageinfo %}}
+**Pain Editor** \
+**Improved Pain Editor** \
+Implant points: N/A (take as 1 or 2 Edges) \
+Requires: xxx
 
 *Cyberware trapping for the Nerves of Steel / Improved Nerves of Steel edges (see SWADE pg 43.)*
 
@@ -80,14 +96,14 @@ To unlock any of the below, you first need to replace the limb:
 Implant points: 0.5 (each)
 
 **2x cyberlegs** \
-Implant points: 1 (pair)
+Implant points: 0.5 (each) or 1 (pair)
 
 Natural-looking disguised cyberlimbs use the same rules as Sprawlrunners RAW (see pg 55.) In addition, they can only fit **TBD** implant points of mods.
 
 Limb replacements are usually fitted to the shoulder or hip joint, replacing the whole limb. Partial limbs can be taken (eg starting mid-bicep or at the elbow) with no change to game rules.
-{{% /pageinfo %}} 
 
 Cyberarms can be fitted singly. Cyberlegs can be fitted singly if you want a straight replacement, but if you want to fit any additional modifications, you need a pair. It's really difficult to balance a natural leg and a amped-up cyber one for comfortable walking and running.
+{{% /pageinfo %}} 
 
 {{% pageinfo %}}
 **Cyberlimb boosted Strength/Agility** \
@@ -102,7 +118,7 @@ If the user has artificial muscle replacement or muscle enhancement, this increa
 
 {{% pageinfo %}}
 **Cyberspurs** \
-Implant points: 3
+Implant points: 2 (reduced from RAW)
 
 Str+d6 damage in melee combat. Owner always counts as Armed, so never suffer the Unarmed Defender penalty (which grants melee attackers +2 to Fighting rolls if their target as nothing to parry with.)
 
@@ -116,7 +132,7 @@ Implant points: 1 or 2
 
 A feedback circuit from the user's smartgun to their cyberlimb or limbs automatically counteracts recoil and barrel climb in real-time as they fire.
 
-Reduces the recoil penalty by 1 (for 1 Implant Point) or 2 (for two Implant Points.)
+Reduces the recoil penalty by 1 (for one Implant Point) or 2 (for two Implant Points.)
 
 For one-handed weapons, this will work with only one cyberarm. For two-handed guns, two cyberarms are required.
 {{% /pageinfo %}} 
