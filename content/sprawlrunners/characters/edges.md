@@ -22,15 +22,39 @@ If you character is not a mage of any kind, you can skip the Implanted edge enti
 
 Note that if you take Implanted on savaged.us, it'll use up one of your perk points, as there's no way to zero-out the cost of an Edge on there. So just skip adding it on the site, and only add it to your character sheet later if you need it.
 
-## New rigger edges
+## New and amended Edges
 
-The below edges grant Mod Points, used to represent access to tools and parts. They are spent similarly to Logistic Points, and can be used to upgrade vehicles before the mission, or even during it if the opportunity presents itself. See [vehicle mods]({{< relref "vehicle_mods.md" >}}) for how to use Mod Points.
+### Combat edges
+
+{{% pageinfo %}}
+**Level Headed** \
+**Improved Level Headed**
+
+Only available with augmentation trapping.
+{{% /pageinfo %}} 
+
+{{% pageinfo %}}
+**Rock and Roll!**
+
+Only available with augmentation trapping. (See [cyberlimbs]({{< relref "cyberware.md#cyberlimbs" >}}). 
+{{% /pageinfo %}} 
+
+{{% pageinfo %}}
+**Nerves of Steel** \
+**Improved Nerves of Steel**
+
+Only available with augmentation trapping.
+{{% /pageinfo %}} 
+
+### Professional Edges
 
 {{% pageinfo %}}
 **Mod Shop** \
 Requirements: Novice, Repair d6+
 
 Character gains a pool of 3 Mod Points.
+
+Mod Points are used to represent access to tools and parts. They are spent similarly to Logistic Points, and can be used to upgrade vehicles before the mission, or even during it if the opportunity presents itself. See [vehicle mods]({{< relref "vehicle_mods.md" >}}) for how to use Mod Points.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
@@ -44,7 +68,7 @@ Character gains a further 4 Mod Points, in addition to the 3 granted for Mod Sho
 **Mod God** \
 Requirements: Veteran, Repair d10+, Improved Mod Shop
 
-Character gains a further 5 Mod Points. This Edge can be taken again at Legendary rank.
+Character gains a further 5 Mod Points. This Edge can be taken a second time at Legendary rank.
 {{% /pageinfo %}} 
 
 

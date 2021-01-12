@@ -9,6 +9,10 @@ date: 2021-01-08
 
 {{% pageinfo %}}still in draft{{% /pageinfo %}} 
 
+## Upgrades
+
+In general, as long as the storyline allows time for characters to go through the necessary surgery, characters may choose to have old cyberware systems removed or upgraded when acquiring new cyberware.
+
 ## Eyeware
 
 Mostly as per Sprawlrunners RAW; small changes:
@@ -24,7 +28,6 @@ Clarification that all cybereyes provide, by default, approximately 20/10 vision
 
 Reduce cost of Thermal Vision and Low-Light Vision to 0.5 implant points each.
 {{% /pageinfo %}}
-
 
 
 ## Bodyware
@@ -46,6 +49,25 @@ Only available as part of a cyberarm; see below.
 **Artificial muscle replacement / Muscle enhancement**
 
 These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
+{{% /pageinfo %}} 
+
+
+{{% pageinfo %}}
+**Wired Reflexes / Move-By-Wire**
+Implant points: 2 / 4
+
+*Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*
+
+A character with Wired Reflexes draws two action cards in combat, and chooses which to keep. A character with Move-by-Wire draws three and chooses one to keep.
+{{% /pageinfo %}} 
+
+{{% pageinfo %}}
+**Pain Editor / Improved Pain Editor**
+Implant points: 2 / 4
+
+*Cyberware trapping for the Nerves of Steel / Improved Nerves of Steel edges (see SWADE pg 43.)*
+
+The character may ignore 1 level or 2 levels of Wound penalties.
 {{% /pageinfo %}} 
 
 

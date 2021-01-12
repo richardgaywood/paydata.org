@@ -19,9 +19,9 @@ Edges taken with a cyberware trapping do not cost implant points, and those take
 
 ## Edge pre-requisites
 
-The edges that are only available as cyberware or physad powers will gain extra pre-requisites.
+The edges that are only available as cyberware or physad powers will gain extra pre-requisites. These are in addition to any pre-requisites on rank, trait, or other edges.
 
-For cyberware, before you can take an edge with the cyberware trapping, you must first take one of the cyberware edges per the table below:
+For cyberware, before you can take an edge with the cyberware trapping, you must first also take one of the cyberware edges per the table below:
 
 | Edge level | Pre-requisite edge       |
 |------------|--------------------------|
@@ -48,7 +48,7 @@ Other edge pre-requisites, including those on skill or stats, remain unchanged.
 
 {{% alert title="TODO" color="warning" %}}write up the list of edges that fall under this rule!{{% /alert %}} 
 
-* Rock And Roll!
+See [the Edges page]({{< relref "edges.md" >}}) for a list of Edges for with an augmentation trapping is *ahem* strongly encouraged.
 
 
 
