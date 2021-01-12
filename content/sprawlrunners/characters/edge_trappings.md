@@ -33,6 +33,9 @@ For cyberware, before you can take an edge with the cyberware trapping, you must
 
 For physad powers:
 
+**TBD**
+
+<!--
 | Edge level | Pre-requisite edge       |
 |------------|--------------------------|
 | Novice     | Arcane Background (Physad) |
@@ -40,15 +43,13 @@ For physad powers:
 | Veteran    | Chi Mastery |
 | Heroic     | Greater Chi Mastery    |
 | Legendary  | Greater Chi Mastery x2 |
+-->
 
-Other edge pre-requisites, including those on skill or stats, remain unchanged.
-
+Other edge pre-requisites, including those on skills or stats, remain unchanged.
 
 ## Edges where augmentation trappings are mandatory
 
-{{% alert title="TODO" color="warning" %}}write up the list of edges that fall under this rule!{{% /alert %}} 
-
-See [the Edges page]({{< relref "edges.md" >}}) for a list of Edges for with an augmentation trapping is *ahem* strongly encouraged.
+See [the Edges page]({{< relref "edges.md" >}}) for a list of Edges for with an augmentation trapping is (*ahem*) strongly encouraged.
 
 
 

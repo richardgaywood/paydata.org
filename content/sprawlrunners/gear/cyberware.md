@@ -23,13 +23,6 @@ Mostly as per Sprawlrunners RAW; small changes:
 Clarification that all cybereyes provide, by default, approximately 20/10 vision and around 2x magnification without significant degradation in image quality.
 {{% /pageinfo %}}
 
-{{% pageinfo %}}
-**Thermal vision / low-light vision**
-
-Reduce cost of Thermal Vision and Low-Light Vision to 0.5 implant points each.
-{{% /pageinfo %}}
-
-
 ## Bodyware
 
 {{% pageinfo %}}
@@ -49,18 +42,17 @@ Only available as part of a cyberarm; see below.
 **Artificial muscle replacement** \
 **Muscle enhancement**
 
-To clarify: These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
+*(See Sprawlrunners pg 54)* To clarify: These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
 **Wired Reflexes** \
 Implant points: N/A (take as an Edge) \
-Requires: Seasoned, Smarts d8+, Chromed\
+Requires: Seasoned, Smarts d8+, Chromed
 
-**Move-By-Wire** \
-Implant points: N/A (take as 1 or 2 Edges) \
-Wired Reflexes 
-Move-by-Wire requires: Wired Reflexes 
+**Move-by-Wire** \
+Implant points: N/A (take as an Edge) \
+Requires: Wired Reflexes
 
 *Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*
 
@@ -72,27 +64,28 @@ A character with Wired Reflexes draws two action cards in combat, and chooses wh
 Implant points: N/A (take as Edge) \
 Requires: Novice, Agility d8+, Implanted
 
-*Cyberware trapping for the Quick edges (see SWADE pg 43.)*
+*Cyberware trapping for the Quick edge (see SWADE pg 43.)*
 
 When dealt an action card of 5 or lower, you can discard it and draw again; you can repeat until you get a 6 or higher. If combined with Wired Reflexes or Move-by-Wire, you first draw the additional card(s) and pick which one to keep. Then, if it's 5 or below, you draw again.
 {{% /pageinfo %}} 
 
-
 {{% pageinfo %}}
 **Pain Editor** \
+Implant points: N/A (take as Edge) \
+Requires: Novice, Chromed, Vigor d8+
+
 **Improved Pain Editor** \
-Implant points: N/A (take as 1 or 2 Edges) \
-Requires: xxx
+Implant points: N/A (take as Edge) \
+Requires: Novice, Pain Editor
 
 *Cyberware trapping for the Nerves of Steel / Improved Nerves of Steel edges (see SWADE pg 43.)*
 
 The character may ignore 1 level or 2 levels of Wound penalties.
 {{% /pageinfo %}} 
 
-
 ## Cyberlimbs
 
-To unlock any of the below, you first need to replace the limb:
+To unlock any of the below upgrades and add-ons, you first need to replace the limb:
 
 {{% pageinfo %}}
 **Cyberarm** \
@@ -100,6 +93,8 @@ Implant points: 0.5 (each)
 
 **2x cyberlegs** \
 Implant points: 0.5 (each) or 1 (pair)
+
++1 Toughness per pair of limbs.
 
 Natural-looking disguised cyberlimbs use the same rules as Sprawlrunners RAW (see pg 55.) In addition, they can only fit **TBD** implant points of mods.
 
@@ -123,14 +118,22 @@ If the user has artificial muscle replacement or muscle enhancement, this increa
 **Cyberspurs** \
 Implant points: 2 (reduced from RAW)
 
-Str+d6 damage in melee combat. Owner always counts as Armed, so never suffer the Unarmed Defender penalty (which grants melee attackers +2 to Fighting rolls if their target as nothing to parry with.)
+Str+d6 damage in melee combat. Owner always counts as Armed, so never suffers the Unarmed Defender penalty (which grants melee attackers +2 to Fighting rolls if their target has nothing to parry with.)
 
 This counts as a Natural Weapon, and hence the damage increases with use of Edges like Martial Arts and Brawler.
 {{% /pageinfo %}} 
 
+
+{{% pageinfo %}}
+**Cybergun** \
+Implant points: 3?
+
+*TBD; probably pick from light pistol w/ autofire, heavy pistol, or flechette pistol.*
+{{% /pageinfo %}} 
+
 {{% pageinfo %}}
 **Recoil compensation system** \
-(Cyberarm only, requires smartlink)
+(Cyberarm only, requires smartlink & smartgun)
 Implant points: 1 or 2
 
 A feedback circuit from the user's smartgun to their cyberlimb or limbs automatically counteracts recoil and barrel climb in real-time as they fire.
