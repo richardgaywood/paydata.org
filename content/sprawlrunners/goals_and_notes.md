@@ -4,7 +4,7 @@ linkTitle: Why?
 type: docs
 description: Why I wrote these rules
 date: 2020-12-27
-weight: 70
+weight: 60
 ---
 
 ## Why not Shadowrun?

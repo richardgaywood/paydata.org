@@ -3,8 +3,9 @@ title: "Cyberware"
 linkTitle: "Cyberware"
 description: Gotta get chromed, chummer
 type: docs
-weight: 700
+weight: 650
 date: 2021-01-08
+lastmod: 2021-01-13
 ---
 
 {{% pageinfo %}}still in draft{{% /pageinfo %}} 
@@ -48,11 +49,11 @@ Only available as part of a cyberarm; see below.
 {{% pageinfo %}}
 **Wired Reflexes** \
 Implant points: N/A (take as an Edge) \
-Requires: Seasoned, Smarts d8+, Chromed
+Requires: Seasoned, Man and Machine
 
 **Move-by-Wire** \
 Implant points: N/A (take as an Edge) \
-Requires: Wired Reflexes
+Requires: Veteran, Wired Reflexes, Betaware
 
 *Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*
 
@@ -62,7 +63,7 @@ A character with Wired Reflexes draws two action cards in combat, and chooses wh
 {{% pageinfo %}}
 **Synaptic booster** \
 Implant points: N/A (take as Edge) \
-Requires: Novice, Agility d8+, Implanted
+Requires: Novice, Agility d8+, Chromed
 
 *Cyberware trapping for the Quick edge (see SWADE pg 43.)*
 
@@ -88,15 +89,13 @@ The character may ignore 1 level or 2 levels of Wound penalties.
 To unlock any of the below upgrades and add-ons, you first need to replace the limb:
 
 {{% pageinfo %}}
-**Cyberarm** \
-Implant points: 0.5 (each)
-
-**2x cyberlegs** \
-Implant points: 0.5 (each) or 1 (pair)
+**Cyberarm or cyberleg** \
+Implant points: 0.5 (each) \
+Required: Novice, Chromed
 
 +1 Toughness per pair of limbs.
 
-Natural-looking disguised cyberlimbs use the same rules as Sprawlrunners RAW (see pg 55.) In addition, they can only fit **TBD** implant points of mods.
+Natural-looking disguised cyberlimbs use the same rules as Sprawlrunners RAW (see pg 55.) In addition, they can only fit **TBD** implant points of mods before they're just too bulky to look realistic.
 
 Limb replacements are usually fitted to the shoulder or hip joint, replacing the whole limb. Partial limbs can be taken (eg starting mid-bicep or at the elbow) with no change to game rules.
 
@@ -157,6 +156,19 @@ Increases Pace by +2 and running die by one type.
 Implant points: 1
 
 Character can jump twice as far as usual. In addition, they add +4 to damage when leaping as part of a Wild Attack, rather than the usual +2. Can only be used if there's enough room (vertically and horizontally) though.
+{{% /pageinfo %}} 
+
+
+{{% pageinfo %}}
+**Grapple hand** \
+Implant points: 0.5 \
+Required: Novice, Chromed
+
+An extendable, fireable grapple system, using a small spool of lightweight polymer rope hidden inside the wrist and the hand itself as the launched projectile. The launching system is pneumatic; recharging the compressed air takes one minute after each shot.
+
+The rope is a maximum of 15 m long, although it can be very difficult to aim at that range. Grip strength is usually slightly boosted on the hand so it can grab onto things securely. The overall system is strong enough to pull the user up, although not to carry much extra load.
+
+Make an Athletics roll to attempt to attach the grapple successfully.
 {{% /pageinfo %}} 
 
 
