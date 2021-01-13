@@ -95,7 +95,7 @@ Same as Sprawlrunners RAW (pg 15).
 Required: Veteran, Man and Machine
 
 The character has gained regular access to a betaware clinic, which can offer a higher grade of cyberware, more closely tailored to the user's system. They get 2 more implant points.
-{{% pageinfo %}}
+{{% /pageinfo %}}
 
 {{% pageinfo %}}
 **More Machine than Man**
