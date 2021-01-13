@@ -12,17 +12,7 @@ lastmod: 2021-01-13
 
 Mage characters will need to take one or two special Edges in order to become mages. These Edges, in effect, unlock a whole skill tree. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more information.
 
-## Clarification of the Implanted edge
-
-Per Sprawlrunners RAW, the Implanted edge doesn’t cost an Edge point, and once you take it, you can have any amount of zero-implant-point cyberware. This might seem slightly counter-intuitive, but that's because *it only exists to track the effect of these implants on magic users*. 
-
-As such it is functionally equivalent to a rule that says “Anybody can take any amount of 0-cost implants they like. However, mages or shamans with any number of 0-point implants take a -1 penalty to all magic rolls, which stacks with any penalties from the Chromed edges.” 
-
-If you character is not a mage of any kind, you can skip the Implanted edge entirely, as it has no effect on you. If your character is a mage, and you do want to take some zero-implant-point cyberware, that's the only time you need to take it. 
-
-Note that if you take Implanted on savaged.us, it'll use up one of your perk points, as there's no way to zero-out the cost of an Edge on there. So just skip adding it on the site, and only add it to your character sheet later if you need it.
-
-## Edges with required "augmentation" trappings
+## Edges with required augmentation trappings
 
 Cyberware in our campaign uses a two-track system.
 
@@ -134,7 +124,7 @@ Only available with augmentation trapping.
 {{% pageinfo %}}
 **Rock and Roll!**
 
-Only available with augmentation trapping. (See [cyberlimbs]({{< relref "../gear/cyberware.md#cyberlimbs" >}}). 
+Only available with augmentation trapping. (See [cyberlimbs]({{< relref "cyberware.md#cyberlimbs" >}}). 
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}

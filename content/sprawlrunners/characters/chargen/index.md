@@ -38,7 +38,7 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 7. **[Edges]({{< relref "edges.md" >}})**: Use any leftover Hindrance points to take starting Edges if you like. Each Edge costs 2 Hindrance points. Some Edges have additional rules to be aware of:
 	* Mages take one or two special Edges called *arcane backgrounds*. There are four arcane backgrounds: two flavours of spellcasting, spirit summoning, and physical adept. Once you take the arcane background edge, it unlocks powers. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more.
 		* Note that all the Power Edges in core SWADE are removed, with the exception of New Powers. They are replaced by a selection in Sprawlrunners pg 16 (although few are available at chargen.)
-	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some cyberware systems, and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edge_trappings.md" >}}) for details.
+	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some [cyberware systems]({{< relref "cyberware.md" >}}), and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edges.md#edges-with-required-augmentation-trappings" >}}) for details.
 7. **Powers, cyberware, and physad powers**: If you took Edges that give you powers to choose, cyberware implant points to spend, or physad power points (called "chi points" in Sprawlrunners), spend those now. These are chosen from the Sprawlrunners book.
 8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply four advances to your character. Each advance can be used in one of a few ways:
 	* Gain a new Edge.
@@ -48,7 +48,11 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 	* Increase one attribute by a die type. This option may only be taken once per Rank. Legendary characters may raise an attribute every other Advance, up to the racial maximum.
 	* *[Not during chargen]* Permanently remove a Minor Hindrance, or reduce a Major Hindrance to a Minor (if possible). With the GM's permission, and if it makes sense, two Advances may be saved up and spent to remove a Major Hindrance. 
 
-## Using savaged.us
+## [DEPRECATED] Using savaged.us
+
+{{% alert title="Warning" %}}
+As of right now, the below instructions are deprecated - the custom settings I created at savaged.us are rather out of date, and it's easier to create characters manually than it is to fix them.
+{{% /alert %}} 
 
 ### Getting started 
 
