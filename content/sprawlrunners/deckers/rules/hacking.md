@@ -5,7 +5,7 @@ type: docs
 description: What to hack and how to hack it
 date: 2020-07-05
 lastmod: 2020-12-23
-weight: 200
+weight: 275
 ---
 
 ## Types of hacking target
@@ -57,10 +57,6 @@ Secure-PANs, guarded over by a watchful decker, cannot be hacked via stealth. An
 ## Hacking Hosts and WANs
 
 A WAN can only be hacked by entering the host or node that controls it, in VR, and avoiding or defeating the ICE within. See Sprawlrunners for rules. Once a decker has gained access to the host or node that is running the WAN, they can issue commands to the devices connected to the WAN. 
-
-## Distraction hacking: messing with people's gear
-
-Deckers can also use denial-of-service attacks to flood specific matrix devices or PANs with nonsense traffic, greatly impeding their ability to function. See [Distraction Hacking]({{< relref "additional_rules.md#distraction-hacking" >}}).
 
 ## Back doors
 

@@ -7,7 +7,7 @@ date: 2020-11-27
 weight: 500
 ---
 
-The rules in [hacking]({{< relref "wireless_cyberspace.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, what you need is cybercombat.
+The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, what you need is cybercombat.
 
 ## Basics of cybercombat
 
@@ -41,6 +41,6 @@ If the commlink that is running a PAN is Shaken, every device on the PAN is Shak
 
 ## Consequences of crashing things
 
-**Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. Note that it might be more effective for offensive deckers to use a Smoke action to inflict penalties when using the gear than to brick it outright.
+**Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. Note that it might be more effective for offensive deckers to use a [DoS attack]({{< relref "combat_decking.md#denial-of-service-attacks" >}}) instead.
 
 Similarly, if you disrupt the Matrix component of a **vehicle**, then the autopilot and navigation is disrupted, but the occupants can still use manual controls to drive it. If they don't, then a backup failsafe will attempt to bring it to a safe halt.

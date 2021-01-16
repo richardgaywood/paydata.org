@@ -4,7 +4,7 @@ linkTitle: Alarms
 type: docs
 description: How the authorities catch deckers
 date: 2020-11-27
-weight: 300
+weight: 550
 ---
 
 Alarms are a game mechanic that simulate how aware the authorities are that there is an intruder, and how close they are to finding them.
@@ -36,5 +36,10 @@ Each time the alarm score is incremented, roll a d12. If the result is lower tha
 
 {{% alert title="Notes" %}}TBD, but depends on the host's overall security level.{{% /alert %}}
 
+## Reducing the local mesh alarm score
 
+Deckers can use a new utility called **Spoof** to dodge the effects of a high local mesh alarm score. Spoof works by routing all the decker's traffic through a nearby device, setting it up to look like the culprit when the authorities notice.
 
+The decker has to have had Spoof loaded before the first hack begun, and kept it loaded throughout. When Spoof is unloaded, the local mesh alarm value immediately halves (rounded down).
+
+Spoof doesn't help with host hacking.
