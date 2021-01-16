@@ -7,7 +7,8 @@ date: 2021-01-13
 weight: 70
 ---
 
-
+* 2021-01-16
+    * Substantial overhal of Matrix section; added "combat decking" page, added actions list, moved a lot of existing content around to more logical places
 * 2021-01-13
     * Move cyberware to the character section
     * Re-shuffle the ordering of the cyberware edges (it's now Chromed -> Man and Machine -> Betaware -> More Machine Than Man -> Deltaware)
