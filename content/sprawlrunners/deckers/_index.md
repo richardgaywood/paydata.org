@@ -6,7 +6,7 @@ weight: 400
 no_list: true
 ---
 
-By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: wired decks and VR hacking. Since 4e, Shadowrun has moved away from this, blending in modern technologies like cellphones and wifi. People have different opinions about how good an idea this is, but I quite like it, so below are some houserules aimed at putting wireless devices and hacking into Sprawlrunners - while keeping it _Fast! Furious! And Fun!_
+By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: wired decks and VR hacking. Since 4e, Shadowrun has moved away from this, blending in modern technologies like cellphones and wifi. People have different opinions about how good an idea this is, but I quite like it, so below are some houserules aimed at putting wireless devices and hacking into Sprawlrunners - while hopefully keeping it _Fast! Furious! And Fun!_
 
 *NB I will use Shadowrun-speak in this section ie "decker" not "operator", "host" not "system."*
 
@@ -14,11 +14,12 @@ By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: 
 
 ## Goals
 
-The main game scenarios these rules are intended to support are: 
+Some of the game scenarios these rules are intended to support are: 
 
 1. Sleazing on commlinks - snooping on calls and files, legwork type stuff, tracing people and tracking them.
 2. Hacking the security host in a facility (in VR), then switching to AR (so the decker can move with the team), and then during combat, using that access to mess with gear on the defending security team - AR spam, disrupt smartlinks/smartguns, take down their comms, etc.
 3. Environmental support hacking - switch the lights off so the enemies are confused, turn traffic lights to green to expediate an escape, make GridGuid freak out to block pursuers with traffic, trigger a fire alarm in a building to cause confusion. The Matrix-of-things world is a decker's playground.
+4. Combat decking - hacking opponent's gear to distract them, running and defending a tactical network to give the decker's team the edge.
 
 ## A note about hosts and nodes in my game
 

@@ -1,6 +1,6 @@
 ---
-title: Hacking on the wireless Matrix
-linkTitle: Hacking
+title: Sleaze hacking on the wireless Matrix
+linkTitle: Sleaze hacking
 type: docs
 description: What to hack and how to hack it
 date: 2020-07-05
@@ -14,11 +14,11 @@ Sprawlrunners' RAW defines one type of hack target - nodes. In my houserules, th
 
 ## Local mesh hacking
 
-All hacking against unattended devices or PANs is done over [the local mesh]({{< relref "making_the_matrix.md" >}}) . This means the hacker must be able to reach the target via the local mesh, which is typically around 50-100 metres (but can vary with local network conditions.)
+All hacking against unattended devices or PANs is done over [the local mesh]({{< relref "making_the_matrix.md" >}}). This means the hacker must be able to reach the target via the local mesh, which has a typical range of around 50-100 metres (but can vary with local network conditions, Faraday cages, signal-blocking smartpaint, etc.)
 
 To carry out the hack, the decker rolls Hacking skill vs the device's Firewall stat. If hacking a PAN consisting of lots of devices protected by a commlink, it's the commlink's rating that is used here.
 
-Hacking attempts against standalone devices or PANs contribute to [the local mesh alarm state]({{< relref "alarms.md" >}}) as follows:
+All local mesh Hacking rolls contribute to [the local mesh alarm state]({{< relref "alarms.md" >}}) as follows:
 
 * successful hack with a raise - 0 points
 * successful hack - 1 point
@@ -38,21 +38,21 @@ Unattended devices have a rating and a Firewall stat according to their type (Fi
 
 The decker does not need to gain any sort of access before issuing hacking commands; common tasks such as opening a maglock or looping a camera feed is a single action and a single (Hacking) roll.
 
-### Hacking PANs
+### Hacking commlinks and PANs
 
-Civilian PANs have ratings and Firewall as follows (Firewall is 1 + dice type / 2):
+Civilian commlinks have ratings and Firewall as follows (Firewall is 1 + dice type / 2):
 
 * Low-end consumer: d4 / 3
 * High-end consumer: d6 / 4
 * Elite consumer: d8 / 5
 
-To manipulate devices attached to a PAN, first the decker must hack into the PAN itself. Once there, the decker can manipulate devices on the PAN (eg snoop on phone calls, read files stored on the commlink, or trace the device's precise physical location). Each of those is an action and a further Hacking roll against the PAN's Firewall (note: not the device's Firewall), same as Sprawlrunners RAW.
+To manipulate devices attached to a PAN, first the decker must hack into the commlink that is running the PAN. Once there, the decker can manipulate devices on the PAN (eg snoop on phone calls, read files stored on the commlink, or trace the device's precise physical location). Each of those is an action and a further Hacking roll against the PAN's Firewall (note: not the device's Firewall), same as Sprawlrunners RAW.
 
 **Any** failed hacking roll against a PAN immediately makes the owner aware of the intrusion attempt; they will typically react by rebooting or shutting down their devices, unless they are distracted or have some reason to think they are not under attack.
 
-## Hacking Secure PANs
+## Hacking cyberdecks and secure-PANs
 
-Secure PANs, guarded over by a watchful decker, cannot be hacked via stealth. Any would-be attacker has to engage them in active [cybercombat]({{< relref "cybercombat.md" >}}) . Cybercombat does not contribute to the local mesh alarm score.
+Secure-PANs, guarded over by a watchful decker, cannot be hacked via stealth. Any would-be attacker has to engage them in active [cybercombat]({{< relref "cybercombat.md" >}}). Cybercombat does not contribute to the local mesh alarm score.
 
 ## Hacking Hosts and WANs
 
