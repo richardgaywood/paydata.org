@@ -32,7 +32,7 @@ The 'deck must be running the Stealth utility. Hiding an s-PAN is also an active
 
 To attempt a successful sneak, roll Hacking (Stealth) against a target number of 4 (if no-one is actively looking for the s-PAN) or opposed by Smarts (if people are hunting for it.) This test will need to be repeated
 
-While an s-PAN is in hidden mode, all traffic between devices is cut to the bone. It can only be used for voice and text comms; no streaming video, riggers cannot Jump In, and most electronic items are only semi-functional (eg. no smartlink or [tacnet]({{< relref "additional_rules.md#tacnets" >}}) bonuses.) 
+While an s-PAN is in hidden mode, all traffic between devices is cut to the bone. It can only be used for voice and text comms; streaming video is capped to low-resolution, riggers cannot Jump In, and most electronic items are only semi-functional (eg. no smartlink or tacnet bonuses.) 
 
 If combat starts and the s-PAN is still in stealth mode, the decker or rigger can drop the stealth as a free action.
 
