@@ -67,9 +67,9 @@ See also "Athletics" and "Stealth" under common skills, above.
 
 See also "Persuasion" under common skills, above.
 
-*  Etqiuette (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
-	 * Academic
-	 * Corporate
+*  Etiquette (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
+   * Academic
+   * Corporate
    * Organised crime
    * Street/gang
    * Security/military  

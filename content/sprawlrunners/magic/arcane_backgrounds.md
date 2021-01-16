@@ -34,7 +34,7 @@ No other combinations are permitted.
 
 ## Spellcaster
 
-Most of the powers listed in SWADE are available equally to both kinds of spellcaster arcane backgrounds. The arcane background comes with three free powers at chargen; these powers are broadly equivalent to spells in Shadowrun. 
+Most of the powers listed in SWADE are available equally to both kinds of spellcaster arcane backgrounds. The arcane background comes with three starting powers at chargen; these powers are broadly equivalent to spells in Shadowrun. Almost all the Powers in SWADE are applicable here, but note that Summon Ally and Banish move to the Summoner Arcane Background (see below).
 
 You can gain more powers after chargen by using advances to purchase the "More Powers" edge. Each time you take this, you get two new powers.
 
@@ -48,7 +48,7 @@ The Summoner arcane background only has three powers associated with it, two fro
 * *Banish*: used to banish other people's summoned spirits. In a change from SWADE core rules, this is available at Seasoned rank and above.
 * *New minor forms*: unlocks more spirit minor forms the mage can summon. Each time this power is taken, two more minor forms can be chosen. 
 
-PCs can select three powers at chargen for free, as part of the arcane background.
+PCs can select four powers at chargen for free, as part of the arcane background.
 
 For more information, see [Summoning]({{< relref "summoning.md" >}}).
 
