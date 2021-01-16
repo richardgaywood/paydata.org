@@ -50,7 +50,7 @@ All spirits have the following powers and abilities. Numbers in brackets are the
 
 * -4 damage to mundane ranged attacks (2): difficult to harm with physical objects alone.
 * Dual-natured (1): native to the astral plane; is always astrally perceiving at all times.
-* Elemental (5): doesn't need to eat or breath; immune to poison/disease; immune to called shots; ignores 1 level of Wound penalties.
+* Elemental (5): doesn't need to eat or breathe; immune to poison/disease; immune to called shots; ignores 1 level of Wound penalties.
 * Extraplanar (-2): can be targeted by the Banish power.
 * Fearless (2): immune to fear effects.
 

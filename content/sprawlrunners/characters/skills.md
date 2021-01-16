@@ -4,7 +4,7 @@ linkTitle: "Skills"
 type: docs
 weight: 500
 date: 2020-11-18
-lastmod: 2020-12-06
+lastmod: 2021-01-16
 ---
 
 My houserules make some small changes to the available skills in Savage Worlds and Sprawlrunners. Below is a complete reference to all the skills, including the ones in core SWADE. It also has some clarifications of which skill applies to some common actions where it's perhaps not immediately obvious (eg. is a Matrix search Electronics, Hacking, or Research?)
@@ -18,6 +18,8 @@ A small number of skills have specialisations available. This works as follows:
 * All use of the skill when one of your specialisations applies is rolled as normal.
 * For any use of the skill when you don't have the appropriate specialisation, you take a -2 penalty on rolls.
 
+{{% alert title="Example" color="info" %}}*During chargen, Project: Rewind takes her Shooting skill to d10. Her agility is d8, so this costs five skill points.  Shooting has four specialisations: projectiles, handguns, long guns, and heavy weapons. She chooses handguns for her free specialisation, then spends a sixth skill point to lean a second specialisation - long guns. When firing pistols or assault rifles, she'll roll d10. But if she picks up a grenade launcher, she'll only roll (d10 - 2).*{{% /alert %}} 
+
 Specialisations are also available for Common Knowledge. As for other specialisations, they cost 1 skill point per specialisation you take. Unlike other specialisations, they don't change the roll, but they provide considerably more information on a Success or a Raise than if you didn't have the specialisation. The narrower the specialisation, the more information you'll get on a Success. You can purchase as many of these as you want.
 
 If a skill doesn't specifically mention specialisations below, then it doesn't  have any. You can ignore the "add specialisation" button in savaged.us.
@@ -26,12 +28,14 @@ If a skill doesn't specifically mention specialisations below, then it doesn't  
 
 All characters get a d4 rank in these skills for free, without having to spend any skill points. You can, of course, spend points to improve them further.
 
-* Athletics (Agility): Running, climbing, jumping, balancing, throwing (including weapons), catching.
-* Common Knowledge (Smarts): General knowledge of daily life in the Sixth World.
+* **Athletics** (Agility): Running, climbing, jumping, balancing, throwing (including weapons), catching.
+* **Common Knowledge** (Smarts): General knowledge of daily life in the Sixth World.
   * See note above for specialisations.
-* Notice (Smarts): Awareness and perception; the ability to spot trouble coming, find non-obvious clues, or read body language to guess at someone's emotional state.
-* Persuasion (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
-* Stealth (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
+* **Etiquette** (Smarts): see specialisations below. Only one specialisation is included in the core skill.
+* **Notice** (Smarts): Awareness and perception; the ability to spot trouble coming, find non-obvious clues, or read body language to guess at someone's emotional state.
+* **Persuasion** (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
+* **Stealth** (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
+* One of either **Fighting** or **Shooting**, at your choice. Only one specialisation is included in the core skill. 
 
 ## Combat skills
 
@@ -87,6 +91,8 @@ If using a social skill in a language other than the character's native tongue, 
 * Sorcery (Smarts): The spellcasting skill for Arcane Background (logical spellcaster).
 * Sorcery (Spirit): The spellcasting skill for Arcane Background (intuitive spellcaster).
 
+See also "Arcana" under knowledge skills, below.
+
 ## Technical skills
 
 *  Electronics (Smarts): The use of electronic and computerised devices and systems. Their manipulation, repair, and sabotage. Anything involving computer hardware (as opposed to software, which is Hacking.) 
@@ -102,12 +108,15 @@ When repairing or modifying electronics, use the lowest of the characters' Repai
 See also Common Knowledge, above.
 
 *  Language (Smarts): Knowledge and fluency in a particular language. 
-*  Occult (Smarts): Knowledge of magical theory, supernatural events, creatures, history, and ways.
+*  Arcana (Smarts): Knowledge of magical theory, supernatural events, creatures, history, and ways. (Renamed version of "Occult" in core SWADE.)
+*  Corps (Smarts): Knowledge of corporate structures, management theories, economics, accounting, the law. Knowledge of specific corps and their areas of expertise and specialities. 
 *  Research (Smarts): Finding written information from various sources. Used for Matrix searches.
 *  Science (Smarts): Theoretical knowledge of scientific fields such as biology, chemistry, geology, engineering, etc.
 
 ## For reference: what I've changed
 
 * Added some skill specialisation options
-* Added Astral and Conjuration to magic skills
+* Added Astral and Conjuration to magic skills, renamed Occult to Arcana.
 * Reshuffled the boundaries between Hacking, Electronics, and Repair to make them slightly more intuitive (to me, at least.)
+* Added Etiquette
+* Added Corps knowledge skill.
