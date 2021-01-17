@@ -50,7 +50,7 @@ Duration: Instant
 
 Summons a spirit from the metaplanes to do the summoner's bidding. See [Summoning]({{< relref "summoning.md" >}}) for rules.
 
-Each time the character takes the Summon Ally power, they can choose a new greatform of spirit they can summon, from the following list: fire; earth; air; water; beasts; man. When summoned, the spirit will take whatever minor form the summoner desires. See [Greatforms And Minor Forms]({{< relref "spirit_forms.md" >}}) for more information.
+Each time the character takes the Summon Ally power, they can choose a new greatform of spirit they can summon, from the following list: fire; earth; air; water; beasts; man. When summoned, the spirit will take whatever minor form the summoner desires. See [Greatforms And Minor Forms]({{< relref "greatforms_and_minor_forms.md" >}}) for more information.
 
 The power point cost, and hence roll penalty, is determined by the target spirit's rank, similarly to when it is summoned. Hence:
 
