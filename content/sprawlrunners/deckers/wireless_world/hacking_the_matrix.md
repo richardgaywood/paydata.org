@@ -46,6 +46,8 @@ The corporate grown-up version of a PAN is a wide area network, or WAN. WANs are
 
 Finally, there are also secure PANs, or s-PANs. S-PANs are PANs that are run from a cyberdeck or drone deck and are being actively monitored by a decker or rigger. S-PANs cannot be hacked at all, as their admin will swiftly notice any hack attempts and take defensive action. They can only be knocked offline via cybercombat.
 
+{{% alert title="A note about hosts" %}}*Sprawlrunners RAW describes very large hosts that are made up of many, many nodes, arranged in sprawling, labyrinthian structures. I do not plan to use this (typically, at least). Most hosts in my game will either have a single node that takes care of everything; or they will be divided into a handful of nodes, each dedicated to a task (eg. file storage, building system control, security.) Each node can typically be accessed from any other node; there is no internal "map" as such.*{{% /alert %}} 
+
 ## Alarms
 
 The local mesh protocols specify that all devices monitor all the traffic they can see to scan for hack attempts. This isn't hard to avoid in the short term, but as a decker carries out more and more hacks using the local mesh against devices and PANs, it gradually becomes more and more difficult to hide. Once it reaches a critical level, GOD will deploy autonomous agents to hunt the decker down; if they are unsuccessful, a GOD spider will reinforce them. A skilled decker relies on speed and stealth to achieve their goals before this happens.
