@@ -1,17 +1,11 @@
 ---
-title: Key concepts
+title: Overview of what is possible with these rules
 linkTitle: Key concepts
 type: docs
-description: A brief overview of how these Matrix rules work
-date: 2021-01-16
+description: Game scenarios these rules attempt to capture
+date: 2021-01-17
 weight: 200
-draft: true
 ---
-
-{{% pageinfo %}}
-These 
-{{% /pageinfo %}} 
-
 
 Deckers can use their cyberdeck in augmented reality mode to wirelessly connect to nearby devices: cameras, maglocks, other people's commlinks and smartguns... They can exploit these connections to hack the device and sublety manipulate them: stealing data, listening to phone calls, looping camera feeds, opening doors. Or they can abandon subtlety and switch to cybercombat: crashing devices, flooding them with bad data and 0-day vulnerabilities until they are knocked offline entirely.
 
