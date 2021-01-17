@@ -10,6 +10,7 @@ weight: 70
 
 * 2021-01-17
     * Small tweaks to downtime actions
+    * Add a new overview page to the Matrix section
 * 2021-01-16
     * Substantial overhal of Matrix section; added "combat decking" page, added actions list, moved a lot of existing content around to more logical places
     * Renamed "Occult" skill to "Arcana". Added a new knowledge skill: Corps.
