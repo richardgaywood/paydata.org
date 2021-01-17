@@ -1,17 +1,15 @@
 ---
-title: Spellcasting
-linkTitle: Spellcasting
+title: Powers
+linkTitle: Powers
 type: docs
 description: Houserules and clarifications for specific powers
 date: 2021-01-03
 weight: 300
 ---
 
-Most rules are unchanged from Sprawlrunners RAW. However, all magic traditions take the same drain roll.
+## Disallowed powers
 
-## Allowed powers
-
-All powers in SWADE (pgs 154—171) are allowed as part of the Spellcaster arcane background, *except* the following:
+All powers in SWADE (pgs 154--171) are allowed as part of the Spellcaster arcane background, *except* the following:
 
 * Banish, Summon Ally - these are included in the Summoner arcane background.
 * Drain Power Points - meaningless in a game that doesn't use power points.

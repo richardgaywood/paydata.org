@@ -8,15 +8,9 @@ lastmod: 2021-01-03
 weight: 200
 ---
 
-{{% alert title="Note" %}}
-These houserules contain quite a few changes from normal Sprawlrunners. The intent is to enable the addition of more magic traditions beyond hermetic mage and shaman. 
-
-Note that this section assumes a reasonable familiarity with existing Shadowrun rules and canon for magic abilities; I won't do a full recap of them here. 
-{{% /alert %}} 
-
 RAW Sprawlrunners offers three types of Arcane Background - hermetic mage, shaman, and qi adept (like physical adepts in Shadowrun). 
 
-For my game, I am moving these up a bit, into the following four Arcane Backgrounds:
+For my game, I am reshuffling them into the following four Arcane Backgrounds:
 
 * Physical / qi adept - the classic Shadowrun physad. Doesn't have an arcane power skill. Rules are the same as Sprawlrunners RAW.
 * Spellcaster (Intuitive) - magic users like shamans, whose approach to magic works on an artistic, instinctive, or naturalistic level. Arcane power skill is Sorcery (Spirit).
@@ -38,7 +32,7 @@ Most of the powers listed in SWADE are available equally to both kinds of spellc
 
 You can gain more powers after chargen by using advances to purchase the "More Powers" edge. Each time you take this, you get two new powers.
 
-See [Spellcasting]({{< relref "spellcasting.md" >}}) for full details.
+See [Spellcasting]({{< relref "spellcasting/_index.md" >}}) for full details.
 
 ## Summoner
 
@@ -50,7 +44,7 @@ The Summoner arcane background only has three powers associated with it, two fro
 
 PCs can select four powers at chargen for free, as part of the arcane background.
 
-For more information, see [Summoning]({{< relref "summoning.md" >}}).
+For more information, see [Summoning]({{< relref "summoning/_index.md" >}}).
 
 ## Astral space
 
