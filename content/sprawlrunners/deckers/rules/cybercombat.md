@@ -43,4 +43,6 @@ If the commlink that is running a PAN is Shaken, every device on the PAN is Shak
 
 **Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. Note that it might be more effective for offensive deckers to use a [DoS attack]({{< relref "combat_decking.md#denial-of-service-attacks" >}}) instead.
 
+All cyberware is controlled via direct neural shunts to the user's wetware, so crashing the cyberware's Matrix component only inhibits small parts of its functionality; it doesn't brick it entirely. You cannot render someone's cyberlimb or wired reflexes completely inert via a cybercombat attack, although you can impede their use with a DoS attack. A few pieces of cyberware do inherently relies on Matrix connectivity to work - like implanted commlinks - and they can be crashed via cybercombat, however. 
+
 Similarly, if you disrupt the Matrix component of a **vehicle**, then the autopilot and navigation is disrupted, but the occupants can still use manual controls to drive it. If they don't, then a backup failsafe will attempt to bring it to a safe halt.
