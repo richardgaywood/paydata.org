@@ -8,15 +8,15 @@ lastmod: 2020-12-29
 weight: 400
 ---
 
-## Banish
-
-*(NB: slightly changed from RAW.)*
 
 {{% pageinfo %}}
+## Banish
 Rank: Seasoned *(changed from Veteran in RAW)*\
 Power Points: See below \
 Range: LoS \
 Duration: Instant 
+
+*(NB: slightly changed from RAW.)*
 
 Forces other summoned spirits back to the metaplanes. Opposed roll of caster's Conjuration skill versus the target spirit's Spirit. Success leaves the spirit Shaken; each raise inflicts a Wound. If the spirit is incapacitated, it is dismissed from service and returned to the metaplanes.
 
@@ -30,9 +30,9 @@ The power point cost, and hence roll penalty, is determined by the target spirit
 * Heroic rank (greater spirit): -4 to roll (8PP)
 {{% /pageinfo %}} 
 
-## New Minor Forms
 
 {{% pageinfo %}}
+## New Minor Forms
 Rank: Seasoned
 
 Every time the summoner learns this power, they may create two new minor form spirits for any greatforms they know. The two new minor forms do not need to be for the same greatform.
@@ -40,9 +40,9 @@ Every time the summoner learns this power, they may create two new minor form sp
 Summoners may take this power multiple times. 
 {{% /pageinfo %}}
 
-## Summon Ally (*Specific Greatform*)
 
 {{% pageinfo %}}
+## Summon Ally (*Specific Greatform*)
 Rank: Novice \
 Power Points: See below \
 Range: Smarts \
