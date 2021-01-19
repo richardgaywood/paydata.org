@@ -34,9 +34,9 @@ I'll let you know if Lie Low is required.
 
 You spend time working your contacts, buttering them up, making sure the next time you come calling they'll have the good stuff ready for you.
 
-Roll a standard Networking test. If you succeed, take bonus LP on the next mission according to the table below. For each raise, take a further bonus LP (again, as per below).
+Roll a standard Networking test (Persuasion or Intimidate vs target number 4). If you succeed, take bonus LP on the next mission according to the table below. For each raise, take a further bonus LP (again, as per below). 
 
-You can only do Network once in a given downtime. 
+No penalty for failures, but you can't try again; people have had enough of you for now. You can only do Network once in a given downtime.
 
 | Character rank | LP bonus on Success | LP bonus on Raise |
 |----------------|---------------------|-------------------|
