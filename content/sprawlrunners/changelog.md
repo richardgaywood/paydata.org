@@ -10,6 +10,7 @@ weight: 70
 
 * 2021-01-19
     * add [Gridguide]({{< relref "gridguide.md" >}}) page
+    * add [commlink defence programs]({{< relref "additional_rules.md" >}}) 
 * 2021-01-17
     * Small tweaks to downtime actions
     * Add a new overview page to the Matrix section
