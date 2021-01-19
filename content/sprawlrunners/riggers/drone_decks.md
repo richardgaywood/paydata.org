@@ -2,7 +2,7 @@
 title: Drone decks
 linkTitle: Drone decks
 type: docs
-description: blah
+description: draft!
 date: 2020-11-23
 weight: 400
 ---

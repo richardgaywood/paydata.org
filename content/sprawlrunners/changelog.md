@@ -8,6 +8,8 @@ lastmod: 2021-01-16
 weight: 70
 ---
 
+* 2021-01-19
+    * add [Gridguide]({{< relref "gridguide.md" >}}) page
 * 2021-01-17
     * Small tweaks to downtime actions
     * Add a new overview page to the Matrix section
