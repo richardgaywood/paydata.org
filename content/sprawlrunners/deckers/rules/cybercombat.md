@@ -12,16 +12,16 @@ The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion tec
 ## Basics of cybercombat
 
 * Attacker must have the Fighting utility loaded (or roll to improvise a replacement, as usual.)
-* Roll Hacking skill against the defender's Parry value, calculated as:
+* Roll Hacking skill against the defender's Firewall (Matrix Parry) value, calculated as:
 	* Cyberdeck with Fighting utility: (1/2 the user's Hacking skill) + 2.
 	* Cyberdeck without Fighting utility: 2
 	* Commlink or standalone device: 2
 	* ICE: (1/2 the host rating) + 2
 * Do base damage of 1d4 + Hacking skill. +1d6 if the attack roll had a Raise.
-* Compare attack damage to target Firewall, calculated as:
+* Compare attack damage to target Hardening, calculated as:
 	* Cyberdeck - intrinsic stat depending on 'deck rating
-	* Commlink or standalone device: (1/2 the device rating)
-	* ICE: (1/2 the host rating)
+	* Commlink or standalone device: 0/1/2 + (1/2 the device rating)
+	* ICE: 2 + (1/2 the host rating)
 
 Calculate Shaken and Wounds as usual.
 

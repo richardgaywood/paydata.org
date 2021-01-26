@@ -12,7 +12,7 @@ weight: 250
 {{% pageinfo %}} 
 ### Cybercombat
 Requires: Fighting utility \
-Rolls: Hacking (cybercombat specialisation) vs target firewall \
+Rolls: Hacking (cybercombat specialisation) vs target Firewall (Matrix Parry) \
 Use on: s-PANs, PANs, devices, ICE
 
 See [Cybercombat]({{< relref "cybercombat.md" >}}).
@@ -31,7 +31,7 @@ See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
 {{% pageinfo %}} 
 ### Sleaze
 Requires: Persuasion utility \
-Rolls: Hacking (sleaze specialisation) vs target rating \
+Rolls: Hacking (sleaze specialisation) vs target Hardening \
 Use on: unattended devices, PANs, hosts
 
 Gain access to something, hopefully without anyone noticing. See [Hacking]({{< relref "hacking.md" >}}).

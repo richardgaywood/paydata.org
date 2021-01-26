@@ -8,6 +8,8 @@ lastmod: 2021-01-16
 weight: 70
 ---
 
+* 2021-01-26
+    * Clarify Hardening / Firewall stats for Matrix devices.
 * 2021-01-19
     * add [Gridguide]({{< relref "gridguide.md" >}}) page
     * add [commlink defence programs]({{< relref "additional_rules.md" >}}) 

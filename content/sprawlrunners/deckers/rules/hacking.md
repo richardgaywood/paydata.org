@@ -16,7 +16,7 @@ Sprawlrunners' RAW defines one type of hack target - nodes. In my houserules, th
 
 All hacking against unattended devices or PANs is done over [the local mesh]({{< relref "making_the_matrix.md" >}}). This means the hacker must be able to reach the target via the local mesh, which has a typical range of around 50-100 metres (but can vary with local network conditions, Faraday cages, signal-blocking smartpaint, etc.)
 
-To carry out the hack, the decker rolls Hacking skill vs the device's Firewall stat. If hacking a PAN consisting of lots of devices protected by a commlink, it's the commlink's rating that is used here.
+To carry out the hack, the decker rolls Hacking skill vs the device's Hardening stat (also called System Toughness in some places in Sprawlrunners; same thing). If hacking a PAN consisting of lots of devices protected by a commlink, it's the commlink's rating that is used here.
 
 All local mesh Hacking rolls contribute to [the local mesh alarm state]({{< relref "alarms.md" >}}) as follows:
 
@@ -29,7 +29,7 @@ All local mesh hacking is carried out in augmented reality.
 
 ### Hacking unattended devices
 
-Unattended devices have a rating and a Firewall stat according to their type (Firewall is dice type / 2):
+Unattended devices have a rating and a Hardening stat according to their type (Hardening is dice type / 2):
 
 * Low-end consumer: d4 / 2
 * High-end consumer: d6 / 3
@@ -40,7 +40,7 @@ The decker does not need to gain any sort of access before issuing hacking comma
 
 ### Hacking commlinks and PANs
 
-Civilian commlinks have ratings and Firewall as follows (Firewall is 1 + dice type / 2):
+Civilian commlinks have ratings and Hardening as follows (Hardening is 1 + dice type / 2):
 
 * Low-end consumer: d4 / 3
 * High-end consumer: d6 / 4
@@ -64,6 +64,6 @@ If a decker can get physical access to debug ports on a device, they can get eas
 
 This can be used when hacking standalone devices or PANs but it becomes particularly potent when hacking hosts. The bonus applies if the decker can access *any device in the host's WAN*, as well as any ports that are part of the host infrastructure itself.
 
-To hack a host through a WAN device, this usually requires a roll of the lower of Electronics and Repair to open up the device and hook up the necessary connections. If the decker succeeds, they take +2 on all actions in the connected host node.
+To hack a host through a WAN device, this usually requires a toolkit and a roll of the lower of Electronics and Repair to open up the device and hook up the necessary connections. If the decker succeeds, they take +2 on all actions in the connected host node.
 
 Host sysadmins are aware of this weakness, and do not usually put external devices like cameras or maglocks onto WANs for that reason. Security WANs tend to be reserved for more serious defences that are harder to get near, like turrets or security guard's weapons.
