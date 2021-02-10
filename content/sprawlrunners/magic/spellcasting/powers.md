@@ -13,6 +13,7 @@ All powers in SWADE (pgs 154--171) are allowed as part of the Spellcaster arcane
 
 * Banish, Summon Ally - these are included in the Summoner arcane background.
 * Drain Power Points - meaningless in a game that doesn't use power points.
+* Object Reading - folded into assensing and the Astral skill.
 * Burrow, Divination, Intangibility, Resurrection, Teleport, Zombie - contradict core Shadowrun canon.
 
 ## Notes/clarifications about specific powers
