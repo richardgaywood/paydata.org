@@ -13,6 +13,6 @@ For avoidance of doubt, here's all the houserules that are in use in our current
 * My [streamlined action economy]({{< relref "houserules/action_economy/basics.md" >}}) changes initative tracking, eliminates multiple passes, and gives streetsams and physads a powerful new multi-attack option.
 * For magicians there are houserules for [summoning]({{< relref "houserules/magic/summoning.md" >}}), [foci]({{< relref "foci.md" >}}) and [initiation]({{< relref "initiation.md" >}}). I've also added a new capability to create [trinkets]({{< relref "reagents.md" >}}) from reagents.
 * Gear houserules:
-  * [Electronics houserules]({{< relref "electronics.md" >}}) reduce the price of cyberdecks
+  * Electronics houserules reduce the price of cyberdecks
   * [Drugs]({{< relref "drugs.md" >}}) removes psyche, which is painfully OP for magicians.
 

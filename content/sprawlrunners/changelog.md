@@ -9,7 +9,7 @@ weight: 70
 ---
 
 * 2021-02-16
-		* Added wireless jammer to [electronics]({{< relref "electronics.md" >}}). 
+		* Added wireless jammer to [electronics]({{< relref "sprawlrunners/gear/electronics.md" >}}). 
 * 2021-01-26
     * Clarify Hardening / Firewall stats for Matrix devices.
 * 2021-01-19

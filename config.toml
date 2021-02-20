@@ -1,6 +1,6 @@
 baseURL = "https://paydata.org/"
 languageCode = "en"
-title = "paydata.org | a Shadowrun fansite"
+title = "paydata.org | cyberpunk TTRPGs"
 theme = "docsy"
 
 # Seem to be broken right now
