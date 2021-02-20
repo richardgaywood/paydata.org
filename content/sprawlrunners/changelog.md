@@ -8,6 +8,8 @@ lastmod: 2021-01-16
 weight: 70
 ---
 
+* 2021-02-16
+		* Added wireless jammer to [electronics]({{< relref "electronics.md" >}}). 
 * 2021-01-26
     * Clarify Hardening / Firewall stats for Matrix devices.
 * 2021-01-19
