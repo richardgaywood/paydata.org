@@ -9,7 +9,7 @@ description: Decks, programs, agents
 
 Stats are unchanged from RAW; Cyberdecks have an attribute array that can be allocated across the four Matrix stats. Takes a Free action to swap any two stats. Remember you can only do one Free action per turn. If you want to do more reconfiguring than that, you can use Matrix Simple Actions.
 
-Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< relref "electronics.md#cyberdecks" >}}) for more information and statblocks.
+Cyberdecks are reduced in price to 25% of RAW. See [the gear houserules]({{< relref "houserules/gear/electronics.md#cyberdecks" >}}) for more information and statblocks.
 
 ## Programs
 
