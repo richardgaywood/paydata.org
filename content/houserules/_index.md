@@ -1,9 +1,9 @@
 ---
-title: "Houserules section"
-linkTitle: "Houserules"
+title: "Shadowrun houserules section"
+linkTitle: "Shadowrun"
 menu:
   main:
-    weight: 10
+    weight: 15
 type: docs
 description: A master list of all my Shadowrun houserules and rule ideas
 ---
