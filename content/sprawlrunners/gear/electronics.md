@@ -9,7 +9,7 @@ lastmod: 2021-02-20
 ---
 
 {{% pageinfo %}}
-## Wideband wireless Matrix jammer \
+## Wideband wireless Matrix jammer
 Weight: 3 \
 Cost: 3 LP \
 *This replaces the "jammer" from Sprawlrunners pg 63.*
