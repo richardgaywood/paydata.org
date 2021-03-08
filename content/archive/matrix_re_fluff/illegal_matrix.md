@@ -5,6 +5,7 @@ type: docs
 description: How the Matrix works for criminals and those who hunt them
 date: 2020-07-05
 weight: 5000
+aliases: ["/setting/matrix_re_fluff/illegal_matrix"]
 ---
 
 _"We must be as stealthy as rats in the wainscoting of their society. It was easier in the old days, of course, and society had more rats when the rules were looser, just as old wooden buildings have more rats than concrete buildings. But there are rats in the building now as well. Now that society is all ferrocrete and stainless steel there are fewer gaps in the joints. It takes a very smart rat indeed to find these openings. Only a stainless steel rat can be at home in this environment..." — Harry Harrison_

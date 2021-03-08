@@ -5,6 +5,7 @@ type: docs
 description: The ins and outs of proving you are a member of society
 date: 2020-08-23
 weight: 400
+aliases: ["/setting/matrix_re_fluff/SINs"]
 ---
 
 ## What a SIN is

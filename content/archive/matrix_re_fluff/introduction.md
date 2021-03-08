@@ -5,13 +5,14 @@ type: docs
 description: Why I wrote this & what I hoped to achieve
 date: 2020-07-08
 weight: 1
+aliases: ["/setting/matrix_re_fluff/introduction"]
 ---
 
 The Shadowrun Matrix rules have undergone years of patching and re-patching, more so than any other aspect of the system. There are many decisions that are made for good game mechanic reasons but have inadequate explanations within the in-game universe. This makes them confusing and counter-intuitive, as the mechanics and the narrative sometimes don't quite align.
 
 While the rulebooks do a decent job of defining the pieces of the Matrix they don't go into enough detail about how the pieces fit together inside the game universe. Instead, the books mostly go from piecemeal definitions directly into the rules. Players and GMs are left to infer the workings of the game universe from how the rules function, but this isn't always clear or consistent.
 
-I wanted to have a go at cleaning this up for my own game. This document is the result. It attempts to describe the in-universe view of the Matrix and how it works.
+I wanted to have a go at cleaning this up for my own game. Although unfinished, this document is the result. It attempts to describe the in-universe view of the Matrix and how it works.
 
 Goals of doc:
 

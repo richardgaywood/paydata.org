@@ -5,6 +5,7 @@ type: docs
 description: How your commlink decides what to show you and where to put it
 date: 2020-07-13
 weight: 300
+aliases: ["/setting/matrix_re_fluff/spotting_and_positioning"]
 ---
 
 ## Spotting

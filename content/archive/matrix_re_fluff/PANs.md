@@ -5,6 +5,7 @@ type: docs
 description: How normal people protect their Matrix stuff
 date: 2020-08-23
 weight: 500
+aliases: ["/setting/matrix_re_fluff/PANs"]
 ---
 
 One reason commlinks are quite powerful is to protect you against hacking. They dedicate a fair bit of their time to monitoring threats around you, scanning for incoming attacks, and so on. That’s definitely important! But what about the rest of your stuff? Every other Matrix-linked thing you own, from your toaster to your gun to your smartglasses, is vulnerable too - and they don’t have enough CPU to protect themselves. They can borrow some processing on demand, via fog computing, to put up some (feeble) defence. But that won’t protect you from serious hackers.

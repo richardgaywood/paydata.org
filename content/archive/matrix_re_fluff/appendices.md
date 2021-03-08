@@ -5,6 +5,7 @@ type: docs
 description: Bits and pieces
 date: 2020-07-05
 weight: 10000
+aliases: ["/setting/matrix_re_fluff/appendices"]
 ---
 ## Appendix: Reddit posts about this document
 
