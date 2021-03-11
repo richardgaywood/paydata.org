@@ -1,5 +1,5 @@
 ---
-title: The everyday, augmented
+title: The augmented everyday 
 linkTitle: Living in AR
 type: docs
 description: How augmented reality works and feels
