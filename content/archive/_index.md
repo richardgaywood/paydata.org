@@ -7,4 +7,4 @@ menu:
 type: docs
 date: 2020-07-26
 ---
-These are houserules I no longer use at my table.
+These are houserules and setting writeups I no longer use at my table, but are preserved here for others who may be interested.
