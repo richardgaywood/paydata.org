@@ -5,6 +5,7 @@ type: docs
 description: Augmented reality and virtual reality
 date: 2020-08-23
 weight: 200
+aliases: ["/setting/matrix_re_fluff/interface_modes"]
 ---
 
 ## Virtual reality versus augmented reality

@@ -5,6 +5,7 @@ type: docs
 description: The devices that make up the Matrix's infrastructure
 date: 2020-07-05
 weight: 100
+aliases: ["/setting/matrix_re_fluff/fundamentals"]
 ---
 
 ## Matrix infrastructure

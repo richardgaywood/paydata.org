@@ -5,6 +5,7 @@ type: docs
 description: Finding stuff out
 date: 2020-08-23
 weight: 700
+aliases: ["/setting/matrix_re_fluff/matrix_search"]
 ---
 
 There is no Matrix equivalent of Bing or Google Search. Like the political map, the informational one has Balkanised: split up, divided, and almost hopelessly fragmented. To search the Matrix, then, is not to enter some text into a box and get your ranked results in milliseconds. No, it’s a good deal more complicated than that. It often takes between several minutes and double-digit hours. What’s going on during that time?
