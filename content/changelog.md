@@ -2,14 +2,18 @@
 title: Changelog
 linkTitle: What's new?
 type: docs
-description: A list of all my changes
+description: A list of all my changes and updates to this site
 date: 2021-01-13
-lastmod: 2021-01-16
-weight: 70
+lastmod: 2021-03-13
+menu:
+  main:
+    weight: 900
 ---
 
+* 2021-03-13
+    * Add some details about criminal SINs to [SINs]({{< relref "setting/everyday_life/sins_and_licences.md" >}})
 * 2021-02-16
-		* Added wireless jammer to [electronics]({{< relref "sprawlrunners/gear/electronics.md" >}}). 
+    * Added wireless jammer to [electronics]({{< relref "sprawlrunners/gear/electronics.md" >}})
 * 2021-01-26
     * Clarify Hardening / Firewall stats for Matrix devices.
 * 2021-01-19

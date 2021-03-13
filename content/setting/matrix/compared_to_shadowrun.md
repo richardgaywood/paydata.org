@@ -1,10 +1,10 @@
 ---
-title: Comparing these houserules to Shadowrun 5e/6e
+title: Comparing these houserules to Shadowrun 5e/6e RAW
 linkTitle: Compared to SR
 type: docs
 description: A quick list of the simplifying assumptions I have made
 date: 2020-11-29
-weight: 1000
+weight: 10000
 ---
 
 These rules attempt to simplify the Shadowrun 5e Matrix rules by removing a number of options. For quick reference, some of the changes I have made include:
@@ -16,7 +16,7 @@ These rules attempt to simplify the Shadowrun 5e Matrix rules by removing a numb
 
 ## Hacking & cybercombat
 
-* Distill all primary decker offensive actions to three kinds: *hacking* (stealthy, grants access to manipulate devices), *cybercombat* (overt, violent, crashes devices), and disruptive *quickhacks* (disrupts traffic to/from a device or PAN to impose penalties on people using it.)
+* Distill all primary decker offensive actions to three kinds: *hacking* (stealthy, grants access to manipulate devices), *cybercombat* (overt, violent, crashes devices), and disruptive *denial of service attacks* (disrupts traffic to/from a device or PAN to impose penalties on people using it.)
 * If a device is in a PAN or WAN, it cannot be hacked directly; the attacker must hack the PAN or WAN instead (this is in Shadowrun 6e, to be fair.)
 * If a device is in a WAN, and the decker can get physical access to its internal debug ports, they can compromise it and get a big bonus to hacking the WAN host through it. Hence corps rarely put easily-accessed external devices like maglocks and cameras on WANs; instead, WANs are reserved for stuff like security guard gear and internal turrets and sensors. 
 * Secure PANs annot be hacked; they must be crashed in cybercombat.

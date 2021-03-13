@@ -1,10 +1,10 @@
 ---
-title: Setting information about the wireless Matrix
-linkTitle: Setting
+title: Everyday life
+linkTitle: Everyday life
 type: docs
-description: How the wireless Matrix works, from an in-game perspective
+description: The mundane day-to-day nuts-and-bolts of existence
 date: 2020-11-21
-weight: 400
+weight: 1000
 aliases: [""]
 ---
 

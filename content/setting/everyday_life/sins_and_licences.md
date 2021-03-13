@@ -3,9 +3,9 @@ title: "SINs and licences"
 linkTitle: "SINs & licences"
 description: A brief overview of fake IDs in the Sixth World
 type: docs
-weight: 1000
+weight: 500
 date: 2021-01-03
-lastmod: 2021-01-12
+lastmod: 2021-03-13
 ---
 
 In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no support, no right to employment or vote, unable to use public facilities or transit, turned away from shops and restaurants.
@@ -76,10 +76,12 @@ High quality fake SINs are still deleted after ~1 week, though, just like low-qu
 
 ### Why can't the cops look up my DNA/fingerprints/etc that I left at the crime scene?
 
-Although many SIN issuers do gather and store a biometric profile, they don't make this information available to the authorities (except, rarely, in the case of high-profile crimes like terrorism.) 
-
-xxx
+Although many SIN issuers do gather and store a biometric profile, they don't make this information available to the authorities (except, rarely, in the case of serious and high-profile crimes like terrorism.) So even if you do have a SIN in someone's database, it's very unlikely to be accessible to anyone investigating your crime... with the exception below.
 
 ### What about criminal SINs?
 
-xxx
+Most nation-states will issue special "criminal SINs" to anyone convicted of crimes, petty or otherwise. If you're unlucky enough to get issues a criminal SIN in, say, the UCAS, then any UCAS-jurisdiction cop is going to be able to read your fingerprints off their database. This can be a severe pain the ass for you and your criminal associates.
+
+Even worse, criminal SINs are an exception to the hold-your-cards-close-to-your-chest rules most SINs are kept under. The SIN and its biometrics are shared widely and freely - that's most of the point; a criminal SIN is an anchor you have to drag around forever. (Unless you have friends in high places who can get it wiped off the books, *omae*.)
+
+Corporations don't bother with criminal SINs. They prefer more immediate punishments.

@@ -10,7 +10,7 @@ weight: 275
 
 ## Types of hacking target
 
-Sprawlrunners' RAW defines one type of hack target - nodes. In my houserules, these are expanded to include unattended devices, PANs, secure PANs, and hosts/WANs. See [Hacking the Wireless Matrix]({{< relref "hacking_the_matrix.md" >}}) for definitions of these terms.
+Sprawlrunners' RAW defines one type of hack target - nodes. In my houserules, these are expanded to include unattended devices, PANs, secure PANs, and hosts/WANs. See [Hacking the Wireless Matrix]({{< relref "setting/matrix/hacking_the_matrix.md" >}}) for definitions of these terms.
 
 ## Local mesh hacking
 

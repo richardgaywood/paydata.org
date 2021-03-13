@@ -4,6 +4,7 @@ linkTitle: Getting started
 type: docs
 description: Tips and tricks for first-time tables
 date: 2020-08-29
+weight: 100
 ---
 
 Scenario: you and your RPG group want to play Shadowrun. You've never played before; maybe you have experience of other RPGs, maybe you don't. You're intrigued by the *man-meets-magic-and-machine* setting but you've read some stuff about the game system. It sounds... daunting. Maybe you've gotten as far as looking through the rulebook, and thought: *eep!*

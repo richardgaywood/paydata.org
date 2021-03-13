@@ -12,7 +12,7 @@ By default, Sprawlrunners presents a classic '80s cyberpunk take on cyberspace: 
 
 *NB I will use Shadowrun-speak in this section ie "decker" not "operator", "host" not "system."*
 
-If you're reading these rules for the first time, you might like to start with [this overview]({{< relref "overview.md" >}}), which sets out the key concepts and how they fit together. The rest of the section is split into two parts; one dedicated to the rules mechanics, and one dedicated to the in-world explanation of the Matrix and how it functions. 
+If you're reading these rules for the first time, you might like to start with [this overview]({{< relref "setting/matrix/overview.md" >}}), which sets out the key concepts and how they fit together. The rest of this section is dedicated to the rules mechanics for applying these hoiuserules to Sprawlrunners. [The Matrix section in the Settings part of the site]({{< relref "setting/matrix/" >}}) provides an in-world explanation of the Matrix and how it functions. 
 
 ## Contents
 
