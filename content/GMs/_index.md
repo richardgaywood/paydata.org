@@ -7,4 +7,6 @@ menu:
 type: docs
 description: Links, resources, and ideas for Shadowrun GMs
 date: 2020-07-12
+cascade:
+  - type: "docs"
 ---

@@ -5,7 +5,7 @@ type: docs
 description: How the wireless Matrix works, from an in-game perspective
 date: 2020-11-21
 weight: 400
-aliases: [""]
+aliases: ["sprawlrunners/deckers/wireless_world"]
 ---
 
 {{% alert title="Notes" %}}

@@ -6,11 +6,6 @@ theme = "docsy"
 # Seem to be broken right now
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 
 [outputs]
 	section = [ "HTML", "RSS", "print" ]
@@ -63,3 +58,20 @@ footer_about_disable = false
 	icon = "fab fa-reddit"
         desc = "Find me on Reddit"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
+angledQuotes = false
+latexDashes = true
+
+# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+github_repo = "https://github.com/richardgaywood/blog"
+# Specify a value here if your content directory is not in your repo's root directory
+github_subdir = "paydata.org"
