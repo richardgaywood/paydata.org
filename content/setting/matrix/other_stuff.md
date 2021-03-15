@@ -5,7 +5,7 @@ type: docs
 description: Smaller bits and pieces, plot devices, etc
 date: 2020-12-22
 lastmod: 2020-12-24
-weight: 800
+weight: 5000
 ---
 
 {{% alert title="Notes" %}}
@@ -32,12 +32,6 @@ Tags are very common in my campaign, and have numerous uses:
 * Theft prevention - a variation on the tracking idea, most expensive, durable, or legally restricted goods (definitely including vehicles, guns, and ammunition) are infested with multiple tracking tags. If the goods are noticed stolen, they can be swiftly tracked down via the locations being uploaded from the tags. 
 
 	Sneaky users might have tags on their items that do not broadcast their location all the time, but sit passive and undetectable until certain times or they receive an incoming signal; this makes it very difficult to know you've definitely wiped every tag off something you just stole. Items the characters purchase with from the black market LPs have already gone through this.
-
-## One-time pad encryption
-
-While most encryption has been superseded by the quantum processors used in cyberdecks, there is one notable exception: one-time pads. This uses pre-arranged private encryption keys that are all but uncrackable - but both parties using the encrypted channel have to have exchanged the private keys in advance. Furthermore, the keys have to be regularly cycled (every few seconds of a video steam) to avoid them becoming attackable as they become stale.
-
-This makes the key management extremely awkward, and reserved for only the most critically important of communications. Data couriers are often employed to move encryption keys from place to place, but if they are intercepted and the keys stolen, then the communications can be intercepted - without anyone knowing. These are therefore high-value targets for corporate intrigue.
 
 ## RF blocking paint
 
