@@ -4,25 +4,14 @@ linkTitle: "Skills"
 type: docs
 weight: 500
 date: 2020-11-18
-lastmod: 2021-01-16
+lastmod: 2021-03-20
 ---
 
 My houserules make some small changes to the available skills in Savage Worlds and Sprawlrunners. Below is a complete reference to all the skills, including the ones in core SWADE. It also has some clarifications of which skill applies to some common actions where it's perhaps not immediately obvious (eg. is a Matrix search Electronics, Hacking, or Research?)
 
-## Specialisations 
+## Specialisations for Common Knowledge
 
-A small number of skills have specialisations available. This works as follows:
-
-* When you take the skill, you get one specialisation for free.
-* Purchasing extra specialisations costs 1 skill point.
-* All use of the skill when one of your specialisations applies is rolled as normal.
-* For any use of the skill when you don't have the appropriate specialisation, you take a -2 penalty on rolls.
-
-{{% alert title="Example" color="info" %}}*During chargen, Project: Rewind takes her Shooting skill to d10. Her agility is d8, so this costs five skill points.  Shooting has four specialisations: projectiles, handguns, long guns, and heavy weapons. She chooses handguns for her free specialisation, then spends a sixth skill point to learn a second specialisation - long guns. When firing pistols or assault rifles, she'll roll d10. But if she picks up a grenade launcher, she'll only roll (d10 - 2).*{{% /alert %}} 
-
-Specialisations are also available for Common Knowledge. As for other specialisations, they cost 1 skill point per specialisation you take. Unlike other specialisations, they don't change the roll, but they provide considerably more information on a Success or a Raise than if you didn't have the specialisation. The narrower the specialisation, the more information you'll get on a Success. You can purchase as many of these as you want.
-
-If a skill doesn't specifically mention specialisations below, then it doesn't  have any. You can ignore the "add specialisation" button in savaged.us.
+Skill specialisations are available for Common Knowledge, but these are a house rule for this campaign and not handled like normal skill specialisations in Savage Worlds. As for other specialisations, they cost 1 skill point per specialisation you take. Unlike other specialisations, they don't change the roll you make; but on any Common Knowledge check where the specialisation applies, you will get *considerably* more information on a Success or a Raise than if you didn't have the specialisation. The narrower the specialisation, the more information you'll get on a Success. You can purchase as many of these as you want.
 
 ## Common skills
 
@@ -31,25 +20,15 @@ All characters get a d4 rank in these skills for free, without having to spend a
 * **Athletics** (Agility): Running, climbing, jumping, balancing, throwing (including weapons), catching.
 * **Common Knowledge** (Smarts): General knowledge of daily life in the Sixth World.
   * See note above for specialisations.
-* **Etiquette** (Smarts): see specialisations below. Only one specialisation is included in the core skill.
 * **Notice** (Smarts): Awareness and perception; the ability to spot trouble coming, find non-obvious clues, or read body language to guess at someone's emotional state.
 * **Persuasion** (Spirit): The ability to convince others to do what you want; via negotiation, orders, or lies. (But not threats; see Intimidation, below, for that.)
 * **Stealth** (Agility): The ability to sneak and hide, tail people without being noticed. (But not spot a tail that's following you - that's Notice.)
-* One of either **Fighting** or **Shooting**, at your choice. Only one specialisation is included in the core skill. 
 
 ## Combat skills
 
 * **Battle** (Smarts): Strategy, tactics, and understanding military operations. Particularly important in the Mass Battles game mechanic.
-* **Fighting** (Agility): Skill in armed and unarmed melee combat. Specialisations:
-	* Unarmed (including Killing Hands and cyber-implant weapons)
-	* Blunt (any crushing weapon)
-	* Blades (all knives and swords)
-	* Exotic (eg. mono-filament whips)
-* **Shooting** (Agility): Precision with any type of ranged weapon, including bows (but not thrown weapons). Specialisations for this skill: 
-  * Projectile weapons (bows, crossbows, etc)
-  * Handguns (including all tasers, pistols, machine pistols, compact SMGs)
-  * Longarms (normal SMGs, all rifles and light/medium machine guns)
-  * Heavy (any turret-mounted gun; heavy machine guns; launchers of all kinds; flamethrowers; assault cannons)
+* **Fighting** (Agility): Skill in armed and unarmed melee combat.
+* **Shooting** (Agility): Precision with any type of ranged weapon, including bows (but not thrown weapons).
 
 ## Vehicle skills
 
@@ -71,13 +50,7 @@ See also "Athletics" and "Stealth" under common skills, above.
 
 See also "Persuasion" under common skills, above.
 
-*  **Etiquette** (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
-   * Academic
-   * Corporate
-   * Organised crime
-   * Street/gang
-   * Security/military  
-   * Socialite/elites/high society
+*  **Etiquette** (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd.
 *  **Intimidation** (Spirit): The ability to threaten others into compliance. 
 *  **Performance** (Spirit): Singing, dancing, acting, or other forms of public expression.
 *  **Taunt** (Smarts): Insulting or belittling another. Can be done during combat to distract opponents.
@@ -96,9 +69,7 @@ See also "Arcana" under knowledge skills, below.
 ## Technical skills
 
 *  **Electronics** (Smarts): The use of electronic and computerised devices and systems. Their manipulation, repair, and sabotage. Anything involving computer hardware (as opposed to software, which is Hacking.) 
-*  **Hacking** (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.) Two specialisations:
-	*  Sleaze: used to discreetly break into systems, take control of devices, and hide your presence on the Matrix or in hosts.
-	*  Cybercombat: used to violently crash systems, disrupt Matrix signals, and interfere with device's functionality.
+*  **Hacking** (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.)
 *  **Repair** (Smarts): The ability to fix, build, and modify mechanical and electrical gadgets, including weapons, vehicles, etc. Also used for setting and using explosives and demolitions.
 
 When repairing or modifying electronics, use the lowest of the characters' Repair and Electronics skills.
@@ -115,8 +86,58 @@ See also Common Knowledge, above.
 
 ## For reference: what I've changed
 
-* Added some skill specialisation options
+* Added a special skill specialisation rule to Common Knowledge
 * Added Astral and Conjuration to magic skills, renamed Occult to Arcana.
 * Reshuffled the boundaries between Hacking, Electronics, and Repair to make them slightly more intuitive (to me, at least.)
 * Added Etiquette
 * Added Corps knowledge skill.
+
+
+<!-- archive - skill specialisations
+
+
+## Specialisations 
+
+A small number of skills have specialisations available. This works as follows:
+
+* When you take the skill, you get one specialisation for free.
+* Purchasing extra specialisations costs 1 skill point.
+* All use of the skill when one of your specialisations applies is rolled as normal.
+* For any use of the skill when you don't have the appropriate specialisation, you take a -2 penalty on rolls.
+
+{{% alert title="Example" color="info" %}}*During chargen, Project: Rewind takes her Shooting skill to d10. Her agility is d8, so this costs five skill points.  Shooting has four specialisations: projectiles, handguns, long guns, and heavy weapons. She chooses handguns for her free specialisation, then spends a sixth skill point to learn a second specialisation - long guns. When firing pistols or assault rifles, she'll roll d10. But if she picks up a grenade launcher, she'll only roll (d10 - 2).*{{% /alert %}} 
+
+Specialisations are also available for Common Knowledge. As for other specialisations, they cost 1 skill point per specialisation you take. Unlike other specialisations, they don't change the roll, but they provide considerably more information on a Success or a Raise than if you didn't have the specialisation. The narrower the specialisation, the more information you'll get on a Success. You can purchase as many of these as you want.
+
+If a skill doesn't specifically mention specialisations below, then it doesn't  have any. You can ignore the "add specialisation" button in savaged.us.
+
+
+
+
+* **Fighting** (Agility): Skill in armed and unarmed melee combat. Specialisations:
+	* Unarmed (including Killing Hands and cyber-implant weapons)
+	* Blunt (any crushing weapon)
+	* Blades (all knives and swords)
+	* Exotic (eg. mono-filament whips)
+
+
+* **Shooting** (Agility): Precision with any type of ranged weapon, including bows (but not thrown weapons). Specialisations for this skill: 
+  * Projectile weapons (bows, crossbows, etc)
+  * Handguns (including all tasers, pistols, machine pistols, compact SMGs)
+  * Longarms (normal SMGs, all rifles and light/medium machine guns)
+  * Heavy (any turret-mounted gun; heavy machine guns; launchers of all kinds; flamethrowers; assault cannons)
+
+
+*  **Etiquette** (Smarts): A character's ability to blend in with the background, dress and carry themselves so they don't stand out, or talk the right lingo to appear to be part of the crowd. Some specialisations are below; let me know if you want more:
+   * Academic
+   * Corporate
+   * Organised crime
+   * Street/gang
+   * Security/military  
+   * Socialite/elites/high society
+
+
+*  **Hacking** (Smarts): Legal and illegal computer use; coding, programming, and breaking into computer systems. (NB: simple, everyday Matrix actions fall under Common Knowledge and do not require a Hacking roll. Complex Matrix searches fall under Research.) Two specialisations:
+	*  Sleaze: used to discreetly break into systems, take control of devices, and hide your presence on the Matrix or in hosts.
+	*  Cybercombat: used to violently crash systems, disrupt Matrix signals, and interfere with device's functionality.
+--> 
