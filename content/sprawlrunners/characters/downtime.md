@@ -5,7 +5,7 @@ type: docs
 weight: 1500 
 description: Things to do between crime sprees 
 date: 2020-12-06
-lastmod: 2021-01-17
+lastmod: 2021-03-20
 --- 
 
 Every 10k¥ you earn from a run buys you enough time off afterward to complete one of the below Downtime Actions.
@@ -20,9 +20,11 @@ Your character decides to blow off some steam and celebrate still being alive. T
 
 Take a one-step penalty to your [wealth die type]({{< relref "wealth.md" >}}) die for the next session.
 
+There is no mechanical game benefit to carousing. This is deliberate ;)
+
 ## Hang out
 
-You spend some quality time with your nearest and dearest. Write a scene telling us what you do together, and take a free point of karma for your trouble!
+You spend some quality time with your nearest and dearest. Write a scene telling us what you do together, and take a free point of karma for your trouble! (If you don't want to write a scene, see Train below.)
 
 ## Lie low
 
@@ -30,11 +32,23 @@ If you attracted an unusually breathtaking amount of attention on the last run, 
 
 I'll let you know if Lie Low is required.
 
+## Long-term project
+
+Maybe your character is engaged in some sort of longer-term thing: researching something, making something, trying to create a spell... anything we've agreed upon.
+
+We'll handle this a bit like a Dramatic Task in SWADE or a Clock in Blades in the Dark. You'll have some fixed number of segments to complete - you might or might not know how many, depending on what you are up to. For a single downtime action, you can make a Trait Test using any appropriate skill to work on the project.
+
+Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. You cannot spend Bennies on this roll.
+
+(You can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.) 
+
 ## Network
 
 You spend time working your contacts, buttering them up, making sure the next time you come calling they'll have the good stuff ready for you.
 
-Roll a standard Networking test (Persuasion or Intimidate vs target number 4). If you succeed, take bonus LP on the next mission according to the table below. For each raise, take a further bonus LP (again, as per below). 
+Roll a standard Networking test (Persuasion or Intimidate vs target number 4). If you succeed, take bonus LP on the next mission according to the table below. For each raise, take a further bonus LP (again, as per below). You cannot spend Bennies on this roll.
+
+(You can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.) 
 
 No penalty for failures, but you can't try again; people have had enough of you for now. You can only do Network once in a given downtime.
 
