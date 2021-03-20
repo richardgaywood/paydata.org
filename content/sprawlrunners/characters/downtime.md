@@ -14,6 +14,8 @@ Every 10k¥ you earn from a run buys you enough time off afterward to complete o
 
 Spend 10 points of karma to [advance]({{< relref "advancement.md" >}}), as per usual SWADE rules. If you have multiple advances to take, you can take them all as one action; you don't need to spend one action for each advance.
 
+You can use karma earned via Hang Out or Train in the same downtime phase to advance. For example, suppose you earn 19 points of karma on a run, and have three downtime actions. You can use the first action to Train to get to 20 points of karma, and the second to Advance twice. Then you still have the third downtime action to use as you please.
+
 ## Carouse
 
 Your character decides to blow off some steam and celebrate still being alive. They spend an extended period of time indulging whatever hedonistic vices most appeal to them.
