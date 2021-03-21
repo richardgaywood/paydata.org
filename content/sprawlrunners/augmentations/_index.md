@@ -12,6 +12,6 @@ Sprawlrunners extends the core Savage Worlds edge system to offer an additional 
 
 As a houserule, I will be enforcing that a number of Edges can *only* be taken with a trapping that they are an *augmentation* -- either a piece of bioware or a physical adept power. This means they are out of the reach of mundane or mage characters. It also, effectively, extends the cyberware catalog. Edges where such a trapping is required are listed in [the characters section]({{< relref "../characters/edges.md" >}}).
 
-Edges taken with a bioware trapping do not cost implant points, and those taken with a physad power trapping do not cost chi points. They are paid for as an Edge, as usual.
+Edges taken with a bioware trapping do not cost implant points, and those taken with a physad power trapping do not cost chi points. They are paid for as an Edge, as usual. Also, their prerequisites -- on rank, on abilitie die types, or on other edges - do not change.
 
 {{< sectionRecursive >}}

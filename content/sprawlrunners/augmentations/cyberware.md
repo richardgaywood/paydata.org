@@ -63,8 +63,20 @@ If there are no penalties from any of those categories that effect the roll, the
 {{% /pageinfo %}} 
 
 
+{{% pageinfo %}}
+### Vehicle Control Rig
+**Implant points: 1** 
 
+Gain the ability to Jump In to a vehicle or drone. When doing so, gain +2 bonus to rolls when trying to interrupt opponents.
 
+### Improved Vehicle Control Rig
+**Implant points: 2** \
+**Required: Vehicle Control Rig** \
+*Cyberware trapping for the Ace edge (SWADE pg 47)*
+
+Can ignore two points of penalties to any Boating, Driving, or Piloting roll. The rigger may spend Bennies to soak damage for any vehicle they are jumped into, using the appropriate Boating/Piloting/Driving skill instead of Vigor. Each success and raise negates a Wound the vehicle would have taken.
+
+{{% pageinfo %}}
 
 
 
@@ -92,7 +104,7 @@ Cyberarms can be fitted singly. Cyberlegs can be fitted singly if you want a str
 
 Adds 1 die type to the stat for tests when only the limb with the boosted stat is being used. For example, boosted strength applies to calculating melee damage when the limb is being used to attack with, but not to a test to lift something heavy over your head, as that requires whole-body strength.
 
-This boost has no effect on skill dice increase costs. *Example: Alice has Agi d8 and Shooting d8, then gets a boosted Agi cyberlimb. It would still cost her 2 skill points to take Shooting to d10.*
+This boost has no effect on skill dice increase costs. *Example: Alice has Agility d8 and Shooting d8, then gets a boosted Agility cyberlimb. It would still cost her 2 skill points to take Shooting to d10.*
 
 If the user has artificial muscle replacement or muscle enhancement, this increase applies on top of that. *Example: Alice has Strength d6. She takes Artificial Muscle Replacement and then adds Boosted Strength to her cyberarm. Her cyberarm now has d10 Strength.*
 {{% /pageinfo %}}

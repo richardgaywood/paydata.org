@@ -97,12 +97,23 @@ Replaced by [Recoil Compensation System]({{< relref "../augmentations/cyberware.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
+#### Marksman
+
+Replaced by [smartlinks]({{< relref "sprawlrunners/augmentations/cyberware.md#smartlink" >}}).
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
 #### Nerves of Steel / Improved Nerves of Steel
 
 Only available with [augmentation trapping]({{< relref "../augmentations/" >}}).
 {{% /pageinfo %}} 
 
 ### Professional Edges
+
+{{% pageinfo %}}
+#### Ace
+Replaced by [improved vehicle control rig]({{< relref "sprawlrunners/augmentations/cyberware.md#improved-vehicle-control-rig" >}}).
+{{% /pageinfo %}}
 
 {{% pageinfo %}}
 #### Mod Shop
