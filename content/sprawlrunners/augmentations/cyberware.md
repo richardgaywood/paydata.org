@@ -9,15 +9,11 @@ lastmod: 2021-03-21
 aliases: ["sprawlrunners/characters/cyberware"]
 ---
 
-{{% pageinfo %}}still in draft{{% /pageinfo %}} 
-
 ## Upgrades
 
-In general, as long as the storyline allows time for characters to go through the necessary surgery, characters may choose to have old cyberware systems removed or upgraded when acquiring new cyberware.
+In general, as long as the storyline allows time for characters to go through the necessary surgery, characters may choose to have old cyberware systems removed or upgraded when acquiring new cyberware. For example, if you have Wired Reflexes (1.5 Implant Points), you can pay another 1.5 points to upgrade to Improved Wired Reflexes.
 
 ## Eyeware
-
-Mostly as per Sprawlrunners RAW; small changes:
 
 {{% pageinfo %}}
 ### Cybereyes
@@ -67,17 +63,26 @@ If there are no penalties from any of those categories that effect the roll, the
 ### Vehicle Control Rig
 **Implant points: 1** 
 
-Gain the ability to Jump In to a vehicle or drone. When doing so, gain +2 bonus to rolls when trying to interrupt opponents.
+Gain the ability to Jump In to a vehicle or drone, either wired or wirelessly. When doing so, gain +2 bonus to rolls when trying to interrupt opponents.
 
 ### Improved Vehicle Control Rig
-**Implant points: 2** \
-**Required: Vehicle Control Rig** \
+**Implant points: 3** \
 *Cyberware trapping for the Ace edge (SWADE pg 47)*
 
-Can ignore two points of penalties to any Boating, Driving, or Piloting roll. The rigger may spend Bennies to soak damage for any vehicle they are jumped into, using the appropriate Boating/Piloting/Driving skill instead of Vigor. Each success and raise negates a Wound the vehicle would have taken.
+In addition to the benefits of the VCR, above, the user can now ignore 2 points of penalties to any Boating, Driving, or Piloting roll. The rigger may also spend Bennies to soak damage for any vehicle or drone they are jumped into, using the appropriate Boating/Piloting/Driving skill instead of Vigor. Each success and raise negates a Wound the vehicle would have taken.
+
+{{% /pageinfo %}}
 
 {{% pageinfo %}}
+### Wired Reflexes
+**Implant points: 1.5** 
+### Improved Wired Reflexes
+**Implant points: 3** 
 
+Synthetic wiring replaces major nerve trunks with faster-acting pathways.
+
+With Wired Reflexes, the character can ignore 1 point of Multi-Action Penalty per turn. With Improved Wired Reflexes, this increases to 2 points. This effect is compatible with with reflex-changing bioware, like Synaptic Accelerators or Adrenal Pump.
+{{% /pageinfo %}}
 
 
 ## Cyberlimbs

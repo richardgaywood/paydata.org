@@ -85,6 +85,18 @@ The character has gained access to a top secret black lab that offers the most c
 ### Combat edges
 
 {{% pageinfo %}}
+#### Brawler / Bruiser
+
+Replaced by [Bone Density]({{< relref "sprawlrunners/augmentations/bioware.md#bone-density" >}}).
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
+#### Hard to Kill / Harder to Kill
+
+Replaced by [Overclocked Platelets]({{< relref "sprawlrunners/augmentations/bioware.md#overclocked-platelets" >}}).
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
 #### Level Headed / Improved Level Headed
 
 Only available with [augmentation trapping]({{< relref "../augmentations/" >}}).
