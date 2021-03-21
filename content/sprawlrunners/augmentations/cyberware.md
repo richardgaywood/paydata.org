@@ -3,9 +3,10 @@ title: "Cyberware"
 linkTitle: "Cyberware"
 description: Gotta get chromed, chummer
 type: docs
-weight: 650
+weight: 100
 date: 2021-01-08
-lastmod: 2021-01-13
+lastmod: 2021-03-21
+aliases: ["sprawlrunners/characters/cyberware"]
 ---
 
 {{% pageinfo %}}still in draft{{% /pageinfo %}} 
@@ -19,79 +20,62 @@ In general, as long as the storyline allows time for characters to go through th
 Mostly as per Sprawlrunners RAW; small changes:
 
 {{% pageinfo %}}
-**Cybereyes**
+### Cybereyes
 
-Clarification that all cybereyes provide, by default, approximately 20/10 vision and around 2x magnification without significant degradation in image quality.
+Clarification that all cybereyes provide, by default, approximately 20/10 vision, or around twice as good as a normal person today. 
 {{% /pageinfo %}}
+
+
+
+
+
 
 ## Bodyware
 
 {{% pageinfo %}}
-**Hand Razors** \
-Implant points: 1 (reduced from RAW)
+### Artificial muscle replacement / Muscle enhancement
 
-These do not count as natural weapons, and therefore their damage does not stack with Edges like Martial Arts / Brawler / etc. They can be fitted to a cyberlimb, but they do not require one.
+*(See Sprawlrunners pg 54)* To clarify: These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
 {{% /pageinfo %}} 
 
+
 {{% pageinfo %}}
-**Cyberspurs** 
+### Cyberspurs
 
 Only available as part of a cyberarm; see below.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Artificial muscle replacement** \
-**Muscle enhancement**
+### Hand Razors
+**Implant points: 1 (reduced from RAW)**
 
-*(See Sprawlrunners pg 54)* To clarify: These augments boost the entire body. If the user has cyberlimbs, the base stat of the cyberlimb always matches the rest of the body.
+These do not count as natural weapons, and therefore their damage does not stack with Edges like Martial Arts / Brawler / etc. They can be fitted to a cyberlimb, but they do not require one.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Wired Reflexes** \
-Implant points: N/A (take as an Edge) \
-Requires: Seasoned, Man and Machine
+### Smartlink
+**Implant points: 1** \
+**Required: cybereryes**
 
-**Move-by-Wire** \
-Implant points: N/A (take as an Edge) \
-Requires: Veteran, Wired Reflexes, Betaware
+When using a smartlinked weapon, the shooter may ignore up to 2 points of penalties due to range, cover, called shot, speed, or scale. (For ease of use, this is the same as the list of penalties affected by the Aim action.) This stacks with the Aim action.
 
-*Cyberware trapping for the Level Headed / Improved Level Headed edges (see SWADE pg 43.)*
-
-A character with Wired Reflexes draws two action cards in combat, and chooses which to keep. A character with Move-by-Wire draws three and chooses one to keep.
+If there are no penalties from any of those categories that effect the roll, the smartlink adds +1 to the Shooting roll instead.
 {{% /pageinfo %}} 
 
-{{% pageinfo %}}
-**Synaptic booster** \
-Implant points: N/A (take as Edge) \
-Requires: Novice, Agility d8+, Chromed
 
-*Cyberware trapping for the Quick edge (see SWADE pg 43.)*
 
-When dealt an action card of 5 or lower, you can discard it and draw again; you can repeat until you get a 6 or higher. If combined with Wired Reflexes or Move-by-Wire, you first draw the additional card(s) and pick which one to keep. Then, if it's 5 or below, you draw again.
-{{% /pageinfo %}} 
 
-{{% pageinfo %}}
-**Pain Editor** \
-Implant points: N/A (take as Edge) \
-Requires: Novice, Chromed, Vigor d8+
 
-**Improved Pain Editor** \
-Implant points: N/A (take as Edge) \
-Requires: Novice, Pain Editor
 
-*Cyberware trapping for the Nerves of Steel / Improved Nerves of Steel edges (see SWADE pg 43.)*
-
-The character may ignore 1 level or 2 levels of Wound penalties.
-{{% /pageinfo %}} 
 
 ## Cyberlimbs
 
 To unlock any of the below upgrades and add-ons, you first need to replace the limb:
 
 {{% pageinfo %}}
-**Cyberarm or cyberleg** \
-Implant points: 0.5 (each) \
-Required: Novice, Chromed
+### Cyberarm or cyberleg
+**Implant points: 0.5 (each)** \
+**Required: Novice, Chromed**
 
 +1 Toughness per pair of limbs.
 
@@ -103,10 +87,10 @@ Cyberarms can be fitted singly. Cyberlegs can be fitted singly if you want a str
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Cyberlimb boosted Strength/Agility** \
-Implant points: 1
+### Cyberlimb boosted Strength/Agility
+**Implant points: 1**
 
-Adds 1 die type to the stat for tests when only the limb with the boosted stat is being used. For example, boosted strength applies to calculating melee damage when the limb is being used to attack with, but not to a test to lift something heavy.
+Adds 1 die type to the stat for tests when only the limb with the boosted stat is being used. For example, boosted strength applies to calculating melee damage when the limb is being used to attack with, but not to a test to lift something heavy over your head, as that requires whole-body strength.
 
 This boost has no effect on skill dice increase costs. *Example: Alice has Agi d8 and Shooting d8, then gets a boosted Agi cyberlimb. It would still cost her 2 skill points to take Shooting to d10.*
 
@@ -114,8 +98,8 @@ If the user has artificial muscle replacement or muscle enhancement, this increa
 {{% /pageinfo %}}
 
 {{% pageinfo %}}
-**Cyberspurs** \
-Implant points: 2 (reduced from RAW)
+### Cyberspurs
+**Implant points: 2 (reduced from RAW)**
 
 Str+d6 damage in melee combat. Owner always counts as Armed, so never suffers the Unarmed Defender penalty (which grants melee attackers +2 to Fighting rolls if their target has nothing to parry with.)
 
@@ -124,16 +108,16 @@ This counts as a Natural Weapon, and hence the damage increases with use of Edge
 
 
 {{% pageinfo %}}
-**Cybergun** \
-Implant points: 3?
+### Cybergun
+**Implant points: 3?**
 
 *TBD; probably pick from light pistol w/ autofire, heavy pistol, or flechette pistol.*
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Recoil compensation system** \
-(Cyberarm only, requires smartlink & smartgun)
-Implant points: 1 or 2
+### Recoil compensation system
+**(Cyberarm only, requires smartlink & smartgun)** \
+**Implant points: 1 or 2**
 
 A feedback circuit from the user's smartgun to their cyberlimb or limbs automatically counteracts recoil and barrel climb in real-time as they fire.
 
@@ -143,32 +127,32 @@ For one-handed weapons, this will work with only one cyberarm. For two-handed gu
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Boosted speed** \
-(Cyberlegs only) \
-Implant points: 1
+### Boosted speed
+**(Cyberlegs only)** \
+**Implant points: 1**
 
 Increases Pace by +2 and running die by one type.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
-**Hydraulic jacks** \
-(Cyberlegs only) \
-Implant points: 1
+### Hydraulic jacks
+**(Cyberlegs only)** \
+**Implant points: 1**
 
-Character can jump twice as far as usual. In addition, they add +4 to damage when leaping as part of a Wild Attack, rather than the usual +2. Can only be used if there's enough room (vertically and horizontally) though.
+Character can jump twice as far as usual. In addition, they add +4 to damage when leaping as part of a Wild Attack, rather than the usual +2. Can only be used if there's enough room (vertically and horizontally) for the jump, however.
 {{% /pageinfo %}} 
 
 
 {{% pageinfo %}}
-**Grapple hand** \
-Implant points: 0.5 \
-Required: Novice, Chromed
+### Grapple hand
+**Implant points: 0.5** \
+**Required: Novice, Chromed**
 
 An extendable, fireable grapple system, using a small spool of lightweight polymer rope hidden inside the wrist and the hand itself as the launched projectile. The launching system is pneumatic; recharging the compressed air takes one minute after each shot.
 
-The rope is a maximum of 15 m long, although it can be very difficult to aim at that range. Grip strength is usually slightly boosted on the hand so it can grab onto things securely. The overall system is strong enough to pull the user up, although not to carry much extra load.
+The rope is a maximum of 15 m long, although it can be very difficult to aim at that range. Grip strength is boosted on the hand so it can grab onto things securely. The overall system is strong enough to swiftly pull the user up, although not to carry much extra load. Carrying another human/elf/dwarf is possible, but slows the winch speed down to snail's pace. Anyone as heavy as an orc or heavier will overload it.
 
-Make an Athletics roll to attempt to attach the grapple successfully.
+Make an Athletics roll to attempt to fire and attach the grapple successfully.
 {{% /pageinfo %}} 
 
 
