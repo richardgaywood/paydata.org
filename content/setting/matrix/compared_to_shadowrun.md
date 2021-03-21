@@ -16,10 +16,10 @@ These rules attempt to simplify the Shadowrun 5e Matrix rules by removing a numb
 
 ## Hacking & cybercombat
 
-* Distill all primary decker offensive actions to three kinds: *hacking* (stealthy, grants access to manipulate devices), *cybercombat* (overt, violent, crashes devices), and disruptive *denial of service attacks* (disrupts traffic to/from a device or PAN to impose penalties on people using it.)
+* Distill all primary decker offensive actions to three kinds: *hacking* (stealthy, grants access to manipulate devices), *cybercombat* (overt, violent, crashes devices), and *denial of service attacks* (disrupts traffic to/from a device or PAN to impose distraction penalties on people using it.)
 * If a device is in a PAN or WAN, it cannot be hacked directly; the attacker must hack the PAN or WAN instead (this is in Shadowrun 6e, to be fair.)
 * If a device is in a WAN, and the decker can get physical access to its internal debug ports, they can compromise it and get a big bonus to hacking the WAN host through it. Hence corps rarely put easily-accessed external devices like maglocks and cameras on WANs; instead, WANs are reserved for stuff like security guard gear and internal turrets and sensors. 
-* Secure PANs annot be hacked; they must be crashed in cybercombat.
+* Secure PANs cannot be hacked; they must be crashed in cybercombat.
 * Via a program on their cyberdeck, hackers who have infiltrated a host (in VR) can switch to AR (to move with the team) but maintain a connection to the host and still send hacking commands to devices attached to it. However, the persona they leave running in the host is more vulnerable to ICE.
 
 ## Wireless off / running silent / Matrix stealth
