@@ -4,24 +4,28 @@ linkTitle: Summoning
 type: docs
 description: Game mechanic for summoning
 date: 2020-11-18
-lastmod: 2020-12-29
+lastmod: 2021-03-22
 weight: 200
 ---
 
-Roll Summoning skill, taking a penalty according to the level of the spirit:
+Roll Summoning trait, taking a penalty according to the level of the spirit:
 
 * Servant/Watcher: no modifier to roll
 * Seasoned rank (Lesser spirit): -2 to roll (4PP)
 * Veteran rank (Common spirit): -3 to roll (6PP)
 * Heroic rank (Greater spirit): -4 to roll (8PP)
 
-Take drain on a natural 1 as usual.
+Don't forget that - per the Power Preparation rule (SWADE pg 140) - if a summoner concentrates for an entire round (taking no action, not moving, not being Shaken or Stunned), they can cancel up to 2 points of penalty to any power roll. This applies to practically all summoning done outside of combat and helps offset the penalties listed above.
 
-Spirit control is based on the concept of *favours*. Each spirit is summoned with two favours by default. Each Raise on the summoning roll adds another favour. If the mage is summoning a spirit of lesser rank than themselves (eg a Veteran mage summoning a lesser spirit), they get an extra bonus favour.
+Take drain on a natural 1, as usual.
 
-The spirit enters play, materialised on the physical plane, and can act immediately. In combat, they act on the same initiative card as their summoner. Mages can send mental commands to their summoned spirits as a free action.
+Summoned spirits last for (Spirit die type) hours and can do unlimited things for the summoner in that time. There is no concept of favours, like spirit summoning in Shadowrun. Remote services - anything that takes the spirit more than (Spirit die type)×10 metres away from its summoner - use this time period up at 10× faster rate. 
 
-Any commanded use of the spirit's powers outside of combat uses a single favour. Participation in an entire combat uses a favour. Remote service uses all remaining favours.
+A summoner can dismiss a summoned spirit as a free action.
+
+On a raise on the summoning roll, the spirit gains the Resilient power, and so it will be able to withstand an extra Wound before being disrupted. If the spirit already has the Resilient power, it is promoted to Very Resilient (two wounds) on a raise.
+
+The spirit enters the world already materialised on the physical plane and can act immediately. In combat, they act on the same initiative card as their summoner. Mages can send mental commands to their summoned spirits as a free action and they can do that immediately after summoning.
 
 By default, summoners can only have one lesser/common/greater spirit summoned at a time. This does not count as maintaining a power, so there is no ongoing penalty to the mage's rolls. They can also keep one servant/watcher summoned.
 
