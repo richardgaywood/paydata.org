@@ -103,6 +103,22 @@ Limb replacements are usually fitted to the shoulder or hip joint, replacing the
 Cyberarms can be fitted singly. Cyberlegs can be fitted singly if you want a straight replacement, but if you want to fit any additional modifications, you need a pair. It's really difficult to balance a natural leg and a amped-up cyber one for comfortable walking and running.
 {{% /pageinfo %}} 
 
+
+{{% pageinfo %}}
+### Cyberskull & cybertorso
+**Implant points: 2** \
+**Required: Seasoned, Chromed**
+
+* +1 Toughness
+* Immune to the damage bonus from called shots.
+
+Taken as a package deal, the cybertorso and skull provide extensive and invasive protection for the user's internal organs and brain. They are not full replacements, like a cyberlimb is, but they provide substantial shells that replace or reinforce bone mass and exterior tissue, as well as providing armoured internal partitions within the torso and abdomen that help keep damage localised.  
+
+Cybertorsos can be upgraded with boosted Strength, just like a cyberlimb. This increases the user's core strength, and can help the boosted strength attribute apply in more circumstances, like lifting things over their head. Cybertorsos also act as stronger anchor points for cyberlimbs than a fleshy torso can, helping to apply the strength bonus in a wider number of circumstances.
+
+Cyberskulls are always (extremely) obvious, as are torsos if you're not covering them with clothes.
+{{% /pageinfo %}} 
+
 {{% pageinfo %}}
 ### Cyberlimb boosted Strength/Agility
 **Implant points: 1**
