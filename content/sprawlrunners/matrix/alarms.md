@@ -4,7 +4,9 @@ linkTitle: Alarms
 type: docs
 description: How the authorities catch deckers
 date: 2020-11-27
+lastmod: 2021-03-25
 weight: 550
+aliases: ["sprawlrunners/deckers/alarms.md"]
 ---
 
 Alarms are a game mechanic that simulate how aware the authorities are that there is an intruder, and how close they are to finding them.
@@ -17,9 +19,9 @@ There are separate alarm clocks for each host and for different parts of the loc
 
 ## Incrementing alarms
 
-Alarms typically increment by 1 point for each successful hack (0 with a raise) and 2 points for each failed hack.
+Alarms typically increment by 1 point for each successful sleaze hack (0 with a raise) and 2 points for each failed hack.
 
-If a Raise on the hacking roll can be used to make the hack more effective, then the decker can choose to use the Raise to avoid the alarm increment or improve the hack effectiveness, but not both.
+If a Raise on the sleaze hacking roll can be used to make the hack more effective, then the decker can choose to use the Raise to avoid the alarm increment or improve the hack effectiveness, but not both.
 
 ## Alarm consequences
 

@@ -1,10 +1,12 @@
 ---
-title: Cybercombat
+title: Cybercombat hacking
 linkTitle: Cybercombat
 type: docs
 description: Disregard stealth; brick devices instead
 date: 2020-11-27
+lastmod: 2021-03-25
 weight: 500
+aliases: ["sprawlrunners/deckers/cybercombat.md"]
 ---
 
 The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, what you need is cybercombat.
@@ -12,16 +14,9 @@ The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion tec
 ## Basics of cybercombat
 
 * Attacker must have the Fighting utility loaded (or roll to improvise a replacement, as usual.)
-* Roll Hacking skill against the defender's Firewall (Matrix Parry) value, calculated as:
-	* Cyberdeck with Fighting utility: (1/2 the user's Hacking skill) + 2.
-	* Cyberdeck without Fighting utility: 2
-	* Commlink or standalone device: 2
-	* ICE: (1/2 the host rating) + 2
+* Roll Hacking skill against the defender's Firewall value.
 * Do base damage of 1d4 + Hacking skill. +1d6 if the attack roll had a Raise.
-* Compare attack damage to target Hardening, calculated as:
-	* Cyberdeck - intrinsic stat depending on 'deck rating
-	* Commlink or standalone device: 0/1/2 + (1/2 the device rating)
-	* ICE: 2 + (1/2 the host rating)
+* Compare attack damage to target Hardening.
 
 Calculate Shaken and Wounds as usual.
 
@@ -37,12 +32,10 @@ A commlink or other device that is Shaken is put into a crashed state. Starting 
 
 If the device takes a Wound (via a raise on the attack roll) then they are bricked. They do not function again until repaired.
 
-If the commlink that is running a PAN is Shaken, every device on the PAN is Shaken (and hence unusable) with it, until the commlink comes back. If it is crashed, every device on the PAN is Shaken. They can roll to unshake as usual (just roll once for all of them), but will come back as standalone devices, without the protection of the PAN.
+If the commlink that is running a PAN becomes Shaken, every device on the PAN is Shaken (and hence unusable) with it, until the commlink comes back. If it is crashed, every device on the PAN is Shaken. They can roll to unshake as usual (just roll once for all of them), but will come back as unattended devices, without the protection of the PAN.
 
 ## Consequences of crashing things
 
 **Smartweapons** and similar gear that are Shaken can still be fired, as they have manual fallback controls, but they lose any bonuses they normally get from their electronics eg. smartgun bonuses. Note that it might be more effective for offensive deckers to use a [DoS attack]({{< relref "combat_decking.md#denial-of-service-attacks" >}}) instead.
 
-All cyberware is controlled via direct neural shunts to the user's wetware, so crashing the cyberware's Matrix component only inhibits small parts of its functionality; it doesn't brick it entirely. You cannot render someone's cyberlimb or wired reflexes completely inert via a cybercombat attack, although you can impede their use with a DoS attack. A few pieces of cyberware do inherently relies on Matrix connectivity to work - like implanted commlinks - and they can be crashed via cybercombat, however. 
-
-Similarly, if you disrupt the Matrix component of a **vehicle**, then the autopilot and navigation is disrupted, but the occupants can still use manual controls to drive it. If they don't, then a backup failsafe will attempt to bring it to a safe halt.
+All cyberware is controlled via direct neural shunts to the user's wetware, so crashing the cyberware's Matrix component only inhibits minor parts of its functionality; it doesn't brick it entirely. You cannot render someone's cyberlimb or wired reflexes completely inert via a cybercombat attack, although you can impede their use with a DoS attack. A few pieces of cyberware do inherently rely on Matrix connectivity to work - like implanted commlinks - and they can be crashed via cybercombat, however. 

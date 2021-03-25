@@ -4,7 +4,9 @@ linkTitle: Combat decking
 type: docs
 description: How the decker can help in combat
 date: 2021-01-16
+lastmod: 2021-03-25
 weight: 525
+aliases: ["sprawlrunners/deckers/combat_decking.md"]
 ---
 
 The rise of wireless hacking has made the decker much more useful and powerful on the modern battlefield. Deckers are now key parts of combat squads, performing counter-hacking, defening against attacking deckers, hiding their team from sight on the Matrix, and running denial-of-service attacks against opposing forces.
@@ -28,9 +30,9 @@ As a general rule, you cannot hide on the matrix. Any smart devices - and this i
 
 There is an exception, however. A decker or rigger running an s-PAN from their 'deck can 'hide' it by minimising traffic and disguising the devices within it as innocuous ones. 
 
-The 'deck must be running the Stealth utility. Hiding an s-PAN is also an active, ongoing action that requires quite a bit of attention from the decker or rigger at all times; about half their time, out of combat, and one action per turn, in combat. 
+The 'deck must be running the Stealth utility. Hiding an s-PAN is also an active, ongoing action that requires quite a bit of attention from the decker or rigger at all times. Out of combat, this takes about half their time. In combat, it takes one action per turn (so they will incur a multi-action penalty if they also wish to act.)
 
-To attempt a successful sneak, roll Hacking (Stealth) against a target number of 4 (if no-one is actively looking for the s-PAN) or opposed by Smarts (if people are hunting for it.) This test will need to be repeated
+To attempt a successful sneak, roll Hacking against a target number of 4 (if no-one is actively looking for the s-PAN) or opposed by Smarts (if people are hunting for it.) This test will need to be repeated every so often as the situation changes.
 
 While an s-PAN is in hidden mode, all traffic between devices is cut to the bone. It can only be used for voice and text comms; streaming video is capped to low-resolution, riggers cannot Jump In, and most electronic items are only semi-functional (eg. no smartlink or tacnet bonuses.) 
 
@@ -50,13 +52,13 @@ If anyone on the tacnet has a Battle skill of d8 or more, the tacnet itself also
 
 All of these benefits are lost if the s-PAN is crashed. This makes s-PANs a priority target for Matrix attack during combat - and the deckers priority targets for physical attack.
 
-When the NPCs are using a tacnet, they get an extra Bennie to spend. If the PCs can crash it, the GM loses **two** Bennies immediately.
+When NPC Extras are using a tacnet, the GM gets an extra Bennie to spend. If the PCs crash the tacnet, the GM loses **two** Bennies immediately.
 
 
 ## Maintaining access to a hacked node from AR
 
 Suppose a decker has hacked into a building facility's security node in VR and now wish to move with the team while maintaining that access.
 
-They can do so via a new utility called **KeepAlive**. This allows the decker to switch to AR while keeping their matrix presence active. They can carry out actions against whichever node they are in as if they were still in VR, although they cannot move to other nodes without logging back in.
+They can do so via a new utility called **KeepAlive**. This allows the decker to switch to AR while keeping their matrix persona active in the node. They can carry out actions against whichever node they are in as if they were still in VR, although they cannot move to other nodes without logging back in.
 
-The decker has to keep KeepAlive in their deck's memory to maintain the access. In addition, while running KeepAlive, the decker cannot act promptly to defend themselves; all ICE take +2 on all rolls against the decker.
+The decker has to keep KeepAlive in their deck's memory to maintain the access. In addition, while running KeepAlive, the decker cannot act promptly to defend themselves; all ICE take +2 on all rolls against the decker's persona.
