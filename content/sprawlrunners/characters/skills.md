@@ -78,7 +78,7 @@ When repairing or modifying electronics, use the lowest of the characters' Repai
 
 See also Common Knowledge, above.
 
-*  **Language** (Smarts): Knowledge and fluency in a particular language. 
+*  **Language** (Smarts): Knowledge and fluency in a particular language. [Special rules apply for language skills]({{< relref "languages.md" >}}).
 *  **Arcana** (Smarts): Knowledge of magical theory, supernatural events, creatures, history, and ways. (Renamed version of "Occult" in core SWADE.)
 *  **Corps** (Smarts): Knowledge of corporate structures, management theories, economics, accounting, the law. Knowledge of specific corps and their areas of expertise and specialities. 
 *  **Research** (Smarts): Finding written information from various sources. Used for Matrix searches.

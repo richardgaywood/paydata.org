@@ -2,7 +2,7 @@
 title: Languages 
 linkTitle: Languages
 type: docs     
-weight: 700 
+weight: 550 
 description: Houserules for spoken languages in the Sprawl 
 date: 2021-04-02
 --- 
@@ -61,6 +61,7 @@ Two ancient languages have returned to the world with the Awakening:
 
 * [Sperethiel (elvish)](https://shadowrun.fandom.com/wiki/Sperethiel) - the official language of the Tir nations, the Ancients gang, and some Native American tribes.
 * [Or'zet (orkish)](https://shadowrun.fandom.com/wiki/Or%27zet) - used in the Ork Underground and ork/troll gangs.
+* Rumours abound that the dragons speak their own, ancient, unknown languages.
 
 ### Sprawlspeak
 
@@ -70,4 +71,4 @@ In Seattle, the local dialect of sprawlspeak is about half English, with the oth
 
 Over time, linguistic scholars are watching with interest to see if sprawlspeak continues to develop and become a [creole](https://en.m.wikipedia.org/wiki/Creole_language).
 
-Sprawlspeak is an awkward language, although it is becoming more sophisticated over time. It can only ever be taken to Partial level. There is no such thing as Fluency in sprawlspeak. Therefore, characters planning a social manipulator role would be well-advised to consider taking multiple language skills, so they can converse with their targets in their native tongue.
+Sprawlspeak is still an awkward, halting language, although it is becoming more sophisticated and fluid over time. It can only ever be learned to Partial level. There is no such thing as Fluency in sprawlspeak. Therefore, characters planning a social manipulator role would be well-advised to consider taking multiple language skills, so they can converse with their targets in their native tongue.
