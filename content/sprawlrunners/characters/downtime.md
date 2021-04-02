@@ -2,7 +2,7 @@
 title: Downtime Actions
 linkTitle: Downtime
 type: docs     
-weight: 1500 
+weight: 2000 
 description: Things to do between crime sprees 
 date: 2020-12-06
 lastmod: 2021-03-20
