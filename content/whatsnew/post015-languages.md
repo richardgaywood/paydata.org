@@ -1,7 +1,6 @@
-
 ---
 title: Languages
-date: 2021-04-02T09:45:00.000Z
+date: 2021-04-02T08:00:00.000Z
 ---
 Added some houserules and setting information for [languages and multi-lingual characters]({{< relref "languages.md" >}}).
 
