@@ -1,0 +1,807 @@
+<div class="swade-core">
+  <div class="section-header">
+    <h1>Edges</h1>
+  </div>
+  <div>
+    <p>Below is a list of Edges common to most settings. You&rsquo;ll find new Edges designed for your game world in official <em>Savage Worlds</em> books as well.</p>
+    <p>The Edges are grouped by type to help during character creation. You&rsquo;ll find a summary below.</p>
+    <p>Unless an Edge specifically says otherwise, it may only be selected once.</p>
+    <p><strong class="red-text">Requirements:</strong> Below each Edge is the minimum Rank (see @Compendium[swade-core-rules.swade-rules.Advancement]{Advancement}) required to take it along with any other prerequisites such as attributes, skills, or other Edges.</p>
+  </div>
+  <figure class="figure table-figure">
+    <figcaption class="figure-heading">Edge Summaries</figcaption>
+
+
+
+<!-- BACKGROUND --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Background Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Alertness]{Alertness}</td>
+          <td>N</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Notice]{Notice} Rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Ambidextrous]{Ambidextrous}</td>
+          <td>N, A d8</td>
+          <td>Ignore &ndash;2 penalty when making @Compendium[swade-core-rules.swade-rules.Traits]{Trait} rolls with off-hand.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Arcane Resistance]{Arcane Resistance}</td>
+          <td>N, Sp d8</td>
+          <td>Arcane skills targeting the hero suffer a &minus;2 penalty (even if cast by allies!); magical damage is reduced by 2.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Arcane Resistance]{Improved Arcane Resistance}</td>
+          <td>N, Arcane Resistance</td>
+          <td>As Arcane Resistance except penalty is increased to &minus;4 and magical damage is reduced by 4.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Aristocrat]{Aristocrat}</td>
+          <td>N</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Common Knowledge]{Common Knowledge} and networking with upper class.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Attractive]{Attractive}</td>
+          <td>N, V, d6</td>
+          <td>+1 to @Compendium[swade-core-rules.swade-skills.Performance]{Performance} and @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Berserk]{Berserk}</td>
+          <td>N</td>
+          <td>After being @Compendium[swade-core-rules.swade-rules.Damage Effects]{Shaken or Wounded}, melee attacks must be@Compendium[swade-core-rules.swade-rules.Wild Attack]{Wild Attacks}, +1 die type to @Compendium[swade-core-rules.swade-rules.Traits]{Strength}, +2 to @Compendium[swade-core-rules.swade-rules.Characters]{Toughness}, ignore one level of @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wound penalties}, @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} on @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} roll hits random target. Take @Compendium[swade-core-rules.swade-rules.Fatigue]{Fatigue} after every five consecutive rounds, may choose to end rage with @Compendium[swade-core-rules.swade-rules.Traits]{Smarts} roll &ndash;2.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Brave]{Brave}</td>
+          <td>N, Sp d6</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-rules.Fear]{Fear} checks and &ndash;2 to rolls on the @Compendium[swade-core-rules.swade-macros.Fear Table]{Fear Table}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Brawny]{Brawny}</td>
+          <td>N, St d6, V d6</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Size and Scale]{Size} (and therefore @Compendium[swade-core-rules.swade-rules.Characters]{Toughness}) +1. Treat @Compendium[swade-core-rules.swade-rules.Characters]{Strength} as one die type higher for @Compendium[swade-core-rules.swade-rules.Gear Notes]{Encumbrance} and Minimum Strength to use weapons, armor, or equipment.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Brute]{Brute}</td>
+          <td>N. St d6, V d6</td>
+          <td>Link @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} to @Compendium[swade-core-rules.swade-rules.Characters]{Strength} instead of @Compendium[swade-core-rules.swade-rules.Characters]{Agility} (including resistance). Short @Compendium[swade-core-rules.swade-rules.Range]{Range} of any thrown item increased by +1. Double that for the adjusted Medium Range, and double again for Long Range.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Charismatic]{Charismatic}</td>
+          <td>N, Sp d8</td>
+          <td>Free reroll when using @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Elan]{Elan}</td>
+          <td>N, Sp d8</td>
+          <td>+2 when spending a @Compendium[swade-core-rules.swade-rules.Bennies]{Benny} to reroll a @Compendium[swade-core-rules.swade-rules.Traits]{Trait} roll.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Fame]{Fame}</td>
+          <td>N</td>
+          <td>+1 Persuasion rolls when recognized (Common Knowledge), double usual fee for Performance.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Famous]{Famous}</td>
+          <td>S, Fame</td>
+          <td>+2&nbsp; @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} when recognized, 5&times; or more usual fee for @Compendium[swade-core-rules.swade-skills.Performance]{Performance}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Fast Healer]{Fast Healer}</td>
+          <td>N, Vd8</td>
+          <td>+2 @Compendium[swade-core-rules.swade-skills.Performance]{Vigor} when rolling for @Compendium[swade-core-rules.swade-rules.Healing]{natural healing}; check every 3 days.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Fleet-Footed]{Fleet-Footed}</td>
+          <td>N, A d6</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Movement]{Pace} +2, increase running die one step.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Linguist]{Linguist}</td>
+          <td>N, Sm d6</td>
+          <td>Character has d6 in languages equal to half her @Compendium[swade-core-rules.swade-rules.Characters]{Smarts} die.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Luck]{Luck}</td>
+          <td>N</td>
+          <td>+1 @Compendium[swade-core-rules.swade-rules.Bennies]{Benny} at the start of each session.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Great Luck]{Great Luck}</td>
+          <td>N, Luck</td>
+          <td>+2 @Compendium[swade-core-rules.swade-rules.Bennies]{Bennies} at the start of each session.</td>
+        </tr>
+        <tr>
+          <td><em>Quick</em></td>
+          <td>&mdash;</td>
+          <td><em>See Adrenal Pump, under Bioware, below.</em></td>
+        </tr>
+<tr>
+<td><a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawlrunner-edges" data-id="qGG1OOBy0GU0kJUd"> Rich</a></td>
+<td>N</td>
+<td>Character has +5 <a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawl-rules" data-id="t17yIXB2vKZ3KFc6"> Logistic Points</a>, a Middle Class <a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawl-rules" data-id="XO4qgTE2780PRzLS"> Lifestyle</a>, and gains one step to their default <a class="entity-link" draggable="true" data-pack="swade-core-rules.swade-rules" data-id="4PFjTqMyVlGy2AmV"> Wealth Die</a>. <em>[SpR]</em></td>
+</tr>
+<tr>
+<td class="improved-edge"><a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawlrunner-edges" data-id="7GfeQIX4r6lwTpCM"> Filthy Rich</a></td>
+<td>N, Rich</td>
+<td>In total, the character now has +10 <a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawl-rules" data-id="t17yIXB2vKZ3KFc6"> Logistic Points</a>, an Upper Class <a class="entity-link" draggable="true" data-pack="sprawl-core-rules.sprawl-rules" data-id="XO4qgTE2780PRzLS"> Lifestyle</a>, and gains two steps to their default <a class="entity-link" draggable="true" data-pack="swade-core-rules.swade-rules" data-id="4PFjTqMyVlGy2AmV"> Wealth Die</a>. <em>[SpR]</em></td>
+</tr>
+
+      </tbody>
+    </table>
+
+
+
+<!-- COMBAT --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Combat Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Block]{Block}</td>
+          <td>S, Fighting d8</td>
+          <td>+1 @Compendium[swade-core-rules.swade-rules.Characters]{Parry}, ignore 1 point of @Compendium[swade-core-rules.swade-rules.Ganging Up]{Gang Up} bonus.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Block]{Improved Block}</td>
+          <td>V, Block</td>
+          <td>+2 @Compendium[swade-core-rules.swade-rules.Characters]{Parry}, ignore 2 points of @Compendium[swade-core-rules.swade-rules.Ganging Up]{Gang Up} bonus.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Brawler]{Brawler}</td>
+          <td>N, St d8, V d8</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Characters]{Toughness} +1, add d4 to damage from fists; or increase it a die type if combined with @Compendium[swade-core-rules.swade-edges.Martial Artist]{Martial Artist}, @Compendium[swade-core-rules.swade-rules.Special Ability (Claws)]{Claws}, or similar abilities.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Bruiser]{Bruiser}</td>
+          <td>S, Brawler</td>
+          <td>Increase unarmed @Compendium[swade-core-rules.swade-rules.Traits]{Strength} damage a die type and @Compendium[swade-core-rules.swade-rules.Characters]{Toughness} another +1.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Calculating]{Calculating}</td>
+          <td>N, St d8, V d8</td>
+          <td>Ignore up to 2 points of penalties on one action with an @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Card)} of Five or less.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Combat Reflexes]{Combat Reflexes}</td>
+          <td>S</td>
+          <td>+2 @Compendium[swade-core-rules.swade-rules.Traits]{Spirit} to recover from being @Compendium[swade-core-rules.swade-rules.Damage Effects]{Shaken} or @Compendium[swade-core-rules.swade-rules.Stunned]{Stunned}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Counterattack]{Counterattack}</td>
+          <td>S, Fighting d8</td>
+          <td>Free @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} attack against one foe per round who failed a&nbsp; roll.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Counterattack]{Improved Counterattack}</td>
+          <td>V, Counterattack</td>
+          <td>As Counterattack, but against three failed attacks per round.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Dead Shot]{Dead Shot}</td>
+          <td>WC, N, Athletics or Shooting d8</td>
+          <td>First successful@Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} (Thorwing) or @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll, double damage from when dealt a Joker.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Dodge]{Dodge}</td>
+          <td>S, A d8</td>
+          <td>&minus;2 to be hit by @Compendium[swade-core-rules.swade-rules.Attacks]{ranged attacks}.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Dodge]{Improved Dodge}</td>
+          <td>S, Dodge</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-rules.Evasion]{Evasion} totals.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Double Tap]{Double Tap}</td>
+          <td>S, Shooting d6</td>
+          <td>+1 to hit and damage when firing no more than @Compendium[swade-core-rules.swade-rules.Rate of Fire]{RoF 1} per action.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Extraction]{Extraction}</td>
+          <td>N, A d8</td>
+          <td>One adjacent foe doesn&rsquo;t get a free attack when you @Compendium[swade-core-rules.swade-rules.Withdrawing From Melee]{withdraw from close combat}.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Extraction]{Improved Extraction}</td>
+          <td>S, Extraction</td>
+          <td>Three adjacent foes don&rsquo;t get free attacks when you @Compendium[swade-core-rules.swade-rules.Withdrawing From Melee]{withdraw from close combat.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Feint]{Feint}</td>
+          <td>N, Fighting d8</td>
+          <td>You may choose to make foe resist with @Compendium[swade-core-rules.swade-rules.Traits]{Smarts Instead of Agility} during a @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Fighting Test}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.First Strike]{First Strike}</td>
+          <td>N, A d8</td>
+          <td>Free @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} attack once per round when foe moves within @Compendium[swade-core-rules.swade-rules.Reach]{Reach}.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved First Strike]{Improved First Strike}</td>
+          <td>H, First Strike</td>
+          <td>Free @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} attack against up to three foes when they move within @Compendium[swade-core-rules.swade-rules.Reach]{Reach}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Free Runner]{Free Runner}</td>
+          <td>N, A d8</td>
+          <td>Ignore @Compendium[swade-core-rules.swade-rules.Movement]{Difficult Ground} and add +2 to @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} in foot @Compendium[swade-core-rules.swade-rules.Chases and Vehicles]{chases} and @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} (climbing).</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Frenzy]{Frenzy}</td>
+          <td>S, Fighting d8</td>
+          <td>Roll a second @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} die with one melee attack per turn.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Frenzy]{Improved Frenzy}</td>
+          <td>V, Frenzy</td>
+          <td>Roll a second @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} die with up to two melee attacks per turn.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Giant Killer]{Giant Killer}</td>
+          <td>V</td>
+          <td>+1d6 damage vs. creatures three @Compendium[swade-core-rules.swade-rules.Size and Scale]{Sizes} larger or more.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Hard To Kill]{Hard To Kill}</td>
+          <td>N, Sp d8</td>
+          <td>Ignore @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wound penalties} when making @Compendium[swade-core-rules.swade-rules.Traits]{Vigor} rolls to avoid @Compendium[swade-core-rules.swade-rules.Damage Effects]{Bleeding Out}.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Harder To Kill]{Harder To Kill}</td>
+          <td>V, Hard to Kill</td>
+          <td>Roll a die if the character perishes. Even if he&rsquo;s @Compendium[swade-core-rules.swade-rules.Damage Effects]{Incapacitated}, he survives somehow.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Improvisational Fighter]{Improvisational Fighter}</td>
+          <td>S, Sm d6</td>
+          <td>Ignore &ndash;2 penalty when attacking with @Compendium[swade-core-rules.swade-rules.Improvised Weapons]{Improvised Weapons}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Iron Jaw]{Iron Jaw}</td>
+          <td>N, V d8</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-rules.Soak Rolls]{Soak Rolls} and&nbsp; @Compendium[swade-core-rules.swade-rules.Characters]{Vigor} rolls to avoid @Compendium[swade-core-rules.swade-rules.The Drop]{Knockout Blows}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Killer Instinct]{Killer Instinct}</td>
+          <td>S</td>
+          <td>The hero gets a free reroll in any opposed @Compendium[swade-core-rules.swade-rules.Test]{Test} he initiates.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Level Headed]{Level Headed}</td>
+          <td>S, Sm d8</td>
+          <td>Draw an additional @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Card} each round in combat and choose which one to use.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Level Headed]{Improved Level Headed}</td>
+          <td>S, Level Headed</td>
+          <td>Draw two additional @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Cards} each round in combat and choose which one to use.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Marksman]{Marksman}</td>
+          <td>S, Athletics or Shooting d8</td>
+          <td>Ignore up to 2 points of penalties from @Compendium[swade-core-rules.swade-rules.Range]{Range},@Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{Cover}, @Compendium[swade-core-rules.swade-rules.Called Shots]{Called Shots}, @Compendium[swade-core-rules.swade-rules.Size and Scale]{Scale}, or @Compendium[swade-core-rules.swade-rules.Speed]{Speed}; or add +1 to first @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} (Throwing) or @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll. Character may not move or fire greater than @Compendium[swade-core-rules.swade-rules.Rate of Fire]{RoF 1}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Martial Artist]{Martial Artist}</td>
+          <td>N, Fighting d6</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Unarmed Defender]{Unarmed Fighting} +1, fists and feet count as @Compendium[swade-core-rules.swade-rules.Natural Weapons]{Natural Weapons}, add d4 damage die to unarmed @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} attacks (or increase die a step if you already have it).</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Martial Warrior]{Martial Warrior}</td>
+          <td>S, Martial Artist</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Unarmed Defender]{Unarmed Fighting} +2, increase damage die type a step.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Mighty Blow]{Mighty Blow}</td>
+          <td>WC, N, Fighting d8</td>
+          <td>On first successful @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} roll, double damage when dealt a Joker.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Nerves of Steel]{Nerves of Steel}</td>
+          <td>N, V d8</td>
+          <td>Ignore one level of @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wound Penalties} penalties.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Nerves of Steel]{Improved Nerves of Steel}</td>
+          <td>N, Nerves of Steel</td>
+          <td>Ignore up to two levels of @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wound Penalties} penalties.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.No Mercy]{No Mercy}</td>
+          <td>S</td>
+          <td>+2 damage when spending a @Compendium[swade-core-rules.swade-rules.Bennies]{Benny} to reroll damage.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Rapid Fire]{Rapid Fire}</td>
+          <td>S, Shooting d6</td>
+          <td>Increase @Compendium[swade-core-rules.swade-rules.Rate of Fire]{RoF} by 1 for one @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} attack per turn.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Rapid Fire]{Improved Rapid Fire}</td>
+          <td>V, Rapid Fire</td>
+          <td>Increase @Compendium[swade-core-rules.swade-rules.Rate of Fire]{RoF} by 1 for up to two @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} attacks per turn.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Rock and Roll!]{Rock and Roll!}</td>
+          <td>S, Shooting d8</td>
+          <td>Ignore the @Compendium[swade-core-rules.swade-rules.Recoil]{Recoil} penalty when firing weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{RoF} of 2 or more. Character may not move.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Steady Hands]{Steady Hands}</td>
+          <td>N, A d8</td>
+          <td>Ignore @Compendium[swade-core-rules.swade-rules.Unstable Platform]{Unstable Platform} penalty; reduce running penalty to &ndash;1.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Sweep]{Sweep}</td>
+          <td>N, St d8, Fighting d8</td>
+          <td>@Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} roll at &ndash;2 to hit all targets in weapon&rsquo;s @Compendium[swade-core-rules.swade-rules.Reach]{Reach}, no more than once per turn.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Sweep]{Improved Sweep}</td>
+          <td>V, Sweep</td>
+          <td>As above, but ignore the &ndash;2 penalty.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Trademark Weapon]{Trademark Weapon}</td>
+          <td>N, d8 in related skill</td>
+          <td>+1 to @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} (Throwing), @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} or @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} total with a specific weapon; +1 @Compendium[swade-core-rules.swade-rules.Characters]{Parry} while weapon is readied.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Improved Trademark Weapon]{Improved Trademark Weapon}</td>
+          <td>S, Trademark Weapon</td>
+          <td>The attack and @Compendium[swade-core-rules.swade-rules.Characters]{Parry} bonus increases to +2.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Two-Fisted]{Two-Fisted}</td>
+          <td>N, A d8</td>
+          <td>Make one extra @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} roll with a second melee weapon in the off-hand at no Multi-Action penalty.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Two-Gun Kid]{Two-Gun Kid}</td>
+          <td>N, A d8</td>
+          <td>Make one extra @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} (Throwing) or@Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll with a second ranged weapon in the @Compendium[swade-core-rules.swade-rules.Off-Hand Attacks]{Off-Hand} at no @Compendium[swade-core-rules.swade-rules.Multi-Actions]{Multi-Action} penalty.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+
+<!-- BIOWARE --> 
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Bioware Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[world.edges-houseruled-and-modified.Adrenal pump]</td>
+          <td>N, A d8</td>
+          <td>The hero may discard and redraw @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Cards} of 5 or lower. <em>[houserule; was Quick]</em></td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+
+<!-- LEADERSHIP --> 
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Leadership Edges</h2>
+        <h3>(Command Range is 5" or 10 Yards)</h3>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Command]{Command}</td>
+          <td>N, Sm d6</td>
+          <td>+1 to @Compendium[swade-core-rules.swade-rules.Wild Cards and Extras]{Extras'} @Compendium[swade-core-rules.swade-rules.Damage Effects]{Shaken} or @Compendium[swade-core-rules.swade-rules.Stunned]{Stunned} recovery rolls.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Command Presence]{Command Presence}</td>
+          <td>S, Command</td>
+          <td>Increase Command Range to 10&Prime; (20 yards)</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Fervor]{Fervor}</td>
+          <td>V, Sp d8, Command</td>
+          <td>Extras in range add +1 to their @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} damage rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Hold the Line!]{Hold the Line!}</td>
+          <td>S, Sm d8, Command</td>
+          <td>+1 to&nbsp; @Compendium[swade-core-rules.swade-rules.Wild Cards and Extras]{Extras'} @Compendium[swade-core-rules.swade-rules.Characters]{Toughness} in Command Range.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Inspire]{Inspire}</td>
+          <td>S, Command</td>
+          <td>Once per turn, the hero may roll his @Compendium[swade-core-rules.swade-skills.Battle]{Battle} skill to @Compendium[swade-core-rules.swade-rules.Support]{Support} one type of Trait roll, and apply it to everyone in Command Range.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Natural Leader]{Natural Leader}</td>
+          <td>S, Sp d8, Command</td>
+          <td>Leadership Edges now apply to @Compendium[swade-core-rules.swade-rules.Wild Cards and Extras]{Wild Cards}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Tactician]{Tactician}</td>
+          <td>S, Sm d8, Command, Battle d6</td>
+          <td>Draw an extra @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Card} each turn that may be assigned to any allied @Compendium[swade-core-rules.swade-rules.Wild Cards and Extras]{Extras} in Command Range.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Master Tactician]{Master Tactician}</td>
+          <td>V, Tactician</td>
+          <td>Draw and distribute two extra @Compendium[swade-core-rules.swade-rules.Action Cards (Initiative)]{Action Cards} instead of one.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+<!-- POWER --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Power Edges</h2>
+        <h3>("AB" is Arcane Background)</h3>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.New Powers]{New Powers}</td>
+          <td>N, AB</td>
+          <td>Your character knows two new powers.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+<!-- PROFESSIONAL --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Professional Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header">Edge</th>
+          <th class="table-column-header">Requirements</th>
+          <th class="table-column-header">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Ace]{Ace}</td>
+          <td>N, A d8</td>
+          <td>Character may spend @Compendium[swade-core-rules.swade-rules.Bennies]{Bennies} to @Compendium[swade-core-rules.swade-rules.Soak Rolls]{Soak} damage for his vehicle and ignores up to 2 points of penalties.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Acrobat]{Acrobat}</td>
+          <td>N, A d8, Athletics d8</td>
+          <td>Free reroll on acrobatic @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} attempts.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Combat Acrobat]{Combat Acrobat}</td>
+          <td>S, Acrobat</td>
+          <td>&minus;1 to hit with @Compendium[swade-core-rules.swade-rules.Attacks]{ranged and melee attacks}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Assassin]{Assassin}</td>
+          <td>N, A d8, Fighting d6, Stealth d8</td>
+          <td>+2 to damage foes when @Compendium[swade-core-rules.swade-rules.Distracted and Vulnerable]{Vulnerable} or assassin has @Compendium[swade-core-rules.swade-rules.The Drop]{The Drop}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Investigator]{Investigator}</td>
+          <td>N, Sm d8, Research d8</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Research]{Research} and certain types of @Compendium[swade-core-rules.swade-skills.Notice]{Notice} rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Jack-Of-All-Trades]{Jack-Of-All-Trades}</td>
+          <td>N, Sm d10</td>
+          <td>Gain d4 in a skill (or d6 with a raise) until replaced.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Mcgyver]{Mcgyver}</td>
+          <td>N, Sm d6, Repair d6, Notice d8</td>
+          <td>Quickly create improvised devices from scraps.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Mr Fix It]{Mr. Fix It}</td>
+          <td>N, Repair d8</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Repair]{Repair} rolls, half the time required with a raise.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Scholar]{Scholar}</td>
+          <td>N, Research d8</td>
+          <td>+2 to any one &ldquo;knowledge&rdquo; skill.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Soldier]{Soldier}</td>
+          <td>N, S d6, V d6</td>
+          <td>Strength is one die type higher for @Compendium[swade-core-rules.swade-rules.Gear Notes]{Encumbrance} and @Compendium[swade-core-rules.swade-rules.Minimum Strength]{Min Str}. Reroll @Compendium[swade-core-rules.swade-rules.Traits]{Vigor} rolls when resisting environmental @Compendium[swade-core-rules.swade-rules.Hazards]{Hazards}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Thief]{Thief}</td>
+          <td>N, A d8, Stealth&nbsp;d6, Thievery d6</td>
+          <td>+1 @Compendium[swade-core-rules.swade-skills.Thievery]{Thievery}, @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} rolls made to climb, @Compendium[swade-core-rules.swade-skills.Stealth]{Stealth} in urban environments.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Woodsman]{Woodsman}</td>
+          <td>N, Sp d6, Survival d8</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Survival]{Survival} and @Compendium[swade-core-rules.swade-skills.Stealth]{Stealth} in the wilds.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+<!-- SOCIAL --> 
+
+
+
+  
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Social Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header" scope="col">Edge</th>
+          <th class="table-column-header" scope="col">Requirements</th>
+          <th class="table-column-header" scope="col">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Bolster]{Bolster}</td>
+          <td>N, Sp d8</td>
+          <td>May remove @Compendium[swade-core-rules.swade-rules.Distracted and Vulnerable]{Distracted or Vulnerable} state after a @Compendium[swade-core-rules.swade-rules.Test]{Test}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Common Bond]{Common Bond}</td>
+          <td>WC, N, Sp d8</td>
+          <td>The hero may freely give her @Compendium[swade-core-rules.swade-rules.Bennies]{Bennies} to others.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Connections]{Connections}</td>
+          <td>N</td>
+          <td>Contacts provide aid or other favors once per session.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Humiliate]{Humiliate}</td>
+          <td>N, Taunt d8</td>
+          <td>Free reroll when making @Compendium[swade-core-rules.swade-skills.Taunt]{Taunt} rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Menacing]{Menacing}</td>
+          <td>N, See Text</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Provoke]{Provoke}</td>
+          <td>N, Taunt d6</td>
+          <td>May &ldquo;provoke&rdquo; foes with a raise on a @Compendium[swade-core-rules.swade-skills.Taunt]{Taunt} roll. See text.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Rabble-Rouser]{Rabble-Rouser}</td>
+          <td>S, Spirit d8</td>
+          <td>Once per turn, affect all foes in a Medium Blast Template with an @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation} or @Compendium[swade-core-rules.swade-skills.Taunt]{Taunt} @Compendium[swade-core-rules.swade-rules.Test]{Test}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Reliable]{Reliable}</td>
+          <td>N, Sp d8</td>
+          <td>Free reroll when making @Compendium[swade-core-rules.swade-rules.Support]{Support} rolls.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Retort]{Retort}</td>
+          <td>N, Taunt d6</td>
+          <td>A raise when resisting a @Compendium[swade-core-rules.swade-skills.Taunt]{Taunt} or @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation} attack makes the foe @Compendium[swade-core-rules.swade-rules.Distracted and Vulnerable]{Distracted}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Streetwise]{Streetwise}</td>
+          <td>N, Sm d6</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Common Knowledge]{Common Knowledge} and criminal networking.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Strong Willed]{Strong Willed}</td>
+          <td>N, Sp d8</td>
+          <td>+2 to resist @Compendium[swade-core-rules.swade-rules.Traits]{Smarts or Spirit}-based @Compendium[swade-core-rules.swade-rules.Test]{Tests}.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Iron Will]{Iron Will}</td>
+          <td>S, Brave, Strong Willed</td>
+          <td>The bonus now applies to resisting and recovery from powers.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Work The Room]{Work The Room}</td>
+          <td>N, Sp d8</td>
+          <td>Once per turn, roll a second die when @Compendium[swade-core-rules.swade-rules.Support]{Supporting} via @Compendium[swade-core-rules.swade-skills.Performance]{Performance} or @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} and apply result to additional ally.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Work the Crowd]{Work the Crowd}</td>
+          <td>S, Work the Room</td>
+          <td>As above, but up to twice per turn.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+<!-- WEIRD --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Weird Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header" scope="col">Edge</th>
+          <th class="table-column-header" scope="col">Requirements</th>
+          <th class="table-column-header" scope="col">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Beast Bond]{Beast Bond}</td>
+          <td>N</td>
+          <td>The hero may spend @Compendium[swade-core-rules.swade-rules.Bennies]{Bennies} for animals under her control.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Beast Master]{Beast Master}</td>
+          <td>N, Sp d8</td>
+          <td>Animals like your hero and he has a pet of some sort. See text.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Champion]{Champion}</td>
+          <td>N, Sp d8, Fighting d6</td>
+          <td>+2 damage vs. supernaturally evil creatures.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Chi]{Chi}</td>
+          <td>V, Martial Warrior</td>
+          <td>Once per combat, reroll failed attack, make enemy reroll successful attack, or add +d6 to unarmed @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} attack.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Danger Sense]{Danger Sense}</td>
+          <td>N</td>
+          <td>@Compendium[swade-core-rules.swade-skills.Notice]{Notice} roll at +2 to sense ambushes or similar events.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Healer]{Healer}</td>
+          <td>N, Sp d8</td>
+          <td>+2 to @Compendium[swade-core-rules.swade-skills.Healing]{Healing} rolls, magical or otherwise.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Liquid Courage]{Liquid Courage}</td>
+          <td>N, V d8</td>
+          <td>Alcohol increases @Compendium[swade-core-rules.swade-rules.Traits]{Vigor} a die type and ignores one level of @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wound penalties}; &ndash;1 to @Compendium[swade-core-rules.swade-rules.Traits]{Agility, Smarts}, and related skills.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Scavenger]{Scavenger}</td>
+          <td>N, Luck</td>
+          <td>May find a needed item once per encounter.</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+<!-- LEGENDARY --> 
+
+
+
+    <table class="table summary-table">
+      <caption class="table-caption">
+        <h2 class="table-title">Legendary Edges</h2>
+      </caption>
+      <thead>
+        <tr class="table-header-row">
+          <th class="table-column-header" scope="col">Edge</th>
+          <th class="table-column-header" scope="col">Requirements</th>
+          <th class="table-column-header" scope="col">Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Followers]{Followers}</td>
+          <td>WC, L</td>
+          <td>The hero has five followers.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Professional]{Professional}</td>
+          <td>L, Max Trait</td>
+          <td>The character&rsquo;s @Compendium[swade-core-rules.swade-rules.Traits]{Trait} and its limit increases one step.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Expert]{Expert}</td>
+          <td>L, Professional in Trait</td>
+          <td>The character&rsquo;s @Compendium[swade-core-rules.swade-rules.Traits]{Trait} and its limit increases one step.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Master]{Master}</td>
+          <td>WC, L, Expert in Trait</td>
+          <td>The character&rsquo;s @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Wild Die} is a d10 with a chosen @Compendium[swade-core-rules.swade-rules.Traits]{Trait}.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Sidekick]{Sidekick}</td>
+          <td>WC, L</td>
+          <td>The character gains a @Compendium[swade-core-rules.swade-rules.Wild Cards and Extras]{Wild Card} sidekick.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Tough As Nails]{Tough As Nails}</td>
+          <td>L, V d8</td>
+          <td>The hero can take four @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wounds} before being Incapacitated.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Tougher Than Nails]{Tougher Than Nails}</td>
+          <td>L, Tough as Nails, V d12</td>
+          <td>The hero can take five @Compendium[swade-core-rules.swade-rules.Damage Effects]{Wounds} before being Incapacitated.</td>
+        </tr>
+        <tr>
+          <td>@Compendium[swade-core-rules.swade-edges.Weapon Master]{Weapon Master}</td>
+          <td>L, Fighting d12</td>
+          <td>@Compendium[swade-core-rules.swade-rules.Characters]{Parry} increases by +1 and Fighting bonus damage die is d8.</td>
+        </tr>
+        <tr>
+          <td class="improved-edge">@Compendium[swade-core-rules.swade-edges.Master of Arms]{Master of Arms}</td>
+          <td>L, Weapon Master</td>
+          <td>Parry increases another +1 and @Compendium[swade-core-rules.swade-skills.Fighting]{Fighting} @Compendium[swade-core-rules.swade-rules.Dealing Damage]{bonus damage} die is d10.</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+</div>
