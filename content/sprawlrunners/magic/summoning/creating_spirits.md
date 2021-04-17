@@ -18,7 +18,7 @@ Each greatform at each power level has some pre-defined stats that cannot be alt
 
 ### Common powers
 
-All spirits have the following powers and abilities. Numbers in brackets are the points value from Summoner's Circle.
+All spirits have the following powers and abilities. Numbers in brackets are the points value from Summoner's Circle; they add up to 8 points.
 
 * -4 damage to mundane ranged attacks (2): difficult to harm with physical objects alone.
 * Dual-natured (1): native to the astral plane; is always astrally perceiving at all times.

@@ -4,11 +4,11 @@ linkTitle: Summoning
 type: docs
 description: Game mechanic for summoning
 date: 2020-11-18
-lastmod: 2021-03-22
-weight: 200
+lastmod: 2021-04-17
+weight: 100
 ---
 
-Roll Summoning trait, taking a penalty according to the level of the spirit:
+The summoner rolls their Magic skill, taking a penalty according to the level of the spirit:
 
 * Servant/Watcher: no modifier to roll
 * Seasoned rank (Lesser spirit): -2 to roll (4PP)
@@ -19,7 +19,7 @@ Don't forget that - per the Power Preparation rule (SWADE pg 140) - if a summone
 
 Take drain on a natural 1, as usual.
 
-Summoned spirits last for (Spirit die type) hours and can do unlimited things for the summoner in that time. There is no concept of favours, like spirit summoning in Shadowrun. Remote services - anything that takes the spirit more than (Spirit die type)×10 metres away from its summoner - use this time period up at 10× faster rate. 
+Summoned spirits last for (Spirit die type) hours and can do unlimited things for the summoner in that time. There is no concept of favours as used in spirit summoning in Shadowrun. Remote services - anything that takes the spirit more than (Spirit die type)×10 metres away from its summoner - use this time period up at 10× faster rate. 
 
 A summoner can dismiss a summoned spirit as a free action.
 

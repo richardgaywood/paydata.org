@@ -4,7 +4,9 @@ linkTitle: Trappings & modifiers
 type: docs
 description: Options for powers
 date: 2021-01-03
-weight: 200
+lastmod: 2021-04-17
+weight: 1500
+draft: true
 ---
 
 {{% pageinfo %}}just some notes for now{{% /pageinfo %}} 

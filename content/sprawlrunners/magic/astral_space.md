@@ -4,7 +4,7 @@ linkTitle: Astral space
 type: docs
 description: The astral plane; how to go there and what to do
 date: 2020-12-03
-weight: 1000
+weight: 3000
 ---
 
 Sprawlrunners RAW does not use astral projection and significantly limits astral perception.
@@ -29,7 +29,7 @@ Beyond that, the mage must roll a Spirit test every ten minutes, at a cumulative
 
 Movement in the Astral has two speeds: 'slow' is Pace 100, 'fast' is 5 km per initiative turn. At the 'fast' rate, everything whizzes past in an incomprehensible blur, so it's really only useful for long distance travel where the mage knows where they are going.
 
-Astral beings can fly freely up to the limits of the manasphere (about 80 km). They can pass through any solid objects but cannot pass through the living earth, however, as that has its own aura.
+Astral beings can fly freely up to the limits of the manasphere (about 80 km). They can pass through any solid objects, but cannot pass through the living earth as that has its own aura.
 
 Astral beings cannot pass through each other. They can pass through the auras of living beings on the physical plane, but the process isn't very pleasant, and the person being passed through can roll Notice to be aware of it (it's like an amped-up version of the "someone just walked over my grave" creepy feeling.)
 
