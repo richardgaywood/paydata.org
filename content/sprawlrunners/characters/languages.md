@@ -21,7 +21,7 @@ In core SWADE, a language is treated as a full skill, costing one skill point pe
 
 * There are only two levels of "knowing" a language; Partial and Fluent.
 * It costs one skill point to take a language to Partial, and a second skill point to take it to Fluent. This is regardless of your Smarts die type.
-* Within the game, Partial languages are regarded as having a die type equal to your Smarts die, minus one step. So if you have Smarts d8, any language you know at partial level is considered to be at d6.
+* Within the game, Partial languages are regarded as having a die type equal to your Smarts die. So if you have Smarts d8, any language you know at partial level is also considered to be at d8.
   * If you raise your Smarts die, you also automatically (and for free) raise the level of your partial language skills.
 * Fluent-level language skills are treated as having a d12 rating, and they never act to limit your use of social skills.
 

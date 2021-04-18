@@ -5,21 +5,20 @@ type: docs
 weight: 300 
 description: Houserules for metahuman races
 date: 2020-12-01
-lastmod: 2021-01-03
+lastmod: 2021-04-18
 --- 
 
 {{% alert title="Notes" %}}
 These are closely based on the rules in [Justin Licht's Savage Worlds / Shadowrun conversion](https://www.pegforum.com/forum/savage-worlds/savage-worlds-homebrew-conversions-discussion/38813-savage-worlds-shadowrun-5e-conversion) (also available [directly on Google Drive](https://drive.google.com/drive/folders/1NM0YIgb0tNVfZm_SjCxk9DL6QulkoVFi).)
 
 Note that these are based around +4 racial attributes per race, rather than the standard SWADE +2. This change gives each race more room to breath and be more closely modelled on the original Shadowrun races. The races are still balanced against each other. I think it also balances against some of the racial traits granted being quite situational or easily replicated with advanced gear in a cyberpunk setting (eg low-light or thermal vision.)
-
-Note also that players in my campaign using [my custom setting in savaged.us](https://savaged.us/s/qlp2jxy3) don't need to do anything extra to use the rules below; they are already applied correctly in Savaged.
 {{% /alert %}}
 
 ## Human
 
-* Adaptable (2): Humans seem to have an unlimited ability to adapt to their circumstances. They begin with a free Novice Edge.
-* Lucky (2): Fortune smiles on base-model humans. Every time Bennies are refreshed, humans get an extra one. This stacks with Edges like Luck.
+* Adaptable (4): Humans seem to have an unlimited ability to adapt to their circumstances. 
+  * They begin with a free Novice Edge of their choice. 
+  * In addition, they can choose one of their Attributes to start at d6 rather than d4. Note that unlike other racial bonuses to Attributes, however, the maximum remains d12 rather than becoming d12+1.
 
 ## Dwarf
 
