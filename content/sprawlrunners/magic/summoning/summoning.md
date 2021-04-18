@@ -17,7 +17,7 @@ The summoner rolls their Magic skill, taking a penalty according to the level of
 
 Don't forget that - per the Power Preparation rule (SWADE pg 140) - if a summoner concentrates for an entire round (taking no action, not moving, not being Shaken or Stunned), they can cancel up to 2 points of penalty to any power roll. This applies to practically all summoning done outside of combat and helps offset the penalties listed above.
 
-Take drain on a natural 1, as usual.
+Take a Drain resistance test on a natural 1 on the Magic die, as usual.
 
 Summoned spirits last for (Spirit die type) hours and can do unlimited things for the summoner in that time. There is no concept of favours as used in spirit summoning in Shadowrun. Remote services - anything that takes the spirit more than (Spirit die type)×10 metres away from its summoner - use this time period up at 10× faster rate. 
 

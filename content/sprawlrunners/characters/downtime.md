@@ -5,7 +5,7 @@ type: docs
 weight: 2000 
 description: Things to do between crime sprees 
 date: 2020-12-06
-lastmod: 2021-03-20
+lastmod: 2021-04-17
 --- 
 
 Every 10k¥ you earn from a run buys you enough time off afterward to complete one of the below Downtime Actions.
@@ -15,6 +15,12 @@ Every 10k¥ you earn from a run buys you enough time off afterward to complete o
 Spend 10 points of karma to [advance]({{< relref "advancement.md" >}}), as per usual SWADE rules. If you have multiple advances to take, you can take them all as one action; you don't need to spend one action for each advance.
 
 You can use karma earned via Hang Out or Train in the same downtime phase to advance. For example, suppose you earn 19 points of karma on a run, and have three downtime actions. You can use the first action to Train to get to 20 points of karma, and the second to Advance twice. Then you still have the third downtime action to use as you please.
+
+## Attune spirits
+
+An attuned summoner mage with the Initiate edge can journey to the metaplanes, find a new spirit type, and attune it for summoning. You can do this multiple times in a single downtime phase if you want.
+
+See [summoning traditions]({{< relref "summoning_traditions.md" >}}).
 
 ## Carouse
 
