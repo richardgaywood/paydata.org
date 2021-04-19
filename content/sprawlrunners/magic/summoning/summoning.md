@@ -4,7 +4,7 @@ linkTitle: Summoning
 type: docs
 description: Game mechanic for summoning
 date: 2020-11-18
-lastmod: 2021-04-17
+lastmod: 2021-04-19
 weight: 100
 ---
 

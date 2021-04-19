@@ -18,7 +18,7 @@ You can use karma earned via Hang Out or Train in the same downtime phase to adv
 
 ## Attune spirits
 
-An attuned summoner mage with the Initiate edge can journey to the metaplanes, find a new spirit type, and attune it for summoning. You can do this multiple times in a single downtime phase if you want.
+An attuned summoner mage with the Initiate edge can journey to the metaplanes, explore a new metaplane, and learn its True Name. From then on, they can summon spirits from that metaplane whenever they please. You can do this action multiple times in a single downtime phase if you want.
 
 See [summoning traditions]({{< relref "summoning_traditions.md" >}}).
 

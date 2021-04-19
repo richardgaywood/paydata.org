@@ -19,7 +19,7 @@ For my game, I am using two Arcane Backgrounds for PCs:
 * AB(physad) - the classic Shadowrun physical adept. Doesn't have an arcane power skill. Rules are the same as Sprawlrunners RAW.
 * AB(mage) - shamans, hermetic mages, chaos mages, etc etc. All types of "normal" mages. The arcane power skill is Magic, which comes in two variants; one linked to Smarts, one linked to Spirit. More on that below.
 
-Mages start play with **three** free Powers, and can get more via the New Powers Edge, as usual.
+Mages start play with **three** free Powers, and get more via the New Powers Edge, as usual.
 
 ## The Magic skill
 

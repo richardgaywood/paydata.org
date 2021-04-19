@@ -7,16 +7,16 @@ date: 2020-12-03
 weight: 3000
 ---
 
-Sprawlrunners RAW does not use astral projection and significantly limits astral perception.
+Sprawlrunners RAW does not use astral projection and significantly limits astral perception compared to Shadowrun.
 
 Our campaign will allow astral projection as a houserule. Astral perception will work like Shadowrun (long distance) and not Sprawlrunners (where it has a very short range).
 
-Adepts - people with only one Arcane Background - can choose to purchase Astral Perception as a power. They cannot astrally project. Full mages - with two Arcane Backgrounds - can both perceive and project, without having to buy any powers.
+Characters with the Physical Adept arcane background can choose to purchase Astral Perception as a power. They cannot astrally project. Full mages can both perceive and project, without having to buy any powers.
 
 ## Seeing the astral world
 
 * Auras of living things appear like melanges of bright colours in the approximate shape of the person. Sentient beings have a dizzyingly complicated aura of swirling colours; non-sentient ones have simpler patterns but still glow brightly. Plantlife is more muted but still unmistakable. 
-* Physical objects appear as flat, opaque, grey shadows. All technological detail is obscured; it's extremely difficult to tell a gun from a commlink. Glass is not transparent on the astral plane.
+* Physical objects appear as flat, opaque, grey shadows. All technological detail is obscured; it's extremely difficult to tell a gun from a commlink. Glass is not transparent on the astral plane. You cannot read text on a screen or a page.
 	* Objects that have spent a long time in proximity to someone who associates them with emotional heft - eg. a wedding ring - carry an echo of that emotional resonance. This slowly fades over time if the object is removed from the person, though.
 
 ## Astral projection
@@ -27,7 +27,7 @@ Beyond that, the mage must roll a Spirit test every ten minutes, at a cumulative
 
 ### Movement
 
-Movement in the Astral has two speeds: 'slow' is Pace 100, 'fast' is 5 km per initiative turn. At the 'fast' rate, everything whizzes past in an incomprehensible blur, so it's really only useful for long distance travel where the mage knows where they are going.
+Movement in the Astral has two speeds: 'slow' is Pace 100, 'fast' is 5 km per initiative turn. At the 'fast' rate, everything whizzes past in an incomprehensible blur, so it's really only useful for long distance travel where the mage knows where they are going. (Mages who do a lot of long-range astral travel get really good at memorising maps!)
 
 Astral beings can fly freely up to the limits of the manasphere (about 80 km). They can pass through any solid objects, but cannot pass through the living earth as that has its own aura.
 
@@ -70,8 +70,8 @@ This is handled very much like melee combat:
 * Attacker rolls Astral
 * Defender's Astral Parry is (2 + (1/2 Astral skill die))
 * Base damage is attacker's Spirit die
-	* Weapon Foci add their die type to this
-	* Physical adepts with Killing Hands add their approriate die type
+	* Weapon Foci add their die type to this, and can be used while astrally perceiving or projecting
+	* Physical adepts who are astrally perceiving and have the Killing Hands power add their approriate die type
 * Astral toughness is (2 + (1/2 Spirit die))
 * Apply Shaken and Wounds as normal. Wounds dealt in Astral combat manifest themselves upon the mage's comatose body.
 

@@ -4,7 +4,7 @@ linkTitle: Summoner types
 type: docs
 description: How different magical traditions approach spirit summoning
 date: 2021-04-17
-lastmod: 2021-04-18
+lastmod: 2021-04-19
 weight: 200
 ---
 
@@ -32,15 +32,17 @@ All mages can summon watchers - little more than a blob of magical energy squish
 
 Hermetic mages can summon elementals of the four classic elements: fire, earth, air, water. Each spirit exists at lesser, common, and greater levels. 
 
-Compared with other spirits, elementals are somewhat dreary. They lack intellectual curiosity and are easily confused by unexpected situations. Hermetic mages treat them as mere servants, and elementals seem content in that role.
+Compared with other spirits, elementals are somewhat... dreary. They lack intellectual curiosity and are easily confused by unexpected situations. They also seem to have no capacity for boredom, and will carry out the most rote of repeated tasks without seeming complaint or irritation. Hermetic mages treat them as mere servants, and elementals seem content in that role.
 
 Elementals have stats and abilities as per Sprawlrunners.
 
 ## Shamans
 
-Shaman spirits take the form of nature spirits. Shamans treat them with great reverence and  respect. Nature spirits are more independent than elements but can be capricious, however, and sometimes have their own ideas and agendas.
+Shaman spirits take the form of nature spirits. Shamans treat them with great reverence and  respect. Nature spirits are more independent than elementals but can be capricious, and sometimes have their own ideas and agendas.
 
 Nature spirits have stats and abilities as per Sprawlrunners. Note that nature spirits can ignore 2 points of casting penalties when in their home environment.
+
+Note also that Sprawlrunners RAW uses "Focus" as the spellcasting skill for spirits. For technical reasons related to FoundryVTT, it's easier to rename this to "Magic", so it's the same name as everyone else uses.
 
 ## Attuned summoners
 
@@ -58,9 +60,7 @@ These spirits can be [created freely by the player]({{< relref "creating_spirits
 
 Once a character achieves Initiate status (by taking the Edge), they can take a downtime action to journey to the metaplanes and bond with a new spirit type, of any rank they choose. At that time, the player can create a new statblock for the new spirit type. Afterwards, they can summon that spirit as they please. See [downtime actions]({{< relref "sprawlrunners/characters/downtime.md" >}}).
 
-{{% alert title="Notes" %}}
-*Eventually, this might possibly need a limit to stop it getting out of hand... perhaps no more than 4× spirits of each rank.*
-{{% /alert %}} 
+They can repeat this process until they have a total of four spirit types at each of lesser, common, and greater rank. At that time, if they undertake an Attune action again, they must remove one other spirit from their roster to make room for the new one.
 
 ## Other traditions
 
