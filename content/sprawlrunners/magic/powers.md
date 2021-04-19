@@ -74,7 +74,7 @@ Power Points: See below \
 Range: Smarts \
 Duration: Instant 
 
-Summons a spirit from the metaplanes to do the summoner's bidding. See [Summoning]({{< relref "summoning.md" >}}) for rules. The power point cost, and hence roll penalty, is determined by the target spirit's rank:
+Summons a spirit from the metaplanes to do the summoner's bidding. See [Summoning]({{< relref "sprawlrunners/magic/summoning/summoning.md" >}}) for rules. The power point cost, and hence roll penalty, is determined by the target spirit's rank:
 
 * Servant/Watcher: no modifier to roll
 * Seasoned rank (lesser spirit): -2 to roll (4PP)

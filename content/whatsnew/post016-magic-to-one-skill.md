@@ -1,7 +1,6 @@
 ---
 title: Magic
-date: 2021-04-02T08:00:00.000Z
-draft: true
+date: 2021-04-19T09:30:00.000Z
 ---
 
 Lots of changes to magic:
