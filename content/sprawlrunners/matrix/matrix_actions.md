@@ -4,7 +4,6 @@ linkTitle: Actions
 type: docs
 description: All kinds of things deckers can do
 date: 2021-01-16
-lastmod: 2021-03-25
 weight: 250
 aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ---
@@ -15,7 +14,7 @@ aliases: ["sprawlrunners/deckers/matrix_actions.md"]
 ### Cybercombat Hack
 Requires: Fighting utility \
 Rolls: Hacking vs target Firewall \
-Use on: s-PANs, PANs, standalone devices, ICE
+Use on: network controllers, unattended devices, ICE
 
 See [Cybercombat]({{< relref "cybercombat.md" >}}).
 {{% /pageinfo %}} 
@@ -24,7 +23,7 @@ See [Cybercombat]({{< relref "cybercombat.md" >}}).
 ### Sleaze Hack
 Requires: Persuasion utility \
 Rolls: Hacking vs target Hardening \
-Use on: unattended devices, PANs, hosts, ICE
+Use on: networks, unattended devices, , hosts, ICE
 
 Gain access to something, hopefully without anyone noticing. See [Hacking]({{< relref "hacking.md" >}}).
 {{% /pageinfo %}} 
@@ -34,9 +33,9 @@ Gain access to something, hopefully without anyone noticing. See [Hacking]({{< r
 ### DoS Hack
 Requires: Fighting utility \
 Rolls: Hacking vs target's Smarts attribute \
-Use on: devices
+Use on: people with cyberware and wireless gear
 
-Flood a Matrix target with bad traffic to impede its functionality. See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
+Flood a target's Matrix devices with bad traffic to impede their functionality. See [DoS attacks]({{< relref "combat_decking.md#denial-of-service-attacks" >}}).
 {{% /pageinfo %}} 
 
 
@@ -45,9 +44,9 @@ Flood a Matrix target with bad traffic to impede its functionality. See [DoS att
 ### Hide (on local mesh)
 Requires: Stealth utility \
 Rolls: Hacking, maybe vs Notice \
-Use on: your own s-PAN
+Use on: your own network
 
-Can be used on the local mesh to disguise and hide your s-PAN from observers; see [Matrix Stealth]({{< relref "combat_decking.md#matrix-stealth" >}}) for more. If nobody is actively looking, the target number for this test is 4. If you are being actively hunted (eg by a persona running the Notice utility) it is opposed by the hunter's Hacking skill.
+Can be used on the local mesh to disguise and hide your cybderdeck's network from observers; see [Matrix Stealth]({{< relref "combat_decking.md#matrix-stealth" >}}) for more. If nobody is actively looking, the target number for this test is 4. If you are being actively hunted (eg by a persona running the Notice utility) it is opposed by the hunter's Hacking skill.
 
 Can be used within a host to hide your persona from ICE and security spiders, see "Deceive ICE" on Sprawlrunners pg 39 for more.
 {{% /pageinfo %}} 
@@ -97,7 +96,7 @@ Use on: any file(s)
 
 Can be used to copy, edit, erase, or search for files or other data in any kind of store - a host, a node, a commlink, a data chip, etc. Obviously the decker has to have access to the store first, either legitimately or via a hacking action.
 
-The actual file manipulations do not usually require a test. However, if the purpose of the edits requires skill - eg. they are intended to forge credentials, hide suspicious entries in an access log - then a test may be required to see how that goes.
+The actual file manipulations do not usually require a test. However, if the purpose of the edits requires skill - eg. they are intended to forge credentials, hide suspicious entries in an access log - then a test may be required to see how that goes. The skill required to do that will vary depending on what the content is; eg, to forge some personnel reports, the Corp skill would be used.
 
 Copying or erasing a very large number of files under time pressure might be a dramatic task.
 {{% /pageinfo %}} 
@@ -122,7 +121,7 @@ Use on: any device
 
 Can be used to give commands to a device, or manipulate it in other ways. Maglocks can be told to lock or unlock, cameras can be shut down or told to loop a fragment of footage. Commlink calls in progress can be snooped on. The other end of a commlink call can be traced to a physical location.
 
-If the device is part of a PAN or WAN, the PAN or WAN must be hacked first. If the device is part of an s-PAN, the s-PAN must be crashed first, then the (now unattended) device must be hacked.
+If the device is part of a network, the network must be hacked first.
 {{% /pageinfo %}} 
 
 
@@ -135,7 +134,7 @@ Used by a rigger to assume jumped-in control of a drone or vehicle.
 
 * If the rigger does not own the vehicle or drone, they'll need to make a Sleaze Hacking roll to Jump In to it. 
 * Jump In can be done wirelessly or over a wired connection, but to do it wirelessly, the rigger must be using a dronedeck.
-* This is a free action if the rigger is already connected to the target via a cable or an s-PAN via their dronedeck. Otherwise, it's a normal action.
+* This is a free action if the rigger is already connected to the target via a cable or their dronedeck. Otherwise, it's a normal action.
 {{% /pageinfo %}} 
 
 
@@ -145,7 +144,7 @@ Used by a rigger to assume jumped-in control of a drone or vehicle.
 
 Free action. Give a one-sentence command to a drone or vehicle autopilot. This can be combined with a Sleaze Hack to target drones or vehicles the actor does not own or control.
 
-If a rigger is using a dronedeck that has multiple drones/vehicles in its s-PAN, they can issue the same command to any number of the drones/vehicles for a single free action. 
+If a rigger is using a dronedeck that has multiple drones/vehicles in its network, they can issue the same command to any number of the drones/vehicles for a single free action. 
 {{% /pageinfo %}} 
 
 

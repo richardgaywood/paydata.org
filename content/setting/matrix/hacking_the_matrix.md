@@ -38,6 +38,8 @@ There is an obvious problem, though - the local mesh is small, typically extendi
 
 ## What to hack
 
+{{% alert title="TODO" color="warning" %}}*below contains obsolete references to PANs/s-PANs/WANs; I've dropped this terminology in the latest iteration of these houserules*{{% /alert %}} 
+
 Any device that is attached directly to the matrix is considered to be *unattended*. Civilian and even security grade unattended devices have very weak defences against hacking. 
 
 Most ordinary people will arrange all of their various matrix gadgets into a personal area network (PAN.) A PAN is controlled and monitored by their commlink, which routes all matrix traffic through itself. Devices in a PAN cannot be hacked individually; instead, the decker must hack the commlink instead. PANs are a little bit more difficult to hack than an unattended device, but the main benefit is that if the commlink notices the hack attempt it can alert the owner at once. They can then take action, such as shutting down their devices.

@@ -4,12 +4,11 @@ linkTitle: Cybercombat
 type: docs
 description: Disregard stealth; brick devices instead
 date: 2020-11-27
-lastmod: 2021-03-25
 weight: 500
 aliases: ["sprawlrunners/deckers/cybercombat.md"]
 ---
 
-The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, what you need is cybercombat.
+The rules in [hacking]({{< relref "hacking.md" >}}) cover stealthy intrusion techniques so a decker can discreetly manipulate devices for their own ends. But if you want to take something offline right fraggin' now, and you don't care who knows about it -- what you need is cybercombat.
 
 ## Basics of cybercombat
 
@@ -22,9 +21,11 @@ Calculate Shaken and Wounds as usual.
 
 ## Matrix damage
 
-### Cyberdecks
+### Cyberdecks & dronedecks
 
-As per Sprawlrunners core. Shaken applies to the decker using the 'deck. Cyberdecks have three Wounds; if all Wounds are taken, the decker must resist dumpshock.
+As per Sprawlrunners core. Shaken applies to the decker using the 'deck. Cyberdecks have three Wounds; if the device takes all three, it is crashed, and the decker must resist dumpshock.
+
+Networks controlled by decks stay up and running (regardless of the deck's Shaken and Wound state) until the deck is completely crashed.
 
 ### Commlinks and other devices
 
@@ -32,7 +33,7 @@ A commlink or other device that is Shaken is put into a crashed state. Starting 
 
 If the device takes a Wound (via a raise on the attack roll) then they are bricked. They do not function again until repaired.
 
-If the commlink that is running a PAN becomes Shaken, every device on the PAN is Shaken (and hence unusable) with it, until the commlink comes back. If it is crashed, every device on the PAN is Shaken. They can roll to unshake as usual (just roll once for all of them), but will come back as unattended devices, without the protection of the PAN.
+Networks run from commlinks are much less robust than those run by cyberdecks. If the commlink becomes Shaken, every device on the network is Shaken (and hence unusable) with it, until the commlink comes back. If it is crashed, every device on the network is Shaken. They can roll to unshake as usual (just roll once for all of them), but will come back as unattended devices, without the protection of the network.
 
 ## Consequences of crashing things
 

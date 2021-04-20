@@ -7,6 +7,8 @@ date: 2020-11-29
 weight: 10000
 ---
 
+{{% alert title="TODO" color="warning" %}}*below contains obsolete references to PANs/s-PANs; I've dropped this terminology in the latest iteration of these houserules*{{% /alert %}} 
+
 These rules attempt to simplify the Shadowrun 5e Matrix rules by removing a number of options. For quick reference, some of the changes I have made include:
 
 * Streamline and merge the "AR / VR" and "in host / on grid" distinctions. Now, being "in" a host means always being in VR, and if you're not in a host then you are in AR.
