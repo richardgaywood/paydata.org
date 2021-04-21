@@ -9,8 +9,16 @@ weight: 1500
 draft: true
 ---
 
-{{% pageinfo %}}just some notes for now{{% /pageinfo %}} 
+{{% pageinfo %}}This is a draft for discussion and fun only; **it is not currently canon for my campaign**.{{% /pageinfo %}} 
 
+{{% alert title="Notes" %}}
+Shadowrun has long been distinguished by a wide range of magical combat spells, with different strengths and weaknesses. This gives mages some tactical flexibility.
+{{% /alert %}} 
+
+
+
+
+<!--
 Shadowrun power trappings for combat spells:
 
 * Direct (armour ignored, cannot soak):
@@ -22,3 +30,4 @@ Shadowrun power trappings for combat spells:
 	* Lightning 
 	* Acid
 	* Punch / Clout / Blast (stun damage, resist with Body)
+-->
