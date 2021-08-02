@@ -1,7 +1,7 @@
 ---
-title: Guns & the Matrix
-date: 2021-04-21T09:30:00.000Z
+title: Using Bennies to Influence The Story
+date: 2021-08-02T19:00:00.000Z
 ---
 
-Added some [formal houserule ideas]({{< relref "influence_story.md" >}}) to describe how playes can use Bennies during the game for flashbacks, as well as a condensed legwork game mechanic and a condensed heist game mechanic using SWADE's Dramatic Tasks.
+Added some [formal houserule ideas]({{< relref "influence_story.md" >}}) to describe how players can use Bennies during the game for flashbacks. Also condensed game mechanics for legwork and even whole heists using light modifications to SWADE's Dramatic Tasks.
 <!--more-->
