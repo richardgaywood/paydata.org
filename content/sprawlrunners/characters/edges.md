@@ -145,7 +145,7 @@ Character gains a further 4 Mod Points, in addition to the 3 granted for Mod Sho
 
 {{% pageinfo %}}
 #### Mod God
-Requirements: Veteran, Repair d10+, Improved Mod Shop
+Requirements: Veteran, Repair d8+, Improved Mod Shop
 
 Character gains a further 5 Mod Points. This Edge can be taken a second time at Legendary rank.
 {{% /pageinfo %}} 
