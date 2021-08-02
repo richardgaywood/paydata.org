@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/richardgaywood/blog/tree/master/paydata.org/"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "postcss-cli": "^7.1.2"
