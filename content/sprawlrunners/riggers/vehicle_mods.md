@@ -19,13 +19,14 @@ All the below cost 1 point each. They can be applied multiples times, but each s
 
 You can also add vehicle accessories. Some of these don't fit on all vehicles eg. you can't put a medium turret on a motorbike or a medium drone rack on a single-seat commuter car.
 
+* 1 point - **insulative armour** -  provides immunity to electrical attacks, eg from magic.
 * 1 point - **gas sealing** - ability to hermetically seal the vehicle. Has a small reserve air supply, typically good for 10-15 minutes.
 * 1 point - **small drone rack** - sufficient to launch/land a surveillance or recon drone.
 * 2 points - **medium drone rack** - sufficient to launch/land a hunter drone.
 * 1 point - **smuggling compartment** - hidden from sight and shielded from scanning. In most vehicles, big enough to hold a couple of rifles.
 * 1 point - **off-grid modifications** - extra fuel tanks / batteries, dual-fuel systems, off-road tyres, and other mods to enable use for extended periods in the wilderness. 
 * 2 points - **Valkyrie system** - a full smart medbay built into a folding gurney mounted in the vehicle's trunk, with facilities to provide first aid and stabilise badly wounded people. Needs to be the size of a large car or larger. 
-* 2 points - **small retractable turret** - up to SMG sized weapon (comes with the weapon).
-* 3 points - **medium retractable turret** - up to assault rifle sized weapon (comes with the weapon).
+* 2 points - **small retractable turret** - up to SMG sized weapon (does not come with the weapon).
+* 3 points - **medium retractable turret** - up to assault rifle sized weapon (does not come with the weapon).
 
 Other mods available by negotiation ;)
