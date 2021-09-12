@@ -48,4 +48,7 @@ During play (either normal play or during a dramatic task (see below), a player 
 
 Failure to complete the task may result in a partial success, a complication, the players being discovered and having to fight their way out, or any other outcome as fits the narrative being played out.
 
-{{% pageinfo %}}**Acknowledgement**: the above rules were influenced by those presented in [Wiseguys](https://www.drivethrurpg.com/m/product/290098).{{% /pageinfo %}} 
+## Acknowledgements
+
+{{% pageinfo %}}The above rules are adapted from those contained in [Wiseguys by Eric Lamoureux / Just Insert Imagination](https://www.drivethrurpg.com/m/product/290098).{{% /pageinfo %}} 
+
