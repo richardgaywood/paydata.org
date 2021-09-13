@@ -5,6 +5,7 @@ type: docs
 weight: 1000 
 description: Character improvement and other goodies
 date: 2020-12-06
+lastmod: 2021-12-13
 --- 
 
 There are two kinds of rewards your characters will earn from a mission: karma and nuyen.
@@ -36,4 +37,49 @@ Each advance can be used in one of a few ways:
 * Increase one attribute by a die type. Note that this option may only be taken once per Rank (so once at Novice, once at Seasoned, etc.) 
 	* Legendary characters may raise an attribute every other Advance, up to the racial maximum.
 * Permanently remove a Minor Hindrance, or reduce a Major Hindrance to a Minor (if possible). With the GM’s permission, and if it makes sense, two Advances may be saved up and spent to remove a Major Hindrance.
+
+## Alternative houserules for when to advance
+
+{{% pageinfo %}}These rules are **for discussion** and **are not currently canon for our game**.{{% /pageinfo %}} 
+
+The above advancement rules will take a charater from the rank of Seasoned (our starting level) to Legendary (SWADE's maximum "level") in about 9-12 months of play. There's no level cap in SWADE; you can continue to advance forever, but your character does become more and more powerful. Eventually this will cause me problems - it'll get harder and harder to create challenges without stretching the narrative - and we'll have to talk about retirement.
+
+There's a few options we could take here:
+
+1. Ignore it, and either have your characters tear through opponents like tissue paper or lean further into pink mohawk and get bigger and bigger opponents, even if that starts to get silly.
+2. Retire characters at some appropriate point after Legendary rank.
+3. Slow the rate of progression down somehow to delay when we have to do the above.
+
+Some ideas for how to slow stuff down:
+
+1. Simply award less karma across the board.
+2. Continue to award karma at the same rate but change the amount of karma it takes to advance on a curve as you rank up. So at Novice, it might be 5 karma to advance; at Seasoned, 10; but then it goes up to 15 and 20 points as you progress through Veteran, Heroic and Legendary. 
+3. Keep karma and advances the same, but require more advances to go through the ranks. See below for an example. As stuff like Edges and your LP budget (etc etc) are gated behind your rank, this is something of a compromise; you get advances at the same rate, but it takes longer to get access to the really powerful edges.
+4. Some combination of (2) and (3).
+
+Example of (3): normal SWADE uses four advances for each rank. Here, we make it only three advances to get from Novice to Seasoned, then +1 advances per rank after that; so it's four for Seasoned to Veteran, five for Veteran to Heroic, etc. This doesn't produce a huge change but is just an example. Obviously we could further change these however we want.
+
+| Number of advances | Normal SWADE rank | Possible houserule |
+|--------------------|-------------------|--------------------|
+| 0                  | Novice            | Novice             |
+| 1                  | Novice            | Novice             |
+| 2                  | Novice            | Novice             |
+| 3                  | Novice            | Seasoned           |
+| 4                  | Seasoned          | Seasoned           |
+| 5                  | Seasoned          | Seasoned           |
+| 6                  | Seasoned          | Seasoned           |
+| 7                  | Seasoned          | Veteran            |
+| 8                  | Veteran           | Veteran            |
+| 9                  | Veteran           | Veteran            |
+| 10                 | Veteran           | Veteran            |
+| 11                 | Veteran           | Veteran            |
+| 12                 | Heroic            | Heroic             |
+| 13                 | Heroic            | Heroic             |
+| 14                 | Heroic            | Heroic             |
+| 15                 | Heroic            | Heroic             |
+| 16                 | Legendary         | Heroic             |
+| 17                 | Legendary         | Heroic             |
+| 18                 | Legndary          | Legendary          |
+
+
 
