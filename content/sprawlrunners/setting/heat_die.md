@@ -53,4 +53,4 @@ This will usually take the form of a three-step Dramatic Task. If they can colle
 
 ## Losing heat
 
-For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "downtime.md#lie-low" >}}).
+For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "sprawlrunners/characters/downtime.md#lie-low" >}}).
