@@ -2,19 +2,26 @@
 title: Downtime Actions
 linkTitle: Downtime
 type: docs     
-weight: 2000 
+weight: 500 
 description: Things to do between crime sprees 
 date: 2020-12-06
-lastmod: 2021-04-17
+lastmod: 2022-01-03
+aliases: ["/sprawlrunners/characters/downtime"]
 --- 
 
-Every 10k¥ you earn from a run buys you enough time off afterward to complete one of the below Downtime Actions.
+When your characters complete missions, they will typically be paid for this (usually in nuyen.) These nuyen are *only* used to fund a number of Downtime Actions you can take before the next mission begins. You do not use nuyen to buy things directly; that is handled by your character's LP pool and Wealth Die.
+
+Every 10k¥ you earn from a run buys you enough time off afterward to complete one of the below Downtime Actions. (If this seems like a high figure to you, remember that this is the "gross" pay your character receives. A substantial amount is lost in money laundering, or spent on maintaining your contacts, paying your rent, buying food and other essentials, etc etc.)
 
 ## Advance
 
 Spend 10 points of karma to [advance]({{< relref "advancement.md" >}}), as per usual SWADE rules. If you have multiple advances to take, you can take them all as one action; you don't need to spend one action for each advance.
 
 You can use karma earned via Hang Out or Train in the same downtime phase to advance. For example, suppose you earn 19 points of karma on a run, and have three downtime actions. You can use the first action to Train to get to 20 points of karma, and the second to Advance twice. Then you still have the third downtime action to use as you please.
+
+### Advancing mid-mission
+
+If a character accumulates enough karma to advance during a mission, and gets some suitable amount of downtime (like a good night's rest), the GM may allow them to perform the Advance outside of the Downtime Action. This helps to spread out the rate of advancement when doing longer missions that span multiple sessions. 
 
 ## Attune spirits
 
@@ -36,9 +43,7 @@ You spend some quality time with your nearest and dearest. Write a scene telling
 
 ## Lie low
 
-If you attracted an unusually breathtaking amount of attention on the last run, and the wrong people know it was you, you might need to skip town for a while until the heat dies down. This takes one of your actions. In extraordinary circumstances, it might even take multiple actions. Be less obvious next time!
-
-I'll let you know if Lie Low is required.
+If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat_die.md" >}}), you will need to skip town for a while until the heat dies down. This takes one of your actions and clears the Heat Die. In extraordinary circumstances (a Heat Die of d10 or more), it might even take multiple actions. Be less obvious next time!
 
 ## Long-term project
 
@@ -48,25 +53,25 @@ We'll handle this a bit like a Dramatic Task in SWADE or a Clock in Blades in th
 
 Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. You cannot spend Bennies on this roll.
 
-(You can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.) 
+{{% pageinfo %}}A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.{{% /pageinfo %}} 
 
 ## Network
 
-You spend time working your contacts, buttering them up, making sure the next time you come calling they'll have the good stuff ready for you.
+You spend time working your contacts, buttering them up, making sure the next time you come calling they'll have the good stuff set aside for you.
 
 Roll a standard Networking test (Persuasion or Intimidate vs target number 4). If you succeed, take bonus LP on the next mission according to the table below. For each raise, take a further bonus LP (again, as per below). You cannot spend Bennies on this roll.
-
-(You can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.) 
 
 No penalty for failures, but you can't try again; people have had enough of you for now. You can only do Network once in a given downtime.
 
 | Character rank | LP bonus on Success | LP bonus on Raise |
 |----------------|---------------------|-------------------|
 | Novice         | +1                  | 0                 |
-| Seasoned       | +2                  | +1                |
+| Seasoned       | +2                  | 0                |
 | Veteran        | +3                  | +1                |
-| Heroic         | +4                  | +2                |
+| Heroic         | +4                  | +1                |
 | Legendary      | +5                  | +2                |
+
+{{% pageinfo %}}A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.{{% /pageinfo %}} 
 
 ## Rest & recuperation
 

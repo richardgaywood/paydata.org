@@ -41,8 +41,8 @@ If the result is a Raise, the authorities realise what is happening in sufficien
 
 Most of the time, the PCs can take precautions to obviate the Heat Roll. For example, they can wear disguises, hack or avoid cameras, destroy physical evidence, wipe astral signatures, etc.
 
-Such precautions always come at an extra cost, either in consumable gear they need to use or in terms of extra time they need to take (or both.)\
-\
+Such precautions always come at an extra cost, either in consumable gear they need to use or in terms of extra time they need to take (or both.)
+
 When taking active precautions, one PC can attempt a suitable Skill roll to oppose the Heat Roll. This cannot be Supported. 
 
 ## Shaking the tail
