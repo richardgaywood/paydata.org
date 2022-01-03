@@ -5,6 +5,7 @@ type: docs
 description: Things to do between missions
 weight: 20
 tags: ['canon']
+aliases: ["/houserules/characters/downtime"]
 ---
 
 {{% pageinfo %}} 
