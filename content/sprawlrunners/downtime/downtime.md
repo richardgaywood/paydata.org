@@ -13,6 +13,10 @@ When your characters complete missions, they will typically be paid for this (us
 
 Every 10k¥ you earn from a run buys you enough time off afterward to complete one of the below Downtime Actions. (If this seems like a high figure to you, remember that this is the "gross" pay your character receives. A substantial amount is lost in money laundering, or spent on maintaining your contacts, paying your rent, buying food and other essentials, etc etc.)
 
+{{% pageinfo %}}
+A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding. This can be used for any downtime dice-rolling, as a more convenient option to Foundry.
+{{% /pageinfo %}} 
+
 ## Advance
 
 Spend 10 points of karma to [advance]({{< relref "advancement.md" >}}), as per usual SWADE rules. If you have multiple advances to take, you can take them all as one action; you don't need to spend one action for each advance.
@@ -53,8 +57,6 @@ We'll handle this a bit like a Dramatic Task in SWADE or a Clock in Blades in th
 
 Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. You cannot spend Bennies on this roll.
 
-{{% pageinfo %}}A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.{{% /pageinfo %}} 
-
 ## Network
 
 You spend time working your contacts, buttering them up, making sure the next time you come calling they'll have the good stuff set aside for you.
@@ -70,8 +72,6 @@ No penalty for failures, but you can't try again; people have had enough of you 
 | Veteran        | +3                  | +1                |
 | Heroic         | +4                  | +1                |
 | Legendary      | +5                  | +2                |
-
-{{% pageinfo %}}A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding.{{% /pageinfo %}} 
 
 ## Rest & recuperation
 
