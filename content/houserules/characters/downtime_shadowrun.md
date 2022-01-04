@@ -54,7 +54,7 @@ However, these increases do need some investment during downtime:
 
 You spend time pitching your skills to do side jobs for your contacts and your contacts’ contacts. See calculation below. Most characters can earn 750-2000¥ for one scene spent on Side Hustle. You can only spend one scene on this; your contacts and their contacts only have so many opportunities for these sorts of off-the-books odd jobs.
 
-See [side hustle calculation]({{< relref "downtime.md#side-hustle-calculation" >}}) for details on how to calculate the money earned.
+See [side hustle calculation]({{< relref "downtime_shadowrun.md#side-hustle-calculation" >}}) for details on how to calculate the money earned.
 
 ## Social activities
 
