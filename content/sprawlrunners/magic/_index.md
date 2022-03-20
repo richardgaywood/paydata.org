@@ -2,7 +2,7 @@
 title: "Magic"
 linkTitle: "Magic"
 type: docs
-weight: 200
+weight: 10
 no_list: true
 ---
 
