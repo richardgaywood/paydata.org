@@ -1,6 +1,6 @@
 ---
-title: Furious Magic
-linkTitle: Furious Magic x Sprawlrunners x MagusRogue
+title: Furious Magic x Sprawlrunners x MagusRogue
+linkTitle: Furious Magic
 type: docs
 description: Using the rules from Furious Magic in Sprawlrunners
 date: 2022-03-20
