@@ -1,6 +1,6 @@
 baseURL = "https://paydata.org/"
 languageCode = "en"
-title = "paydata.org | cyberpunk TTRPGs"
+title = "paydata.org"
 theme = "docsy"
 
 # Seem to be broken right now
@@ -35,7 +35,8 @@ copyright = "Richard Gaywood"
 
 [params.ui]
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
+sidebar_menu_compact = true
+sidebar_menu_foldable = true
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
@@ -57,6 +58,11 @@ footer_about_disable = false
 	url = "https://www.reddit.com/user/penllawen"
 	icon = "fab fa-reddit"
         desc = "Find me on Reddit"
+[[params.links.user]]
+	name ="Discord"
+	url = "https://discordapp.com/users/459741920370098176"
+	icon = "fab fa-discord"
+        desc = "Find me on Discord"		
 
 
 [markup]
