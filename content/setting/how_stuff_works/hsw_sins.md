@@ -6,9 +6,10 @@ type: docs
 weight: 500
 date: 2021-01-03
 lastmod: 2021-03-13
+aliases: ["/setting/everyday_life/sins_and_licences"]
 ---
 
-In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no support, no right to employment or vote, unable to use public facilities or transit, turned away from shops and restaurants.
+In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no governmental support, no right to employment or vote, unable to use public facilities or transit, constanlly turned away from shops and restaurants.
 
 ## What a SIN is
 
@@ -48,7 +49,7 @@ Just one problem: jurisdictions. SIN issuers do not make these biometric files r
 
 ### Lifestyle SINs
 
-Every 'runner has a fake SIN (or perhaps  set of fake SINs) that they live their day-to-day lives under: buying groceries, paying rent, running their GridGuide subscription, that sort of thing. They don't use this for criminal work, because it would make them far too easy to track down. There is no overhead associated with this, it's absorbed in day-to-day living costs.
+Every 'runner has a fake SIN (or perhaps a set of fake SINs) that they live their day-to-day lives under: buying groceries, paying rent, running their GridGuide subscription, that sort of thing. They don't use this for criminal work, because it would make them far too easy to track down. There is no overhead associated with this, it's absorbed in day-to-day living costs.
 
 Although they last a long time, these fake SINs aren't particularly good, and can't pass a lot of inspection. Most people interacting with it -- like 'runner's landlords -- most likely know it's fake, but aren't the kind of people who are looking too closely. This is one reason 'runners tend to live in the less gentrified neighbourhoods.
 
@@ -56,7 +57,7 @@ Although they last a long time, these fake SINs aren't particularly good, and ca
 
 Where necessary, 'runners can buy extra fake SINs for a job.
 
-A fake SIN will pass simple ID checks from a beat cop on the street automatically. The fake datastream associated with the SIN might stand up to a consistency check, should the 'runner try anything that might provoke one; for example, infiltrating a secure area through the front door via a fake identity. *In game terms: roll a Notice check for whoever is inspecting the SIN to see if they spot any weirdness in the analysis results. This might be a +/- 1, depending on the resources of the corp doing the check.*
+A fake SIN will pass simple ID checks from a beat cop on the street automatically. The fake datastream associated with the SIN might stand up to a consistency check, should the 'runner try anything that might provoke one; for example, infiltrating a secure area through the front door via a fake identity. *In Sprawlrunners game terms: roll a Notice check for whoever is inspecting the SIN to see if they spot any weirdness in the analysis results. This might be a +/- 1, depending on the resources of the corp doing the check.*
 
 Gear licences for these SINs are "open carry", in the sense that the presence of the licence is automatically broadcast alongside the SIN. This can (obviously) attract attention, and often does.
 
