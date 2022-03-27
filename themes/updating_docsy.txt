@@ -1,6 +1,21 @@
 Initialise the submodule
 
-If you'ver started with a clean/cloned dir:
+From scratch:
+
+```
+hugo new site myproject
+cd myproject
+git init
+git submodule add https://github.com/google/docsy.git themes/docsy
+echo 'theme = "docsy"' >> config.toml
+git submodule update --init --recursive
+```
+
+(In last resort: delete the docsy dir, then run the above)
+
+
+
+Or if you've started with a clean/cloned dir:
 
   git submodule update --init --recursive
 
