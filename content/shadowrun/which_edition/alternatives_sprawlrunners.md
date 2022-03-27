@@ -20,7 +20,7 @@ Savage Worlds has many characteristics that make it a good fit for playing Shado
 
 It's worth noting there are some characteristics that make it not to everyone's tastes, however:
 
-* Less predictable dice rolls - as it (typically) rolls two dice and chooses the highest the results can swing from failure to dramatic success more freely than Shadowrun's dice pool system. 
+* Less predictable dice rolls - as it (typically) rolls two dice and chooses the highest the results can swing from failure to dramatic success more freely than Shadowrun's dice pool system. Whether this is a bug or a feature depends on your table's taste in occasional chaos (my players really enjoy this...)
 * ...more...?
 
 Savage Worlds been a popular choice for playing Shadowrun via various fan-made hacks for many years. I'm going to mention two specific options based on more polished commercial releases.
@@ -33,42 +33,28 @@ Weighing in at a svelte 71 pages, [Sprawlrunners](https://www.drivethrurpg.com/p
 
 ### What you get
 
-Sprawlrunners takes the core Savage Worlds rules and adds everything you need to play in a "classic era" Shadowrun 2050s setting, including:
+Sprawlrunners takes the core Savage Worlds rules and adds everything you need to play in a classic era Shadowrun 2050s setting, including:
 
 * Rules for cyberware 
 * Physical adepts
-* Two arcane traditions - hermetic mages and shamans
+* Two arcane traditions -- hermetic mages and shamans -- each with their distinct feel
 * Gear listings
-* Decking (via wired connections and VR only)
-* Riggers (including a variety of drones)
+* Decking (via wired connections and VR)
+* Riggers (including a variety of drones and rules for jumping into vehicles)
 
+The book is careful to make the minimum set of adjustments to Savage Worlds necessary, making it easy to learn and easy to modify and tweak. 
 
-xxx more here xxx
+For example, all character improvements (including getting cyberware fitted, learning new spells, increasing skills, etc) is handled via Savage Worlds's _Advances_ (basically, levelling up.) Nuyen-tracking is eliminated, and replaced with a flexible pool called _logistic points_. LPs are used to purchase the gear needed for the mission ahead, which the characters then discard and replace for the next mission -- just like in a heist movie.  
 
-### Some things to know
+Sprawlrunners covers a wide range of options for weapons with a few dozen basic statblocks ("light pistol", "compact SMG", "assault rifle", etc) which the players can combine with a few dozen modifications and variations ("burst-fire mode", "smartgun adapter", "folding stock", etc.) It walks a good middle line between allowing players the breathing room to build signature items of gear for their character, without overwhelming new players with too many options.
 
-Sprawlrunners has some innovative game mechanics that are worth understanding before you dive in.
+### Tweaking Sprawlrunners
 
-Firstly: there is no money in the game. Long time Shadowrun GMs know the difficult balancing act of there essentially being two different character improvement 'currencies' (nuyen and karma) that different archetypes need in unequal amounts (mages need more karma, streetsams need more nuyen.) As these rewards are typically handed out evenly, this can be tricky to balance.
+The author of Sprawlrunners, Manuel Sambs, is quite open that it was designed first and foremost as a toolkit for GMs to build the game they want. As such, it has been kept easy to tinker with; a neat and tidy base that can be used as-is or expanded to your tastes.
 
-Sprawlrunners deals with this by removing money as a tracked resource. Instead, character advancement - whether it is a mage learning new spells or a streetsam getting some new cyberware - is all tied to the Savage Worlds 'advances' game mechanic (essentially, levelling up.) All permanent gear like cyberware, magic inititaion, or foci are handled through this single mechanic.
+I have extensive houserules and expansions for Sprawlrunners [elsewhere on this site]({{< relref "sprawlrunners/" >}}), including wireless Matrix, rules for downtime actions, expanded cyberware, and more!
 
-Gear, vehicles, cyberdecks, drones, and similar are handled via a parallel mechanic called _logistic points_. These represent a combination of the character's cash-on-hand and their contact network; their access to fixers, weapon dealers, and so forth. Logistic points are a renewable resource. The assumption is that all the gear used during a mission is discarded afterward and replaced before the next mission. This aligns the game mechanics with the tropes of heist movies, where gear is typically ephemeral and tailored to the mission at hand.
-
-
-
-
-
-xxx advances xxx
-
-All gear purchasing is handed with **Logistics Points** rather than money.
-
-xxx write about SpR xxx
-
-
-
-
-
+Savage Worlds has a wide range of settings and expansions to draw upon for inspiration for further modifications. Compared to hacking on the Shadowrun ruleset, this is process is a complete joy, as SW is so much easier to work with.
 
 ## Interface Zero
 
