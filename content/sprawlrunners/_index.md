@@ -4,6 +4,9 @@ linkTitle: "Sprawlrunners"
 menu:
   main:
     weight: 10
+    # pre: <img src="/icons/swade_logo.png" height="30"></img>
+    # pre: <img src="/icons/cyber-eye.svg" height="30"></img>
+    # pre: <i class="fas fa-dice"></i>
 type: docs
 cascade:
   - type: "docs"
