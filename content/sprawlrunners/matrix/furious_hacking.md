@@ -14,7 +14,7 @@ weight: 1000
 
 ## Overview
 
-Furious Hacking (FH) presents a new set of streamlined rules for host hacks in a cyberpunk game setting. It is faster to resolve that Sprawlunner's "Slow Burn" hacking rules, but offers a more dynamic and exciting difficulty ramping mechanic than the "Fast Lane" hacking option.
+Furious Hacking (FH) presents a new set of streamlined rules for host hacks in a cyberpunk game setting. It is faster to resolve than Sprawlrunner's "Slow Burn" hacking rules, but offers a more dynamic and exciting difficulty ramping mechanic than the "Fast Lane" hacking option.
 
 As written, FH covers a 'classic' no-wireless cyberpunk scenario of an operator hacking into a computer host. It doesn't cover a few scenarios that we use at our table for wireless hacking, tactical use of hacking in combat, and so forth. This document presents some ideas for expanding FH to cover those.
 
