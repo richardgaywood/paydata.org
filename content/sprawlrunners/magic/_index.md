@@ -2,8 +2,9 @@
 title: "Magic"
 linkTitle: "Magic"
 type: docs
-weight: 10
+weight: 100
 no_list: true
+description: "Adding 'Universal Magic Theory' to Sprawlrunners"
 ---
 
 These houserules contain quite significant changes from normal Sprawlrunners. The intent is to give players the flexibility to freely create their own magical traditions, beyond the existing archetypes of shaman and hermetic mage. 
