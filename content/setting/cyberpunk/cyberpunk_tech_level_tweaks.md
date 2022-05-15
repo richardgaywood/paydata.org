@@ -7,19 +7,18 @@ date: 2021-12-28
 ---
 
 
-I have two slightly opposing goals for how I want my Shadowrun campaign to feel, at least in terms of the sophisticaon of technology.
+I have several slightly opposing goals for how I want my Shadowrun campaign to feel, at least in terms of the sophistication of technology.
 
 * I desire a "classic cyberpunk" feel that is roughly aligned with Shadowrun 2e and the foundational works of cyberpunk fiction from the '90s. 
-* But at the same time, I think the cyberpunk genre derives a lot of its power from feeling like it is near-future and not far-future. Character's problems and the shape of the world they inhabit should feel recognisable to us. 
+* But at the same time, I think the cyberpunk genre derives a lot of its power from feeling like it is near-future – and not retro-future or far-future. Character's problems and the shape of the world they inhabit should feel recognisable to us. 
 
     So I also want the world to reflect 20+ years of real-world technological advancement that has occurred in the last thirty years. SR5e and 6e do this, most notably in the form of wireless Matrix and all that goes with it.
-* However, I do not want technology to be too advanced. I do not want my game to start to feel more like general sci-fi. SR 5e and 6e definitely do this.
+* However, I do not want technology to be too advanced. I do not want my game to start to feel more like general sci-fi. SR 5e and 6e definitely do this, to my mind.
 * I don't want to stuff to work too well. Cyberpunk tech (or at least, the tech within monetary reach of our players) should be like real-world tech: buggy, flawed, unreliable, sometimes frustrating. I don't want it to have this high-tech sheen where everything works and nothing has any downsides. 
 
 Hence: I want to somehow find a way to blend these different approaches. This document attempts to do that for some aspects.
 
 The changes/tweaks I have proposed are more about aesthetics than they are about rules. Nothing here is changed for game balance reasons. It's just about how the fictional world looks, works, and feels. 
-
 
 ## Tech to remove completely
 
@@ -42,6 +41,8 @@ The changes/tweaks I have proposed are more about aesthetics than they are about
 
 Without tactile elements, AR control surfaces are downright clumsy to use. Touch targets have to be rendered large enough that the user can use them, and even so, prolonged use is frustrating.
 
+Xxx
+
 ## Limiting virtual reality
 
 *Reasoning: cyberpunk has armies of wageslaves crammed on commuter trains travelling to vast open-plan offices of beige cubicles and flickering neon lights. Why, if VR is so good? Why don't people stay home and jack into remote hosts instead? Their employers can still watch their every move.*
@@ -59,6 +60,10 @@ Without tactile elements, AR control surfaces are downright clumsy to use. Touch
 *Reasoning: this is just to try and clean up the profusion of overlapping interface modes and Matrix stuff that Shadowrun offers.*
 
 You are in VR (ie: full simsense, body in ragdoll RAS-override mode) when you are in a host system. All Matrix actions done not in a host are done in AR. The action of entering a host and the action of switching to VR are the same action.
+
+## DNI is not telepathy 
+
+
 
 ## Wireless Matrix interfaces on gear
 
