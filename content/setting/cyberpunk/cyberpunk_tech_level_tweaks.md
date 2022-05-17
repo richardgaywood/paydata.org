@@ -100,7 +100,8 @@ Crucially: **hacking attacks over the wireless Matrix can only effect the second
 
 Smartguns use a subdermal induction pad mounted in the user's palm and the gun's handle to establish an ultra short range private wireless connection that is used for the primary control surface (eg. cybernetic commands to eject magazines, switch firemodes, etc.) Again, a hacked smartgun cannot be instructed to fire, or not fire, or eject its magazine at an inopportune moment. 
 
-{{% alert title=“Notes” %}}So what can a wireless hacker do to gear in my Sprawlrunners game? See [my hacking houserules]({{< relref “combat_decking.md” >}}) for details.{{% /alert %}} 
+<!--
+{{% alert title=“Notes” %}}So what can a wireless hacker do to gear in my Sprawlrunners game? See [my hacking houserules]({{< relref “combat_decking.md” >}}) for details.{{% /alert %}} —->
 
 ## Drone brains
 
