@@ -23,11 +23,28 @@ So why don't they use it?
 
 ## Soft power and hard power
 
-Even a fresh-from-chargen, wet-around-the-ears 'runner has a lot of hard power: enough clout to coerce, intimidate, and threaten to get what they want. A glance over the statblocks for standard NPCs will show a lot of them wouldn't stand a lot of chance if a PC gets physical/astral/Matrixy with them. 
+Even a fresh-from-chargen, wet-around-the-ears 'runner has a lot of hard power: enough clout to coerce, intimidate, and threaten to get what they want. A glance over the statblocks for standard NPCs will show a lot of them wouldn't stand much chance if a PC gets physical/astral/Matrix-y with them. 
 
-Quickly, as they get established as trustworthy and valuable assets by various fixers and Mr Johnsons, they'll also accumulate soft power: the ability to co-opt others, to convince them their goals are aligned, the sort of clout that makes them trusted mediators and mentors. 
+Quickly, as they get established as trustworthy and valuable assets by various fixers and Mr Johnsons, they'll also accumulate soft power: the ability to co-opt others, to convince them their goals are aligned, the sort of social capital that makes them trusted mediators and mentors. 
 
-"The streets" -- by which I mean the densely networked community of people of various shades of legality that our PCs live in -- is as complicated a political landscape as any corpo boardroom. Who trusts who, who's betrayed who, who owes who a favour, who needs to buy intel, who has gear to sell: these are the currents that move through this network. 
+"The streets" -- by which I mean the densely networked community of people of various shades of legality that our PCs live in -- is as complicated a political landscape as any corpo boardroom. Who trusts who, who's betrayed who, who owes who a favour, who needs to buy intel, who has gear to sell: these are the currents that move through this network. And the PCs can contribute to this.
+
+
+## What can the characters _do_?
+
+Most shadowrunners live their lives 
+
+
+
+## Using this at the table
+
+xxx
+
+I have long been a fan of downtime phases, explicit sections of play between missions where characters can pursue their interests. 
+
+
+
+
 
 
 ## Shadowrunners in the context of the streets
