@@ -36,7 +36,7 @@ Sprawlrunners's Focus Edges, in particular, need special handling.
 
 ### Sustaining Focus
 
-When obtaining and binding the focus, the caster picks one Power that it is associated with. Whenever using that Power with an Extended Duration, the caster does not take the usual point of Fatigue when the Power ends and the caster does not suffer the usual -1 penalty to further arcane skill rolls while the Power in being sustained. 
+When obtaining and binding the focus, the caster picks one Power that it is associated with. Whenever using that Power with an Extended Duration, the caster does not take the usual point of Fatigue when the Power ends and the caster does not suffer the usual -1 penalty to further arcane skill rolls while the Power is being sustained. 
 
 Note that this contrasts with Focus Effort, which works with any Power the caster chooses but prevents them from maintaining a second Power at the same time.
 
@@ -52,9 +52,9 @@ On a Critical Backlash, the caster avoids Backlash but still has to roll on the 
 
 ## Alchemy
 
-* Spend 2 LP on reagents for any Power, add  on +1 LP per modifier being applied. 
+* Spend 2 LP on reagents for any Power, add on +1 LP per modifier being applied. 
 * Resultant preparation can be used by anyone, as per Artificer in the SWADE base rules. 
-* The creator rolls Magic to activate the Power as normal at time of creation  to determine the preparation's effectiveness & drain etc.  
+* The creator rolls Magic to activate the Power as normal at time of creation to determine the preparation's effectiveness & drain etc.  
 * Preparation lasts 1d4+1 hours before it fades. 
 
 {{% alert title="Notes" %}}Maybe can only do this after taking an Edge to unlock the ability.{{% /alert %}}
@@ -79,7 +79,7 @@ Modelled as a new Arcane Background. Requires Spirit d6+, Fighting or Shooting d
 The Summon Ally power continues to be used to summon Shadowrun style spirits, but with the following limitations:
 
 * Duration rules for the summoning follow the rules given in Furious Magic: a base duration of (Arcane Skill die type) minutes, or an Extended Duration of (Arcane Skill die type) hours. In Shadowrun terminology, an Extended Duration summoning is called "binding".
-	* Caster does not take a -1 penalty on all arcane skill rolls during an Extended Duration summoning.
+	* Binding does not count as a sustained power, so the caster does not take a -1 penalty on all arcane skill rolls during an Extended Duration summoning.
 * A normal summoner can only have one spirit summoned at once. This limit can be increased by the Lord of the Spirits and Spirit Companion Edges in Sprawlrunners.
 
 {{% alert title="Notes" %}}This may need a little more fleshing out.{{% /alert %}}

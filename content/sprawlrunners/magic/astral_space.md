@@ -4,6 +4,7 @@ linkTitle: Astral space
 type: docs
 description: The astral plane; how to go there and what to do
 date: 2020-12-03
+lastmod: 2022-08-13
 weight: 3000
 ---
 
@@ -37,7 +38,7 @@ Astral beings cannot pass through each other. They can pass through the auras of
 
 Astrally projecting mages can "manifest" to show themselves to mundanes in the physical world. They appear as a hazy, ghostly version of themselves. They can be seen by people, and talk to them.
 
-This is actually a sort of localised psychic link. They don't have a real form, and cannot interact with any physical objects. They cannot be recorded by technological devices like cameras.
+This is actually a sort of localised psychic link. They don't have a real form, and cannot interact with any physical objects. They cannot be recorded by technological devices like cameras. They cannot choose to only be visible or audible to one person in a group.
 
 Manifesting is difficult, and can only be kept up for ((Spirit Die type) * 5) minutes at a time.
 
@@ -45,15 +46,15 @@ Manifesting is difficult, and can only be kept up for ((Spirit Die type) * 5) mi
 
 If someone moves a mage's body while they are away from it, they'll need to make a Dramatic Task to re-locate it before their time on the astral plane runs out!
 
-## Assensing
+## Assensing / aura reading
 
-Roll Astral versus TN4. If the target has the Masking Edge and are choosing to use it, they can oppose this test with Spirit. If the target has Masking and the assenser does not, the Spirit roll is made at +2.
+Roll Astral skill versus TN4. If the target has the Masking Edge and are choosing to use it, they can oppose this test with Spirit. If the target has Masking and the assenser does not, the Spirit roll is made at +2.
 
 Depending on the outcome, you might learn the following:
 
 * Failure - The assenser doesn't notice anything special. Without masking, the target appears to be healthy, mundane, and be experiencing no strong emotions. If the target is using masking, they can choose to appear however they want.
 * Success - the assenser can tell:
-  * The target's metahuman race
+  * The target's metahuman subspecies
   * The general physical condition of the target - healthy, injured, or sick
   * If the target is mundane or Awakened of some kind
   * If the target has any cyberware
@@ -67,8 +68,8 @@ Depending on the outcome, you might learn the following:
 
 This is handled very much like melee combat:
 
-* Attacker rolls Astral
-* Defender's Astral Parry is (2 + (1/2 Astral skill die))
+* Attacker rolls their Astral skill
+* Defender's Astral Parry is (2 + (1/2 their Astral skill die))
 * Base damage is attacker's Spirit die
 	* Weapon Foci add their die type to this, and can be used while astrally perceiving or projecting
 	* Physical adepts who are astrally perceiving and have the Killing Hands power add their approriate die type
@@ -77,6 +78,6 @@ This is handled very much like melee combat:
 
 Note that - given how fast astral travel is - the back-and-forth of astral combat can easily cover an area hundreds of meters across.
 
-## Powers in Astral space
+## Powers in astral space
 
-Spells can be used between targets on the Astral plane as usual, but an astrally projecting mage cannot cast spells at auras that exist on the physical plane. However, dual-natured beings (like some magical critters or an astrally perceiving Awakened) can be targeted for spells.
+A spell, by definition, is the channelling of mana from the astral plane to the physical one; therefore spells cannot be used when caster, target, or both are on the astral plane. Astral beings who wish to get rid of others must use astral combat as above.
