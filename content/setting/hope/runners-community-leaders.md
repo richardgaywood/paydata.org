@@ -17,7 +17,7 @@ In other words, we need to mix up our dystopia and season it with a little hope.
 
 A lot of our stories focus on our shadowrunner PCs as being on the lower end of the power range. We follow them as they take on significant threats and deal with serious obstacles -- powerful gangs, armies of wageslave security guards, blood mages and vampires and bug spirit shamans. These are the most dramatic parts of their lives so of course it is where we put our narrative time and energy.
 
-But outside of that environment, we should always remember they are powerful. Next to the local go-gang, the low-level Mafia or Yakuza goons at the nearby watering hole, the fixers and pushers and pimps and all the other low-lives -- next to them, our PCs have _power_. 
+It's easy to forget that outside of that environment, during their day to day lives, they are powerful. Next to the local go-gang, the low-level Mafia or Yakuza goons at the nearby watering hole, the fixers and pushers and pimps and all the other low-lives -- next to them, our PCs have _power_. 
 
 So why don't they use it?
 
@@ -32,7 +32,7 @@ Quickly, as they get established as trustworthy and valuable assets by various f
 
 ## What can the characters _do_?
 
-Most shadowrunners live their lives 
+The characters have power, and with power comes agency. They can bend the world to their will. What sorts of things could they do?
 
 
 
