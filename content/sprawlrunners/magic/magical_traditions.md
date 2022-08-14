@@ -8,24 +8,67 @@ weight: 60
 draft: true
 ---
 
+## Banned powers
 
+Note that as per [Powers]({{< relref "powers.md" >}}), the following Powers from core SWADE are removed due to conflict with Shadowrun canon:
+
+* *Drain Power Points* - meaningless in a game that doesn't use power points.
+* *Object Reading* - folded into assensing and [the Astral skill]({{< relref "astral_space.md" >}}).
+* *Burrow*, *Divination*, *Intangibility*, *Resurrection*, *Teleport*, *Zombie* - contradict core Shadowrun canon.
+
+Only dark traditions can learn these Powers:
+
+* *Puppet*
+
+## Mainstream traditions
+
+### Buddhism
+
+### Chaos magic
+
+### Christian theurgy
+
+### Druidic magic
 
 ### Hermetic mages
 
-### Shamanistic traditions
+### Hinduism
 
-### Chaos mages
+### Islam
+
+### Path of the Wheel
+
+### Qabbalism
+
+### Shinto
+
+### Sioux
+
+### Shamanistic traditions
 
 ### Voudoun
 
-## Christian thaumaturgy
+{{% pageinfo %}}
+**Magic attribute:** Spirit \
+**Blocked Powers:** *Summon Ally* \
+**Signature Powers:** *Arcane Protection*, *Boost/Lower Trait*, *Confusion*, *Mind Wipe*, *Sloth/Speed*
+**Edges:** Contacts (voudou community) \
+**Hindrances:** Obligation (Major)
+{{% /pageinfo %}}
 
-## xxx
+### Wicca
+
+### Wuxing
+
+### Zoroastrianism
+
+
+## Dark traditions
 
 ### Black magic
 
 ### Blood mages
 
-### Insect shaman
+### Insect shamans
 
-### Toxic shaman
+### Toxic shamans
