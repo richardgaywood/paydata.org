@@ -20,32 +20,56 @@ Only dark traditions can learn these Powers:
 
 * *Puppet*
 
-## Mainstream traditions
+## Ancient traditions
+### Hermetic mages
+### Wicca
 
-### Buddhism
 
-### Chaos magic
-
-### Christian theurgy
+## Nature traditions
 
 ### Druidic magic
 
-### Hermetic mages
-
-### Hinduism
-
-### Islam
-
-### Path of the Wheel
-
-### Qabbalism
+### Native American shaman
 
 ### Shinto
 
+## NEED NAME
+
+### Buddhism
+
+* Smarts-based
+* Good for physads
+* ShR spells: Hiberante, Silence, Resist Pain, Mask, Spatial Sense
+
+## Divinity traditions
+
+Belief in a higher power, and that magic either flows from it, or is part of its grand plan.
+
+### Christian theurgy
+
+* Smarts based
+* Magic as a secular tool to do God's work
+* Cannot summon?
+	* Unsure if spirits are souls, angels, devils, etc
+* Strong association with Jesuit teaching
+
+### Hinduism
+
+
+### Islam
+
+* Smarts based
+* Dedicated, disciplined scholars
+* Reluctant to summon; unsure if spirits are demonic
+	* Some elites will summon _djinn_ and _ifrit_
+
+### Qabbalism
+
+* Spirits are _elohim_
+	* Golems?
+	* 
+
 ### Sioux
-
-### Shamanistic traditions
-
 ### Voudoun
 
 {{% pageinfo %}}
@@ -56,11 +80,14 @@ Only dark traditions can learn these Powers:
 **Hindrances:** Obligation (Major)
 {{% /pageinfo %}}
 
-### Wicca
-
 ### Wuxing
 
 ### Zoroastrianism
+
+
+## Others
+### Chaos magic
+
 
 
 ## Dark traditions
