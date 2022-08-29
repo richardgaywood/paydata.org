@@ -9,7 +9,7 @@ draft: true
 
 ## A quick reminder about SINs
 
-_System Identification Numbers_ or SINs are the single main ID number that a legal citizen is known by; a combination taxpayer reference, voter enrolment, driver's licence, passport, and more. SINs are issued by most of the nations in the world, as well as the largest corporations -- those who have acquired _extraterritoriality_ and so have international rights on the same foot as nation-states. 
+_System Identification Numbers_ or SINs are the single main ID number that a legal citizen is known by; a combination taxpayer reference, voter enrolment, driver's licence, passport, and more. SINs are an international standard; they are issued to their citizens by most of the nations in the world as well as the largest corporations -- those who have acquired _extraterritoriality_ and so have international recognition as nation-states in their own right. 
 
 Without a SIN, you cannot own a bank account, work, pay taxes, or vote. You have some (severely curtailed) civil rights, but the legal system is not obliged to grant you representation or protection. 
 
