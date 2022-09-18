@@ -23,6 +23,10 @@ _See also [this rule summary on Up To Four Players](https://www.uptofourplayers.
 * If the attack roll result is a raise, you can roll an extra d6 on the damage.
 * Damage dice also explode!
 
+**Bennies**: these are Savage Worlds' meta-currency. You start play with some, and the GM gives you more for doing cool stuff, roleplaying well, etc. You can use them to reroll dice, attempt to Soak (negate) incoming damage, influence the plot, and more.
+
+* If you see another player do something that deserves a Bennie but I haven't given them one, tell me so I can fix that!
+
 ## Shadowrun
 
 _The year is 2071. The world has changed, some say Awakened._
