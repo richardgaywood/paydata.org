@@ -78,7 +78,7 @@ _And, for an instant, she stared directly into those soft blue eyes and knew, wi
 
 The klept are the one percent of the one percent, the apex predators of capitalism. They are the CEOs, the political leaders, and the dragons. The *oyabuns*, *dons*, and *pakhans*. The social media influencers, the elite socialites, and the stars of screen and stage. They control wealth and power sufficient to become immune to the law; the lines between legal and illegal behaviour become hopelessly blurred. 
 
-Some are world-famous and instantly recognisable, but many more are utterly anonymous. You could pass one of them on the street and never know, unless you noted their discreet and lethal personal security squad. But know that that brief shared reality - the pavement under your feet, the sky over your head - is the only thing that unites you with that person. They live in a world you cannot imagine, and it holds none of your petty constraints and concerns. 
+Some are world-famous and instantly recognisable, but many more are utterly anonymous. You could pass one of them on the street and never know, unless you noted their discreet and lethal personal security squad. But know that that brief shared reality - the pavement under your feet, the sky over your head - is the only thing that unites you with that person. They live in a world you cannot imagine, and it holds none of your petty constraints and concerns. They have as much in common with you as you do with a shark or a piece of moon rock.
 
 <!-- 
 ## Counter-culture
