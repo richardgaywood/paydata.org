@@ -1,10 +1,9 @@
 ---
 title: Social classes
 linktitle: Social classes
-description: blah blah
+description: The Haves and the Have-Nots
 type: docs
-date: 2022-08-28
-draft: true
+date: 2022-10-15
 ---
 
 ## A quick reminder about SINs
@@ -17,6 +16,8 @@ Some people are born SINless, typically because their parents are already in tha
 
 There is a thriving black market in forged and faked SINs, mostly by hacking various databases to insert new entries. Unconvincing fake SINs cost about a week's wages, but provide only a fig-leaf of legitimacy. Convincing ones cost far more. 
 
+See [SINs & Licences]({{< ref "hsw_sins.md" >}}) for more.
+
 ## Class by class
 
 ### The unhoused
@@ -24,6 +25,11 @@ There is a thriving black market in forged and faked SINs, mostly by hacking var
 Around 5-10% of the population have no permanent residence and no steady income at all. They live in their vehicles, squats, tent cities, or just migrate around the sprawl trying to find whatever corner they can to shelter from the rain. They are mostly SINless, as the threadbare welfare programs for SINners at least keep them from falling this far. They subsist on handouts from charitable policlubs, dumpster diving, panhandling, and the occasional odd job. Substance and BTL abuse is rife as they desperately seek to escape their day-to-day existence.
 
 ### The precariat
+
+{{% pageinfo color="primary" %}}
+_The precariat is the first class in history to be losing acquired rights - cultural, civil, social, economic, and political._ \
+— Guy Standing
+{{% /pageinfo %}}
 
 The precariat make up about 20-30% of the population and are approximately evenly split between the SINless and those with a national SIN. Their defining characteristic is under-employment and economic precarity. They juggle multiple menial jobs, fighting to get enough shifts to make rent. They are cleaners, taxi drivers, krillburger flippers, soykaf servers. Some of them turn to petty crime to get by.
 
@@ -37,6 +43,11 @@ The precariat have a lot more time and energy to spare than the wageslaves. In m
 
 ### The wageslaves
 
+{{% pageinfo color="primary" %}}
+_Conservatism consists of exactly one proposition, to wit: There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect._ \
+— Frank Wilhoit
+{{% /pageinfo %}}
+
 The bulk of the population, 60% or so, are the wageslaves: ordinary working stiffs. In a former time, we would have called these "middle classes", and their existence would be characterised as both safe and comfortable. Now, their most defining characteristic is an overworked and hollowed-out numbness.
 
 Most wageslaves either toil for a smaller corp under a national SIN, or they work for a true megacorp and have a corp-issued SIN. The latter group were either born into the corp or (somewhat less often) were hired into it but required to sacrifice their national SIN in the process. The corp never misses an opportunity to remind these wageslaves that the corp can make them SINless on a whim, effectively casting them out of society. Higher level wageslaves, who have proven themselves to their megacorp patron many times over, can aspire to a higher tier of SIN that allows their partners and children to benefit also. Their children transfer to corp-owned schooling, becoming indoctrinated.
@@ -47,6 +58,12 @@ The wageslave's common working pattern is the infamous "996" -- 9am to 9pm, 6 da
 
 ### The corpos
 
+{{% pageinfo color="primary" %}}
+_I'd seen it... Seen the mask of humanity fall from capital. It has to take it off to kill everyone — everything you love; all the hope and tenderness in the world. It has to take it off, just for one second. To do the deed. And then you see it. As it strangles and beats your friends to death... the sweetest, most courageous people in the world. You see the fear and power in its eyes. Then you know that the bourgeois are not human._ \
+— Disco Elysium
+{{% /pageinfo %}}
+
+
 The difference between a wageslave and a corpo-in-the-making is belief: the corpos are the true believers in the corp's mission, the ones prepared to dedicate their lives to not just existing inside the corp but _advancing_. This almost inevitably involves total moral compromise. In return, they get a life of genuine comfort and some actual measure of security. They escape the soul crushing 996 working pattern, usually by concocting excuses to leave the office like offsite meetings. 
 
 Corpos make up around 10% of the population. Some of them start as wageslaves, and claw themselves upward on merit and a callous willingness to do what it takes. Most, however, are born into it: the sons and daughters of other corpos, groomed from an early age. Nepotism is rife in the megacorps.
@@ -55,13 +72,16 @@ The early-career corpo may be indistinguishable from a wageslaves in socio-econo
 
 ### The klept
 
-> And, for an instant, she stared directly into those soft blue eyes and knew, with an instinctive mammalian certainty, that the exceedingly rich were no longer even remotely human. — William Gibson, Count Zero
+{{% pageinfo color="primary" %}}
+_And, for an instant, she stared directly into those soft blue eyes and knew, with an instinctive mammalian certainty, that the exceedingly rich were no longer even remotely human._ \
+— William Gibson, Count Zero
+{{% /pageinfo %}}
 
-The klept are the one percent of the one percent, the apex predators of capitalism. They are the CEOs, the political leaders, and the dragons. The *oyabuns*, *dons*, and *pakhans*. The social media influencers, the socialites, the stars of screen and stage. They control wealth and power sufficient to become immune to the law; the lines between legal and illegal behaviour become hopelessly blurred. 
+The klept are the one percent of the one percent, the apex predators of capitalism. They are the CEOs, the political leaders, and the dragons. The *oyabuns*, *dons*, and *pakhans*. The social media influencers, the elite socialites, and the stars of screen and stage. They control wealth and power sufficient to become immune to the law; the lines between legal and illegal behaviour become hopelessly blurred. 
 
 Some are world-famous and instantly recognisable, but many more are utterly anonymous. You could pass one of them on the street and never know, unless you noted their discreet and lethal personal security squad. But know that that brief shared reality - the pavement under your feet, the sky over your head - is the only thing that unites you with that person. They live in a world you cannot imagine, and it holds none of your petty constraints and concerns. 
 
-
+<!-- 
 ## Counter-culture
 
 The more stifling the mainstream culture, the stronger the push against it from the youth. 
@@ -70,4 +90,4 @@ xxx
 
 ## The underclass: criminals & anarchists
 
-Criminals exist at all levels in the above system, and outside of it.  xxx
+Criminals exist at all levels in the above system, and outside of it.  xxx -->

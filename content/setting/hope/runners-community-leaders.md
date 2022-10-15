@@ -1,6 +1,6 @@
 ---
 title: Shadowrunners as community leaders
-linktitle: 'Runners in the community
+linktitle: Runners in the community
 description: Shadowrunners have power in the world, but how will yours use it?
 type: docs
 date: 2022-05-31

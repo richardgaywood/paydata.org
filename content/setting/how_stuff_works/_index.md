@@ -1,6 +1,7 @@
 ---
-title: "How Stuff Works"
-linkTitle: "How Stuff Works"
+title: "How stuff works"
+linkTitle: "How stuff works"
+desc: Exploring the minutiae of everyday life in the sprawls
 type: docs
 cascade:
   - type: "docs"
