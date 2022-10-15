@@ -22,7 +22,7 @@ See [SINs & Licences]({{< ref "hsw_sins.md" >}}) for more.
 
 ### The unhoused
 
-Around 5-10% of the population have no permanent residence and no steady income at all. They live in their vehicles, squats, tent cities, or just migrate around the sprawl trying to find whatever corner they can to shelter from the rain. They are mostly SINless, as the threadbare welfare programs for SINners at least keep them from falling this far. They subsist on handouts from charitable policlubs, dumpster diving, panhandling, and the occasional odd job. Substance and BTL abuse is rife as they desperately seek to escape their day-to-day existence.
+Around 5-10% of the population have no permanent residence and no steady income at all. They live in their vehicles, squats, tent cities, or just migrate around the sprawl trying to find whatever corner they can to shelter from the rain. They are mostly SINless, as the threadbare welfare programs for SINners are still usually enough to stop them from falling this far. They subsist on handouts from charitable policlubs, dumpster diving, panhandling, and the occasional odd job. Substance and BTL abuse is rife as they desperately seek to escape their day-to-day existence.
 
 ### The precariat
 
@@ -31,15 +31,15 @@ _The precariat is the first class in history to be losing acquired rights - cult
 — Guy Standing
 {{% /pageinfo %}}
 
-The precariat make up about 20-30% of the population and are approximately evenly split between the SINless and those with a national SIN. Their defining characteristic is under-employment and economic precarity. They juggle multiple menial jobs, fighting to get enough shifts to make rent. They are cleaners, taxi drivers, krillburger flippers, soykaf servers. Some of them turn to petty crime to get by.
+The precariat make up about 20-30% of the population and are approximately evenly split between the SINless and those with a national SIN. Their defining characteristic is under-employment and economic precarity. They juggle multiple menial jobs, fighting to get enough shifts to make rent. They compete with each other for spot-work via various smartlink apps, the modern day equivalent of day labourers gathering at the side of the road and desperately pitching for work. They are cleaners, construction workers, taxi drivers, krillburger flippers, soykaf servers; some of them turn to petty crime to get by.
 
-They live in shoebox apartments crammed into enormous buildings in poor parts of town. Power and water brown-outs are common. Muggings, burglaries, and thefts are comparatively low; these people have nothing to steal. But violent and antisocial crime is endemic.
+They live in shoebox apartments crammed into enormous buildings in poor parts of town. Power and water brown-outs are common due to failing infrastructure. Muggings, burglaries, and thefts are comparatively low; these people have nothing to steal. But violent and antisocial crime is endemic as pent-up anger leads to lashing out. 
 
 The lower classes who are SINless have mostly managed to purchase a low-grade fake SIN. It wouldn't pass any real checks but is enough that unscrupulous landlords and employers will turn a blind eye... but SIN checks in better neighbourhoods mean the SINless are effectively cordoned in the places society cannot see them. 
 
-Working patterns amongst the precariat are low, typically 20-30 hours per week, as there isn't enough work to go around.  They can rarely afford any sort of personal vehicle; they get around by bus, light transit rail, and the ever-popular bicycle. 
+Working patterns amongst the precariat are low, typically 20-30 hours per week, as there isn't enough work to go around. Most of their work comes from gig economy apps and word-of-mouth casual work. They can rarely afford any sort of personal vehicle; they get around by bus, light transit rail, and the ever-popular bicycle. 
 
-The precariat have a lot more time and energy to spare than the wageslaves. In many of the precariat, this energy finds an outlet in anger at their lot in life. If a revolution were ever to come, to burn this rotten system out by the roots, it would start here.
+The precariat have a lot more time and energy to spare than the wageslaves. For many, this energy turns into anger at their lot in life. If a revolution were ever to come, to tear this rotten system out by the roots, it would start here.
 
 ### The wageslaves
 
@@ -48,9 +48,9 @@ _Conservatism consists of exactly one proposition, to wit: There must be in-grou
 — Frank Wilhoit
 {{% /pageinfo %}}
 
-The bulk of the population, 60% or so, are the wageslaves: ordinary working stiffs. In a former time, we would have called these "middle classes", and their existence would be characterised as both safe and comfortable. Now, their most defining characteristic is an overworked and hollowed-out numbness.
+The bulk of the population, 60% or so, are the wageslaves: ordinary working stiffs. In a former time, we would have called these "middle class", and their existence would be characterised as both safe and comfortable. Now, their most defining characteristic is an overworked and hollowed-out numbness.
 
-Most wageslaves either toil for a smaller corp under a national SIN, or they work for a true megacorp and have a corp-issued SIN. The latter group were either born into the corp or (somewhat less often) were hired into it but required to sacrifice their national SIN in the process. The corp never misses an opportunity to remind these wageslaves that the corp can make them SINless on a whim, effectively casting them out of society. Higher level wageslaves, who have proven themselves to their megacorp patron many times over, can aspire to a higher tier of SIN that allows their partners and children to benefit also. Their children transfer to corp-owned schooling, becoming indoctrinated.
+Most wageslaves either toil for a smaller corp under a national SIN, or they work for a true megacorp and have a corp-issued SIN. The latter group is further divided into those born into the corp or (rather fewer) those hired into it but required to sacrifice their national SIN in the process. The corp never misses an opportunity to remind its wageslaves that the corp can make them SINless on a whim, effectively casting them out of society. The overall atmosphere is of indentured servitude imposed by the thread of statelessness. More senior level wageslaves, who have proven themselves to their megacorp patron many times over, can aspire to a higher tier of SIN that allows their partners and children to benefit also. Their children transfer to corp-owned schooling, becoming indoctrinated in turn.
 
 Wageslaves crowd the city. Most of them live crammed into towering apartment blocks in areas that at least see occasional rentacop patrols. They generally commute by public mass transit, although a large minority own a reasonably well-kept personal vehicle. The most affluent wageslaves can choose to escape the inner city to one of the pockets of single-occupant housing that still linger in the outer suburbs.  
 
@@ -62,7 +62,6 @@ The wageslave's common working pattern is the infamous "996" -- 9am to 9pm, 6 da
 _I'd seen it... Seen the mask of humanity fall from capital. It has to take it off to kill everyone — everything you love; all the hope and tenderness in the world. It has to take it off, just for one second. To do the deed. And then you see it. As it strangles and beats your friends to death... the sweetest, most courageous people in the world. You see the fear and power in its eyes. Then you know that the bourgeois are not human._ \
 — Disco Elysium
 {{% /pageinfo %}}
-
 
 The difference between a wageslave and a corpo-in-the-making is belief: the corpos are the true believers in the corp's mission, the ones prepared to dedicate their lives to not just existing inside the corp but _advancing_. This almost inevitably involves total moral compromise. In return, they get a life of genuine comfort and some actual measure of security. They escape the soul crushing 996 working pattern, usually by concocting excuses to leave the office like offsite meetings. 
 
