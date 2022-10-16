@@ -50,7 +50,7 @@ _Conservatism consists of exactly one proposition, to wit: There must be in-grou
 
 The bulk of the population, 60% or so, are the wageslaves: ordinary working stiffs. In a former time, we would have called these "middle class", and their existence would be characterised as both safe and comfortable. Now, their most defining characteristic is an overworked and hollowed-out numbness.
 
-Most wageslaves either toil for a smaller corp under a national SIN, or they work for a true megacorp and have a corp-issued SIN. The latter group is further divided into those born into the corp or (rather fewer) those hired into it but required to sacrifice their national SIN in the process. The corp never misses an opportunity to remind its wageslaves that the corp can make them SINless on a whim, effectively casting them out of society. The overall atmosphere is of indentured servitude imposed by the thread of statelessness. More senior level wageslaves, who have proven themselves to their megacorp patron many times over, can aspire to a higher tier of SIN that allows their partners and children to benefit also. Their children transfer to corp-owned schooling, becoming indoctrinated in turn.
+Most wageslaves either toil for a smaller corp under a national SIN, or they work for a true megacorp and have a corp-issued SIN. The latter group is further divided into those born into the corp or (rather fewer) those hired into it but required to sacrifice their national SIN in the process. The corp never misses an opportunity to remind its wageslaves that the corp can make them SINless on a whim, effectively casting them out of society. The overall atmosphere is of indentured servitude imposed by the threat of statelessness. More senior level wageslaves, who have proven themselves to their megacorp patron many times over, can aspire to a higher tier of SIN that allows their partners and children to benefit also. Their children transfer to corp-owned schooling, becoming indoctrinated in turn.
 
 Wageslaves crowd the city. Most of them live crammed into towering apartment blocks in areas that at least see occasional rentacop patrols. They generally commute by public mass transit, although a large minority own a reasonably well-kept personal vehicle. The most affluent wageslaves can choose to escape the inner city to one of the pockets of single-occupant housing that still linger in the outer suburbs.  
 
@@ -59,13 +59,15 @@ The wageslave's common working pattern is the infamous "996" -- 9am to 9pm, 6 da
 ### The corpos
 
 {{% pageinfo color="primary" %}}
-_I'd seen it... Seen the mask of humanity fall from capital. It has to take it off to kill everyone — everything you love; all the hope and tenderness in the world. It has to take it off, just for one second. To do the deed. And then you see it. As it strangles and beats your friends to death... the sweetest, most courageous people in the world. You see the fear and power in its eyes. Then you know that the bourgeois are not human._ \
-— Disco Elysium
+_Little by little the agents have taken over the world. They don't do anything, they don't make anything, they just stand and take their cut._ \
+— Jean Giraud, aka Mœbius
 {{% /pageinfo %}}
 
 The difference between a wageslave and a corpo-in-the-making is belief: the corpos are the true believers in the corp's mission, the ones prepared to dedicate their lives to not just existing inside the corp but _advancing_. This almost inevitably involves total moral compromise. In return, they get a life of genuine comfort and some actual measure of security. They escape the soul crushing 996 working pattern, usually by concocting excuses to leave the office like offsite meetings. 
 
 Corpos make up around 10% of the population. Some of them start as wageslaves, and claw themselves upward on merit and a callous willingness to do what it takes. Most, however, are born into it: the sons and daughters of other corpos, groomed from an early age. Nepotism is rife in the megacorps.
+
+The odd corpo is genuinely talented. They're the engineers who can lead a research lab to pioneering breakthroughs; the managers who genuinely inspire their reports; the military strategists who lead battalions to victory in Desert Wars. But these are the rare exceptions. Most of them are just dickheads in nice suits.
 
 The early-career corpo may be indistinguishable from a wageslaves in socio-economic terms - working the same hours, living in the same apartments, commuting by the same trains. But the corpo won't stay that way for long. By mid-career, they're earning 10-20× the money a wageslave does; they'll have a penthouse downtown, maybe a vacation place upstate, and pondering a boat. Successful late-career corpos are rich, callous, shallow, and cruel; moulded by the system in the process of ascending it, their humanity flensed away by the climb.
 
