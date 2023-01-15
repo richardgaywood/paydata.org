@@ -56,8 +56,8 @@ New concept: **Mod Limit**
 When using a Power, the arcane skill roll is defined as **Controlled** or **Limit Break**. 
 
 * Controlled if: 
-    * total PP of the power + all modifiers is equal to or less than POWER LIMIT, and 
-    * total number of modifiers is equal to or less than MOD LIMIT
+    * total PP of the power + all modifiers is equal to or less than the power limit, and 
+    * total number of modifiers is equal to or less than mod limit
 * Otherwise it is Limit Break
 
 **Controlled casting** works like this:
@@ -76,7 +76,7 @@ When using a Power, the arcane skill roll is defined as **Controlled** or **Limi
     * Practitioner is Stunned
     * take an unsoakable Wound
 * Take one box of Fatigue damage at the end of the scene, same as controlled casting. This does not stack ie. if the practitioner uses controlled and limit break casting in the same scene, it’s still only one box.
-* (Probably) the maximum power you can use in limit break casting is 2x your Power Limit.
+* (Probably) the maximum power you can use in limit break casting is 2x your Power Limit; any more than that will just kill you dead on the spot.
 
 [^2]: This may need tweaking, but -2 feels about right.
 
