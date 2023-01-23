@@ -36,11 +36,28 @@ There are two variants of the Magic skill: one based on Spirit and one based on 
 
 ### Hermetic mages
 
-
+Skill: Magic (Smarts) \
+Favoured Powers: \
+Barred Powers:\
+Spirit summoning: elementals
 
 ### Divinity
 
 ### Gaia
 
 ### Chaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
