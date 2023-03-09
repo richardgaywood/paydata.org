@@ -51,6 +51,10 @@ Heroic: Mountain, Ocean, Sewer, Sky
 Hermetic mages are the stereotypical "magic as a science". xxx
 
 Their Magic skill is based on Smarts.
+Skill: Magic (Smarts) \
+Favoured Powers: \
+Barred Powers:\
+Spirit summoning: elementals
 
 ### Divinity
 
@@ -72,4 +76,18 @@ Examples of animism include some Native America shamen, Shinto, and many Neo-pag
 Sample spirits (from Sprawlrunners): Home, xxx; City, Field; Mountain, Sewer.  
 
 ### Chaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
