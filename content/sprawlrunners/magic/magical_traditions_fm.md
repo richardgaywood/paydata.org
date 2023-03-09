@@ -9,6 +9,10 @@ weight: 110
 draft: true
 ---
 
+## What is a magical tradition?
+
+When magic returned to the world, people found that certain ...
+
 ## Overview of rules structure
 
 Each tradition gets:
@@ -34,13 +38,38 @@ There are two variants of the Magic skill: one based on Spirit and one based on 
 
 ## The traditions
 
-### Hermetic mages
+<!-- Sprwlrunners spirits
+
+Seasoned: Desert, Home, Swamp, Woodlands
+Veteran: City, Field, Frost, Storm
+Heroic: Mountain, Ocean, Sewer, Sky
+-->
 
 
+### Hermeticism
+
+Hermetic mages are the stereotypical "magic as a science". xxx
+
+Their Magic skill is based on Smarts.
 
 ### Divinity
 
+
+
 ### Gaia
+
+
+Sample spirits (from Sprawlrunners): Desert, Swamp  
+
+### Animism
+
+> Animism (from Latin: anima meaning 'breath, spirit, life' is the belief that objects, places, and creatures all possess a distinct spiritual essence. 
+
+Animism is distinct from Gaia tradition
+
+Examples of animism include some Native America shamen, Shinto, and many Neo-pagans. 
+
+Sample spirits (from Sprawlrunners): Home, xxx; City, Field; Mountain, Sewer.  
 
 ### Chaos
 
