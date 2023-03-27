@@ -33,7 +33,7 @@ These are the Savage Worlds books I am flicking through and drawing ideas from a
 * SWADE CRB (obviously...!)
 * Fantasy and Horror Companions, in particular the new Powers in each
 * Savage Pathfinder CRB, in particular the new Powers and the Epic Power Modifiers
-* Tomes & Prayers by Cyril Ronseaux
+* [Tomes & Prayers](https://www.drivethrurpg.com/product/319970/Tomes--Prayers-Fantasy-AddOn?) by Cyril Ronseaux
 
 ## The core concepts
 
@@ -43,6 +43,7 @@ New concept: **Power Limit**
 
 * Starts at: (½ arcane skill die type) - 2
 * Goes up when you increase your arcane skill
+    * As with Parry and Toughness, also goes up +1 every other increase past d12. So an arcane skill of d12+2 gives 7, d12+4 (should you somehow get it that high!) gives 8, and so on.
 * Goes up by 1 at each rank
 * Goes up with Edges
 
@@ -92,7 +93,7 @@ At the same time, this reduces the ability of low-level practitioners to go all-
 
 ### Healing Fatigue / Wounds
 
-This damage takes the form of whole-body subcellular disruption. In extreme cases, it resembles radiation sickness. It cannot be healed via mundane, technological, or magical means; only time. Fatigue recovers in one hour as normal, Wounds heal with natural healing rolls as usual.
+Fatigue and Wounds taken from use of powers is magical damage dealt to your entire body at the subcellular level; it cannot be treated with the Healing skill or the _healing_ or _relief_ powers. THe character can only recover with time. As normal, Fatigue recovers after an hour of rest, and Wounds heal with natural healing rolls.
 
 ### Sustaining Powers
 
@@ -103,24 +104,27 @@ Powers with durations measured in rounds can be cast in two ways, chosen when yo
 
 ### Careful Casting (maybe)
 
-A variation on controlled casting for when time is not a factor; designed to allow practitioners free-er use of powers during non-combat scenes without risking knocking themselves out.
+A variation on controlled casting for when time is not a factor; designed to allow practitioners free-er use of powers during non-combat scenes without risking knocking themselves out. (This replaces the concept of "Power Preparation" from the core SWADE NoPP rules.)
 
 * Takes ~minutes
-* Allows a free Soak roll against the drain
+* Allows a free Soak roll against the drain [^5]
 * Cannot be used for limit break casting
+
+[^5]: Maybe at a +1 or +2 modifier, too?
 
 ### Possible Edges
 
 * **Initiate:** can take once at each of Seasoned, Veteran, Heroic. Adds +1 Power Limit [^3] and +1 Mod Limit. Requirements on arcane skill and stat. 
     * Maybe: can continue to take at every other Advance at Legendary, similar to More Power Points.
 * **Sustaining focus:** allow “free” sustaining of a power, choose to use at time of casting, can only be used for one power at once
-* **Wild Magic Masochist:** allow soak attempts on the Wound for using limit break casting, but this still needs Bennies in the usual way.
+* **Wild Magic Masochist:** allow soak attempts on the Wound for using limit break casting, but this still needs Bennies in the usual way. [^4]
 * **Wild Magic Mastery:** can attempt to use powers at 2x to 3x their Power Limit; take a -4 penalty on the arcane skill roll and take backlash on a roll of a 1 or a 2.
 * **Flexible Caster:** use a Power modifier to change any Power’s trapping on the fly (Maybe Veteran rank)
 * **Arcane Mastery:** (Only if using Epic Power Modifiers, see eg. Savage Pathfinder): Adds +1 to the Mod Limit, and allows the use of Epic Power Modifiers for those powers that have them. (Veteran or Heroic rank)
 * Maybe an edge to unlock Careful Casting
 
 [^3]: This should maybe be +2 power limit per Initiate Edge.
+[^4]: This is underpowered and needs revising.
 
 Variations:
 
