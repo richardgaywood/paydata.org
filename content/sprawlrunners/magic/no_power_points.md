@@ -4,7 +4,7 @@ linkTitle: No Power Points (Draft)
 type: docs
 description: My attempt at houserules for this
 date: 2023-01-15
-lastmod: 2023-01-15
+lastmod: 2023-01-23
 weight: 10000
 ---
 
@@ -17,7 +17,7 @@ What I want to achieve:
 
 * Maximum compatibility with SWADE supplements -- I want my players to be able to use new Powers in SWADE splatbooks and settings without modification
 * Minimum book-keeping at the table
-* Minimum extra rolling -- I don't want to force a Resist Drain roll for each power used 
+* Minimum extra rolling -- I don't want to force a Resist Drain roll for each power used
 * (Ideally) support artificing, which per RAW is not compatible with No Power Points (NB: I have not yet managed this)
 * Put Powers on a curve, so they improve with the character instead of being the same from the time the character learns them -- similar to the Epic Power Modifiers in Savage Pathfinder, I think this helps "deepen" the arcane character's progression curve
 
@@ -37,6 +37,16 @@ These are the Savage Worlds books I am flicking through and drawing ideas from a
 
 ## The core concepts
 
+### Drain
+
+The act of using magic involves drawing power from somewhere and channeling it through the practitioner's body. This is tiring and can be very dangerous. _Drain_ is what happens when the practitioner pushes themselves too far. 
+
+Drain is usually Fatigue damage, but it can be a Wound in very bad cases. 
+
+Drain is resisted just like Soak, costing one Bennie per resistance attempt. Instead of Vigor, the character uses the attribute associated with their arcane or Magic skill - Spirit or Smarts. 
+
+Drain cannot be healed by magical or mundane means; only the passage of time and Natural Healing rolls. However, powers or abilities that allow a character to ignore wound or fatigue penalties do function normally against Drain damage. 
+
 ### Two new derived stats
 
 New concept: **Power Limit**
@@ -45,7 +55,7 @@ New concept: **Power Limit**
 * Goes up when you increase your arcane skill
     * As with Parry and Toughness, also goes up +1 every other increase past d12. So an arcane skill of d12+2 gives 7, d12+4 (should you somehow get it that high!) gives 8, and so on.
 * Goes up by 1 at each rank
-* Goes up with Edges
+* Goes up with Edge
 
 New concept: **Mod Limit**
 
@@ -54,44 +64,41 @@ New concept: **Mod Limit**
 
 ### Two different diceroll types for power usage
 
-When using a Power, the arcane skill roll is defined as **Controlled** or **Limit Break**. 
+When using a Power, the arcane skill roll is defined as **Controlled Magic** or **Wild Magic**. 
 
-* Controlled if: 
-    * total PP of the power + all modifiers is equal to or less than the power limit, and 
-    * total number of modifiers is equal to or less than mod limit
-* Otherwise it is Limit Break
+* Controlled Magic is what happens when: 
+    * the total PP of the power + all modifiers is equal to or less than the power limit, and 
+    * the total number of modifiers is equal to or less than mod limit
+* Otherwise, the Power usage is Wild Magic. 
 
-**Controlled casting** works like this:
+**Controlled magic** works like this:
 
-* Standard roll of arcane skill, no modifiers
+* Standard roll of standard arcane skill, no modifiers
 * Crit fail[^1] results in mild backlash - sustained spells dropped, practitioner is Shaken, the Power might also go wild in some way (GM fiat) 
-* At the end of a scene where the character does any controlled casting, they take one box of Fatigue damage (Drain) - this can be soaked with Bennies but using the arcane skill’s associated stat (Spirit or Smarts) instead of Vigor.
+* During any Power usage where the practitioner's arcane skill die aces, after the effect of the Power is resolved, they must take (or resist) one point of Fatigue Drain. 
+  * If they use a Bennie to reroll the Power usage, and the die does not ace on the roll they choose to keep, they do not take Drain. 
 
-[^1]: Unsure if backlash trigger should be on crit fail or just on a 1 on arcane skill die. For now I'm going with crit fails.
-
-**Limit Break casting** works like this:
+**Wild Magic** works like this:
 
 * Roll of arcane skill with a -2 modifier [^2]
 * Backlash happens a roll of a 1 on arcane skill die. Bad backlash: 
     * All sustained spells dropped
     * Practitioner is Stunned
-    * take an unsoakable Wound
-* Take one box of Fatigue damage at the end of the scene, same as controlled casting. This does not stack ie. if the practitioner uses controlled and limit break casting in the same scene, it’s still only one box.
-* (Probably) the maximum power you can use in limit break casting is 2x your Power Limit; any more than that will just kill you dead on the spot.
+* During any Wild Magic Power usage where the practitioner's arcane skill die aces, after the effect of the Power is resolved, they must take (or resist) one point of Woumd Drain. 
+  * If they use a Bennie to reroll the Power usage, and the die does not ace on the roll they choose to keep, they do not take Drain. 
+* (Probably) the maximum power you can use in wild magic is 2x your Power Limit; any more than that will just kill you dead on the spot.
 
 [^2]: This may need tweaking, but -2 feels about right.
 
 {{% alert title="Design Notes" %}}
 A box of fatigue damage “heals” in an hour, which is the same length of time that it takes to recover PP. Soaking allows the practitioner to potentially trade bennies for the “spellcasting resource pool”, which is fatigue here; this is similar to trading bennies for PP. So controlled casting is intended to be an approximate equivalent to a PP caster just using their pool and then relying on it refilling before they need it next.
 
-Only take Drain once for entire scene to avoid endless soak rolls & premature downing due to only having two boxes of Fatigue to start with.
-
 At the same time, this reduces the ability of low-level practitioners to go all-in on one massive Bolt with +AP, +damage, +range like they can under the PP system. It smooths out the progression curve by capping modifiers on powers at lower levels.
 {{% /alert %}} 
 
 ## Other notes and mechanics
 
-### Healing Fatigue / Wounds
+### Healing Fatigue / Wounds from Drain
 
 Fatigue and Wounds taken from use of powers is magical damage dealt to your entire body at the subcellular level; it cannot be treated with the Healing skill or the _healing_ or _relief_ powers. THe character can only recover with time. As normal, Fatigue recovers after an hour of rest, and Wounds heal with natural healing rolls.
 
@@ -99,7 +106,7 @@ Fatigue and Wounds taken from use of powers is magical damage dealt to your enti
 
 Powers with durations measured in rounds can be cast in two ways, chosen when you use the power: either normal, or sustained. 
 
-* If normal, the roll is normal, but the power terminates at the end of the duration. Practitioner needs to re-cast to do it again.
+* If normal, the roll is normal, but the power terminates at the end of the normal duration. Practitioner needs to re-cast to do it again.
 * If sustained, the power keeps going as long as they like, but they are at a cumulative -1 on all future arcane rolls per sustained power.
 
 ### Careful Casting (maybe)
@@ -145,9 +152,9 @@ During a heated disagreement about rent, Alice and Bob both let fly with _bolt_ 
 
 Alice plays it safe and uses controlled casting. She adds two modifiers to the _bolt_'s base 1PP cost: 2PP for extra damage, and 3PP for AP6. The total PP cost (6) is still within her power limit, so this is definitely controlled. She rolls her d12 Spellcasting without modifiers.
 
-Bob is getting a little carried away and overdoes it. He casts _bolt_ with the 2PP extra damage modifier. That's within his Modifer Limit, but the total cost of the _bolt is now 3PP - over his power limit. So this is now a Limit Break cast. He rolls his d8 Spellcasting at a -2 penalty. He gets an 8 on his Wild Die, so the _bolt_ lands. But he rolls a 1 on his Spellcasting die! As the spell rips from his body, he pays a price: he is Stunned and he takes an immediately Wound. He has Bennies, but he can't try and soak this Wound.
+Bob is getting a little carried away and overdoes it. He casts _bolt_ with the 2PP extra damage modifier. That's within his Modifer Limit, but the total cost of the _bolt is now 3PP - over his power limit. So this is now a Wild Magic cast. He rolls his d8 Spellcasting at a -2 penalty. He gets an 8 on his Wild Die, so the _bolt_ lands. But he rolls a 1 on his Spellcasting die! As the spell rips from his body, he pays a price: he is Stunned and he takes an immediately Wound. He has Bennies, but he can't try and soak this Wound.
 
-Two _bolts_ are enough to subdue the landlord and Alice and Bob are free to go about their business. As the scene has ended, they both now take a box of Fatigue damage. Alice doesn't have anything else to do today, so she decides to just take her damage, and will spend an hour relaxing to let it heal naturally. Bob is feeling rather worse for wear, however, and spends a Bennie to attempt to soak the fatigue. He will roll his Spellcasting attribute -- Smarts -- to do so.
+<!-- Two _bolts_ are enough to subdue the landlord and Alice and Bob are free to go about their business. As the scene has ended, they both now take a box of Fatigue damage. Alice doesn't have anything else to do today, so she decides to just take her damage, and will spend an hour relaxing to let it heal naturally. Bob is feeling rather worse for wear, however, and spends a Bennie to attempt to soak the fatigue. He will roll his Spellcasting attribute -- Smarts -- to do so. -->
 
 ### Ranges of power/mod limits
 
