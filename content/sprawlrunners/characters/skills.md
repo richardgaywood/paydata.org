@@ -4,7 +4,7 @@ linkTitle: "Skills"
 type: docs
 weight: 500
 date: 2020-11-18
-lastmod: 2021-03-20
+lastmod: 2023-03-27
 ---
 
 My houserules make some small changes to the available skills in Savage Worlds and Sprawlrunners. Below is a complete reference to all the skills, including the ones in core SWADE. It also has some clarifications of which skill applies to some common actions where it's perhaps not immediately obvious (eg. is a Matrix search Electronics, Hacking, or Research?)
@@ -59,10 +59,9 @@ If using a social skill in a language other than the character's native tongue, 
 
 ## Magical skills
 
-* **Astral** (Smarts): The skill to assense living beings' auras or engage in combat on the Astral Plane.
-* **Conjuration** (Spirit): The skill for summoning or banishing spirits, for all magical traditions.
-* **Sorcery** (Smarts): The spellcasting skill for Arcane Background (logical spellcaster).
-* **Sorcery** (Spirit): The spellcasting skill for Arcane Background (intuitive spellcaster).
+* **Astral** (Smarts): The skill to assense living beings' auras and engage in combat on the Astral Plane.
+* **Magic** (Smarts): The spellcasting skill for Arcane Backgrounds that have a Smarts basis.
+* **Magic** (Spirit): The spellcasting skill for Arcane Backgrounds that have a Spirit basis.
 
 See also "Arcana" under knowledge skills, below.
 
@@ -87,7 +86,7 @@ See also Common Knowledge, above.
 ## For reference: what I've changed
 
 * Added a special skill specialisation rule to Common Knowledge
-* Added Astral and Conjuration to magic skills, renamed Occult to Arcana.
+* Added Astral to magic skills and renamed Occult to Arcana.
 * Reshuffled the boundaries between Hacking, Electronics, and Repair to make them slightly more intuitive (to me, at least.)
 * Added Etiquette
 * Added Corps knowledge skill.

@@ -2,7 +2,7 @@
 title: "Magic"
 linkTitle: "Magic"
 type: docs
-weight: 100
+weight: 175
 no_list: true
 description: "Adding 'Universal Magic Theory' to Sprawlrunners"
 ---
