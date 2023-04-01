@@ -2,7 +2,7 @@
 title: Languages 
 linkTitle: Languages
 type: docs     
-weight: 550 
+weight: 310 
 description: Houserules for spoken languages in the Sprawl 
 date: 2021-04-02
 --- 

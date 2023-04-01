@@ -13,8 +13,8 @@ date: 2021-03-21T12:00:00.000Z
   * Synaptic boosters  
   * Bone density
   * Overclocked / hyperactive platelets 
-* Buffed/clarified [smartlinks]({{< relref "sprawlrunners/augmentations/cyberware.md#smartlink" >}}).
-* Added [improved vehicle control rig]({{< relref "sprawlrunners/augmentations/cyberware.md#improved-vehicle-control-rig" >}}).
-* Added [wired reflexes]({{< relref "sprawlrunners/augmentations/cyberware.md#wired-reflexes" >}}).
+* Buffed/clarified [smartlinks]({{< relref "cyberware.md#smartlink" >}}).
+* Added [improved vehicle control rig]({{< relref "cyberware.md#improved-vehicle-control-rig" >}}).
+* Added [wired reflexes]({{< relref "cyberware.md#wired-reflexes" >}}).
 
 <!--more-->

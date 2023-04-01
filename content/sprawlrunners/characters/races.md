@@ -2,7 +2,7 @@
 title: Races 
 linkTitle: Races
 type: docs     
-weight: 300 
+weight: 200 
 description: Houserules for metahuman races
 date: 2020-12-01
 lastmod: 2021-04-18

@@ -4,7 +4,7 @@ linkTitle: Chargen
 type: docs
 description: Quick notes on how to generate characters for Sprawlrunners
 date: 2020-11-15
-weight: 200
+weight: 100
 ---
 
 There is a character generation tool for Savage Worlds at [savaged.us](https://savaged.us/). It's free, and has support for Sprawlrunners, but there's a few non-obvious things to getting the best from it. It also has a few minor areas in which it doesn't quite reflect the Sprawlrunners rules, so you'll need to manually adjust your character or just ignore it's validation warnings.
@@ -38,7 +38,7 @@ This is covered in detail in SWADE pgs 9-59, but I'll do a summary here.
 7. **[Edges]({{< relref "edges.md" >}})**: Use any leftover Hindrance points to take starting Edges if you like. Each Edge costs 2 Hindrance points. Some Edges have additional rules to be aware of:
 	* Mages take one or two special Edges called *arcane backgrounds*. There are four arcane backgrounds: two flavours of spellcasting, spirit summoning, and physical adept. Once you take the arcane background edge, it unlocks powers. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more.
 		* Note that all the Power Edges in core SWADE are removed, with the exception of New Powers. They are replaced by a selection in Sprawlrunners pg 16 (although few are available at chargen.)
-	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some [cyberware systems]({{< relref "sprawlrunners/augmentations/cyberware.md" >}}), and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edges.md#edges-with-required-augmentation-trappings" >}}) for details.
+	* Cybered characters will want to take the Implanted and Chromed edges. Chromed both grants Implant Points to spend on some [cyberware systems]({{< relref "cyberware.md" >}}), and unlocks access to further Edges used for other cyberware. See [Edge trappings]({{< relref "edges.md#edges-with-required-augmentation-trappings" >}}) for details.
 7. **Powers, cyberware, and physad powers**: If you took Edges that give you powers to choose, cyberware implant points to spend, or physad power points (called "chi points" in Sprawlrunners), spend those now. These are chosen from the Sprawlrunners book.
 8. **Advances**: All of the above creates a character at the Novice level. We will start new characters at Seasoned instead, so you now get to apply four advances to your character. Each advance can be used in one of a few ways:
 	* Gain a new Edge.

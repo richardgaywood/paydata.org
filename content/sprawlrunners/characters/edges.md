@@ -2,7 +2,7 @@
 title: Edges 
 linkTitle: Edges
 type: docs     
-weight: 600 
+weight: 400 
 description:  New and improved edges 
 date: 2020-11-18 
 lastmod: 2021-03-21
@@ -18,7 +18,7 @@ In my houserules, certain standard SWADE edges are modified to require an "augme
 
 NB: for avoidance of doubt: only characters with the Adept arcane background can use the Adept Power trapping. And mages who take edges with the Bioware trapping suffer the same -1 penalty to magic rolls as if they'd taken one of the Cyberware edges.
 
-The above doesn't effect cyberware, which follows standard Sprawlrunners rules; ie., you take Cyberware edges that grant implant points (see below), then spend those implant points on specific cyberware that grant you buffs and abilities (see [Cyberware]({{< relref "../augmentations/cyberware.md" >}})).
+The above doesn't effect cyberware, which follows standard Sprawlrunners rules; ie., you take Cyberware edges that grant implant points (see below), then spend those implant points on specific cyberware that grant you buffs and abilities (see [Cyberware]({{< relref "cyberware.md" >}})).
 
 ## New and amended Edges
 
@@ -105,13 +105,13 @@ Only available with [augmentation trapping]({{< relref "../augmentations/" >}}).
 {{% pageinfo %}}
 #### Rock and Roll!
 
-Replaced by [Recoil Compensation System]({{< relref "../augmentations/cyberware.md#recoil-compensation-system" >}}) for cyberarms.
+Replaced by [Recoil Compensation System]({{< relref "cyberware.md#recoil-compensation-system" >}}) for cyberarms.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
 #### Marksman
 
-Replaced by [smartlinks]({{< relref "sprawlrunners/augmentations/cyberware.md#smartlink" >}}).
+Replaced by [smartlinks]({{< relref "cyberware.md#smartlink" >}}).
 {{% /pageinfo %}}
 
 {{% pageinfo %}}
@@ -124,7 +124,7 @@ Only available with [augmentation trapping]({{< relref "../augmentations/" >}}).
 
 {{% pageinfo %}}
 #### Ace
-Replaced by [improved vehicle control rig]({{< relref "sprawlrunners/augmentations/cyberware.md#improved-vehicle-control-rig" >}}).
+Replaced by [improved vehicle control rig]({{< relref "cyberware.md#improved-vehicle-control-rig" >}}).
 {{% /pageinfo %}}
 
 {{% pageinfo %}}

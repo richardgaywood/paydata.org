@@ -2,7 +2,7 @@
 title: "Skills for my campaign"
 linkTitle: "Skills"
 type: docs
-weight: 500
+weight: 300
 date: 2020-11-18
 lastmod: 2023-03-27
 ---

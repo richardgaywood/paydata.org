@@ -3,10 +3,10 @@ title: "Cyberware"
 linkTitle: "Cyberware"
 description: Gotta get chromed, chummer
 type: docs
-weight: 100
+weight: 1000
 date: 2021-01-08
 lastmod: 2021-03-21
-aliases: ["sprawlrunners/characters/cyberware"]
+aliases: ["sprawlrunners/augmentations/cyberware"]
 ---
 
 ## Upgrades
