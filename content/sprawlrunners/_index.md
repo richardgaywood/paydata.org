@@ -17,17 +17,3 @@ cascade:
 After a few years of battling the Shadowrun rules, my table eventually threw in the towel and ported our in-progress campaign to Sprawlrunners. So far, we've been really happy with this decision.
 
 This section documents our use of the generic Sprawlrunners toolkit to create a Shadowrun-esque game. They contain various setting expansions, clarifications, houserules, and so forth that my table uses in our campaign. The end result is broadly compatible with the Shadowrun setting but contain numerous simplifications compared to the Shadowrun rules - by design. 
-
-<!-- 
-
-things to write!
-
-* deckers - hiding s-PANs
-* riggers - drone decks
-* mages - spirit stats
-* mages - translated grimoire
-* new Edges/Hindrances from other SR books/conversions?
-* new cyberware/bioware
-  * sleep regulator
-* more weapons
--->
