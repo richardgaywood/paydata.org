@@ -12,7 +12,7 @@ lastmod: 2021-03-21
 
 Mage characters will need to take one or two special Edges in order to become mages. These Edges, in effect, unlock a whole skill tree. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more information.
 
-## Edges with required 'augmentation' trapping
+## Edges with required <i class="fa-brands fa-superpowers"></i> 'augmentation' trapping
 
 In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either bioware or a physical adept power. These Edges are all listed below. For details on how the trappings work, see [Bioware]({{< relref "../augmentations/bioware.md" >}}) and [Adept Powers]({{< relref "../augmentations/adept_powers.md" >}}).
 
@@ -27,7 +27,7 @@ The above doesn't effect cyberware, which follows standard Sprawlrunners rules; 
 {{% pageinfo %}}
 #### Quick
 
-Only available with [augmentation trapping]({{< relref "../augmentations/" >}}).
+Only available with <i class="fa-brands fa-superpowers"></i> [augmentation trapping]({{< relref "../augmentations/" >}}).
 {{% /pageinfo %}} 
 
 ### Cyberware Edges
@@ -85,7 +85,7 @@ The character has gained access to a top secret black lab that offers the most c
 ### Combat edges
 
 {{% pageinfo %}}
-#### Brawler / Bruiser
+#### <i class="fa-regular fa-circle-xmark"></i> Brawler / Bruiser
 
 Replaced by [Bone Density]({{< relref "sprawlrunners/augmentations/bioware.md#bone-density" >}}).
 {{% /pageinfo %}}
