@@ -11,7 +11,7 @@ aliases: ["sprawlrunners/augmentations/cyberware"]
 
 ## Upgrades
 
-In general, as long as the storyline allows time for characters to go through the necessary surgery, characters may choose to have old cyberware systems removed or upgraded when acquiring new cyberware. For example, if you have Wired Reflexes (1.5 Implant Points), you can pay another 1.5 points to upgrade to Improved Wired Reflexes.
+In general, as long as the storyline allows time for characters to go through the necessary surgery, characters may choose to have old cyberware systems removed or upgraded when acquiring new cyberware.
 
 ## Eyeware
 
@@ -20,9 +20,6 @@ In general, as long as the storyline allows time for characters to go through th
 
 Clarification that all cybereyes provide, by default, approximately 20/10 vision, or around twice as good as a normal person today. 
 {{% /pageinfo %}}
-
-
-
 
 
 
@@ -53,9 +50,7 @@ These do not count as natural weapons, and therefore their damage does not stack
 **Implant points: 1** \
 **Required: cybereryes**
 
-When using a smartlinked weapon, the shooter may ignore up to 2 points of penalties due to range, cover, called shot, speed, or scale. (For ease of use, this is the same as the list of penalties affected by the Aim action.) This stacks with the Aim action.
-
-If there are no penalties from any of those categories that effect the roll, the smartlink adds +1 to the Shooting roll instead.
+No changes to Sprawlrunners RAW; cancels 2 points of penalties when making a Shooting roll with a smartgun.
 {{% /pageinfo %}} 
 
 
@@ -72,18 +67,6 @@ Gain the ability to Jump In to a vehicle or drone, either wired or wirelessly. W
 In addition to the benefits of the VCR, above, the user can now ignore 2 points of penalties to any Boating, Driving, or Piloting roll. The rigger may also spend Bennies to soak damage for any vehicle or drone they are jumped into, using the appropriate Boating/Piloting/Driving skill instead of Vigor. Each success and raise negates a Wound the vehicle would have taken.
 
 {{% /pageinfo %}}
-
-{{% pageinfo %}}
-### Wired Reflexes
-**Implant points: 1.5** 
-### Improved Wired Reflexes
-**Implant points: 3** 
-
-Synthetic wiring replaces major nerve trunks with faster-acting pathways.
-
-With Wired Reflexes, the character can ignore 1 point of Multi-Action Penalty per turn. With Improved Wired Reflexes, this increases to 2 points. This effect is compatible with with reflex-changing bioware, like Synaptic Accelerators or Adrenal Pump.
-{{% /pageinfo %}}
-
 
 ## Cyberlimbs
 
