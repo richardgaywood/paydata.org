@@ -8,26 +8,26 @@ date: 2020-11-18
 lastmod: 2021-03-21
 --- 
 
-## Magical edges
+## Edges with required <i class="fa-brands fa-superpowers"></i> augmentation trapping
 
-Mage characters will need to take one or two special Edges in order to become mages. These Edges, in effect, unlock a whole skill tree. See [Arcane Backgrounds]({{< relref "arcane_backgrounds.md" >}}) for more information.
+In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either specialised cyberware or a physical adept magical ability. These Edges are all listed below and annotated with the <i class="fa-brands fa-superpowers"></i> icon.
 
-## Edges with required <i class="fa-brands fa-superpowers"></i> 'augmentation' trapping
+NB: for avoidance of doubt: only characters with the Adept arcane background can use the Adept trapping. Mages who take edges with the Bioware trapping suffer the same -1 penalty to magic rolls as if they'd taken one of the Cyberware edges.
 
-In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either bioware or a physical adept power. These Edges are all listed below. For details on how the trappings work, see [Bioware]({{< relref "../augmentations/bioware.md" >}}) and [Adept Powers]({{< relref "../augmentations/adept_powers.md" >}}).
+The above doesn't effect Implant Point based cyberware, which follows standard Sprawlrunners rules; ie. you take Cyberware edges that grant implant points (see below), then spend those implant points on specific cyberware that grant you buffs and abilities (see [Cyberware]({{< relref "cyberware.md" >}})).
 
-NB: for avoidance of doubt: only characters with the Adept arcane background can use the Adept Power trapping. And mages who take edges with the Bioware trapping suffer the same -1 penalty to magic rolls as if they'd taken one of the Cyberware edges.
+## Edges from other books
 
-The above doesn't effect cyberware, which follows standard Sprawlrunners rules; ie., you take Cyberware edges that grant implant points (see below), then spend those implant points on specific cyberware that grant you buffs and abilities (see [Cyberware]({{< relref "cyberware.md" >}})).
+A reminder to my players that any Edge from any of our Savage Worlds supplements is a candidate to include in the game. Just ask.
 
 ## New and amended Edges
 
 ### Background Edges
 
 {{% pageinfo %}}
-#### Quick
+#### <i class="fa-brands fa-superpowers"></i> Quick
 
-Only available with <i class="fa-brands fa-superpowers"></i> [augmentation trapping]({{< relref "../augmentations/" >}}).
+_Cyberware trapping: Adrenaline Pump_. The owner's adrenal glands are buffered by an implanted reservoir. In times of high stress, this reservoir pumps out, flooding their nervous system with adrenaline and super-charging their reflexes.
 {{% /pageinfo %}} 
 
 ### Cyberware Edges
@@ -43,7 +43,6 @@ As such it is functionally equivalent to a rule that says "Anybody can take any 
 
 If you character is not a mage of any kind, you can skip the Implanted edge entirely, as it has no effect on you. If your character is a mage, and you do want to take some zero-implant-point cyberware, that's the only time you need to take it. 
 
-Note that if you take Implanted on savaged.us, it'll use up one of your perk points, as there's no way to zero-out the cost of an Edge on there. So just skip adding it on the site, and only add it to your character sheet later if you need it.
 {{% /pageinfo %}} 
 
 {{% pageinfo %}}
@@ -87,13 +86,13 @@ The character has gained access to a top secret black lab that offers the most c
 {{% pageinfo %}}
 #### <i class="fa-regular fa-circle-xmark"></i> Brawler / Bruiser
 
-Replaced by [Bone Density]({{< relref "sprawlrunners/augmentations/bioware.md#bone-density" >}}).
+_Cyberware trapping: Bone Density_. A combination of genetic modifications and implanted engineered glands alters the subject's bone tissue, making it much harder and more dense. 
 {{% /pageinfo %}}
 
 {{% pageinfo %}}
-#### Hard to Kill / Harder to Kill
+#### <i class="fa-regular fa-circle-xmark"></i> Hard to Kill / Harder to Kill
 
-Replaced by [Overclocked Platelets]({{< relref "sprawlrunners/augmentations/bioware.md#overclocked-platelets" >}}).
+_Cyberware trapping: Overclocked Platelets_. Grafted platelet factories are added to the user's blood system along major blood vessels. This greatly increases the body's immediate response to trauma of all kinds.
 {{% /pageinfo %}}
 
 {{% pageinfo %}}
