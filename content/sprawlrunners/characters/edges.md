@@ -92,10 +92,6 @@ _Cyberware trapping: Wired Reflexes._ Subdermal conduits augment or outright rep
 Replaced by [Recoil Compensation System]({{< relref "cyberware.md#recoil-compensation-system" >}}) for cyberarms.
 {{% /edge %}}  
 
-{{% edge name="Marksman" removed="y" %}}
-Replaced by [smartlinks]({{< relref "cyberware.md#smartlink" >}}).
-{{% /edge %}} 
-
 {{% edge name="Nerves of Steel / Improved Nerves of Steel" aug="y" %}}
 _Cyberware trapping: Pain Editor_. Cybernetic co-processors installed along the spinal column mute pain signals. Drug glands implanted along major blood vessels respond to excessive trauma by releasing powerful opioid and NSAID analogs. The body's pain response is significantly numbed.
 {{% /edge %}}  
