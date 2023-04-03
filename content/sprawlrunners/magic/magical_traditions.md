@@ -1,6 +1,6 @@
 ---
 title: Magical traditions
-linkTitle: Traditions
+linkTitle: Traditions / ABs
 type: docs
 description: Different ways to get your magic on
 date: 2022-08-13

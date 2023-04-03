@@ -1,11 +1,12 @@
 ---
-title: Houserules for No Power Points
-linkTitle: No Power Points (Draft)
+title: Using Powers
+linkTitle: Using Powers
 type: docs
-description: My attempt at houserules for this
+description: My take on No-Power-Points spell casting
 date: 2023-01-15
 lastmod: 2023-01-23
-weight: 10000
+weight: 100
+icon: "fa-solid fa-pencil"
 ---
 
 {{% pageinfo %}}This is a draft for discussion and fun only; **it is not currently canon for my campaign**. It has not yet had any playtesting and key balance values and modifiers probably need tuning.
