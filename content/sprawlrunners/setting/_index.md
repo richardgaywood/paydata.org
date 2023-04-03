@@ -1,6 +1,6 @@
 ---
 title: "Setting Rules"
-linkTitle: "Setting"
+linkTitle: "Setting Rules"
 type: docs
 weight: 800
 ---

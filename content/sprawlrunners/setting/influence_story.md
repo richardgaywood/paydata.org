@@ -1,10 +1,11 @@
 ---
 title: Influencing the Story
-linkTitle: Influencing the Story
+linkTitle: Influence Story
 type: docs
 description: Houserules for using Bennies during a mission
 date: 2021-08-02
 weight: 200
+icon: "fa-solid fa-pencil"
 ---
 
 {{% pageinfo %}}These rules are draft/for discussion, and are not yet canon for our game.{{% /pageinfo %}}
