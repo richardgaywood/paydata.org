@@ -128,6 +128,44 @@ Replaced by [improved vehicle control rig]({{< relref "sprawlrunners/augmentatio
 {{% /pageinfo %}}
 
 {{% pageinfo %}}
+#### Aggressive Driver
+Requirements: Novice, Driving d8+, Vehicle Control Rig
+
+Using their VCR-enhanced link to their ride, the character is particularly skilled at vehicular battering rams. In a Chase scene, the character can perform Force and Ram manoeuvres against vehicles one card away, rather than on the same card. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks.
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
+#### Escape Artist
+Requirements: Novice, Athletics d6+, Thievery d8+
+
++2 to on Thievery rolls to escape handcuffs or other restraints (including straightjackets.) +2 to Athletics to squeeze through small spaces.
+{{% /pageinfo %}}
+
+
+{{% pageinfo %}}
+#### Demolition Man
+Requirements: Novice, Repair d8+, Science d6+
+
++2 to Repair rolls to set, disarm, or manufacture explosives. +1 to Notice to spot hidden explosives.
+
+Each Raise on the Repair roll allows the character to select one of the following bonuses:
+
+* POTENCY: +d6 damage
+* BREACH: 2 AP
+* AREA: increase by one step, Personal -> SBT -> MBT -> LBT.
+{{% /pageinfo %}}
+
+{{% pageinfo %}}
+#### Getaway Driver
+Requirements: Novice, Driving d8+, Vehicle Control Rig
+
+Using their VCR-enhanced link to their ride, the character is particularly skilled at using the environment to foil pursuit - sharp turns at high speed, manoeuvres through narrow alleys to break line of sight, knowing where to hide the car to lose a tail.
+
+In a Chase scene, the character can attempt a Flee manoeuvre one card earlier than usual. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks.
+{{% /pageinfo %}}
+
+
+{{% pageinfo %}}
 #### Mod Shop
 Requirements: Novice, Repair d6+
 
@@ -148,6 +186,19 @@ Character gains a further 4 Mod Points, in addition to the 3 granted for Mod Sho
 Requirements: Veteran, Repair d8+, Improved Mod Shop
 
 Character gains a further 5 Mod Points. This Edge can be taken a second time at Legendary rank.
+{{% /pageinfo %}} 
+
+
+{{% alert title="Acknowledgements" %}}Some of the Edges above were inspired by or adapted from the following SWADE books: Wiseguys, Fantasy Companion, Horror Companion.{{% /alert %}} 
+
+### Social Edges
+
+
+{{% pageinfo %}}
+#### Friends in Low Places
+Requirements: Seasoned, Streewise?, Persuasion d8+
+
+The character has a wide range of carefully cultivated assets. Once per session, the character may call in a favour without spending a Bennie. Once the favour is done, the character can choose to turn the acquaintance into a Contact automatically if they choose, again, without spending a Bennie. See [Contacts]({{< relref "contacts.md" >}}) 
 {{% /pageinfo %}} 
 
 
