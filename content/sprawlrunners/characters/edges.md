@@ -5,7 +5,7 @@ type: docs
 weight: 600 
 description:  New and improved edges 
 date: 2020-11-18 
-lastmod: 2021-03-21
+lastmod: 2023-04-30
 --- 
 
 ## Magical edges
@@ -198,7 +198,7 @@ Character gains a further 5 Mod Points. This Edge can be taken a second time at 
 #### Friends in Low Places
 Requirements: Seasoned, Streewise?, Persuasion d8+
 
-The character has a wide range of carefully cultivated assets. Once per session, the character may call in a favour without spending a Bennie. Once the favour is done, the character can choose to turn the acquaintance into a Contact automatically if they choose, again, without spending a Bennie. See [Contacts]({{< relref "contacts.md" >}}) 
+The character has a wide range of carefully cultivated assets. Once per session, the character may call in a favour without spending a Bennie. Once the favour is done, the character can choose to turn the acquaintance into a Contact automatically if they choose, again, without spending a Bennie. See [Contacts]({{< relref "sprawlrunners/setting/contacts.md" >}}) 
 {{% /pageinfo %}} 
 
 
