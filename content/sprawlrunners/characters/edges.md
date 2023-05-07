@@ -102,6 +102,43 @@ _Cyberware trapping: Pain Editor_. Cybernetic co-processors installed along the 
 Replaced by [improved vehicle control rig]({{< relref "cyberware.md#improved-vehicle-control-rig" >}}).
 {{% /edge %}} 
 
+
+
+{{% edge name="Aggressive Driver" %}}
+_Requirements: Novice, Driving d8+, Vehicle Control Rig_
+
+Using their VCR-enhanced link to their ride, the character is particularly skilled at vehicular battering rams. In a Chase scene, the character can perform Force and Ram manoeuvres against vehicles one card away, rather than on the same card. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks.
+{{% /edge %}} 
+
+{{% edge name="Escape Artist" %}}
+_Requirements: Novice, Athletics d6+, Thievery d8+_
+
++2 to on Thievery rolls to escape handcuffs or other restraints (including straightjackets.) +2 to Athletics to squeeze through small spaces. 
+{{% /edge %}} 
+
+
+{{% edge name="Demolition Man" %}}
+_Requirements: Novice, Repair d8+, Science d6+_
+
++2 to Repair rolls to set, disarm, or manufacture explosives. +1 to Notice to spot hidden explosives.
+
+Each Raise on the Repair roll allows the character to select one of the following bonuses:
+
+POTENCY: +d6 damage
+BREACH: 2 AP
+AREA: increase by one step, Personal -> SBT -> MBT -> LBT.
+{{% /edge %}} 
+
+{{% edge name="Getaway Driver" %}}
+_Requirements: Novice, Driving d8+, Vehicle Control Rig_
+
+Using their VCR-enhanced link to their ride, the character is particularly skilled at using the environment to foil pursuit - sharp turns at high speed, manoeuvres through narrow alleys to break line of sight, knowing where to hide the car to lose a tail.
+
+In a Chase scene, the character can attempt a Flee manoeuvre one card earlier than usual. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks. 
+{{% /edge %}} 
+
+
+
 {{% edge name="Mod Shop" %}}
 Requirements: Novice, Repair d6+
 
@@ -123,4 +160,9 @@ Character gains a further 5 Mod Points. This Edge can be taken a second time at 
 {{% /edge %}}  
 
 
+### Social Edges
+{{% edge name="Friends in Low Places" %}}
+_Requirements: Seasoned, Streewise?, Persuasion d8+_
 
+The character has a wide range of carefully cultivated assets. Once per session, the character may call in a favour without spending a Bennie. Once the favour is done, the character can choose to turn the acquaintance into a Contact automatically if they choose, again, without spending a Bennie. See [Contacts]({{< relref "sprawlrunners/setting/contacts.md" >}})
+{{% /edge %}}

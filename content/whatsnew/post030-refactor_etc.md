@@ -1,6 +1,6 @@
 ---
 title: Site refactor and other changes
-date: 2022-09-18
+date: 2023-??-??
 ---
 
 Lots of small edits and cleanups all over the site, including shuffling around old content into new places that makes more sense. Tightened up some text in edits and changed some outdate older rules that we were no longer using. Discarded some of my less sensible changes.
