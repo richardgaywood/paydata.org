@@ -6,6 +6,8 @@
 
 #### {{ if (.Get "aug") }}<i class="fa-brands fa-superpowers"></i>{{ end }} {{ if (.Get "removed") }}<i class="fa-solid fa-ban"></i>{{ end }} {{ .Get "name" }}
 
+{{ if (.Get "req") }}<i>Requirements: {{ .Get "req" }} </i>{{ end }} 
+
 {{ .Inner }}
 
 </div>

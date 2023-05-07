@@ -43,33 +43,23 @@ As such it is functionally equivalent to a rule that says "Anybody can take any 
 If you character is not a mage of any kind, you can skip the Implanted edge entirely, as it has no effect on you. If your character is a mage, and you do want to take some zero-implant-point cyberware, that's the only time you need to take it. 
 {{% /edge %}} 
 
-{{% edge name="Chromed" %}}
-Required: Novice, Spirit d6+, Vigor d6+
-
+{{% edge name="Chromed" req="Novice, Spirit d6+, Vigor d6+" %}}
 Same as Sprawlrunners RAW (pg 15).
 {{% /edge %}} 
 
-{{% edge name="Man and Machine" %}}
-Required: Seasoned, Spirit d8+ or Vigor d8+, Chromed
-
+{{% edge name="Man and Machine" req="Seasoned, Spirit d8+ or Vigor d8+, Chromed" %}}
 Same as Sprawlrunners RAW (pg 15).
 {{% /edge %}} 
 
-{{% edge name="Betaware" %}}
-Required: Veteran, Man and Machine
-
+{{% edge name="Betaware" req="Veteran, Man and Machine" %}}
 The character has gained regular access to a betaware clinic, which can offer a higher grade of cyberware, more closely tailored to the user's system. They get 2 more implant points.
 {{% /edge %}} 
 
-{{% edge name="More Machine than Man" %}}
-Required: Heroic, Betaware
-
+{{% edge name="More Machine than Man" req="Heroic, Betaware" %}}
 Same as Sprawlrunners RAW (pg 16) but you can only take this Edge once.
 {{% /edge %}} 
 
-{{% edge name="Deltaware" %}}
-Required: Legendary, Betaware
-
+{{% edge name="Deltaware" req="Legendary, Betaware" %}}
 The character has gained access to a top secret black lab that offers the most cutting edge cyberware in existence. They get 2 more implant points.
 {{% /edge %}}  
 
@@ -104,22 +94,16 @@ Replaced by [improved vehicle control rig]({{< relref "cyberware.md#improved-veh
 
 
 
-{{% edge name="Aggressive Driver" %}}
-_Requirements: Novice, Driving d8+, Vehicle Control Rig_
-
+{{% edge name="Aggressive Driver" req="Novice, Driving d8+, Vehicle Control Rig" %}}
 Using their VCR-enhanced link to their ride, the character is particularly skilled at vehicular battering rams. In a Chase scene, the character can perform Force and Ram manoeuvres against vehicles one card away, rather than on the same card. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks.
 {{% /edge %}} 
 
-{{% edge name="Escape Artist" %}}
-_Requirements: Novice, Athletics d6+, Thievery d8+_
-
+{{% edge name="Escape Artist" req="Novice, Athletics d6+, Thievery d8+" %}}
 +2 to on Thievery rolls to escape handcuffs or other restraints (including straightjackets.) +2 to Athletics to squeeze through small spaces. 
 {{% /edge %}} 
 
 
-{{% edge name="Demolition Man" %}}
-_Requirements: Novice, Repair d8+, Science d6+_
-
+{{% edge name="Demolition Man" req="Novice, Repair d8+, Science d6+" %}}
 +2 to Repair rolls to set, disarm, or manufacture explosives. +1 to Notice to spot hidden explosives.
 
 Each Raise on the Repair roll allows the character to select one of the following bonuses:
@@ -129,9 +113,7 @@ BREACH: 2 AP
 AREA: increase by one step, Personal -> SBT -> MBT -> LBT.
 {{% /edge %}} 
 
-{{% edge name="Getaway Driver" %}}
-_Requirements: Novice, Driving d8+, Vehicle Control Rig_
-
+{{% edge name="Getaway Driver" req="Novice, Driving d8+, Vehicle Control Rig" %}}
 Using their VCR-enhanced link to their ride, the character is particularly skilled at using the environment to foil pursuit - sharp turns at high speed, manoeuvres through narrow alleys to break line of sight, knowing where to hide the car to lose a tail.
 
 In a Chase scene, the character can attempt a Flee manoeuvre one card earlier than usual. Outside of a Chase scene, the character gets a free re-roll on Driving or Boating rolls when attempting these tasks. 
@@ -139,30 +121,22 @@ In a Chase scene, the character can attempt a Flee manoeuvre one card earlier th
 
 
 
-{{% edge name="Mod Shop" %}}
-Requirements: Novice, Repair d6+
-
+{{% edge name="Mod Shop" req="Novice, Repair d6+" %}}
 Character gains a pool of 3 Mod Points.
 
 Mod Points are used to represent access to tools and parts. They are spent similarly to Logistic Points, and can be used to upgrade vehicles before the mission, or even during it if the opportunity presents itself. See [vehicle mods]({{< relref "vehicle_mods.md" >}}) for how to use Mod Points.
 {{% /edge %}}  
 
-{{% edge name="Improved Mod Shop" %}}
-Requirements: Seasoned, Repair d8+, Mod Shop 
-
+{{% edge name="Improved Mod Shop" req="Seasoned, Repair d8+, Mod Shop" %}}
 Character gains a further 4 Mod Points, in addition to the 3 granted for Mod Shop.
 {{% /edge %}}  
 
-{{% edge name="Mod God" %}}
-Requirements: Veteran, Repair d8+, Improved Mod Shop
-
+{{% edge name="Mod God" req="Veteran, Repair d8+, Improved Mod Shop" %}}
 Character gains a further 5 Mod Points. This Edge can be taken a second time at Legendary rank.
 {{% /edge %}}  
 
 
 ### Social Edges
-{{% edge name="Friends in Low Places" %}}
-_Requirements: Seasoned, Streewise?, Persuasion d8+_
-
+{{% edge name="Friends in Low Places" req="Seasoned, Streewise?, Persuasion d8+" %}}
 The character has a wide range of carefully cultivated assets. Once per session, the character may call in a favour without spending a Bennie. Once the favour is done, the character can choose to turn the acquaintance into a Contact automatically if they choose, again, without spending a Bennie. See [Contacts]({{< relref "sprawlrunners/setting/contacts.md" >}})
 {{% /edge %}}
