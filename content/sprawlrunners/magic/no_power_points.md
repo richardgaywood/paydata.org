@@ -9,8 +9,7 @@ weight: 100
 icon: "fa-solid fa-pencil"
 ---
 
-{{% pageinfo %}}This is a draft for discussion and fun only; **it is not currently canon for my campaign**. It has not yet had any playtesting and key balance values and modifiers probably need tuning.
-{{% /pageinfo %}} 
+{{< draft >}}
 
 ## The pitch / my goals
 

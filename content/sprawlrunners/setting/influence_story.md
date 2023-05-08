@@ -8,7 +8,7 @@ weight: 200
 icon: "fa-solid fa-pencil"
 ---
 
-{{% pageinfo %}}These rules are draft/for discussion, and are not yet canon for our game.{{% /pageinfo %}}
+{{< draft >}}
 
 The purpose of these rules is bring the flavour of fast-paced heist movies to the table, empower the GM to move the plot along quickly, empower players to feel like they are not at a disadvantage when we jump into the action quickly, and reflect the fact that the characters are skilled professionals who are able to prepare for situations the players might not think of.
 

@@ -6,9 +6,10 @@ description: draft! draft! draft!
 date: 2020-11-23
 lastmod: 2021-03-25
 weight: 400
+icon: "fa-solid fa-pencil"
 ---
 
-{{% pageinfo %}}still in draft{{% /pageinfo %}} 
+{{< draft >}}
 
 Basic idea: similar to cyberdecks, but cheaper. Several tiers with different LP costs. Each tier can load a different number of modules. Required in order to Jump In to anything wirelessly. Provides good bonuses to drones.
 

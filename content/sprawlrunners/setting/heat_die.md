@@ -5,9 +5,10 @@ type: docs
 description: Game mechanics for when you're being hunted
 date: 2021-11-20
 weight: 500
+icon: "fa-solid fa-pencil"
 ---
 
-{{% pageinfo %}}These rules are draft/for discussion, and are not yet canon for our game.{{% /pageinfo %}}
+{{< draft >}}
 
 The authorities in the Sixth World are bloated, corrupt, lazy, and largely ineffective. Rarely are they focussed on going further than "peacekeeping" (ie. violently intervening in violent crimes). Crime prevention and detective services get very short shrift in the annual budgets. The city may be covered in cameras and all manner of surveillance gizmos, but most of the time, ain't nobody got the time to look at them on the off-chance they catch a glimpse of a perp.
 
