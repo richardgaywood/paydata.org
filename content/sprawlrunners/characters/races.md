@@ -14,6 +14,13 @@ These are closely based on the rules in [Justin Licht's Savage Worlds / Shadowru
 Note that these are based around +4 racial attributes per race, rather than the standard SWADE +2. This change gives each race more room to breath and be more closely modelled on the original Shadowrun races. The races are still balanced against each other. I think it also balances against some of the racial traits granted being quite situational or easily replicated with advanced gear in a cyberpunk setting (eg low-light or thermal vision.)
 {{% /alert %}}
 
+{{% design %}}
+These are closely based on the rules in [Justin Licht's Savage Worlds / Shadowrun conversion](https://www.pegforum.com/forum/savage-worlds/savage-worlds-homebrew-conversions-discussion/38813-savage-worlds-shadowrun-5e-conversion) (also available [directly on Google Drive](https://drive.google.com/drive/folders/1NM0YIgb0tNVfZm_SjCxk9DL6QulkoVFi).)
+
+Note that these are based around +4 racial attributes per race, rather than the standard SWADE +2. This change gives each race more room to breath and be more closely modelled on the original Shadowrun races. The races are still balanced against each other. I think it also balances against some of the racial traits granted being quite situational or easily replicated with advanced gear in a cyberpunk setting (eg low-light or thermal vision.)
+{{% /design %}}
+
+
 ## Human
 
 * Adaptable (4): Humans seem to have an unlimited ability to adapt to their circumstances. 

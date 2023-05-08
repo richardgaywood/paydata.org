@@ -5,12 +5,12 @@ type: docs
 weight: 400 
 description:  New and improved edges 
 date: 2020-11-18 
-lastmod: 2021-03-21
+lastmod: 2023-05-08
 --- 
 
-## Edges with required <i class="fa-brands fa-superpowers"></i> augmentation trapping
+## Edges with {{% augtrap %}}  required augmentation trapping
 
-In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either specialised cyberware or a physical adept magical ability. These Edges are all listed below and annotated with the <i class="fa-brands fa-superpowers"></i> icon.
+In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either specialised cyberware or a physical adept magical ability. These Edges are all listed below and annotated with the {{% augtrap %}} icon.
 
 NB: for avoidance of doubt: only characters with the Adept arcane background can use the Adept trapping. Mages who take edges with the Bioware trapping suffer the same -1 penalty to magic rolls as if they'd taken one of the Cyberware edges.
 
