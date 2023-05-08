@@ -20,3 +20,7 @@ After a few years of battling the Shadowrun rules, my table eventually threw in 
 This section documents our use of the generic Sprawlrunners toolkit to create a Shadowrun-esque game. They contain various setting expansions, clarifications, houserules, and so forth that my table uses in our campaign. The end result is broadly compatible with the Shadowrun setting but contain numerous simplifications compared to the Shadowrun rules - by design. 
 
 {{< sectionRecursive >}}
+
+<!-- this from https://learn.netlify.app/en/shortcodes/children/ -->
+<!-- works ok but needs styling -->
+<!-- {{< children description="true" depth=999 sort="weight" style="li" >}} -->
