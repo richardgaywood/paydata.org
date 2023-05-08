@@ -91,11 +91,11 @@ When using a Power, the arcane skill roll is defined as **Controlled Magic** or 
 
 [^2]: This may need tweaking, but -2 feels about right.
 
-{{% alert title="Design Notes" %}}
+{{% design %}}
 A box of fatigue damage “heals” in an hour, which is the same length of time that it takes to recover PP. Soaking allows the practitioner to potentially trade bennies for the “spellcasting resource pool”, which is fatigue here; this is similar to trading bennies for PP. So controlled casting is intended to be an approximate equivalent to a PP caster just using their pool and then relying on it refilling before they need it next.
 
 At the same time, this reduces the ability of low-level practitioners to go all-in on one massive Bolt with +AP, +damage, +range like they can under the PP system. It smooths out the progression curve by capping modifiers on powers at lower levels.
-{{% /alert %}} 
+{{% /design %}}
 
 ## Other notes and mechanics
 

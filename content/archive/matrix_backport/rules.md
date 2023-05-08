@@ -44,9 +44,9 @@ For the purposes of this doc, a WAN is a PAN that is run off a host rather than 
 
 No changes to make here.
 
-{{% alert title="Notes" %}}
-*I have rejected several 6e changes. 6e decks can run twice as many programs as in 5e, but I feel that just leads to modifier explosion from too many overlapping effects. 6e also splits the cyberdeck into two components - the 'deck itself and the cyberjack - but this doesn't really change the substance of the system a great deal and makes converting existing characters awkward.*
-{{% /alert %}}
+{{% design %}}
+I have rejected several 6e changes. 6e decks can run twice as many programs as in 5e, but I feel that just leads to modifier explosion from too many overlapping effects. 6e also splits the cyberdeck into two components - the 'deck itself and the cyberjack - but this doesn't really change the substance of the system a great deal and makes converting existing characters awkward.
+{{% /design %}}
 
 ## Matrix damage & repair; dumpshock
 
@@ -56,18 +56,19 @@ No changes to dumpshock or link-locking.
 
 Your failed Attack actions no longer give you Matrix damage, and your failed Sleaze actions no longer give the target marks against you. 
 
-{{% alert title="Notes" %}}
+{{% design %}}
 *Rejected rules: 6e also reduces matrix damage and changes the damage resistance test, in line with how normal damage works throughout 6e, but I'd rather keep these rules consistent with 5e's damage model. 6e has a slightly different Matrix repair test using the extended test mechanics, but it's slower to resolve, so I have left it out. 6e changes the damage codes for dumpshock, again to be inline with the reduced damage codes used throughout the edition. This is better left alone in 5e.*
 
 *However, I've kept the changes to failed actions in, because getting hurt just because you failed to hit someone seems un-fun and (more importantly) not at all how any other Shadowrun combat type works. I prefer mechanical consistency across systems, where possible.*
-{{% /alert %}}
+{{% /design %}}
 
 ## Matrix modes (AR/VR); initiative
 
 No changes.
 
-{{% alert title="Notes" %}}*Rejected rule: 6e reduces VR initiative. As I'm sticking with the 5e action economy in my game, I don't see the need to backport this change. I'm also keeping 5e's +2 dice pool bonus for hot sim VR, as without it hot sim offers a lot of risk for rather modest reward.*
-{{% /alert %}}
+{{% design %}}
+Rejected rule: 6e reduces VR initiative. As I'm sticking with the 5e action economy in my game, I don't see the need to backport this change. I'm also keeping 5e's +2 dice pool bonus for hot sim VR, as without it hot sim offers a lot of risk for rather modest reward.
+{{% /design %}}
 
 ## Connections; Noise
 
@@ -84,17 +85,17 @@ However, remove the secret +2d6 that is added to OS every 15 minutes. Instead, d
 * +1 to OS every combat turn that the decker maintains User access to a host or device that was gained via Brute Force
 * +3 to OS every combat turn that the decker maintains Admin access to a host or device that was gained via Brute Force
 
-{{% alert title="Notes" %}}
-*I have elected to keep this change because I'm a bit uncomfortable about the "2d6 every 15 minutes" mechanic. It basically just means "whenever the GM says so", as that's a bit of an arbitrary schedule, and I'd prefer something that is more within the PCs control - ie. whenever they choose to hit the "go loud" button and start using Brute Force.*
-{{% /alert %}}
+{{% design %}}
+I have elected to keep this change because I'm a bit uncomfortable about the "2d6 every 15 minutes" mechanic. It basically just means "whenever the GM says so", as that's a bit of an arbitrary schedule, and I'd prefer something that is more within the PCs control - ie. whenever they choose to hit the "go loud" button and start using Brute Force.
+{{% /design %}}
 
 As before, Overwatch Score is reset when the decker logs out or reboots their deck. And Convergence happens when the Overwatch Score reaches 40, and has the same effects.
 
-{{% alert title="Notes" %}}
-*SR6e does not have the special rules for convergence when inside hosts (instead of decker getting dumped, the host starts launching IC.) I'm keeping those rules as I think it adds more variety.*
+{{% design %}}
+SR6e does not have the special rules for convergence when inside hosts (instead of decker getting dumped, the host starts launching IC.) I'm keeping those rules as I think it adds more variety.
 
-*In addition: in 5e, the deck takes 12 boxes of resisted Matrix damage when Convergence happens. In 6e, it is automatically bricked. The latter can be very dangerous for deckers, as it'll always strip Firewall away from their biofeedback damage resistance test. I prefer the former approach for this reason.*
-{{% /alert %}}
+In addition: in 5e, the deck takes 12 boxes of resisted Matrix damage when Convergence happens. In 6e, it is automatically bricked. The latter can be very dangerous for deckers, as it'll always strip Firewall away from their biofeedback damage resistance test. I prefer the former approach for this reason.
+{{% /design %}}
 
 ## Grids
 
@@ -127,11 +128,12 @@ You probe a host, PAN, or device for weaknesses, looking to gain access and crea
 Once you create the exploit, you may then use the Backdoor Entry action at a later time. Net hits on this test count as a dice pool bonus on your future Backdoor Entry test. The duration of these backdoors depends on the device or host—generally speaking, the backdoor lasts for \[10 – Host/Device Rating\] hours. Most systems create a changelog and will automatically correct and report differences to their configurations caused by the presence of these exploits.
 {{% /alert %}} 
 
-{{% alert title="An extended aside about Probe" %}}
-*According to Banshee (the Matrix rules author) the intention was that Probe can be repeated, albeit at a cost, using a variation on Shadowrun's usual extended test mechanism. The decker can keep attempting further rolls (at -1 dice pool each time, as usual for extended tests) against a threshold determined by the targeted system's defence roll, all while the Overwatch Score ratchets upward. It's a push-your-luck mechanism.*
 
-*However the German CRB simply makes Probe a normal opposed test that happens to take one minute of game time to resolve. This is the rule I am applying in my game, principally because I prefer standardised game mechanics to one-off bespoke rules. But also because the former approach can result in a decker putting 50+ dice down on the table across multiple rolls, slowing down gameplay.*
-{{% /alert %}} 
+{{% design %}}
+According to Banshee (the Matrix rules author) the intention was that Probe can be repeated, albeit at a cost, using a variation on Shadowrun's usual extended test mechanism. The decker can keep attempting further rolls (at -1 dice pool each time, as usual for extended tests) against a threshold determined by the targeted system's defence roll, all while the Overwatch Score ratchets upward. It's a push-your-luck mechanism.
+
+However the German CRB simply makes Probe a normal opposed test that happens to take one minute of game time to resolve. This is the rule I am applying in my game, principally because I prefer standardised game mechanics to one-off bespoke rules. But also because the former approach can result in a decker putting 50+ dice down on the table across multiple rolls, slowing down gameplay.
+{{% /design %}} 
 
 It isn’t completely clear if a decker’s Probe results persist if they log out of the Matrix then log in again later. For these houserules, I am ruling that they do.
 
@@ -158,13 +160,13 @@ Also: Brute Force no longer does optional Matrix damage, in the name of up speed
 
 In these houserules, as in SR6e, Spoof Command no longer needs any marks on anything to work. (In SR5e, it requires a mark on an icon that can legitimately command the target device.)
 
-{{% alert title="Notes"%}}
-*The scope of Spoof Command has always been fairly unclear. Can you use it to eject a clip from a smartgun? Can you use it to loop a camera feed? These seem reasonable. Can you use it to shut down an opponent’s wired reflexes or cyberarm? That seems overly powerful, as well as making Spoof Command overlap with other, more explicit methods to achieve that goal (eg Data Spike, Format Device / Reboot device.) Force a hostile drone to fire on its allies? That one seems ok...?*
+{{% design %}}
+The scope of Spoof Command has always been fairly unclear. Can you use it to eject a clip from a smartgun? Can you use it to loop a camera feed? These seem reasonable. Can you use it to shut down an opponent’s wired reflexes or cyberarm? That seems overly powerful, as well as making Spoof Command overlap with other, more explicit methods to achieve that goal (eg Data Spike, Format Device / Reboot device.) Force a hostile drone to fire on its allies? That one seems ok...?
 
-*"You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. ...  This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons."*
+"You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. ...  This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons."
 
 **This needs consideration and playtesting; I don’t have the answers yet.**
-{{% /alert %}}
+{{% /design %}}
 
 ### New action: Tarpit
 
@@ -209,11 +211,11 @@ Almost all programs can be left as-is. 6e removes a number of programs that are 
 
 The only exception is the **Guard** program, which should be removed, as it only works in the context of marks gained against the decker.
 
-{{% alert title="Notes" %}}
-*6e's cyberdecks have double the number of program slots that 5e's do. I am not adopting this rule in my game, as I think it encourages analysis paralysis from players as they try to juggle 8+ programs. It also results in modifier explosion as each program's effects is added together. YMMV.*
+{{% design %}}
+6e's cyberdecks have double the number of program slots that 5e's do. I am not adopting this rule in my game, as I think it encourages analysis paralysis from players as they try to juggle 8+ programs. It also results in modifier explosion as each program's effects is added together. YMMV.
 
-*Additional houserule for my table: Remove the Wrapper program. If it exists, it leads to requirement for endless Matrix Perception tests, slowing down gameplay.*
-{{% /alert %}}
+Additional houserule for my table: Remove the Wrapper program. If it exists, it leads to requirement for endless Matrix Perception tests, slowing down gameplay.
+{{% /design %}}
 
 ## Hosts & IC
 
@@ -257,4 +259,3 @@ To make it explicit, I don’t suggest changing anything on this list. They shou
 [^10]: RAW is one minute; [Banshee originally intended it to be an hour](https://forums.shadowruntabletop.com/index.php?topic=30918.msg534063#msg534063). I prefer his version.
 
 [^11]: Note I have removed the word “extended” here -- see the note below.
-

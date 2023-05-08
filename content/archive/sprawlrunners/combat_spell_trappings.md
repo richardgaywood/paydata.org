@@ -11,7 +11,7 @@ aliases: ["/sprawlrunners/magic/combat_spell_trappings"]
 
 {{% pageinfo %}}This is a draft for discussion and fun only; **it is not currently canon for my campaign**.{{% /pageinfo %}} 
 
-{{% alert title="Notes" %}}
+{{% design %}}
 Shadowrun has long been distinguished by a wide range of magical combat spells, with different strengths and weaknesses. This gives mages some tactical flexibility and trade-offs to weigh up when considering which spells to learn and to use.
 
 In these rules, I am attempting to bring this variety of spells to SWADE and Sprawlrunners, without breaking the system in the process. I've done this by taking an approach detailed in [Gods and Masters](https://www.drivethrurpg.com/m/product/298441). Below are some pre-created "bundles" of power modifiers, attempting to simulate some flavour of the trapping in question. For each bundle, these modifers are not optional - they always apply to all powers cast using that trapping.
@@ -19,7 +19,7 @@ In these rules, I am attempting to bring this variety of spells to SWADE and Spr
 Mostly, the power modifiers come from SWADE. A few new ones appear, drawn from Gods and Masters.
 
 Each trapping has a total associated PP cost. This is added to the mage's spellcasting penalty in the usual way whenever they use that particular trapping.
-{{% /alert %}} 
+{{% /design %}} 
 
 ## Power trappings
 

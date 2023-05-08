@@ -25,8 +25,9 @@ But as thaumaturgists' studies continued they quickly discovered that physical a
 
 Still later, it became obvious that even that some adept's powers can apply outside the purely physical realm. Adepts have been found with powers in areas as diverse as social manipulation and con artistry (often called _the Glamour_), cooking, driving vehicles, logical and problem-solving skills, and more. The term "physical adept" sticks around, however, even though it's something of a misnomer in these cases.
 
-{{% alert title="Design notes" %}}I find the Orientalism that is often associated with physical adepts distasteful and unnecessary. This is my attempt to strip it completely out of my setting and instead to craft something where the overlap between martial arts and physical adepts is an in-universe coincidence rather than an expression of shallow Western tropes.
-{{% /alert %}} 
+{{% design %}}
+I find the Orientalism that is often associated with physical adepts distasteful and unnecessary. This is my attempt to strip it completely out of my setting and instead to craft something where the overlap between martial arts and physical adepts is an in-universe coincidence rather than an expression of shallow Western tropes.
+{{% /design %}} 
 
 ### Core mechanics
 

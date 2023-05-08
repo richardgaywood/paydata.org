@@ -8,11 +8,11 @@ lastmod: 2021-04-17
 weight: 200
 ---
 
-{{% alert title="Design notes" %}}
-*RAW Sprawlrunners offers three types of Arcane Background - hermetic mage, shaman, and qi adept (same as physical adepts in Shadowrun). This reflects an approach similar to Shadowrun 1e/2e, where hermetic mages and shamans had very different rule mechanics, but other magical traditions were rather less fleshed out.*
+{{% design %}}
+RAW Sprawlrunners offers three types of Arcane Background - hermetic mage, shaman, and qi adept (same as physical adepts in Shadowrun). This reflects an approach similar to Shadowrun 1e/2e, where hermetic mages and shamans had very different rule mechanics, but other magical traditions were rather less fleshed out.
 
-*I wish to adopt an approach closer to Shadowrun from 4e onwards; what is often called "unified magic theory." Bring the rules for different magical traditions into closer alignment, then use that as a springboard to make it easier to add new magic traditions. My ultimate goal is to allow players the freedom to define their own traditions, and how their characters interpret them.*
-{{% /alert %}} 
+I wish to adopt an approach closer to Shadowrun from 4e onwards; what is often called "unified magic theory." Bring the rules for different magical traditions into closer alignment, then use that as a springboard to make it easier to add new magic traditions. My ultimate goal is to allow players the freedom to define their own traditions, and how their characters interpret them.
+{{% /design %}} 
 
 For my game, I am using two Arcane Backgrounds for PCs:
 
@@ -30,9 +30,9 @@ There are two variants of this skill, linked to different attributes, reflecting
 
 For avoidance of doubt: the only difference between Magic (Spirit) and (Smarts) is the role-playing aspect and the choice of linked attribute for the skill. Everything else is the same – [available power list]({{< relref "powers.md" >}}), drain rules, etc.
 
-{{% alert title="On skill naming" %}}
-*The only reason  I'm calling this "Magic" when it's called "Spellcasting" in core SWADE is that it bothers me that a skill called "Spellcasting" is used to summon spirits. Coming from Shadowrun, that feels really jarring. It's the same skill, though, just renamed.*
-{{% /alert %}} 
+{{% design %}}
+*The only reason I'm calling this "Magic" when it's called "Spellcasting" in core SWADE is that it bothers me that a skill called "Spellcasting" is used to summon spirits. Coming from Shadowrun, that feels really jarring. It's the same skill, though, just renamed.*
+{{% /design %}}
 
 ## Astral space
 
