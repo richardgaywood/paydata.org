@@ -1,7 +1,7 @@
 ---
 title: Power trappings
 date: 2021-08-05T19:00:00.000Z
-tags:
+categories:
   - changelog
 ---
 

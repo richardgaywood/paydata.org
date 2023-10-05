@@ -4,10 +4,8 @@ description: Trying to maximise the 'cyberpunk feel' by lowering the tech level
 date: 2022-05-17
 aliases:
   - /setting/cyberpunk/cyberpunk_tech_level_tweaks/
-tags:
+categories:
   - opinion
-tags:
-  - changelog
 ---
 
 Over the years, as the in-game Shadowrun setting has evolved across six editions, various in-game technologies have advanced -- in some cases, advanced considerably. Modern Shadowrun has nanotech, antigravity, beam weapons, and more. For me, it has gone too far, so I want to tweak it.

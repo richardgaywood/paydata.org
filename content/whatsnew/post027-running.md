@@ -1,7 +1,7 @@
 ---
 title: Houserules for running in SWADE
 date: 2022-09-18
-tags:
+categories:
   - changelog
 ---
 

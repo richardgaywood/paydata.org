@@ -1,7 +1,7 @@
 ---
 title: First draft of some rules for physical adepts
 date: 2023-04-23
-tags:
+categories:
   - changelog
 ---
 

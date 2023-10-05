@@ -1,7 +1,7 @@
 ---
 title: Updates – 26 Feb
 date: 2021-02-16
-tags:
+categories:
   - changelog
 ---
 

@@ -2,7 +2,7 @@
 ---
 title: Augmentations
 date: 2021-03-21T12:00:00.000Z
-tags:
+categories:
   - changelog
 ---
 

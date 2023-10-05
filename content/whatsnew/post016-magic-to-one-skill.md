@@ -1,7 +1,7 @@
 ---
 title: Magic
 date: 2021-04-19T09:30:00.000Z
-tags:
+categories:
   - changelog
 ---
 

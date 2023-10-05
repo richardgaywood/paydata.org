@@ -1,7 +1,7 @@
 ---
 title: Updates – 26 Jan
 date: 2021-01-26
-tags:
+categories:
   - changelog
 ---
 

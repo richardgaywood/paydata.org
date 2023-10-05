@@ -1,7 +1,7 @@
 ---
 title: Updates – 17 Jan
 date: 2021-01-17
-tags:
+categories:
   - changelog
 ---
 

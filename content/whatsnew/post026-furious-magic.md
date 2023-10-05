@@ -1,7 +1,7 @@
 ---
 title: Add notes on how to use Furious Magic in Sprawlrunners
 date: 2022-03-20T17:00:00.000Z
-tags:
+categories:
   - changelog
 ---
 

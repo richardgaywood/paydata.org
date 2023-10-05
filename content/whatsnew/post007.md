@@ -1,7 +1,7 @@
 ---
 title: New "what's new" section
 date: 2021-03-14
-tags:
+categories:
   - changelog
 ---
 

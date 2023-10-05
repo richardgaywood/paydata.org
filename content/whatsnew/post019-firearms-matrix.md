@@ -1,7 +1,7 @@
 ---
 title: Guns & the Matrix
 date: 2021-04-21T09:30:00.000Z
-tags:
+categories:
   - changelog
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Contacts
 date: 2021-09-12T08:00:00.000Z
-tags:
+categories:
   - changelog
 ---
 

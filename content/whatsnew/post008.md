@@ -1,7 +1,7 @@
 ---
 title: Added symmetric entropy pools
 date: 2021-03-15
-tags:
+categories:
   - changelog
 ---
 

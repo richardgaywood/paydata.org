@@ -3,7 +3,7 @@ title: New Edges
 date: 2023-04-30
 categories: 
   - blog
-tags:
+categories:
   - changelog
 ---
 

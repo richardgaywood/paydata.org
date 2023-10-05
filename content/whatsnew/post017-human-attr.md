@@ -1,7 +1,7 @@
 ---
 title: Human attributes
 date: 2021-04-18T09:30:00.000Z
-tags:
+categories:
   - changelog
 ---
 

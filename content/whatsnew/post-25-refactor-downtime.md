@@ -1,7 +1,7 @@
 ---
 title: Downtime rules rewritten/clarified
 date: 2022-01-03T23:30:00.000Z
-tags:
+categories:
   - changelog
 ---
 
