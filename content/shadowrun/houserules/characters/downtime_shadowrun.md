@@ -4,7 +4,6 @@ title: Downtime
 type: docs
 description: Things to do between missions
 weight: 20
-tags: ['canon']
 aliases: ["/houserules/characters/downtime", "/houserules/characters/downtime_shadowrun"]
 ---
 

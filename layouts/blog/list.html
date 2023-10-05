@@ -15,8 +15,11 @@
 				{{ range .Pages }}
 				<li class="media mb-4">
 					<div class="media-body">
-						<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h5>
+						<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ partial "tags_header_article_wrapper.html" (dict "context" . "taxo" "tags") -}}</h5>
 						<p class="mb-2 mb-md-3"><small class="text-muted">{{ .Date.Format ($.Param "time_format_blog") }} {{ T "ui_in"}} {{ .CurrentSection.LinkTitle }}</small></p>
+						{{/*  <header class="article-meta">
+							{{ partial "tags_article_wrapper.html" . -}}
+						  </header>  */}}
 						{{ partial "featured-image.html" (dict "p" . "w" 250 "h" 125 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
 						<p class="pt-0 mt-0">{{ .Summary }}</p>
 						<p class="pt-0"><a href="{{ .RelPermalink }}">{{ T "ui_read_more"}}</a></p> 

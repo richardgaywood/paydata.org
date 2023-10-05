@@ -71,7 +71,7 @@ taxonomyCloud = ["tags", "categories"]
 # if used, must have same length as taxonomyCloud
 taxonomyCloudTitle = ["Tags", "Categories"]
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"] 
+taxonomyPageHeader = ["tags"] 
 
 [markup]
   [markup.goldmark]

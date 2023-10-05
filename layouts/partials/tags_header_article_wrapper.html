@@ -1,0 +1,13 @@
+<!-- based on https://github.com/google/docsy/blob/main/layouts/partials/taxonomy_terms_article.html -->
+
+{{ $context := .context -}}
+{{ $taxo := .taxo -}}
+{{ if (gt (len ($context.GetTerms $taxo)) 0) -}}
+<span class="taxonomy taxonomy-terms-article taxo-{{ urlize $taxo }}">
+  <ul class="taxonomy-terms">
+    {{ range ($context.GetTerms $taxo) -}}
+      <li><a class="taxonomy-term" href="{{ .Permalink }}" data-taxonomy-term="{{ urlize .LinkTitle }}"><span class="taxonomy-label">{{ .LinkTitle }}</span></a></li>
+    {{ end -}}
+  </ul>
+</span>
+{{ end -}}

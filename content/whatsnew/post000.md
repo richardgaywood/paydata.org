@@ -1,6 +1,8 @@
 ---
 title: Updates – 13 Jan
 date: 2021-01-13
+tags:
+  - changelog
 ---
 
 Sprawlrunners houserules stuff:

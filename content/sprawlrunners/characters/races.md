@@ -4,6 +4,8 @@ linkTitle: Races
 type: docs     
 weight: 200 
 description: Houserules for metahuman races
+tags: 
+  - canon
 date: 2020-12-01
 lastmod: 2021-04-18
 --- 

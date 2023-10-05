@@ -4,6 +4,12 @@ linkTitle: "Construction materials"
 description: What are household objects even made out of?
 weight: 10000
 date: 2022-10-15
+categories:
+- sprawlpedia
+keywords:
+- materials
+- everyday
+- nanotech
 ---
 
 ## Manufactured materials
@@ -24,7 +30,7 @@ Forged high-end steels have been somewhat eclipsed by superior nano-fabricated v
 
 Nanofabricated materials such as metal/carbon alloys, ceramics, and aerogels can exhibit tremendous mechanical properties. Nanotechnology allows for very precise formation of lattice crystals that lead to immense tensile and compressive strength, superconductivity, and more. Although these materials are very expensive, this makes them highly desirable in advanced building construction (eg. supertall buildings and arcologies) and other exotic projects (eg. the platform-to-Earth tether for the Skyhook space elevator.)
 
-The materials are mostly made in orbit, as they require large areas of hard vacuum for the nanobots to work effectively. They can only be made by the richest megacorps, and they are careful not to compete with each other too effectively, in case they erode their fat profit margins. See [Limiting the Tech Level]({{< ref "cyberpunk_tech_level_tweaks.md#nanotech" >}}) for details.
+The materials are mostly made in orbit, as they require large areas of hard vacuum for the nanobots to work effectively. They can only be made by the richest megacorps, and they are careful not to compete with each other too effectively, in case they erode their fat profit margins.
 
 ## Natural materials
 

@@ -1,5 +1,5 @@
 ---
-title: New
+title: Blog
 type: blog
 menu:
   main:

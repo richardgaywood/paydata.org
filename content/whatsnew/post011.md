@@ -2,6 +2,8 @@
 ---
 title: Augmentations
 date: 2021-03-21T12:00:00.000Z
+tags:
+  - changelog
 ---
 
 * Moved all cyberware/bioware/adept powers under a new Augmentations section (this was later removed again.)

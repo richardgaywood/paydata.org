@@ -1,6 +1,8 @@
 ---
 title: Updates – 16 Jan
 date: 2021-01-16
+tags:
+  - changelog
 ---
 
 * Substantial overhal of Matrix section; added "combat decking" page, added actions list, moved a lot of existing content around to more logical places

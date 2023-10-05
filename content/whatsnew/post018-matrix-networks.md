@@ -1,6 +1,8 @@
 ---
 title: Streamline Matrix networks
 date: 2021-04-20T07:00:00.000Z
+tags:
+  - changelog
 ---
 
 * Dropped PAN/s-PAN/WAN terminology. They're all just "networks" now. No rules changes from this, it's just a wording change.

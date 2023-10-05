@@ -1,6 +1,8 @@
 ---
 title: Updates – 13 Mar
 date: 2021-03-13
+tags:
+  - changelog
 ---
 
 * Add some details about criminal SINs to [SINs]({{< relref "hsw_sins.md" >}})
