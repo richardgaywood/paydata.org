@@ -10,5 +10,7 @@ type: docs
 description: All stuff related to the Shadowrun game system
 cascade:
   - type: "docs"
+no_list: true
 ---
 
+{{< sectionRecursive >}}

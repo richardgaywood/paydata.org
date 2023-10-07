@@ -4,7 +4,9 @@ linkTitle: "GMing links"
 weight: 200
 type: docs
 description: Links for Shadowrun GMs
-date: 2020-07-12
+date: 2020-07-
+aliases:
+  - /gms/gm_links/
 ---
 
 ## Reference materials

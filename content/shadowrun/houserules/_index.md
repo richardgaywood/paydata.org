@@ -5,7 +5,7 @@ type: docs
 description: A master list of all my Shadowrun houserules and rule ideas
 cascade:
   - type: "docs"
-weight: 1000  
+weight: 100  
 aliases: ["/houserules/"]
 ---
 

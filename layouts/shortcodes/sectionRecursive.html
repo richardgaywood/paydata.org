@@ -8,6 +8,7 @@
         <div class="entry">
             <h5>
                 <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+                {{ partial "taxo_tag_list.html" (dict "context" . "taxo" "categories") -}}
             </h5>
             <p>{{ .Description | markdownify }}</p>
         </div>
@@ -18,6 +19,7 @@
                 <div class="entry">
                     <h5>
                         <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+                        {{ partial "taxo_tag_list.html" (dict "context" . "taxo" "categories") -}}
                     </h5>
                     <p>{{ .Description | markdownify }}</p>
                 </div>

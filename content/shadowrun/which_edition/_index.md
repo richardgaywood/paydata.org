@@ -4,7 +4,7 @@ linktitle: SR Edition FAQ
 type: docs
 description: An attempt to answer an impossible question
 date: 2022-03-12
-Weight: 100
+Weight: 50
 ---
 
 
