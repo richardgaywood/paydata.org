@@ -7,6 +7,8 @@ weight: 20
 description: How to use (most of) the 6e Matrix rules in 5e
 categories:
   - archived
+aliases: 
+  - /archive/matrix_backport/rules  
 ---
 {{% pageinfo %}} 
 These rules are canon for my current campaign. However, I am working on superseding them with a set of rules that is further streamlined.
