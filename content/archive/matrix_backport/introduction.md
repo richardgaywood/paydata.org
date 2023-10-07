@@ -5,8 +5,9 @@ type: docs
 date: 2020-07-26
 weight: 10
 description: What I'm trying to do
+categories:
+  - archived
 ---
-
 The SR6e ruleset contains a gently streamlined version of the Matrix rules from Shadowrun 5e; these have several useful changes that reduce book-keeping and give deckers a simpler and more agile action economy. 
 
 Some of the changes to the Matrix rules are not compatible with the rest of SR5e: for example, the use of attack and defence ratings to distribute Edge during Matrix actions. Fortunately, it is easy to ignore those, and still use other parts of the SR6e Matrix system within SR5e. These houserules aim to do just that.

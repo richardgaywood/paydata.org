@@ -5,8 +5,9 @@ type: docs
 date: 2020-07-26
 weight: 100
 description: Line-by-line comparison of the Matrix rulesets
+categories:
+  - archived
 ---
-
 What follows in this section is a line-by-line comparison of the 5e and 6e Matrix rules. I wrote this section first, to make sure I understood the changes across the two systems. I’ve kept it here in case you are interested but you shouldn’t need to read this to use the houserules presented above.
 
 {{% pageinfo %}} 

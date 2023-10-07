@@ -6,6 +6,8 @@ description: How the Matrix interacts with cyberware and other gear
 date: 2020-07-05
 weight: 6000
 aliases: ["/setting/matrix_re_fluff/cyberware"]
+categories:
+  - archived
 ---
 ## Why cyberware has wireless components
 

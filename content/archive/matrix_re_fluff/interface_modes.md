@@ -6,8 +6,9 @@ description: Augmented reality and virtual reality
 date: 2020-08-23
 weight: 200
 aliases: ["/setting/matrix_re_fluff/interface_modes"]
+categories:
+  - archived
 ---
-
 ## Virtual reality versus augmented reality
 
 Although the Matrix started as a VR-only technology, once ubiquitous AR came along it rapidly fell out of favour. Most people just don’t feel comfortable completely disconnected from their surroundings, particularly if they’re in any sort of public space. Plus, while you can move really fast in VR - with the Matrix flowing as fast as your thoughts - it turns out that’s exhausting if you do it for more than a few hours. VR is now sufficiently uncommon that for most commlinks a SimSense module is an add-on and not a standard feature.

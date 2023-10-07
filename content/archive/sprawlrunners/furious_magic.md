@@ -6,8 +6,9 @@ description: Using the rules from Furious Magic in Sprawlrunners
 date: 2022-03-20
 lastmod: 2022-03-20
 weight: 100
+categories:
+  - archived
 ---
-
 These are some ideas on how to combine ManuFS's [Furious Magic supplement](https://www.drivethrurpg.com/m/product/390475) with [Sprawlrunners](https://www.drivethrurpg.com/m/product/334278) and [MagusRogue's Guide to the Sprawl](https://www.drivethrurpg.com/m/product/384941). It draws on all three of these books to hopefully present a coherent whole.
 
 {{% pageinfo %}}

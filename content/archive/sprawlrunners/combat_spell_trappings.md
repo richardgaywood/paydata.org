@@ -7,8 +7,9 @@ date: 2021-08-04
 lastmod: 2021-08-06
 weight: 1500
 aliases: ["/sprawlrunners/magic/combat_spell_trappings"]
+categories:
+  - archived
 ---
-
 {{% pageinfo %}}This is a draft for discussion and fun only; **it is not currently canon for my campaign**.{{% /pageinfo %}} 
 
 {{% design %}}

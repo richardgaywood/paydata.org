@@ -6,8 +6,9 @@ description: Your commlink as the keys to your life
 date: 2020-08-23
 weight: 600
 aliases: ["/setting/matrix_re_fluff/personas"]
+categories:
+  - archived
 ---
-
 When you boot up your commlink, the first thing you do is sign into it, via some combination of biometrics. This creates your **persona**, your digital mirror-image in the Matrix. The persona runs for as long as your commlink does.
 
 Only certain devices can form your persona, and thus let you use the Matrix. These include commlinks, cyberdecks, and RCCs. These may be external devices or implanted ones.

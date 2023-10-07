@@ -6,8 +6,9 @@ description: The ins and outs of proving you are a member of society
 date: 2020-08-23
 weight: 400
 aliases: ["/setting/matrix_re_fluff/SINs"]
+categories:
+  - archived
 ---
-
 ## What a SIN is
 
 In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number. A combination of citizenship, a passport, voting rights, and taxation obligations, it guarantees you at least some protection under the law and the chance to work gruelling hundred-hour weeks until you die. What an honour.

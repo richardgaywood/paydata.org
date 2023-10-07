@@ -6,8 +6,9 @@ description: How normal people protect their Matrix stuff
 date: 2020-08-23
 weight: 500
 aliases: ["/setting/matrix_re_fluff/PANs"]
+categories:
+  - archived
 ---
-
 One reason commlinks are quite powerful is to protect you against hacking. They dedicate a fair bit of their time to monitoring threats around you, scanning for incoming attacks, and so on. That’s definitely important! But what about the rest of your stuff? Every other Matrix-linked thing you own, from your toaster to your gun to your smartglasses, is vulnerable too - and they don’t have enough CPU to protect themselves. They can borrow some processing on demand, via fog computing, to put up some (feeble) defence. But that won’t protect you from serious hackers.
 
 What you need is a **personal area network**. A PAN connects and merges all your devices into a private little cloud on the local mesh. Your commlink takes charge, and all traffic to and from the mesh goes through it, instead of directly between the device and the mesh. That means it can watch over all traffic, scanning it for attacks, and intervening to defend your devices. Imagine Matrix traffic as acid rain, your commlink as an umbrella, and your devices sheltering safely beneath it.

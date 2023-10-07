@@ -6,8 +6,9 @@ description: The devices that make up the Matrix's infrastructure
 date: 2020-07-05
 weight: 100
 aliases: ["/setting/matrix_re_fluff/fundamentals"]
+categories:
+  - archived
 ---
-
 ## Matrix infrastructure
 
 The Matrix is so far ahead of our current understanding of computing as to border on magical. Nevertheless, there are some ways in which it resembles the networks we are familiar with today.

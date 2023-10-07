@@ -6,8 +6,9 @@ description: How your commlink decides what to show you and where to put it
 date: 2020-07-13
 weight: 300
 aliases: ["/setting/matrix_re_fluff/spotting_and_positioning"]
+categories:
+  - archived
 ---
-
 ## Spotting
 
 Everything on the Matrix is represented by an icon. Each device -- your commlink, your car, your toaster - has a corresponding icon, and each icon has a corresponding device. Mostly, these icons are set by the manufacturer and look like the device in question, although the art style can vary from photo-realistic to cartoonish to stylised. People can change them, but generally don't for boring stuff like their toaster. Personas, however, have special icons that the owners can change to look however they want, within some limits. People spend many hours and many nuyen playing virtual dress-up with the personas.

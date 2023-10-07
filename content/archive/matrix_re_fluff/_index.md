@@ -5,4 +5,6 @@ description: An incomplete attempt to re-write the in-game Matrix to make more s
 type: docs
 date: 2020-07-05
 aliases: ["/setting/matrix_re_fluff/"]
+categories:
+  - archived
 ---

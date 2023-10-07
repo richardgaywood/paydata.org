@@ -4,8 +4,9 @@ linkTitle: Appendices
 type: docs
 date: 2020-07-26
 weight: 1000
+categories:
+  - archived
 ---
-
 ## Appendix: citations and posts of interest
 
 [https://forums.shadowruntabletop.com/index.php?topic=30050.msg524803#msg524803](https://forums.shadowruntabletop.com/index.php?topic=30050.msg524803#msg524803)
