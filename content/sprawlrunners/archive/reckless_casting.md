@@ -7,6 +7,8 @@ lastmod: 2021-04-18
 weight: 500
 categories:
   - archived
+aliases:
+  - /archive/sprawlrunners/reckless_casting  
 ---
 Normal magic involves carefully constructing a structure in astral space to draw the magic through. This helps prevent damage to the mage from wielding the mana, and when Drain does occur, its effects on the body are limited.
 
