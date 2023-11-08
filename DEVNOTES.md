@@ -6,7 +6,73 @@ $ scoop update hugo hugo-extended
 ```
 
 
-# Updating templates for taxonomies
+# Reminder of what I did with custom category taxonomy pages
 
-* For tags: create/edit `layouts\tags\list.html` (or similar; see [here](https://gohugo.io/templates/lookup-order/))
-* For categories: ???
+Or at least, what I've tried so far, as (at time of writing) it's not working yet.
+
+1. Define frontmatter in `paydata.org/content/categories/sprawlpedia/_index.md`
+
+This sets the human-readable name associated with the category as well as the contents of the landing page at http://localhost:1313/sprawlpedia/
+
+By default, this still appends the theme-default list of content below the stuff in the frontmatter.
+
+2. Add `{{< full_taxo_contents >}}` to the file above to load a new partial
+
+This new partial is defined in `paydata.org/layouts/shortcodes/full_taxo_contents.html`. 
+
+3. Add stuff to `full_taxo_contents.html`
+
+The version in this check-in has a crude example implementation.
+
+
+## Rending stuff in `full_taxo_contents.html`
+
+This code in that partial:
+
+```
+{{ $posts := (where $.Site.Pages ".Params.title" "in" "Savage Worlds for Shadowrun players") }}
+{{ range $posts }}
+	{{ .Render "single" }}
+{{ end }}
+```
+This renders an entire page (sidebars & all!) inside the page. Note the `single` partial is not the one I want, lol.
+
+
+
+
+Open questions:
+* How do I get rid of the theme's normal list of pages on the category tag landing page? (maybe: redefine `main`?)
+* why does `docsy/layouts/blog/list.html` call `{{ partial "taxonomy_terms_article_wrapper.html" . -}}` when it's not a taxonomy?
+
+## How the taxonomy root page is assembled from partials
+
+Template defines four taxo partials:
+* taxonomy_terms_article.html
+    * `{{ partial "taxonomy_terms_article.html" (dict "context" $context "taxo" $taxo) -}}`
+* taxonomy_terms_article_wrapper.html
+* taxonomy_terms_cloud.html
+* taxonomy_terms_clouds.html
+
+what do these _do_? 
+
+https://www.docsy.dev/docs/adding-content/taxonomy/
+
+> The partial taxonomy_terms_article shows all assigned terms of an given taxonomy (partial parameter taxo) of an article respectively page (partial parameter context, most of the time the current page or context .).
+
+> The partial taxonomy_terms_article_wrapper is a wrapper for the partial taxonomy_terms_article with the only parameter context (most of the time the current page or context .) and checks the taxonomy parameters of your project’s hugo.toml/hugo.yaml/hugo.json to loop threw all listed taxonomies in the parameter taxonomyPageHeader resp. all defined taxonomies of your page, if taxonomyPageHeader isn’t set
+
+> The partial taxonomy_terms_cloud shows all used terms of an given taxonomy (partial parameter taxo) for your site (partial parameter context, most of the time the current page or context .) and with the parameter title as headline.
+
+> The partial taxonomy_terms_clouds is a wrapper for the partial taxonomy_terms_cloud with the only parameter context (most of the time the current page or context .) and checks the taxonomy parameters of your project’s hugo.toml/hugo.yaml/hugo.json to loop threw all listed taxonomies in the parameter taxonomyCloud resp. all defined taxonomies of your page, if taxonomyCloud isn’t set.
+
+# Interesting demo sites
+
+https://gchq.github.io/stroom-docs/docs/install-guide/single-node-docker/ - has nice "plus" and "arrow" graphics in the left hand menu, and numbers in the right hand page nav
+
+
+https://www.cloudwego.io/ - customised taxonomy pages eg https://www.cloudwego.io/projects/hertz/
+also: https://github.com/cloudwego/cloudwego.github.io/tree/main/layouts
+...actually, maybe not customised; maybe just forked from an old docsy & not updated
+
+"projects" tax added here: https://github.com/cloudwego/cloudwego.github.io/commit/
+72daecea937819d6a91ba23c66c210ffb21549dc
