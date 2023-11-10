@@ -1,12 +1,13 @@
 ---
-title: "Construction materials"
-linkTitle: "Construction materials"
-description: What are household objects even made out of?
-weight: 10000
+title: "Household materials"
+linkTitle: "Household materials"
+description: What are things made of?
 date: 2022-10-15
+aliases:
+  - /setting/how_stuff_works/household_materials/
 categories:
 - sprawlpedia
-keywords:
+tags:
 - materials
 - everyday
 - nanotech
