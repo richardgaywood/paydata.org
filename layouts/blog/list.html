@@ -26,7 +26,7 @@
 						{{ partial "featured-image.html" (dict "p" . "w" 250 "h" 125 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
 						<p class="pt-0 mt-0">{{ .Summary }}</p>
 						{{ if .Truncated }}
-							<p class="pt-0"><i><a href="{{ .RelPermalink }}">({{ T "ui_read_more"}})</a></i></p> 
+							<p class="pt-0 readmorelink"><a href="{{ .RelPermalink }}">({{ T "ui_read_more"}})</a></p> 
 						{{ end }}
 					</div>
 				</li>

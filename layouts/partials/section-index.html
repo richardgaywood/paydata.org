@@ -2,7 +2,7 @@
 
 <div class="section-index">
     {{ $parent := .Page }}
-    {{ $pages := (where .Site.Pages "Section" .Section).ByWeight }}
+    {{ $pages := (where .Site.Pages "Section" .Section).ByTitle }}
     {{ $pages = (where $pages "Type" "!=" "search") }}
     {{ $pages = (where $pages ".Params.hide_summary" "!=" true) }}
     {{ $pages = (where $pages ".Parent" "!=" nil) }}
