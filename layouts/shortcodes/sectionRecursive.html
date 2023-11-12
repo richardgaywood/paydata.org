@@ -1,10 +1,56 @@
-{{ $pages_below := .Page.RegularPages.ByWeight }}
-{{ $sections_below := .Page.Sections.ByWeight }}
+<!-- NB: despite the name, this only recurses one level deep into subsections (this is by design) -->
+
+{{ $sort := .Get "sort" | default "ByWeight" }}
+
+{{ if eq $sort "ByWeight" }} 
+    {{ .Scratch.Set "pages_and_sections_below" (append .Page.RegularPages .Page.Sections).ByWeight }}
+{{ else if eq $sort "ByTitle" }} 
+    {{ .Scratch.Set "pages_and_sections_below" (append .Page.RegularPages .Page.Sections).ByTitle }}
+{{ else }}    
+  {{ .Scratch.Set "pages_and_sections_below" append .Page.RegularPages .Page.Sections }}
+{{ end }}
 
 <hr class="panel-line">
-
 <div class="section-index">
-    {{ range $sections_below }}
+    {{ range .Scratch.Get "pages_and_sections_below" }}
+        <div class="entry">
+            <h5>
+                <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+            </h5>
+            <p>{{ .Description | markdownify }}</p>
+        </div>
+        {{ if .IsSection }}
+            <div class="pages-in-section">
+                {{ if eq $sort "ByWeight" }} 
+                    {{ .Scratch.Set "pages_below_section" .RegularPagesRecursive.ByWeight }}
+                {{ else if eq $sort "ByTitle" }} 
+                    {{ .Scratch.Set "pages_below_section" .RegularPagesRecursive.ByTitle }}
+                {{ else }}                    
+                    {{ .Scratch.Set "pages_below_section" .RegularPagesRecursive }}
+                {{ end }}
+                    {{ range .Scratch.Get "pages_below_section" }}
+                    <div class="entry">
+                        <h5>
+                            <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+                            {{ partial "taxo_tag_list.html" (dict "context" . "taxo" "categories") -}}
+                        </h5>
+                        <p>{{ .Description | markdownify }}</p>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }} 
+</div>
+<hr class="panel-line">
+
+                {{/*  {{if eq $sort "ByWeight"}} 
+                    {{ $pages_below_section := .RegularPagesRecursive.ByWeight }}
+                {{else if eq $sort "ByTitle"}} 
+                    {{ $pages_below_section := .RegularPagesRecursive.ByTitle }}
+                {{ end }}  */}}
+
+
+    {{/*  {{ range $sections_below }}
         <div class="entry">
             <h5>
                 <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
@@ -14,7 +60,7 @@
         </div>
 
         <div class="pages-in-section">
-            {{ $pages_below_section := .RegularPagesRecursive.ByWeight }}
+            {{ $pages_below_section := .RegularPagesRecursive.ByTitle }}
                 {{ range $pages_below_section }}
                 <div class="entry">
                     <h5>
@@ -33,7 +79,5 @@
                 </h5>
                 <p>{{ .Description | markdownify }}</p>
             </div>
-    {{ end }}
-</div>
+    {{ end }}  */}}
 
-<hr class="panel-line">

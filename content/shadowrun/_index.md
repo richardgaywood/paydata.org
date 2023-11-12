@@ -13,4 +13,4 @@ cascade:
 no_list: true
 ---
 
-{{< sectionRecursive >}}
+{{< sectionRecursive sort="ByWeight" >}}

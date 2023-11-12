@@ -17,4 +17,4 @@ If you're reading these rules for the first time, you might like to start with [
 
 ## Contents
 
-{{< sectionRecursive >}}
+{{< sectionRecursive sort="ByWeight" >}}
