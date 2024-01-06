@@ -1,8 +1,9 @@
 [build]
 publish = "public"
-command = "cd themes/docsy && git submodule update -f --init && cd ../.. && hugo"
+command = "hugo"
 
 [context.production.environment]
-HUGO_VERSION = "0.79.0"
+HUGO_VERSION = "0.121.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+GO_VERSION = "1.18"
