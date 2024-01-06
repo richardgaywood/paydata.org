@@ -1,9 +1,9 @@
 [build]
+command = "npm run build:preview"
 publish = "public"
-command = "hugo"
 
-[context.production.environment]
-HUGO_VERSION = "0.121.2"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-GO_VERSION = "1.18"
+[build.environment]
+GO_VERSION = "1.21.4"
+
+[context.production]
+command = "npm run build:production"
