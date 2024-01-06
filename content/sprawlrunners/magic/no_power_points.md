@@ -2,17 +2,17 @@
 title: Using Powers
 linkTitle: Using Powers
 type: docs
-description: My take on No-Power-Points spell casting
+description: My take on No-Power-Points spell casting in SWADE
 date: 2023-01-15
-lastmod: 2023-01-23
+lastmod: 2024-01-06
 weight: 100
 icon: "fa-solid fa-pencil"
 ---
 
 {{< draft >}}
 
-## The pitch / my goals
 
+{{< design >}}
 What I want to achieve:
 
 * Maximum compatibility with SWADE supplements -- I want my players to be able to use new Powers in SWADE splatbooks and settings without modification
@@ -23,9 +23,7 @@ What I want to achieve:
 
 **Why not RAW No Power Points?** I strongly dislike the huge negative modifiers it imposes on PCs arcane skill rolls. Consider a Veteran character. Under the Power Point rules, they probably have 20-25 power points in their pool. An 8-10 PP power is well within their grasp, should they choose to use it. It’ll use a chunk of their pool, but they can fall back onto Bennies. Meanwhile, under the NoPP rules, that same 8-10 PP power is imposing a -4 or -5 penalty to the arcane skill roll – making it an extremely difficult roll. This, in turn, makes arcane characters under NoPP feel weak and underpowered, as they get no chance to stack power modifiers onto their powers to juice them up.
 
-**Feel like Shadowrun:** the primary target audience for these rules are my home game and that is set in the Shadowrun universe. So, I want these rules to leave room for a few Shadowrun-specific details I want to incorporate, such as Drain (fatigue damage from spellcasting), blood and toxic magic, and the idea of less powerful "safer" casting and more potent casting but that comes at a potential price.
-
-_TOOD: more here_
+**Feel like Shadowrun:** the primary target audience for these rules are my home game and that is set in the Shadowrun universe. So, I want these rules to leave room for a few Shadowrun-specific details I want to incorporate, such as Drain (fatigue damage from spellcasting), blood and toxic magic, and the idea of less powerful "safer" casting and more potent casting but that comes at a high risk.
 
 ## Books in scope
 These are the Savage Worlds books I am flicking through and drawing ideas from as I try and write these rules.
@@ -34,8 +32,12 @@ These are the Savage Worlds books I am flicking through and drawing ideas from a
 * Fantasy and Horror Companions, in particular the new Powers in each
 * Savage Pathfinder CRB, in particular the new Powers and the Epic Power Modifiers
 * [Tomes & Prayers](https://www.drivethrurpg.com/product/319970/Tomes--Prayers-Fantasy-AddOn?) by Cyril Ronseaux
+{{< /design >}}
 
-## The core concepts
+
+
+
+## Core concepts
 
 ### Drain
 
@@ -115,7 +117,7 @@ A variation on controlled casting for when time is not a factor; designed to all
 
 * Takes ~minutes
 * Allows a free Soak roll against the drain [^5]
-* Cannot be used for limit break casting
+* Cannot be used for wild magic casting
 
 [^5]: Maybe at a +1 or +2 modifier, too?
 
@@ -140,9 +142,9 @@ Variations:
 * **Astral Shallows:** reduce everyone’s Power Limit.
 * **Astral Surges:** increase everyone’s Power Limit.
 
-## Gaming it out
+## Examples
 
-### Examples
+{{< design title="Example of play - Alice & Bob vs Landlords Inc" >}}
 
 Alice is a Veteran with a d12 in Spellcasting who has one rank of the Initiate Edge. Bob is her slightly hapless and extremely bumbling apprentice, Novice rank, and a d8 Spellcasting skill.
 
@@ -156,7 +158,10 @@ Bob is getting a little carried away and overdoes it. He casts _bolt_ with the 2
 
 <!-- Two _bolts_ are enough to subdue the landlord and Alice and Bob are free to go about their business. As the scene has ended, they both now take a box of Fatigue damage. Alice doesn't have anything else to do today, so she decides to just take her damage, and will spend an hour relaxing to let it heal naturally. Bob is feeling rather worse for wear, however, and spends a Bennie to attempt to soak the fatigue. He will roll his Spellcasting attribute -- Smarts -- to do so. -->
 
-### Ranges of power/mod limits
+{{< /design >}}
+
+
+{{< design title="Ranges of power/mod limits" >}}
 
 Suppose a typical magic-focussed character starts at d8 arcane skill who takes the initiation edges each rank they are available:
 
@@ -183,3 +188,4 @@ Easily the most modifiers are for the combat spells blast, bolt, and burst. Cons
 => 7 modifiers (and 16 PP)
 
 The system as proposed above has players start with 1 modifier, then +3 through initiation => max 4 for controlled casting. Is that enough? Note that the total of 16 PP is a lot, but if the practitioner is willing to go all-in, it’s quite easily achievable for even middling ranks.
+{{< /design >}}
