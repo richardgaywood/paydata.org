@@ -1,19 +1,16 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $color := .Get "color" | default "primary" }}
+{{ $title := .Get "title" | default "Show Design Notes" }}
+<!-- from https://discourse.gohugo.io/t/creating-a-unique-id-for-repeated-custom-shortcode/21143/4 -->
+{{ $id := substr (md5 .Inner) 0 16 }}
+
 <div class="alert alert-success" role="alert">
+  <button class="btn" type="button" 
+      data-bs-toggle="collapse" data-bs-target="#collapse{{ $id }}">
+    <h4 class="alert-heading"><i class="fa" aria-hidden="true"></i>{{ $title }}</h4>
+  </button>
 
-<a data-toggle="collapse" href="#collapseExample" role="button" class="collapsed">
-    <h4 class="alert-heading"><i class="fa" aria-hidden="true"></i> Design Notes</h4>
-</a>
-
-  <div class="collapse" id="collapseExample">
-
-{{ if eq .Page.File.Ext "md" }}
-    {{ .Inner | markdownify }}
-{{ else }}
-    {{ .Inner | htmlUnescape | safeHTML }}
-{{ end }}
-
-</div>
-
+  <div class="collapse" id="collapse{{ $id }}">
+      {{ .Inner | markdownify }}
+  </div>
 </div>
