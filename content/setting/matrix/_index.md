@@ -4,9 +4,7 @@ linkTitle: Matrix, The
 type: docs
 description: How the wireless Matrix works, from an in-game perspective
 date: 2020-11-21
-weight: 400
 aliases: ["sprawlrunners/deckers/wireless_world"]
-categories: sprawlpedia
 ---
 
 {{% alert title="Notes" %}}

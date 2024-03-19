@@ -4,15 +4,9 @@ linkTitle: "SINs & licences"
 description: A brief overview of fake IDs in the Sixth World
 type: docs
 date: 2021-01-03
-lastmod: 2021-03-13
-aliases: 
-  - /setting/everyday_life/sins_and_licences
-  - /setting/how_stuff_works/sins_and_licences/
-categories:
-- sprawlpedia
+lastmod: 2024-03-19
 tags:
-- sins
-- licences
+- sin
 ---
 
 In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no governmental support, no right to employment or vote, unable to use public facilities or transit, constanlly turned away from shops and restaurants.
