@@ -86,3 +86,6 @@ Most nation-states will issue special "criminal SINs" to anyone convicted of cri
 Even worse, criminal SINs are an exception to the hold-your-cards-close-to-your-chest rules most SINs are kept under. The SIN and its biometrics are shared widely and freely - that's most of the point; a criminal SIN is an anchor you have to drag around forever. (Unless you have friends in high places who can get it wiped off the books, *omae*.)
 
 Corporations don't bother with criminal SINs. They prefer more immediate punishments.
+
+
+{{< see_also >}}

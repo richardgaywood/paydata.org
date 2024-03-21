@@ -8,7 +8,7 @@ date: 2021-01-03
 lastmod: 2021-01-12
 ---
 
-See [SINs & licences setting info]({{< relref "hsw_sins.md" >}}) for defintions of the terms below.
+See [SINs & licences setting info]({{< relref "sins_sp.md" >}}) for definitions of the terms below.
 
 Normal fake SINs cost **1 LP** for the SIN and **0.25 LP** per licence. Each licence can cover one category:
 

@@ -16,7 +16,7 @@ Some people are born SINless, typically because their parents are already in tha
 
 There is a thriving black market in forged and faked SINs, mostly by hacking various databases to insert new entries. Unconvincing fake SINs cost about a week's wages, but provide only a fig-leaf of legitimacy. Convincing ones cost far more. 
 
-See [SINs & Licences]({{< ref "hsw_sins.md" >}}) for more.
+See [SINs & Licences]({{< ref "sins_sp.md" >}}) for more.
 
 ## Class by class
 
