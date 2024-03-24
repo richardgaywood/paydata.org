@@ -15,7 +15,7 @@
 
 {{/*  method two: directly loop over all pages with this one category, hacky but works  */}}
 {{/*  {{ range .Site.Taxonomies.categories index .Params "taxo" }}  */}}
-{{ range .Site.Taxonomies.categories.Get (.Get "taxo") }}
+{{ range .Site.Taxonomies.collections.Get $taxo }}
   <div class="td-content">
 	<h1>{{ .Page.Title }}</h1>
     {{ with .Page.Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}

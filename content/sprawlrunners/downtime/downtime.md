@@ -9,7 +9,8 @@ lastmod: 2022-01-03
 aliases: ["/sprawlrunners/characters/downtime"]
 categories:
   - rules
-  - irl
+collections:
+  - irl  
 --- 
 
 When your characters complete missions, they will typically be paid for this (usually in nuyen.) These nuyen are *only* used to fund a number of Downtime Actions you can take before the next mission begins. You do not use nuyen to buy things directly; that is handled by your character's LP pool and Wealth Die.
