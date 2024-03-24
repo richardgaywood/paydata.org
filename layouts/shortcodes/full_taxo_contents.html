@@ -1,4 +1,6 @@
-<p>hello world: full_taxo_contents</p>
+{{ $taxo := .Get "taxo" }}
+
+<p>hello world: full_taxo_contents for category {{$taxo}}</p>
 
 {{/*  {{ partial "taxonomy_terms_article.html" (dict "context" .context "taxo" "sprawlpedia") -}}  */}}
 
@@ -12,7 +14,8 @@
 {{/*  {{ range $posts }}   */}}
 
 {{/*  method two: directly loop over all pages with this one category, hacky but works  */}}
-{{ range .Site.Taxonomies.categories.sprawlpedia }}
+{{/*  {{ range .Site.Taxonomies.categories index .Params "taxo" }}  */}}
+{{ range .Site.Taxonomies.categories.Get (.Get "taxo") }}
   <div class="td-content">
 	<h1>{{ .Page.Title }}</h1>
     {{ with .Page.Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
@@ -21,3 +24,8 @@
 {{ end }}
 
 <p>goodbye world</p>
+
+<pre>{{ debug.Dump . }}</pre>
+
+<pre>{{ debug.Dump . }}</pre>
+<pre>{{ debug.Dump .Site.Taxonomies.categories }}</pre>

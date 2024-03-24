@@ -25,7 +25,7 @@ This new partial is defined in `paydata.org/layouts/shortcodes/full_taxo_content
 The version in this check-in has a crude example implementation.
 
 
-## Rending stuff in `full_taxo_contents.html`
+## Rendering stuff in `full_taxo_contents.html`
 
 This code in that partial:
 
@@ -36,8 +36,6 @@ This code in that partial:
 {{ end }}
 ```
 This renders an entire page (sidebars & all!) inside the page. Note the `single` partial is not the one I want, lol.
-
-
 
 
 Open questions:
@@ -76,3 +74,48 @@ also: https://github.com/cloudwego/cloudwego.github.io/tree/main/layouts
 
 "projects" tax added here: https://github.com/cloudwego/cloudwego.github.io/commit/
 72daecea937819d6a91ba23c66c210ffb21549dc
+
+
+# Hugo stuff I keep forgetting
+
+## Calling shortcodes with parameters
+
+Call like this:
+
+```
+{{% thingy title="title" %}}
+```
+
+Then inside the partial/shortcode `.html` file, read into a Hugo page variable like this:
+
+```
+{{ $title := .Get "title" | default "Show Design Notes" }}
+...
+<h4>{{ $title }}</h4>
+```
+## Getting (eg) all pages from a taxonomy with a value in a page parameter
+
+Call like this:
+
+```
+{{% thingy categoryToProcess="foo" %}}
+```
+
+Then access it like this:
+
+```
+{{ range .Site.Taxonomies.categories.Get (.Get "categoryToProcess") }}
+```
+
+Slightly weird syntax... think of it as:
+
+- `.Site.Taxonomies.categories` is a map
+- `.Site.Taxonomies.categories.foo` gets the key `foo` from the map directly
+- `.Site.Taxonomies.categories.Get "foo"` is synomuous with the above, but explicitly calls the `.Get` method
+- `(.Get "categoryToProcess")` is similar, but the 'naked' Get with no prefix is operating on the page context itself, which contains key/value pairs from any params that were called.
+
+## Generating a unique ID eg for HTML elements
+
+```
+{{ $id := substr (md5 .Inner) 0 16 }}
+```
