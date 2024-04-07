@@ -9,6 +9,10 @@ lastmod: 2022-01-03
 aliases: ["/sprawlrunners/characters/wealth"]
 --- 
 
+
+
+
+
 Your character's gear is bought with Logistic Points, as per Sprawlrunners core rules. LP represents not just the cost of acquiring any old gear, but the cost of acquiring gear suitable for crime: untraceable, scrubbed of all hidden RFID tags, no inconvenient ballistics records on file, no background checks carried out, etc.
 
 Occasionally, though, your character might need to pay for other things. Incidental lifestyle expenses in the game (eg. if Mr Johnson stiffs you on the restaurant bill); bribes to get past a snooty nightclub bouncer; spreading some cash around to grease the wheels during legwork.
