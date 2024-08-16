@@ -1,4 +1,5 @@
 **/.Ulysses-Group.plist
 paydata.org/public
-**/resources/_gen/
-**/node_modules/**
+node_modules/
+public/
+resources/_gen
