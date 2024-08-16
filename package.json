@@ -36,6 +36,9 @@
     "bootstrap": "5.3.3"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cross-env": "^7.0.3",
+    "postcss-cli": "^11.0.0",
     "cpy-cli": "^5.0.0",
     "hugo-extended": "0.131.0",
     "markdown-link-check": "^3.12.2",
