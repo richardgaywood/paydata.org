@@ -1,9 +1,9 @@
 [build]
-command = "npm run build:preview"
+command = "npm install && npm run build:preview"
 publish = "public"
 
 [build.environment]
-GO_VERSION = "1.21.4"
+GO_VERSION = "1.22.5"
 
 [context.production]
-command = "npm run build:production"
+command = "npm install && npm run build:production"
