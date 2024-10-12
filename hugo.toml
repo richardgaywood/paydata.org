@@ -67,11 +67,16 @@ footer_about_disable = false
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["categories", "tags"] 
+taxonomyCloud = ["categories", "tags", "collections"] 
 # if used, must have same length as taxonomyCloud
-taxonomyCloudTitle = ["Categories", "Tags"]
+taxonomyCloudTitle = ["Categories", "Tags", "Collections"]
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
 taxonomyPageHeader = ["tags"] 
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+collection = "collections"
 
 [markup]
   [markup.goldmark]

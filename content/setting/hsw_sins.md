@@ -8,7 +8,7 @@ lastmod: 2021-03-13
 aliases: 
   - /setting/everyday_life/sins_and_licences
   - /setting/how_stuff_works/sins_and_licences/
-categories:
+collections:
 - sprawlpedia
 tags:
 - sins
