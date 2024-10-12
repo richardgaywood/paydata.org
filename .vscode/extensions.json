@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "budparr.language-hugo-vscode",
+        "fivethree.vscode-hugo-snippets",
+        "tamasfe.even-better-toml",
+        "eliostruyf.vscode-front-matter"
+    ]
+}

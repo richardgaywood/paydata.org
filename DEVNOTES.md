@@ -1,12 +1,30 @@
-# Updating Hugo on Windows
+# Various command quick references
+
+
+Updating Hugo on Windows:
 
 ```
-$ scoop update
-$ scoop update hugo hugo-extended
+winget install hugo.hugo.Extended
 ```
 
+Cleanups:
+
+```
+hugo --cleanDestinationDir
+hugo mod clean
+```
+
+Updating components: 
+1. edit `go.mod`
+1. `hugo mod clean`, `get`, maybe `tidy`
+1. (windows bug?) make files in `C:\git\blog\paydata.org\public\webfonts` to not be read-only
 
 # Reminder of what I did with custom category taxonomy pages
+
+pages to read:
+- https://stackoverflow.com/questions/74925319/in-hugo-how-do-i-get-a-the-list-of-pages-in-a-section-from-a-partial-view
+
+
 
 Or at least, what I've tried so far, as (at time of writing) it's not working yet.
 
