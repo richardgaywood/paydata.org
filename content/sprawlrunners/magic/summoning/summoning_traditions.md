@@ -58,7 +58,7 @@ When they first take the Summon Ally power, attuned summoners automatically gain
 
 These spirits can be [created freely by the player]({{< relref "creating_spirits.md" >}}).
 
-Once a character achieves Initiate status (by taking the Edge), they can take a downtime action to journey to the metaplanes and bond with a new spirit type, of any rank they choose. At that time, the player can create a new statblock for the new spirit type. Afterwards, they can summon that spirit as they please. See [downtime actions]({{< relref "/sprawlrunners/downtime/downtime" >}}).
+Once a character achieves Initiate status (by taking the Edge), they can take a downtime action to journey to the metaplanes and bond with a new spirit type, of any rank they choose. At that time, the player can create a new statblock for the new spirit type. Afterwards, they can summon that spirit as they please. See [downtime actions]({{< relref "/sprawlrunners/irl/downtime" >}}).
 
 They can repeat this process until they have a total of four spirit types at each of lesser, common, and greater rank. At that time, if they undertake an Attune action again, they must remove one other spirit from their roster to make room for the new one.
 
