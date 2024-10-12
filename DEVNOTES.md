@@ -1,12 +1,30 @@
-# Updating Hugo on Windows
+# Various command quick references
+
+
+Updating Hugo on Windows:
 
 ```
-$ scoop update
-$ scoop update hugo hugo-extended
+winget install hugo.hugo.Extended
 ```
 
+Cleanups:
+
+```
+hugo --cleanDestinationDir
+hugo mod clean
+```
+
+Updating components: 
+1. edit `go.mod`
+1. `hugo mod clean`, `get`, maybe `tidy`
+1. (windows bug?) make files in `C:\git\blog\paydata.org\public\webfonts` to not be read-only
 
 # Reminder of what I did with custom category taxonomy pages
+
+pages to read:
+- https://stackoverflow.com/questions/74925319/in-hugo-how-do-i-get-a-the-list-of-pages-in-a-section-from-a-partial-view
+
+
 
 Or at least, what I've tried so far, as (at time of writing) it's not working yet.
 
@@ -25,7 +43,7 @@ This new partial is defined in `paydata.org/layouts/shortcodes/full_taxo_content
 The version in this check-in has a crude example implementation.
 
 
-## Rending stuff in `full_taxo_contents.html`
+## Rendering stuff in `full_taxo_contents.html`
 
 This code in that partial:
 
@@ -76,3 +94,48 @@ also: https://github.com/cloudwego/cloudwego.github.io/tree/main/layouts
 
 "projects" tax added here: https://github.com/cloudwego/cloudwego.github.io/commit/
 72daecea937819d6a91ba23c66c210ffb21549dc
+
+
+# Hugo stuff I keep forgetting
+
+## Calling shortcodes with parameters
+
+Call like this:
+
+```
+{{% thingy title="title" %}}
+```
+
+Then inside the partial/shortcode `.html` file, read into a Hugo page variable like this:
+
+```
+{{ $title := .Get "title" | default "Show Design Notes" }}
+...
+<h4>{{ $title }}</h4>
+```
+## Getting (eg) all pages from a taxonomy with a value in a page parameter
+
+Call like this:
+
+```
+{{% thingy categoryToProcess="foo" %}}
+```
+
+Then access it like this:
+
+```
+{{ range .Site.Taxonomies.categories.Get (.Get "categoryToProcess") }}
+```
+
+Slightly weird syntax... think of it as:
+
+- `.Site.Taxonomies.categories` is a map
+- `.Site.Taxonomies.categories.foo` gets the key `foo` from the map directly
+- `.Site.Taxonomies.categories.Get "foo"` is synomuous with the above, but explicitly calls the `.Get` method
+- `(.Get "categoryToProcess")` is similar, but the 'naked' Get with no prefix is operating on the page context itself, which contains key/value pairs from any params that were called.
+
+## Generating a unique ID eg for HTML elements
+
+```
+{{ $id := substr (md5 .Inner) 0 16 }}
+```
