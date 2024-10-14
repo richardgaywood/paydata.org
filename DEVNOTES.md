@@ -83,6 +83,16 @@ https://www.docsy.dev/docs/adding-content/taxonomy/
 
 > The partial taxonomy_terms_clouds is a wrapper for the partial taxonomy_terms_cloud with the only parameter context (most of the time the current page or context .) and checks the taxonomy parameters of your project’s hugo.toml/hugo.yaml/hugo.json to loop threw all listed taxonomies in the parameter taxonomyCloud resp. all defined taxonomies of your page, if taxonomyCloud isn’t set.
 
+# Custom rendering for custom document types
+
+*branch: 241006-custom-page-type-for-rules*
+
+See changes in layouts/rules/*html. I've cloned the default docs type and inserted some custom rendering into `content.html`. The idea is to detect when to insert certain standard code based on the taxonomy, e.g if `category = rulesDraft` then insert the "this is a draft" disclaimer block.
+
+Some interesting/useful looking resources:
+- https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/
+
+
 # Interesting demo sites
 
 https://gchq.github.io/stroom-docs/docs/install-guide/single-node-docker/ - has nice "plus" and "arrow" graphics in the left hand menu, and numbers in the right hand page nav
