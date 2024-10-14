@@ -9,27 +9,24 @@
 	</header>
 
 
-
-<h2>THIS IS THE INSERTION POINT FOR CALLOUT BOXES </h2>
-
+{{/*  <h2>THIS IS THE INSERTION POINT FOR CALLOUT BOXES </h2>  */}}
 <!-- useful blog post: https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/ -->
 <!-- https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/ -->
 
 {{ if .Params.categories }}
 <div>
   {{ range .Params.categories }}
-  <a href="category/{{ . | urlize }}/">{{ . }}</a>
+  {{/*  <a href="category/{{ . | urlize }}/">{{ . }}</a>  */}}
+  	{{ if (eq . "rules-draft") }}
+	  <div>DRAFT RULES</div>
+	  {{ partial "rules-admonition-draft.html" . }}
+  	{{ end }}
   {{ end }}
 </div>
 {{ end }}
 
-{{ if .Params.categories.rulesDraft }}
-<div>
-heyyyyyS
-</div>
-{{ end }}
+{{/*  <h2>END INSERTION POINT</h2>  */}}
 
-<h2>END INSERTION POINT</h2>
 
 
 

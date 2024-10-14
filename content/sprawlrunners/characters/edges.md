@@ -6,6 +6,8 @@ weight: 400
 description:  New and improved edges 
 date: 2020-11-18 
 lastmod: 2023-05-08
+categories:
+  - rules-draft
 --- 
 
 ## Edges with {{% augtrap %}}  required augmentation trapping
