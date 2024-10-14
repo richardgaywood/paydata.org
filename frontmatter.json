@@ -51,8 +51,20 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
-      "path": "[[workspace]]/content"
+      "title": "setting",
+      "path": "[[workspace]]/content/setting"
+    },
+    {
+      "title": "shadowrun",
+      "path": "[[workspace]]/content/shadowrun"
+    },
+    {
+      "title": "sprawlrunners",
+      "path": "[[workspace]]/content/sprawlrunners"
+    },
+    {
+      "title": "whatsnew",
+      "path": "[[workspace]]/content/whatsnew"
     }
   ],
   "frontMatter.git.enabled": false,
