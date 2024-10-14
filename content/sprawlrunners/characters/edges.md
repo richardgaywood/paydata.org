@@ -1,7 +1,7 @@
 --- 
 title: Edges 
 linkTitle: Edges
-type: docs     
+type: rules     
 weight: 400 
 description:  New and improved edges 
 date: 2020-11-18 
