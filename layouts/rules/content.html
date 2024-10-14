@@ -13,16 +13,16 @@
 <!-- useful blog post: https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/ -->
 <!-- https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/ -->
 
+<!-- this one talks about using parameterised front matter -->
+<!-- https://hugo-in-action.foofun.cn/docs/part1/chapter7/1/ -->
+
 {{ if .Params.categories }}
-<div>
   {{ range .Params.categories }}
   {{/*  <a href="category/{{ . | urlize }}/">{{ . }}</a>  */}}
   	{{ if (eq . "rules-draft") }}
-	  <div>DRAFT RULES</div>
 	  {{ partial "rules-admonition-draft.html" . }}
   	{{ end }}
   {{ end }}
-</div>
 {{ end }}
 
 {{/*  <h2>END INSERTION POINT</h2>  */}}
