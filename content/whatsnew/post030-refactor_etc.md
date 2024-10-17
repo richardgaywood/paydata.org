@@ -1,6 +1,6 @@
 ---
 title: Site refactor and other changes
-date: 2023-??-??
+date: 2023-01-01
 categories:
   - changelog
 ---
