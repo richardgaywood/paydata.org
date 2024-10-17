@@ -1,14 +1,14 @@
 ---
 title: Physical Adept draft rules ideas
 linkTitle: PhysAds
-type: docs
+type: rules
 description: First draft of core rules
 date: 2022-04-23
 weight: 100
 icon: "fa-solid fa-pencil"
+categories:
+  - rules/draft
 ---
-
-{{% pageinfo %}}These rules are **draft/for discussion** and are not currently canon for my game.{{% /pageinfo %}} 
 
 ### How physical adepts differ from practitioners
 

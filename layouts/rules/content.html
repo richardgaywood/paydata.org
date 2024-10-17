@@ -19,7 +19,7 @@
 {{ if .Params.categories }}
   {{ range .Params.categories }}
   {{/*  <a href="category/{{ . | urlize }}/">{{ . }}</a>  */}}
-  	{{ if (eq . "rules-draft") }}
+  	{{ if (eq . "rules/draft") }}
 	  {{ partial "rules-admonition-draft.html" . }}
   	{{ end }}
   {{ end }}
