@@ -52,19 +52,23 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "setting",
-      "path": "[[workspace]]/content/setting"
+      "path": "[[workspace]]/content/setting",
+      "previewPath": "/setting"
     },
     {
       "title": "shadowrun",
-      "path": "[[workspace]]/content/shadowrun"
+      "path": "[[workspace]]/content/shadowrun",
+      "previewPath": "/shadowrun"
     },
     {
       "title": "sprawlrunners",
-      "path": "[[workspace]]/content/sprawlrunners"
+      "path": "[[workspace]]/content/sprawlrunners",
+      "previewPath": "/sprawlrunners"
     },
     {
       "title": "whatsnew",
-      "path": "[[workspace]]/content/whatsnew"
+      "path": "[[workspace]]/content/whatsnew",
+      "previewPath": "/whatsnew"
     }
   ],
   "frontMatter.git.enabled": false,
