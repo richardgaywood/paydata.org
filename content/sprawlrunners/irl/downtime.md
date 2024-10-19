@@ -27,7 +27,7 @@ In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}).
 ## Healing & recovery actions {#recover}
 
 {{% boxout type="action" title="Lie Low" %}}
-If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want.
+If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want. Or need.
 {{% /boxout %}}
 
 
