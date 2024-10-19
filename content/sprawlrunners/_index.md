@@ -9,8 +9,7 @@ menu:
     # pre: <i class="fas fa-dice"></i>
 type: docs
 no_list: true
-cascade:
-  - type: "docs"
+
 ---
 
 [Sprawlrunners](https://www.drivethrurpg.com/product/334278/Sprawlrunners?affiliate_id=313188) is a cyberpunk-with-magic setting-agnostic ruleset for [Savage Worlds](https://www.peginc.com/product-category/savage-worlds/). 

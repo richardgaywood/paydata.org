@@ -5,7 +5,7 @@ type: docs
 weight: 500 
 description: Things to do between crime sprees 
 date: 2020-12-06
-lastmod: 2022-01-03
+lastmod: 2024-10-17
 aliases: ["/sprawlrunners/characters/downtime", "sprawlrunners/downtime/downtime"]
 categories:
   - rules
@@ -13,35 +13,32 @@ collections:
   - irl  
 --- 
 
-Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate script, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software, or even (the old fashioned approach) precious metals, gemstones, or bearer bonds. 
+Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software, or even (the old fashioned approach) precious metals, gemstones, or bearer bonds. 
 
-In game mechanics, we handle all of these as _Payout_. Each point of Payout awarded after a mission buys one _Downtime Action_ that you can do before the money runs out and it's time to look for work again.
+In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.
 
-Downtime Actions do not have to be all declared upfront. For example, an injured character might choose to use their first action on Rest & Recuperation, and then depending on how the roll goes, might repeat the action or switch to something else.
+Notes on resolving Downtime Actions:
 
-When Downtime Actions require aby kind of die roll, note that you cannot spend Bennies on this roll. Bennies are for when the camera is focused on your character!
-
-{{% pageinfo %}}
-A note for my players: you can roll Savage Worlds style dice in Slack with the syntax `/roll 1d6x + 1d8x`. Obviously, change the d8 for whatever your skill is. The `x` will make the dice exploding. This can be used for any downtime dice-rolling, as a more convenient option to Foundry.
-{{% /pageinfo %}} 
-
-## Advancing
-
-Although advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
+- Downtime Actions do not have to be all declared upfront. For example, an injured character might choose to use their first action on Rest & Recuperation, and then depending on how the roll goes, might repeat the action or switch to something else.
+- When Downtime Actions require any kind of die roll, note that you cannot spend Bennies on this roll. Bennies are for when the camera is focused on your character!
+- If your character is currently experiencing [Heat]({{< ref "heat.md" >}}), all rolls will be opposed. 
+- Although Advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
 
 ## Healing & recovery actions
 
 ### Lie low
 
-If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you will need to skip town for a while until the heat dies down. This takes one of your actions and clears the Heat Die. In extraordinary circumstances (a Heat Die of d10 or more), it might even take multiple actions. Be less obvious next time!
+If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want.
 
 ### Rest & recuperation
 
-For one Downtime Action, you can make a normal Natural Healing roll (see SWADE pg 96 for full details). Roll Vigor; success clears a Wound, each raise clears another Wound. 
+For one Downtime Action, you can make a normal Natural Healing roll (see SWADE pg 96 for full details). Roll Vigor; success clears a Wound, each raise clears another Wound. Characters with the Fast Healer Edge can make two Healing rolls for a single downtime action.
 
-Characters with the Fast Healer Edge can make two Healing rolls for a single downtime action.
+If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid.
 
-Other characters can Support this roll if they also spend a downtime action. This will usually involve them rolling their Healing skill, for obvious reasons. <!-- TODO contacts -->
+### Support R&R
+
+You can Support any number of Natural Healing rolls for any number of your team-mates for a single Downtime Action. This represents not just the time taken to oversee their recuperation but also medical supplies etc. 
 
 ## Buff actions
 

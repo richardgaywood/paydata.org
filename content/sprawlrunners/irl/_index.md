@@ -1,63 +1,85 @@
 ---
 title: "In Real Life: giving PCs agency between missions"
-linkTitle: IRL
+linkTitle: "IRL"
 description: How to pass time between crime sprees, and why it might matter
+# type: docs
 weight: 125
-categories:
-  - rules
-  - irl
-draft: true
+
+menu:
+  main:
+    weight: 15
+no_list: true
 ---
 
-<div class="td-default">
 {{% blocks/lead color="primary" %}}
-The Sprawlrunners' life cycle
+**_In Real Life_**: giving PCs agency between missions
+
+A linked set of houserules for Sprawlrunners and Savage Worlds
 {{% /blocks/lead %}}
 
 
-{{% blocks/section color="dark" %}}
-**(1) Characters complete a mission, and receive compensation in the form of a [Payout]({{< ref "payouts" >}}).**
+{{% blocks/lead color="dark" %}}
+  **Characters complete a mission, and receive compensation in the form of a Payout**
 
-In-game, this might be hard currency, nuyen, financial instruments like bearer bonds, or a barterable asset such as advanced pharma or even nonpublic information of value to someone the characters know.
+  In-game, [Payouts]({{< ref "payouts" >}}) might be hard currency, nuyen, financial instruments like bearer bonds, or barterable assets such as advanced pharma or even nonpublic information of value to someone the characters know.
+{{% /blocks/lead %}}
+
+
+{{% blocks/lead color="primary" %}}
+**After the mission, the characters launder the Payout through various channels into untraceable liquid cash.**
+{{% /blocks/lead %}}
+
+
+
+
+{{% blocks/section color="light" type="row" %}}
+
+{{% blocks/feature icon="fa-house" title="Lifestyle" %}}
+Most of this cash is used to fund their [Lifestyle]({{< ref "lifestyle" >}}). This represents not only their day-to-day living but also [Lifestyle Perks]({{< ref "lifestyle#perks" >}}), which can help during missions. All "legal" property and activities are done under a cover identity with a good quality fake SIN -- the character's [Legend]({{< ref "lifestyle#legends" >}}). 
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-bag-shopping" title="Gear" %}}
+Other funds go towards Logistic Points (LP), which are used to acquire black market gear. This pool represents not only the money it takes to buy theese things, but also the character's level of access to arms dealers, talismongers, hot-car dealers, and so forth. Any gear acquired via LP is completely untraceable back to the PCs's [Legends]({{< ref "lifestyle#legends" >}}), insulating them from revenge.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-yen" title="Liquidity" %}}
+[Liquidity]({{< ref "liquidity" >}}) represents the character's on-hand slush funds in easily transferrable forms such as certified credsticks. These are used when the character needs some filthy lucre to grease the wheels - bribes, kickbacks, payoffs, infomation, covert travel, etc. Gear purchased with Liquidity has to be done under the character's Legend and leaves them very exposed to being traced and their cover identity being [Burnt]({{< ref "lifestyle#burnt" >}}). 
+{{% /blocks/feature %}}
+
 {{% /blocks/section %}}
 
-{{% blocks/section color="light" %}}
-**(2) After the mission, the characters launder the Payout through various channels into untraceable liquid cash.**
 
-Most of this cash is used to fund their [Lifestyle]({{< ref "lifestyle" >}}). Thie represents not only their day-to-day living but also [Lifestyle Perks]({{< ref "lifestyle#perks" >}}), which can help during missions. All "legal" property and activities are done under a cover identity with a good quality fake SIN -- the character's [Legend]({{< ref "lifestyle#legends" >}}). 
+
+
+{{% blocks/lead color="primary" %}}
+**Between missions, the characters have Downtime**
+{{% /blocks/lead %}}
+
+
+
+
+{{% blocks/section color="light" type="row" %}}
+
+{{% blocks/feature icon="fa-couch" title="R&R" %}}
+During [Downtime]({{< ref "downtime.md" >}}), they can spend their time [Downtime Actions]({{< ref "downtime.md#actions" >}}). They can rest, recuperate, carry out side hustles, and prepare for the next mission. The bigger the Payout, the longer the Downtime, and the more Downtime Actions they can do.
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fa-earth-americas" title="Change the world" %}}
+Downtime is also where they can do a little good in the world -- for whatever their personal value of "good" may be. Pick a pet cause and champion it, and maybe you can bend the world to your will.
+{{% /blocks/feature %}}
+
+
+
+{{% blocks/feature icon="fa-couch" title="Heat" %}}
+If things went badly during the mission, their downtime may be complicated by [Heat]({{< ref "heat.md" >}}).
+{{% /blocks/feature %}}
+
 {{% /blocks/section %}}
-</div>
-
-## The Sprawlrunners' life cycle
-
-**(1) Characters complete a mission, and receive compensation in the form of a [Payout]({{< ref "payouts" >}}).**
-
-In-game, this might be hard currency, nuyen, financial instruments like bearer bonds, or a barterable asset such as advanced pharma or even nonpublic information of value to someone the characters know.
-
-**(2) After the mission, the characters launder the Payout through various channels into untraceable liquid cash.**
-
-Most of this cash is used to fund their [Lifestyle]({{< ref "lifestyle" >}}). Thie represents not only their day-to-day living but also [Lifestyle Perks]({{< ref "lifestyle#perks" >}}), which can help during missions. All "legal" property and activities are done under a cover identity with a good quality fake SIN -- the character's [Legend]({{< ref "lifestyle#legends" >}}). 
-
-**(3) Between missions, the characters have [Downtime]({{< ref "downtime.md" >}}).**
-
-During Downtime, they can spend their time [Downtime Actions]({{< ref "downtime.md#actions" >}}). They can rest, recuperate, prepare for the next mission, and maybe even do a little good in the world -- for whatever their personal value of "good" may be. The bigger the Payout, the longer the Downtime, and the more Downtime Actions they can do.
-
-**(3a) If there went badly during the mission, their downtime may be complicated by [Heat]({{< ref "heat.md" >}})**
-
-**(4) The rest of the Payout funds the next mission**
-
-Mission cash is split into two pools. Logistic Points (LP) are used to acquire black market gear. This pool represents not only the money it takes to buy theese things, but also the character's level of access to arms dealers, talismongers, hot-car dealers, and so forth. Any gear acquired via LP is completely untraceable back to the PCs's Legends, insulating them from revenge.
-
-The other pool is [Liquidity]({{< ref "liquidity" >}}), representing the character's on-hand slush funds in easily transferrable forms such as certified credsticks. These are used when the character needs some filthy lucre to grease the wheels - bribes, kickbacks, payoffs, infomation, travel, etc. Gear purchased with Liquidity has to be done under the character's Legend and leaves them very exposed to being traced and their cover identity being [Burnt]({{< ref "lifestyle#burnt" >}}). 
 
 
-## FAQs
 
-Q: Why can't I buy gear with normal cash instead of LP? \
-A: asdfsdfd
-
-
-_...TODO something about two sides to pc's lives, light vs shadow_
+<!-- _...TODO something about two sides to pc's lives, light vs shadow_ -->
 
 
 <!-- 
