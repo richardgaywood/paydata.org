@@ -17,30 +17,34 @@ Mission rewards in-game can be in a variety of forms: hard currency like UCAS do
 
 In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.
 
-Notes on resolving Downtime Actions:
+## Notes on resolving Downtime Actions
 
 - Downtime Actions do not have to be all declared upfront. For example, an injured character might choose to use their first action on Rest & Recuperation, and then depending on how the roll goes, might repeat the action or switch to something else.
 - When Downtime Actions require any kind of die roll, note that you cannot spend Bennies on this roll. Bennies are for when the camera is focused on your character!
 - If your character is currently experiencing [Heat]({{< ref "heat.md" >}}), all rolls will be opposed. 
 - Although Advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
 
-## Healing & recovery actions
+## Healing & recovery actions {#recover}
 
-### Lie low
-
+{{% boxout title="Lie Low" %}}
 If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want.
+{{% /boxout %}}
 
-### Rest & recuperation
 
+{{% boxout title="Rest & recuperation" %}}
 For one Downtime Action, you can make a normal Natural Healing roll (see SWADE pg 96 for full details). Roll Vigor; success clears a Wound, each raise clears another Wound. Characters with the Fast Healer Edge can make two Healing rolls for a single downtime action.
 
 If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid.
+{{% /boxout %}}
+
+
+
 
 ### Support R&R
 
 You can Support any number of Natural Healing rolls for any number of your team-mates for a single Downtime Action. This represents not just the time taken to oversee their recuperation but also medical supplies etc. 
 
-## Buff actions
+## Buff actions {#buff}
 
 Actions that give characters a temporary boost or advantage of some kind.
 
