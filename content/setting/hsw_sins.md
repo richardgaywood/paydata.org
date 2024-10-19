@@ -9,10 +9,10 @@ aliases:
   - /setting/everyday_life/sins_and_licences
   - /setting/how_stuff_works/sins_and_licences/
 categories:
-- sprawlpedia
+  - sprawlpedia
 tags:
-- sins
-- licences
+  - sins
+  - licences
 ---
 
 In a society defined by the *haves* and the *have-nots*, the sharpest line between them is the possession of a System Identification Number or SIN. A combination of citizenship, a passport, voting rights, and taxation obligations, it gives you the ability to live and work legally. To be SINless is to fall outside the system on almost every measure - no governmental support, no right to employment or vote, unable to use public facilities or transit, constanlly turned away from shops and restaurants.

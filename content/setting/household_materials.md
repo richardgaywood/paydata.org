@@ -6,11 +6,11 @@ date: 2022-10-15
 aliases:
   - /setting/how_stuff_works/household_materials/
 categories:
-- sprawlpedia
+  - sprawlpedia
 tags:
-- materials
-- everyday
-- nanotech
+  - materials
+  - everyday
+  - nanotech
 ---
 
 ## Manufactured materials

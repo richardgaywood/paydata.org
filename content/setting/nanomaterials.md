@@ -4,9 +4,9 @@ title: Nanomaterials
 type: docs
 date: 2023-10-01
 categories: 
-- sprawlpedia
+  - sprawlpedia   
 tags:
-- nanotech
+  - nanotech  
 ---
 
 {{< see_also >}}
