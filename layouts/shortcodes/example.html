@@ -1,20 +1,10 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-{{ $color := .Get "color" | default "info" }}
-{{ $title := .Get "title" | default "Title" }}
+{{ $color := .Get "color" | default "secondary" }}
+{{ $title := .Get "title" | default "Example" }}
 <!-- from https://discourse.gohugo.io/t/creating-a-unique-id-for-repeated-custom-shortcode/21143/4 -->
 {{ $id := substr (md5 .Inner) 0 16 }}
 
-{{ $type := .Get "type" }}
-
-{{ if eq $type "action" }} 
-  {{ $color = "info" }}
-{{ else if eq $type "example" }} 
-  {{ $color = "light" }}
-  {{ $title = "Example" }}
-{{ end }}
-
-
-<div class="alert alert-{{ $color }}" role="alert">
+<div class="alert alert-light" role="alert">
     <!-- intentionally omitting a CSS class here to default to normal text colour for H4 -->
     <!-- for some reason I cba to figure out, `class="alert-heading"` is very pale -->
   <h4>{{ $title }}</h4>

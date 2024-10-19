@@ -26,15 +26,31 @@ In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}).
 
 ## Healing & recovery actions {#recover}
 
-{{% boxout title="Lie Low" %}}
+{{% boxout type="action" title="Lie Low" %}}
 If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want.
 {{% /boxout %}}
 
 
-{{% boxout title="Rest & recuperation" %}}
+{{% boxout type="action" title="Rest & recuperation" %}}
 For one Downtime Action, you can make a normal Natural Healing roll (see SWADE pg 96 for full details). Roll Vigor; success clears a Wound, each raise clears another Wound. Characters with the Fast Healer Edge can make two Healing rolls for a single downtime action.
 
-If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid.
+If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid. See [support]{#support}.
+{{% /boxout %}}
+
+
+
+
+
+## Supporting downtime actions {#support}
+
+PCs can use Support for downtime action rolls in one of two ways:
+
+1. A PC can declare they are supporting their teammates in the usual way, ie. they roll an appropriate skill and add successes and raises to the normal roll. This costs the supporting PC one Downtime Action, regardless of how many rolls they support -- even if they support rolls from multiple other PCs.
+1. A PC can also "take over" a roll for another PC, substituting their own skill in place of their teammate's. This always takes an entire Downtime Action however.
+
+{{% boxout type="example" %}}
+Foo bar baz TBD
+
 {{% /boxout %}}
 
 
