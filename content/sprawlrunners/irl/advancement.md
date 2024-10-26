@@ -7,6 +7,7 @@ description: Character improvement and other goodies
 date: 2020-12-06
 lastmod: 2022-01-03
 aliases: ["/sprawlrunners/characters/advancement"]
+draft: true
 --- 
 
 There are two kinds of rewards my characters earn from a mission: karma and nuyen. Nuyen is used to fund [downtime actions]({{< relref "downtime.md" >}}). Karma is used to Advance the characters.

@@ -11,5 +11,10 @@
 		"[markdown]": {
 		},
 		"frontMatter.dashboard.openOnStart": true
+	},
+	"extensions": {
+		"recommendations": [
+			"takumii.markdowntable"
+		]
 	}
 }

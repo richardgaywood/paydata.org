@@ -34,31 +34,45 @@ If you attracted an unusually breathtaking amount of attention on the last run a
 {{% boxout type="action" title="Rest & recuperation" %}}
 For one Downtime Action, you can make a normal Natural Healing roll (see SWADE pg 96 for full details). Roll Vigor; success clears a Wound, each raise clears another Wound. Characters with the Fast Healer Edge can make two Healing rolls for a single downtime action.
 
-If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid. See [support]{#support}.
+If another PC is willing to spend one of their own Downtime Actions tending to your wounds, they can Support your Vigor roll with a roll of their Healing skill. Note that magical healing doesn't help with long term recuperation, it can only serve as first aid. See [support](#support).
 {{% /boxout %}}
 
 
+## Getting ahead
+
+{{% boxout type="action" title="Favours for favours" %}}
+xxx
+
+Choose a skill, explain how you are using this skill to do someone a favour, and roll it at -2. (If it was easy to get ahead in the world, everyone would be doing it.)
+
+You can choose how you want to cash your favour in: good ol' liquid cash, gear, or even information or some form of service. You don't need to declare this right away, you can hold onto the favour into the next mission and use it at any time. However if you don't use it before the next downtime phase then it disappears. 
+
+{{% /boxout %}}
 
 
+| Reward    | Failure | Success | For every raise |
+| --------- | ------- | ------- | --------------- |
+| LP        | 2       | 5       | +1              |
+| Liquidity | 2       | 5      | +2 |
 
-## Supporting downtime actions {#support}
+On a critical failure, you earn nothing.
 
+## Helping other PCs during downtime {#support}
+
+{{% boxout type="action" title="Supporting downtime actions" %}}
 PCs can use Support for downtime action rolls in one of two ways:
 
-1. A PC can declare they are supporting their teammates in the usual way, ie. they roll an appropriate skill and add successes and raises to the normal roll. This costs the supporting PC one Downtime Action, regardless of how many rolls they support -- even if they support rolls from multiple other PCs.
-1. A PC can also "take over" a roll for another PC, substituting their own skill in place of their teammate's. This always takes an entire Downtime Action however.
-
-{{% boxout type="example" %}}
-Foo bar baz TBD
-
+1. A PC can declare they are supporting their teammates in the usual way, ie. they roll an appropriate skill and add successes and raises to the normal roll. This costs the supporting PC one Downtime Action regardless of how many rolls they support -- even if they support rolls from multiple other PCs.
+1. A PC can also "take over" a roll for another PC, substituting their own skill in place of their teammate's. This requires  an entire Downtime Action by itself, however.
 {{% /boxout %}}
 
 
 
+<!-- TODO: example? --> 
 
-### Support R&R
 
-You can Support any number of Natural Healing rolls for any number of your team-mates for a single Downtime Action. This represents not just the time taken to oversee their recuperation but also medical supplies etc. 
+
+<!-- old content
 
 ## Buff actions {#buff}
 
@@ -66,7 +80,6 @@ Actions that give characters a temporary boost or advantage of some kind.
 
 ### Carouse
 
-<!-- TODO rewrite -->
 
 Your character decides to blow off some steam and celebrate still being alive. They spend an extended period of time indulging whatever hedonistic vices most appeal to them.
 
@@ -76,7 +89,7 @@ There is no mechanical game benefit to carousing. This is deliberate ;)
 
 ### Centre / Hang out?
 
-<!-- TODO --> Character gets Conviction. If unused, this will expire at the next downtime phase.
+Character gets Conviction. If unused, this will expire at the next downtime phase.
 
 You spend some quality time with your nearest and dearest. Write a scene telling us what you do together, and take a free point of karma for your trouble! (If you don't want to write a scene, see Train below.)
 
@@ -110,7 +123,6 @@ Test success will tick a segment on the progress clock. Each Raise will tick a f
 
 Your character is saving up for a rainy day. Retirement? Paying off their dear old ma's mortgage? Up to you. They spend their downtime living thriftily so they can divert as much money as possible to their savings. If you want to work to a specific goal, let me know what it is, and we'll set up a clock to track progress towards it.
 
-<!-- ARCHIVE -->
 
 
 
@@ -143,7 +155,7 @@ No penalty for failures, but you can't try again; people have had enough of you 
 | Legendary      | +5                  | +2                |
 
 
-
+-->
 
 
 
