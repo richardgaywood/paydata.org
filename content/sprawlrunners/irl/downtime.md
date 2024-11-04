@@ -43,12 +43,11 @@ If another PC is willing to spend one of their own Downtime Actions tending to y
 {{% boxout type="action" title="Favours for favours" %}}
 xxx
 
-Choose a skill, explain how you are using this skill to do someone a favour, and roll it at -2. (If it was easy to get ahead in the world, everyone would be doing it.)
+Choose a skill, explain how you are using this skill to do a favour for someone important, and roll it at -2. (If it was easy to get ahead in the world, everyone would be doing it.)
 
-You can choose how you want to cash your favour in: good ol' liquid cash, gear, or even information or some form of service. You don't need to declare this right away, you can hold onto the favour into the next mission and use it at any time. However if you don't use it before the next downtime phase then it disappears. 
+You can choose how you want to cash your favour in: good ol' liquid cash, access to extra gear, or even information or some form of service. You don't need to declare this right away, you can hold onto the favour into the next mission and use it at any time. However if you don't use it before the next downtime phase then it disappears. 
 
 {{% /boxout %}}
-
 
 | Reward    | Failure | Success | For every raise |
 | --------- | ------- | ------- | --------------- |
