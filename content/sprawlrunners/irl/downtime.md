@@ -13,7 +13,7 @@ collections:
   - irl  
 --- 
 
-Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software, or even (the old fashioned approach) precious metals, gemstones, or bearer bonds. 
+Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software -- or even (for the seriously old fashioned) precious metals, gemstones, or bearer bonds. 
 
 In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.
 
@@ -53,7 +53,7 @@ You can choose how you want to cash your favour in: good ol' liquid cash, gear, 
 | Reward    | Failure | Success | For every raise |
 | --------- | ------- | ------- | --------------- |
 | LP        | 2       | 5       | +1              |
-| Liquidity | 2       | 5      | +2 |
+| Liquidity | 5       | 10      | +2 |
 
 On a critical failure, you earn nothing.
 
