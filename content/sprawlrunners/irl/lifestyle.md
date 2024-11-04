@@ -13,6 +13,16 @@ categories:
 ## Lifestyle
 
 
+
+| Rank      | Base lifestyle | Number of perks |
+| --------- | -------------- | --------------- |
+| Novice    | Low            | 0               |
+| Seasoned | Low            | 2               |
+| Veteran   | Medium         | 3               |
+| Heroic    | High           | 4               |
+| Legendary | Luxe           | 5               |
+
+
 ## Legends {#legends}
 
 
