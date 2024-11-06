@@ -31,5 +31,10 @@ categories:
 
 ## Lifestyle perks {#perks}
 
+***todo: expand***
 
+- rigger garage (grant LP to mod vehicles)
+- home defences (hidden weapons cache, drone patrol, wards, bound spirit)
+- treatment facility (bonus to healing rolls in downtime)
+- workshop (grants kit / facility for various skills)
 

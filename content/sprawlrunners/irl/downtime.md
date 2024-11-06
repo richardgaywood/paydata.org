@@ -24,6 +24,30 @@ In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}).
 - If your character is currently experiencing [Heat]({{< ref "heat.md" >}}), all rolls will be opposed. 
 - Although Advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
 
+## Long term goals
+
+{{% boxout type="action" title="Change The World" %}}
+
+
+Each Downtime action spent allows you to roll a relevant Trait (explaining how the Trait contributes to the goal, if it isn't obvious.) Like a Dramatic Task, xxx
+
+We'll handle this a bit like a Dramatic Task in SWADE or a Clock in Blades in the Dark. You'll have some fixed number of segments to complete - you might or might not know how many, depending on what you are up to. For a single downtime action, you can make a Trait r using any appropriate skill to work on the project. This test will 
+
+Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. 
+
+
+When you complete a Change The World project, you gain Conviction.
+{{% /boxout %}}
+
+
+
+
+{{% boxout type="action" title="Build your stash" %}}
+If your character is saving up for something long-term (eg retirement from this endless cycle of violence...), then you can spend a Downtime action to divert funds to it. Each action "buys" one point of Stash. How many points you'll need depends on what you're saving for...
+{{% /boxout %}}
+
+
+
 ## Healing & recovery actions {#recover}
 
 {{% boxout type="action" title="Lie Low" %}}
@@ -47,14 +71,37 @@ Choose a skill, explain how you are using this skill to do a favour for someone 
 
 You can choose how you want to cash your favour in: good ol' liquid cash, access to extra gear, or even information or some form of service. You don't need to declare this right away, you can hold onto the favour into the next mission and use it at any time. However if you don't use it before the next downtime phase then it disappears. 
 
-{{% /boxout %}}
-
 | Reward    | Failure | Success | For every raise |
 | --------- | ------- | ------- | --------------- |
 | LP        | 2       | 5       | +1              |
 | Liquidity | 5       | 10      | +2 |
 
 On a critical failure, you earn nothing.
+
+{{% /boxout %}}
+
+##  Actions affecting your lifestyle
+
+{{% design %}}
+This might be a bit too many options / a bit of a fussy design. It depends on if player's feel the lifestyle system is interesting enough to interact with, I think. Needs playtesting.
+{{% /design %}}
+
+{{% boxout type="action" title="Live beyond your means / Scrimp and save" %}}
+At the cost of one downtime action, you can divert some of your Payout to funding a nicer apartment than you could otherwise afford. Move up one [Lifestyle category]({{< ref "lifestyle.md" >}}). 
+
+Alternatively, if you're happy to live in modest surroundings, you can give up one lifestyle category and receive a bonus action during each Downtime phase.
+{{% /boxout %}}
+
+{{% boxout type="action" title="Fund lifestyle perks" %}}
+If the number of perks you have isn't enough, you can divert funds from your day-to-day living expenses to pay for extra. You'll have to keep money back, though, so you can't afford to do as much as you otherwise would be able to. Hence you have to sacrifice one downtime action. In return you can afford two additional lifestyle perks.
+{{% /boxout %}}
+
+{{% boxout type="action" title="Change lifestyle perks" %}}
+When your legal life is constructed around a fake identity, it takes some time and care to re-arrange things like leases on property or contracts on outsourced magical security. So changing any of your lifestyle perks takes a downtime action, but you can change any number of perks in that time.
+
+If you start or stop funding extra perks (see the previous action), that doesn't count as a "change" and you don't need to use an action for that.
+{{% /boxout %}}
+
 
 ## Helping other PCs during downtime {#support}
 
