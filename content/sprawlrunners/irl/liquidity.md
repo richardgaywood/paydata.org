@@ -24,7 +24,7 @@ Note that this is distinct from Logistic Points. LP is used to buy gear, and the
 
 ## Using Liquidity for bribes or access
 
-The usual way to spend Liquidity to get what you want is by using it to grease the wheels. Via bribery, finder's fees, access fees, and so forth, you can purchase bonuses on rolls of skills like Persuasion, Research, Arcana, and so forth.
+The most common way to use Liquidity to get what you want is by using it to grease the wheels. Via bribery, finder's fees, access fees, and so forth, you can purchase bonuses on rolls of skills like Persuasion, Research, Arcana, and so forth.
 
 |                                              | +1  | +2  | +4       |
 | -------------------------------------------- | --- | --- | -------- |
@@ -38,8 +38,7 @@ The usual way to spend Liquidity to get what you want is by using it to grease t
 
 NB: it is deliberate that these are not linear multipliers. There's a law of dimishing returns; the more you spend, the more you need to spend to go up another level. This is also why there's no '+3' tier.
 
-
-## A rough guide to the value of one point of Liquidity
+## A rough guide to the value of Liquidity in-game
 
 This is deliberate very rough, because if I wanted to nail down currency values in details, I'd go back to tracking nuyen one-by-one. The whole point of this system is supposed to be to make it faster and easier. 
 
@@ -66,7 +65,7 @@ Still, so we're all on the same page, some guidelines:
 	- A top-of-the-range legal cyberdeck
 - **50 points** buys
 	- A wageslave's annual income
-	- A not-too-bad car
+	- A mid-range mid-sized car
 
 
 

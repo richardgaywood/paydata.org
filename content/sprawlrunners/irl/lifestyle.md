@@ -10,7 +10,9 @@ categories:
 ---
 
 
-## Lifestyle
+## Lifestyles
+
+
 
 
 
