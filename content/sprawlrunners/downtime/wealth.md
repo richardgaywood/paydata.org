@@ -25,7 +25,7 @@ At the start of each mission, Wealth resets to your lifestyle's die type. For mo
 
 Trolls starting wealth die is one step worse than usual, because of their increased lifestyle costs. A troll with Poverty rolls d4-2.
 
-[Downtime actions]({{< relref "downtime.md" >}}) such as Side Hustle or Stash Nuyen can provide short-term bonuses or reductions to your Wealth Die.
+[Downtime actions]({{< relref "downtime_archive.md" >}}) such as Side Hustle or Stash Nuyen can provide short-term bonuses or reductions to your Wealth Die.
 
 ## Spending Wealth
 

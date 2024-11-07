@@ -4,8 +4,8 @@ linkTitle: Downtime
 type: docs     
 weight: 500 
 description: Things to do between crime sprees 
-date: 2020-12-06
-lastmod: 2024-10-17
+date: 2024-11-07
+lastmod: 2024-11-07 
 aliases: ["/sprawlrunners/characters/downtime", "sprawlrunners/downtime/downtime"]
 categories:
   - rules
@@ -27,7 +27,6 @@ In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}).
 ## Long term goals
 
 {{% boxout type="action" title="Change The World" %}}
-
 
 Each Downtime action spent allows you to roll a relevant Trait (explaining how the Trait contributes to the goal, if it isn't obvious.) Like a Dramatic Task, xxx
 
@@ -129,7 +128,7 @@ Actions that give characters a temporary boost or advantage of some kind.
 
 Your character decides to blow off some steam and celebrate still being alive. They spend an extended period of time indulging whatever hedonistic vices most appeal to them.
 
-Take a one-step penalty to your [wealth die type]({{< relref "wealth.md" >}}) die for the next session.
+Take a one-step penalty to your wealth die type  for the next session.
 
 There is no mechanical game benefit to carousing. This is deliberate ;)
 
@@ -151,7 +150,7 @@ You can only be trained in one trait at once; if you repeat the action, you lose
 
 Shadowrunner's skill sets can be used for more mundane activities than the epic, daring heists we play out at the table. Riggers can do courier work; streetsams can work as bodyguards; mages can provide protection services; deckers can skim low-security systems for paydata.
 
-If your character spends their downtime on a side hustle, they can earn a little extra cash in their pocket. Take a one-off bonus to their [wealth die type]({{< relref "wealth.md" >}}) for the next mission.
+If your character spends their downtime on a side hustle, they can earn a little extra cash in their pocket. Take a one-off bonus to their wealth die type for the next mission.
 
 You can only do Side Hustle once in a given downtime. 
 

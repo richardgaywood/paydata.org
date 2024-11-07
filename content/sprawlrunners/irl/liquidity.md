@@ -1,9 +1,22 @@
 ---
 title: Liquidity
 type: docs
-date: 2024-11-04
 weight: 500
+date: 2024-11-07
+lastmod: 2024-11-07 
 ---
+{{% pageinfo %}}
+Verity drew a bundle out with her glove-bagged hand, Franklin's mild portrait bisected by a red elastic band. "This is wrong, this kind of money. You know that?"
+
+"Gives us agency."
+
+"Agency?"
+
+"Capacity to act," Eunice said.
+
+— _Agency_, William Gibson.
+{{% /pageinfo %}}
+
 
 Liquidity represents the total amount of no-strings-attached untraceable currency your character can lay their hands on right now. It might be in credsticks (in nuhen), actual cash (typically UCAS dollars), corporate scrip, or similar. 
 

@@ -5,14 +5,17 @@ type: docs
 description: Game mechanics for when you're being hunted
 date: 2021-11-20
 weight: 500
-icon: "fa-solid fa-pencil"
+categories:
+  - archived
+aliases:
+  - "sprawlrunners/setting/heat_die.md"
 ---
 
 {{< draft >}}
 
-The authorities in the Sixth World are bloated, corrupt, lazy, and largely ineffective. Rarely are they focussed on going further than "peacekeeping" (ie. violently intervening in violent crimes). Crime prevention and detective services get very short shrift in the annual budgets. The city may be covered in cameras and all manner of surveillance gizmos, but most of the time, ain't nobody got the time to look at them on the off-chance they catch a glimpse of a perp.
+The authorities in the Sixth World are bloated, corrupt, lazy, and largely ineffective. Rarely are they focussed on going further than "peacekeeping" (ie. violently intervening in anything they don't like the look of). Crime prevention and detective services get very short shrift in the annual budgets. The city may be covered in cameras and all manner of surveillance gizmos, but most of the time, ain't nobody got the time to look at them on the off-chance they catch a glimpse of a perp.
 
-Occasionally, though. the PCs may nevertheless do such spectacular things that they end up being actively hunted by forces much more powerful than themselves who are suddenly told "screw the budgets, we want these guys. NOW." 
+Occasionally, though, the PCs may nevertheless do such spectacular things to someone important enough that they end up being actively hunted by forces much more powerful than themselves who are suddenly told "screw the budgets, we want these guys. NOW." 
 
 These rules provide a simple framework for running these incidents.
 
@@ -54,4 +57,4 @@ This will usually take the form of a three-step Dramatic Task. If they can colle
 
 ## Losing heat
 
-For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "downtime_archive.md#lie-low" >}}).
+For permanently getting rid of heat, see lying low in [Downtime Actions]({{< relref "sprawlrunners/irl/downtime.md#lie-low" >}}).
