@@ -50,7 +50,11 @@ If your character is saving up for something long-term (eg retirement from this 
 ## Healing & recovery actions {#recover}
 
 {{% boxout type="action" title="Lie Low" %}}
-If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions and reduces the Heat Die by three steps (ie. a d10 becomes a d4). You can repeat this, if you want. Or need.
+If you attracted an unusually breathtaking amount of attention on the last run and so have a [Heat or Hunted Die]({{< relref "heat.md" >}}), you can choose to skip town for a while until the heat dies down. This takes one of your actions. You can repeat this, if you want... or need. 
+
+If you have Heat, it reduces the Heat Die by three steps (ie. a d10 becomes a d4). If you have Hunted, reduce it by one step. It's not so easy to shake people off once it's personal.
+
+If the whole team is has Heat or is being Hunted (and that will usually be the case), everyone has to Lay Low together. Not much point one of you disappearing off the radar if two others are out partying. 
 {{% /boxout %}}
 
 
@@ -89,6 +93,8 @@ This might be a bit too many options / a bit of a fussy design. It depends on if
 At the cost of one downtime action, you can divert some of your Payout to funding a nicer apartment than you could otherwise afford. Move up one [Lifestyle category]({{< ref "lifestyle.md" >}}). 
 
 Alternatively, if you're happy to live in modest surroundings, you can give up one lifestyle category and receive a bonus action during each Downtime phase.
+
+You can only go up one Lifestyle category, no matter how many meals you skip. But you can go down as many as you like, getting a bonus Downtime Action for each one.
 {{% /boxout %}}
 
 {{% boxout type="action" title="Fund lifestyle perks" %}}
