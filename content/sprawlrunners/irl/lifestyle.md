@@ -60,7 +60,7 @@ But regardless of which it is, you're cut off from any lifestyle perks you usual
 - workshop (grants kit / facility for various skills)
 - boltholes & go bags (take a free Lay Low action at the start of any Downtime phase)
 
-## Legends {#legends}
 
+## Legends {#legends}
 
 ### Getting Burnt {#burnt}

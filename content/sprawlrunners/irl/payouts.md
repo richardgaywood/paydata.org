@@ -15,7 +15,7 @@ lastmod: 2024-11-07
 
 xxx
 
-Every Johnson starts with a base offer. It's typically four Payout points for a corporate Johnson and a normal difficulty job, but can vary for other kinds of offers.
+Every Johnson starts with a base offer. It's typically four Payout points for a corporate Johnson and a normal difficulty job, but can vary for other kinds of offers -- or suicide missions.
 
 We then use a slightly modified Dramatic Task to determine the final sum:
 

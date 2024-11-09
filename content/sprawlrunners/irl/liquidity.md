@@ -17,7 +17,6 @@ Verity drew a bundle out with her glove-bagged hand, Franklin's mild portrait bi
 — _Agency_, William Gibson.
 {{% /pageinfo %}}
 
-
 Liquidity represents the total amount of no-strings-attached untraceable currency your character can lay their hands on right now. It might be in credsticks (in nuhen), actual cash (typically UCAS dollars), corporate scrip, or similar. 
 
 Note that this is distinct from Logistic Points. LP is used to buy gear, and the amount you can buy is dictated not only by the money you can afford but also your trust level with various shady gunsmiths, armouries, talismongers, and chop-shops. 
