@@ -6,7 +6,8 @@ type: docs
 weight: 125
 categories:
   - rules
-  - irl
+collections:
+  - irl    
 ---
 
 
@@ -15,13 +16,13 @@ categories:
 
 
 | Rank      | Base lifestyle | Number of perks | Bonus LP | Base Liquidity |
-| --------- | -------------- | --------------- | --- | --- |
-| Novice    | Low            | 0               | 0 | 5 + d4
-| Seasoned | Low            | 2               | +2 | 10 + d6
-| Veteran   | Medium         | 3               | +4 | 15 + 2d6
-| Heroic    | High           | 4               | +6 | 20 + 4d4
-| Legendary | Luxe           | 5               | +8 | 25 + 2d12
-| N/A | Itinerant | 0 | 0 | d4
+| --------- | -------------- | --------------- | -------- | -------------- |
+| Novice    | Low            | 0               | 0        | 5 + d4         |
+| Seasoned  | Low            | 2               | +2       | 10 + d6        |
+| Veteran   | Medium         | 3               | +4       | 15 + 2d6       |
+| Heroic    | High           | 4               | +6       | 20 + 4d4       |
+| Legendary | Luxe           | 5               | +8       | 25 + 2d12      |
+| *N/A*     | Itinerant      | 0               | 0        | d4             |
 
 
 NB: these rules assume dropping the "+5 LP per rank" rule from Sprawlrunners. Instead, progression in the LP a character has comes from their lifestyle and its perks.

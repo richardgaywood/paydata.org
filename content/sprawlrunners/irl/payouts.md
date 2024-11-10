@@ -6,7 +6,8 @@ type: docs
 weight: 125
 categories:
   - rules
-  - irl
+collections:
+  - irl  
 date: 2024-11-07
 lastmod: 2024-11-07  
 ---

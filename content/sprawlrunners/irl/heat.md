@@ -14,7 +14,7 @@ collections:
 
 xxx blah write some intro xxx
 
-Note thar Heat and Hunted generally (but not always) apply to the team as a whole rather than individual members. 
+Note that Heat and Hunted generally (but not always) apply to the team as a whole rather than individual members. 
 
 ## Heat {#heat}
 

@@ -4,6 +4,10 @@ type: docs
 weight: 500
 date: 2024-11-07
 lastmod: 2024-11-07 
+categories:
+  - rules
+collections:
+  - irl  
 ---
 {{% pageinfo %}}
 Verity drew a bundle out with her glove-bagged hand, Franklin's mild portrait bisected by a red elastic band. "This is wrong, this kind of money. You know that?"
