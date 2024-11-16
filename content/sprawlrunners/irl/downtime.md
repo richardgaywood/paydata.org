@@ -83,6 +83,14 @@ On a critical failure, you earn nothing.
 
 {{% /boxout %}}
 
+{{% boxout type="action" title="Book learnin'" %}}
+You spend some downtime picking up a new hobby or interest, or just learning something fun.
+
+Nominate a topic or area. Whenever this knowledge comes up in the future, take a +2 or +4 bonus to knowledge skill rolls such as Common Knowledge, Science, Research, or Arcana. You get +2 if the topic is broader or +4 if it narrower and more obscure/specialised.
+{{% /boxout %}}
+
+
+
 ##  Actions affecting your lifestyle
 
 {{% design %}}
