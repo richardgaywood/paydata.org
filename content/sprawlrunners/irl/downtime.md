@@ -39,8 +39,6 @@ When you complete a Change The World project, you gain Conviction.
 {{% /boxout %}}
 
 
-
-
 {{% boxout type="action" title="Build your stash" %}}
 If your character is saving up for something long-term (eg retirement from this endless cycle of violence...), then you can spend a Downtime action to divert funds to it. Each action "buys" one point of Stash. How many points you'll need depends on what you're saving for...
 {{% /boxout %}}
@@ -83,11 +81,15 @@ On a critical failure, you earn nothing.
 
 {{% /boxout %}}
 
-##  Actions affecting your lifestyle
+{{% boxout type="action" title="Book learnin'" %}}
+You spend some downtime picking up a new hobby or interest, or just learning something fun.
 
-{{% design %}}
-This might be a bit too many options / a bit of a fussy design. It depends on if player's feel the lifestyle system is interesting enough to interact with, I think. Needs playtesting.
-{{% /design %}}
+Nominate a topic or area. Whenever this knowledge comes up in the future, take a bonus to knowledge skill rolls such as Common Knowledge, Science, Research, or Arcana. 
+
+If your new special interest is very specialised and/or obscure (example: "interior decorating trends for maximising feng shui"), you can take a +4 bonus to rolls. If it's something broader and more general (eg: "interior decorating"), you'll get a +2 bonus instead.
+{{% /boxout %}}
+
+##  Actions affecting your lifestyle
 
 {{% boxout type="action" title="Live beyond your means / Scrimp and save" %}}
 At the cost of one downtime action, you can divert some of your Payout to funding a nicer apartment than you could otherwise afford. Move up one [Lifestyle category]({{< ref "lifestyle.md" >}}). 
@@ -108,15 +110,24 @@ If you start or stop funding extra perks (see the previous action), that doesn't
 {{% /boxout %}}
 
 
+{{% design %}}
+This might be a bit too many options / a bit of a fussy design. It depends on if player's feel the lifestyle system is interesting enough to interact with, I think. Needs playtesting.
+{{% /design %}}
+
+
 ## Helping other PCs during downtime {#support}
 
-{{% boxout type="action" title="Supporting downtime actions" %}}
-PCs can use Support for downtime action rolls in one of two ways:
+{{% boxout type="action" title="Helping Hand" %}}
+If you want to spend some time and energy helping your buddies out with their off-duty antics, you can spend a one of your downtime actions on support. One action lets you support each of your fellow PCs on one roll, so if there's four of them, you can support four times (one per oerson) for just one action!
 
-1. A PC can declare they are supporting their teammates in the usual way, ie. they roll an appropriate skill and add successes and raises to the normal roll. This costs the supporting PC one Downtime Action regardless of how many rolls they support -- even if they support rolls from multiple other PCs.
-1. A PC can also "take over" a roll for another PC, substituting their own skill in place of their teammate's. This requires  an entire Downtime Action by itself, however.
+As usual for SWADE, you roll a relevant skill of your own, and add +1 to their roll for each success/raise you get.
 {{% /boxout %}}
 
+{{% boxout type="action" title="Stand-in" %}}
+Sometimes, a Support roll won't cut it. If you really want to show up for your friends who're in a tight spot, you can also choose to do a roll on their behalf -- eg. the team's face might lead a tricky negotiation so that the street sam can complete a Change The World task. The face steps in, and rolls their Persusastion instead of the street sam's. 
+
+This, however, takes an entire Downtime Action from you, for just one roll, and the person you're helping has to spend an Action too -- you have to work on this together. On the other hand, if they can think of a relevant skill, the person you're helping does at least get to roll Support on your roll, so that's something.
+{{% /boxout %}}
 
 
 <!-- TODO: example? --> 
