@@ -10,7 +10,8 @@
 	"settings": {
 		"[markdown]": {
 		},
-		"frontMatter.dashboard.openOnStart": true
+		"frontMatter.dashboard.openOnStart": true,
+		"npm-scripts.showStartNotification": false
 	},
 	"extensions": {
 		"recommendations": [

@@ -17,6 +17,8 @@
 <div class="alert alert-{{ $color }}" role="alert">
     <!-- intentionally omitting a CSS class here to default to normal text colour for H4 -->
     <!-- for some reason I cba to figure out, `class="alert-heading"` is very pale -->
-  <h4>{{ $title }}</h4>
+    <div class="boxout-heading">
+      <h4>{{ $title }}</h4>
+    </div>
   {{ .Inner | markdownify }}
 </div>

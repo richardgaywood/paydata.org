@@ -32,14 +32,16 @@ The most common way to use Liquidity to get what you want is by using it to grea
 |                                              | +1  | +2  | +4       |
 | -------------------------------------------- | --- | --- | -------- |
 | Bribe someone who's living in poverty        |     | 1   | 2        |
-| Bribe a wageslave (low risk)                 | 1   | 2   | 5        |
-| Bribe a wageslave (high risk)                | 2   | 5   | 12       |
-| Bribe a senior wageslave                     | 5+  | 15+ | too much |
+| Bribe a wageslave (low risk)                 | 1   | 2   | 4        |
+| Bribe a wageslave (high risk)                | 2   | 4   | 8        |
+| Bribe a corp exec                            | 5+  | 15+ | too much |
 | Get info that's public, but obscure          | 1   | 2   | 4        |
 | Get info that's nonpublic, but not dangerous | 2   | 4   | 8        |
 | Get info that's secret, dangerous, or arcane | 5+  | 15+ | too much |
 
-NB: it is deliberate that these are not linear multipliers. There's a law of dimishing returns; the more you spend, the more you need to spend to go up another level. This is also why there's no '+3' tier.
+NB: For a very low-stakes request, such as bribing a nightclub bouncer to let you past or a maitre'd to give you a good table, there may not be a roll needed; 1 or 2 points of Liquidity can buy instant success.
+
+<!-- NB: it is deliberate that these are not linear multipliers. There's a law of dimishing returns; the more you spend, the more you need to spend to go up another level. This is also why there's no '+3' tier. -->
 
 ## A rough guide to the value of Liquidity in-game
 
@@ -68,6 +70,7 @@ Still, so we're all on the same page, some guidelines:
 	- A top-of-the-range legal cyberdeck
 - **50 points** buys
 	- A wageslave's annual income
+	- A corp exec's quarterly bonus (in a bad year)
 	- A mid-range mid-sized car
 
 
