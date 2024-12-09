@@ -21,19 +21,22 @@ In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}).
 
 - Downtime Actions do not have to be all declared upfront. For example, an injured character might choose to use their first action on Rest & Recuperation, and then depending on how the roll goes, might repeat the action or switch to something else.
 - When Downtime Actions require any kind of die roll, note that you cannot spend Bennies on this roll. Bennies are for when the camera is focused on your character!
-- If your character is currently experiencing [Heat]({{< ref "heat.md" >}}), all rolls will be opposed. 
+- If your character is currently experiencing [Heat or Hunted]({{< ref "heat.md" >}}), all rolls will be opposed. 
 - Although Advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
 
 ## Long term goals
 
 {{% boxout type="action" title="Change The World" %}}
 
-Each Downtime action spent allows you to roll a relevant Trait (explaining how the Trait contributes to the goal, if it isn't obvious.) Like a Dramatic Task, xxx
+Deep in the heart of the punk ethos beats a vital dichotomy. On the one hand, there's the inherent nihilism contained in the ever-present slogan NO FUTURE. Whether patched onto a torn jacket or graffitted onto the decaying walls of slum estate, it can be seen to embody a sense of hopelessness and fatalism in the face of overwhelming forces in society.
 
-We'll handle this a bit like a Dramatic Task in SWADE or a Clock in Blades in the Dark. You'll have some fixed number of segments to complete - you might or might not know how many, depending on what you are up to. For a single downtime action, you can make a Trait r using any appropriate skill to work on the project. This test will 
+But on the other hand, true punks don't take this lying down. They believe in mutual aid, in sticking it to the man by protecting the people it's trying to stamp on, in foiling the plans wherever possible. This downtime action is how your characters can attempt to redress a little of the imbalance of the Sixth World.
 
-Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. 
+<!--Maybe your character is just in it for the mayhem and mania, but maybe they're trying to do a little good in the world - for whatever their personal value if good is. This is the action they use to spend their downtime trying to improve things for others or otherwise make their mark on the world. Maybe even leave it in a slightly better -->
 
+When you declare a new Downtime Project, I'll set out the difficulty level and what skill (or skills) you'll need to complete it. You progress towards your goal like a Dramatic Task. For each downtime action you use, you can make a Trait roll using any appropriate skill to work on the project. Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. 
+
+Depending on the project, you may need to use just one skill, be required to use different skills for different stages, or be able to choose a skill. Some projects may apply a negative modifier while others may have a time limit that will cause failure if you take too long. It all depends on what the outcome will be and what makes sense in the narrative.
 
 When you complete a Change The World project, you gain Conviction.
 {{% /boxout %}}
