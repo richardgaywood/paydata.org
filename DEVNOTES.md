@@ -19,7 +19,7 @@ Updating components:
 1. `hugo mod clean`, `get`, maybe `tidy`
 1. (windows bug?) make files in `C:\git\blog\paydata.org\public\webfonts` to not be read-only
 
-# Reminder of what I did with custom category taxonomy pages
+## Reminder of what I did with custom category taxonomy pages
 
 pages to read:
 - https://stackoverflow.com/questions/74925319/in-hugo-how-do-i-get-a-the-list-of-pages-in-a-section-from-a-partial-view
@@ -56,8 +56,6 @@ This code in that partial:
 This renders an entire page (sidebars & all!) inside the page. Note the `single` partial is not the one I want, lol.
 
 
-
-
 Open questions:
 * How do I get rid of the theme's normal list of pages on the category tag landing page? (maybe: redefine `main`?)
 * why does `docsy/layouts/blog/list.html` call `{{ partial "taxonomy_terms_article_wrapper.html" . -}}` when it's not a taxonomy?
@@ -91,6 +89,26 @@ See changes in layouts/rules/*html. I've cloned the default docs type and insert
 
 Some interesting/useful looking resources:
 - https://www.jessicahuynh.info/blog/2020/06/hugo-taxonomies/
+
+
+## Colours for alert boxes etc
+
+In docsy src: `_variables.scss` declares these:
+
+```css
+$primary: #30638e !default;
+$secondary: #ffa630 !default;
+$success: #3772ff !default;
+$info: #c0e0de !default;
+$warning: #ed6a5a !default;
+$danger: #ed6a5a !default;
+$light: #d3f3ee !default; // TODO: consider using BS value
+$dark: #403f4c !default;  // TODO: consider using BS value
+```
+
+then `colors.scss` loops through the `$colors` / `$theme-colors` / `$grays` values via a mixin, creating classes like `-bg-info`, `-text-warning`, etc.
+
+See also: https://getbootstrap.com/docs/5.3/customize/color/#color-sass-maps
 
 
 # Interesting demo sites

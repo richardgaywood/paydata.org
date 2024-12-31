@@ -9,7 +9,7 @@ lastmod: 2022-01-03
 aliases: ["/sprawlrunners/characters/advancement"]
 --- 
 
-There are two kinds of rewards my characters earn from a mission: karma and nuyen. Nuyen is used to fund [downtime actions]({{< relref "downtime_archive.md" >}}). Karma is used to Advance the characters.
+There are two kinds of rewards my characters earn from a mission: karma and nuyen. Nuyen is used to fund [downtime actions]({{< relref "sprawlrunners/irl/downtime.md" >}}). Karma is used to Advance the characters.
 
 I typically award karma at a rate of 3-5 per session, depending on how much the PCs get done, and also give out occasional bonus points for cool writeups of downtime actions and stuff like that. (Note: at-the-table cool stuff, like clever strategies, funny jokes, and excellent roleplaying will earn Bennies, not karma.) 
 

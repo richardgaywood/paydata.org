@@ -5,5 +5,5 @@ categories:
   - changelog
 ---
 
-Added some k[draft rules for the Heat Die]({{< relref "heat_die.md" >}}), a simple game mechanic for when the PCs are being actively hunted by forces much larger than themselves.
+Added some draft rules for the Heat Die, a simple game mechanic for when the PCs are being actively hunted by forces much larger than themselves.
 <!--more-->

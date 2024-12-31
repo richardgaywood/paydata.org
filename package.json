@@ -35,5 +35,8 @@
     "cross-env": "^7.0.3",
     "hugo-extended": "0.121.2",
     "postcss-cli": "^11.0.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.47"
   }
 }

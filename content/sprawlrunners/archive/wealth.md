@@ -7,6 +7,8 @@ description: Handling money for incidental purchases without having to keep trac
 date: 2020-12-06
 lastmod: 2022-01-03
 aliases: ["/sprawlrunners/characters/wealth"]
+categories:
+  - archived
 --- 
 
 
