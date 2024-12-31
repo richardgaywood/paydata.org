@@ -14,7 +14,8 @@ lastmod: 2024-11-07
 
 ## Haggling
 
-xxx
+
+- [ ] flesh out intro to haggling section
 
 Every Johnson starts with a base offer. It's typically four Payout points for a corporate Johnson and a normal difficulty job, but can vary for other kinds of offers -- or suicide missions.
 

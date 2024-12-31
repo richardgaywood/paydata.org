@@ -7,7 +7,7 @@ weight: 125
 categories:
   - rules
 collections:
-  - irl    
+  - irl
 ---
 
 
@@ -17,12 +17,12 @@ collections:
 
 | Rank      | Base lifestyle | Number of perks | Bonus LP | Base Liquidity |
 | --------- | -------------- | --------------- | -------- | -------------- |
-| Novice    | Low            | 0               | 0        | 5 + d4         |
-| Seasoned  | Low            | 2               | +2       | 10 + d6        |
-| Veteran   | Medium         | 3               | +4       | 15 + 2d6       |
-| Heroic    | High           | 4               | +6       | 20 + 4d4       |
-| Legendary | Luxe           | 5               | +8       | 25 + 2d12      |
-| *N/A*     | Itinerant      | 0               | 0        | d4             |
+| Novice    | Low            | 0               | +2       | 2d4            |
+| Seasoned  | Low            | 1               | +3       | 2d6            |
+| Veteran   | Medium         | 1               | +4       | 2d8            |
+| Heroic    | High           | 2               | +5       | 2d10           |
+| Legendary | Luxe           | 2               | +6       | 2d12           |
+| *N/A*     | Itinerant      | 0               | 0        | d4-2 (min 1)   |
 
 
 NB: these rules assume dropping the "+5 LP per rank" rule from Sprawlrunners. Instead, progression in the LP a character has comes from their lifestyle and its perks.
@@ -31,17 +31,20 @@ If a character modifies their lifestyle by living above or below their means (se
 
 ### Low
 
-A very bad apartment in a bad area, or a bad apartment in a very bad area. Expect your utilities (power, water) to be routinely interrupted as creaking city infrastructure diverts limited resources to more desirable tenants.
-
+A very bad apartment in a bad area, or a bad apartment in a very bad area. Expect your utilities (power, water) to be routinely interrupted as creaking city infrastructure diverts limited resources to more desirable tenants. No personal vehicle included.
 ### Medium
 
-Xxx
+This is the lifestyle of a wageslave with a steady job but who isn't in the managerial class. Probably an apartment, half a dozen rooms / 75 sq m, in an anonymous tower block surrounded by anonymous tower blocks. Street violence is notably lower than Low lifestyles because in this neighbourhood the police usually show up. Unlikely to be downtown; instead, it'll be located in an extraurban commuter hub like central Bellevue or Tacoma. 
 
+You can afford vat-grown meat a few times a month and real, farmed animal meat for special occasions. You can afford a basic car too; probably only a two-seat commuter model but it beats the train.
 ### High
-xxx
 
+Quite often the same buildings as Medium, but a lot higher up, and a lot more space. This might be in the heart of downtown (at the price of being smaller), or if it's further out, it might be a duplex. Furniture is nice, and it has every appliance you could want. You're rubbing shoulders with low level corp execs in the private lobbies and elevators that only go to your floors.
+
+Alternatively, if you live out in the true suburbs, you might have a reasonable amount of land - perhaps a few acres or so - buying you privacy.
 ### Luxe
-xxx
+
+This is the lifestyle of the 1% (although not, note, the 0.1%; you're not on a corp CEO's level, let alone a megacorp one.) A massive apartment downtown or a sprawling multi-building compound in the outskirts of town. Subscriptions to every kind of media and entertainment service. Real meat every night for dinner, if you want it. Multiple personal vehicles, all high spec.
 
 ### Itinerant 
 
@@ -49,10 +52,18 @@ This is a special lifestyle for when you (hopefully temporarily) have no fixed a
 
 But regardless of which it is, you're cut off from any lifestyle perks you usually enjoy (although the Ritz has room service, at least) and incidental expenses are eating almost all your Liquidity. 
 
-
 ## Lifestyle perks {#perks}
 
-***todo: expand***
+
+
+{{% alert title="TODO" color="warning" %}}
+More work needed here!
+{{% /alert %}} 
+
+{{% comment %}}
+- [ ] way more lifestyle perks needed!
+{{% /comment %}}
+
 
 - rigger garage (grant LP to mod vehicles/drones)
 - Chop shop (front business, grant LP to purchase vehicles / drones)

@@ -13,39 +13,42 @@ collections:
   - irl  
 --- 
 
-Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software -- or even (for the seriously old fashioned) precious metals, gemstones, or bearer bonds. 
+- [ ] write a better intro here
+~~Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software -- or even (for the seriously old fashioned) precious metals, gemstones, or bearer bonds.~~ 
 
-In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.
+~~In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.~~
 
-## Notes on resolving Downtime Actions
+## Resolving Downtime Actions
 
 - Downtime Actions do not have to be all declared upfront. For example, an injured character might choose to use their first action on Rest & Recuperation, and then depending on how the roll goes, might repeat the action or switch to something else.
-- When Downtime Actions require any kind of die roll, note that you cannot spend Bennies on this roll. Bennies are for when the camera is focused on your character!
-- If your character is currently experiencing [Heat or Hunted]({{< ref "heat.md" >}}), all rolls will be opposed. 
+- Bennies do not apply to (and cannot be used for) downtime actions. Bennies are for when the camera is focused on your character!
+- Gear does not affect Downtime Actions rolls. However, Edges and Hindances that affect skill rolls function as normal.
+- If your character is currently experiencing [Heat or Hunted]({{< ref "heat.md" >}}), all rolls will be opposed; see that section for details. 
 - Although Advancing typically happens _during_ downtime, it does not have to, and it does not take a downtime action when it does.
 
-## Long term goals
-
-{{% boxout type="action" title="Change The World" %}}
+## Downtime actions for long term goals & projects
 
 Deep in the heart of the punk ethos beats a vital dichotomy. On the one hand, there's the inherent nihilism contained in the ever-present slogan NO FUTURE. Whether patched onto a torn jacket or graffitted onto the decaying walls of slum estate, it can be seen to embody a sense of hopelessness and fatalism in the face of overwhelming forces in society.
 
-But on the other hand, true punks don't take this lying down. They believe in mutual aid, in sticking it to the man by protecting the people it's trying to stamp on, in foiling the plans wherever possible. This downtime action is how your characters can attempt to redress a little of the imbalance of the Sixth World.
+But on the other hand, true punks don't take this lying down. They believe in mutual aid, in sticking it to the man, in protecting the little peope, and by foiling the malicious schemes of the powerful wherever possible. These Downtime Actions are how your characters can attempt to redress some of the unfairness in the Sixth World.
 
-<!--Maybe your character is just in it for the mayhem and mania, but maybe they're trying to do a little good in the world - for whatever their personal value if good is. This is the action they use to spend their downtime trying to improve things for others or otherwise make their mark on the world. Maybe even leave it in a slightly better -->
+{{% boxout type="action" title="Change The World" %}}
 
-When you declare a new Downtime Project, I'll set out the difficulty level and what skill (or skills) you'll need to complete it. You progress towards your goal like a Dramatic Task. For each downtime action you use, you can make a Trait roll using any appropriate skill to work on the project. Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. 
+Declare what your character wants to achieve. I'll set out the difficulty level and what skill (or skills) you'll need to use to complete it. You progress towards your goal like a Dramatic Task: for each Downtime Action you use, you can make a Trait roll using any appropriate skill to work on the project. Test success will tick a segment on the progress clock. Each Raise will tick a further segment. On a critical failure, you lose one segment. 
 
-Depending on the project, you may need to use just one skill, be required to use different skills for different stages, or be able to choose a skill. Some projects may apply a negative modifier while others may have a time limit that will cause failure if you take too long. It all depends on what the outcome will be and what makes sense in the narrative.
+Depending on the project, you may need to use just one skill, be required to use different skills for different stages, or be able to choose a skill. Some projects may be more challenging and so apply a negative modifier to the roll; others may have a time limit that will cause failure if you take too long. It all depends on what the outcome will be and what makes sense in the narrative.
 
 When you complete a Change The World project, you gain Conviction.
 {{% /boxout %}}
 
 
 {{% boxout type="action" title="Build your stash" %}}
-If your character is saving up for something long-term (eg retirement from this endless cycle of violence...), then you can spend a Downtime action to divert funds to it. Each action "buys" one point of Stash. How many points you'll need depends on what you're saving for...
+If your character is saving up for something long-term (eg. retirement from this endless cycle of violence...), then you can spend a Downtime action to divert funds to it. Each action "buys" one point of Stash. How many points you'll need depends on what you're saving for...
 {{% /boxout %}}
 
+{{% boxout type="action" title="Long term project" %}}
+This is the non-altruistic sibling to Changing The World. Your character is engaged in some sort of extended research, construction, or some other activity, but completion will benefit only themselves. This is resolved similarly to Change The World but it does not grant Conviction on completion.
+{{% /boxout %}}
 
 
 ## Healing & recovery actions {#recover}
@@ -66,10 +69,16 @@ If another PC is willing to spend one of their own Downtime Actions tending to y
 {{% /boxout %}}
 
 
+## Arcane actions
+
+- [ ] Write up some arcane downtime actions; eg. attune spirits, bind power focus (one-use)
+
+
 ## Getting ahead
 
 {{% boxout type="action" title="Favours for favours" %}}
-xxx
+
+- [ ] Write some preamble for Favours For Favours ➕ 2024-12-31
 
 Choose a skill, explain how you are using this skill to do a favour for someone important, and roll it at -2. (If it was easy to get ahead in the world, everyone would be doing it.)
 
@@ -127,7 +136,7 @@ As usual for SWADE, you roll a relevant skill of your own, and add +1 to their r
 {{% /boxout %}}
 
 {{% boxout type="action" title="Stand-in" %}}
-Sometimes, a Support roll won't cut it. If you really want to show up for your friends who're in a tight spot, you can also choose to do a roll on their behalf -- eg. the team's face might lead a tricky negotiation so that the street sam can complete a Change The World task. The face steps in, and rolls their Persusastion instead of the street sam's. 
+Sometimes, a Support roll won't cut it. If you really want to show up for your friends who're in a tight spot, you can also choose to do a roll on their behalf -- eg. the team's face might lead a tricky negotiation so that the street sam can complete a Change The World task. The face steps in, and rolls their Persuasion instead of the street sam's. 
 
 This, however, takes an entire Downtime Action from you, for just one roll, and the person you're helping has to spend an Action too -- you have to work on this together. On the other hand, if they can think of a relevant skill, the person you're helping does at least get to roll Support on your roll, so that's something.
 {{% /boxout %}}
