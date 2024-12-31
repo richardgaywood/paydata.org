@@ -49,4 +49,4 @@ If you fail an opposed roll during Downtime, you're probably going to be found. 
 
 Hunted can be reduced or removed by using the Lie Low [Downtime action]({{< relref "downtime.md" >}}). 
 
-	Like Heat, Hunted should only ever arise as a result of clear and direct story action where you enrage a powerful NPC who knows exactly who you are. If I spring it on you out of nowhere then I'm being a crummy GM.
+Like Heat, Hunted should only ever arise as a result of clear and direct story action where you enrage a powerful NPC who knows exactly who you are. If I spring it on you out of nowhere then I'm being a crummy GM.
