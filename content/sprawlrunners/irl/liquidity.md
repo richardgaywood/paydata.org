@@ -40,9 +40,6 @@ The most common way to use Liquidity to get what you want is by using it to grea
 | Get info that's secret, dangerous, or arcane | 5+  | 15+ | too much |
 
 NB: For a very low-stakes request, such as bribing a nightclub bouncer to let you past or a maitre'd to give you a good table, there may not be a roll needed; 1 or 2 points of Liquidity can buy instant success.
-
-<!-- NB: it is deliberate that these are not linear multipliers. There's a law of dimishing returns; the more you spend, the more you need to spend to go up another level. This is also why there's no '+3' tier. -->
-
 ## A rough guide to the value of Liquidity in-game
 
 This is deliberate very rough, because if I wanted to nail down currency values in details, I'd go back to tracking nuyen one-by-one. The whole point of this system is supposed to be to make it faster and easier. 
