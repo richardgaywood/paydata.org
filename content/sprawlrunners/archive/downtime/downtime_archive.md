@@ -6,7 +6,6 @@ weight: 500
 description: Things to do between crime sprees 
 date: 2020-12-06
 lastmod: 2022-01-03
-aliases: ["/sprawlrunners/characters/downtime"]
 categories:
   - rules
 collections:
