@@ -13,10 +13,16 @@ collections:
   - irl  
 --- 
 
+
+{{% comment %}} 
 - [ ] write a better intro here
+
 ~~Mission rewards in-game can be in a variety of forms: hard currency like UCAS dollars, untraceable digital currency like nuyen on certified credsticks, corporate scrip, large quantities of easily resold or bartered product like high-grade pharmaceuticals or ICE breaker software -- or even (for the seriously old fashioned) precious metals, gemstones, or bearer bonds.~~ 
 
 ~~In game mechanics, we handle all of these as [Payout]({{< ref "payouts.md" >}}). Each point of Payout awarded after a mission buys one Downtime Action that you can do before the money runs out and it's time to look for work again.~~
+{{% /comment %}} 
+
+
 
 ## Resolving Downtime Actions
 
