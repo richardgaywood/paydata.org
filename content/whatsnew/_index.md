@@ -7,4 +7,5 @@ menu:
 cascade:
   - type: "blog"
 aliases: ["/changelog/"]
+outputs: ['html','rss']
 ---

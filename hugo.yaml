@@ -4,10 +4,10 @@ title: paydata.org
 
 
 outputs:
-  section:
-    - HTML
-    - RSS
-    - print
+  home: ["html"]
+  section: ["html", "print"] # may be overridden in _index.md; eg, in whatsnew
+  taxonomy: ["html"]
+  term: ["html"]
 
 # Configure how URLs look like per section.
 permalinks:
