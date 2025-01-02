@@ -54,12 +54,9 @@ But regardless of which it is, you're cut off from any lifestyle perks you usual
 
 ## Lifestyle perks {#perks}
 
-
-
 {{% alert title="TODO" color="warning" %}}
 More work needed here!
 {{% /alert %}} 
-
 {{% comment %}} 
 - [ ] way more lifestyle perks needed!
 {{% /comment %}} 

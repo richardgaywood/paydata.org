@@ -9,6 +9,26 @@
         "description": "Insert a simple table"
     }
 
+
+    "Hugo&Obsidian TODO": {
+        "prefix": "h-todo",
+        "body": [
+			"{{% alert title=\"TODO\" color=\"warning\" %}}",
+			"xxx",
+			"{{% /alert %}} ",
+			"{{% comment %}} ",
+			"- [ ] xxx",
+			"{{% /comment %}} "
+        ],
+        "description": "Combined TODO with hugo boxout & markdown checkbox"
+    }
+
+
+
+
+	
+
+
 	// Place your paydata.org workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
 	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
 	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
@@ -20,7 +40,7 @@
 	// 	"scope": "javascript,typescript",
 	// 	"prefix": "log",
 	// 	"body": [
-	// 		"console.log('$1');",
+	// 		"console.log("$1");",
 	// 		"$2"
 	// 	],
 	// 	"description": "Log output to console"
