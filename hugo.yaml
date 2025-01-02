@@ -1,0 +1,108 @@
+baseURL: https://paydata.org/
+languageCode: en
+title: paydata.org
+
+
+outputs:
+  section:
+    - HTML
+    - RSS
+    - print
+
+# Configure how URLs look like per section.
+permalinks:
+  blog: /:section/:year/:month/:day/:slug/
+
+# Image processing configuration.  
+imaging:
+  resampleFilter: CatmullRom
+  quality: 75
+  anchor: smart
+  # Will give values to .Lastmod etc.
+  enableGitInfo: false
+
+services:
+  googleAnalytics:
+    id: UA-172322811-1
+
+params:
+  copyright: Richard Gaywood
+  rss_sections:
+    - blog
+  ui:
+    # Enable to show the side bar menu in its compact state.
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: false
+    ul_show: 1
+    # Set to true to disable breadcrumb navigation.
+    breadcrumb_disable: false
+    # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
+    sidebar_search_disable: true
+    # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
+    navbar_logo: false
+    # Set to true to disable the About link in the site footer
+    footer_about_enable: true
+  links:
+    # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+    user:
+      - name: Bluesky
+        url: https://bsky.app/profile/penllawen.favrd.social
+        icon: fab fa-bluesky
+        desc: Find me on Bluesky
+      - name: Reddit
+        url: https://www.reddit.com/user/penllawen
+        icon: fab fa-reddit
+        desc: Find me on Reddit
+      - name: Discord
+        url: https://discordapp.com/users/459741920370098176
+        icon: fab fa-discord
+        desc: Find me on Discord
+  taxonomy:
+    taxonomyCloud: # set taxonomyCloud = [] to hide taxonomy clouds
+      - categories
+      - tags
+      - collections
+    taxonomyCloudTitle: # if used, must have same length as taxonomyCloud
+      - Categories
+      - Tags
+      - Collections
+    taxonomyPageHeader: # set taxonomyPageHeader = [] to hide taxonomies on the page headers
+      - tags
+      - collections
+
+taxonomies:
+  tag: tags
+  category: categories
+  collection: collections
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+blackfriday: # Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+  plainIDAnchors: true
+  hrefTargetBlank: true
+  angledQuotes: false
+  latexDashes: true
+  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+  github_repo: https://github.com/richardgaywood/paydata.org
+  # can use this if there's a repo subir: github_subdir = "paydata.org"
+
+module:
+  proxy: direct
+  hugoVersion:
+    extended: true 
+    # min = "0.137.0" # controlled via go.mod
+  imports:
+    - path: github.com/google/docsy
+
+related:
+  threshold: 0
+  includeNewer: true
+  toLower: false
+  indices:
+    - name: categories
+      weight: 100
+    - name: tags
+      weight: 75
