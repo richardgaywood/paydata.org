@@ -76,15 +76,16 @@ If another PC is willing to spend one of their own Downtime Actions tending to y
 
 
 ## Arcane actions
-
+{{% comment %}} 
 - [ ] Write up some arcane downtime actions; eg. attune spirits, bind power focus (one-use)
-
+{{% /comment %}} 
 
 ## Getting ahead
 
 {{% boxout type="action" title="Favours for favours" %}}
-
+{{% comment %}} 
 - [ ] Write some preamble for Favours For Favours ➕ 2024-12-31
+{{% /comment %}} 
 
 Choose a skill, explain how you are using this skill to do a favour for someone important, and roll it at -2. (If it was easy to get ahead in the world, everyone would be doing it.)
 
