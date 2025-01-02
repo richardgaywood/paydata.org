@@ -10,6 +10,11 @@ categories:
   - rules/canon
 --- 
 
+{{% comment %}} 
+- [ ] Lots to do here!
+{{% /comment %}} 
+
+
 ## Edges with {{% augtrap %}}  required augmentation trapping
 
 In my houserules, certain standard SWADE edges are modified to require an "augmentation" trapping. This means they are only available as either specialised cyberware or a physical adept magical ability. These Edges are all listed below and annotated with the {{% augtrap %}} icon.
