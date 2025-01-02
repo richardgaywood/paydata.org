@@ -14,6 +14,65 @@ categories:
 - [ ] Lots to do here!
 {{% /comment %}} 
 
+## Core SWADE Edges - modifications and removals
+
+### Removed and replaced Edges
+
+- All Arcane Backgrounds
+- All Power Edges, except:
+	- xxx
+- Rich, Filthy Rich
+
+{{% comment %}} 
+- [ ] Fill out list of removed core edges
+{{% /comment %}} 
+
+
+### Semi-relevant Edges
+
+Note that the above still leaves a number of Edges that are probably unlikely to be useful to cyberpunk protagonists - eg. Woodsman, or most of the Leadership Edges. Obviously, players should still think carefully before taking these!
+
+## Augmentation Expertise
+
+Savage World's Edge subsystem is an elegant system for customising characters with a wide range of above-average abilities, ranging from simple knacks to almost super-human levels. By default, an Edge can be taken by anyone with the required rank, attributes, and stats. However, this is somewhat at odds with the tropes of cyberpunk RPGs in general and Shadowrun in specific; there, the only paths to extraordinary abilities are magic or tech.
+
+I don't want to rewrite SWADE from scratch (!) but I do value this trope. Therefore, in these rules, certain key Edges are modified to require cyberware as a prerequisite. No other game mechanics change - the edge is taken normally while advancing and functions the same as before.
+
+In game, the trapping is not that this is a new piece of cyberware. Rather, it reflects either the character becoming more skilled at using the capabilities of their augmentations, and/or the installation of modifications, overclocks, and customisations to the base model wetware.
+
+{{% alert title="TODO" color="warning" %}}
+Need to slot physads into this structure; right now, I don't know how to do that.
+{{% /alert %}} 
+
+
+| Edge                  | Old prereq      | New prereq            | Trapping |
+| --------------------- | --------------- | --------------------- | -------- |
+| Quick                 | N, Ag d8        | N, Reaction Enhancers |          |
+| Level Headed          | S, Sm d8        |                       |          |
+| Improved Level Headed | S, Level Headed |                       |          |
+
+
+
+```mermaid
+---
+config:
+  look: handDrawn
+---
+flowchart TD
+    A[Reaction Enhancers] --> B
+    A --> D[Quick]
+    B[Wired Reflexes] --> C
+    B --> E[Level Headed]
+    C[Move-by-Wire]
+    C --> F[Improved Level Headed]
+    E --> F
+  ```
+
+
+
+
+
+<!--   END CONTENT  -->
 
 ## Edges with {{% augtrap %}}  required augmentation trapping
 
