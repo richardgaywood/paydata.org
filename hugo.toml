@@ -32,6 +32,7 @@ id = "UA-172322811-1"
 
 [params]
 copyright = "Richard Gaywood"
+rss_sections = ["blog"]
 
 [params.ui]
 # Enable to show the side bar menu in its compact state.
