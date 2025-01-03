@@ -57,6 +57,9 @@ params:
         url: https://discordapp.com/users/459741920370098176
         icon: fab fa-discord
         desc: Find me on Discord
+  mermaid:
+    theme: neutral
+
   taxonomy:
     taxonomyCloud: # set taxonomyCloud = [] to hide taxonomy clouds
       - categories

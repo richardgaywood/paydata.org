@@ -57,14 +57,17 @@ Need to slot physads into this structure; right now, I don't know how to do that
 ---
 config:
   look: handDrawn
+include-in-header: 
+  text: |
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">  
 ---
 flowchart TD
-    A[Reaction Enhancers] --> B
-    A --> D[Quick]
-    B[Wired Reflexes] --> C
-    B --> E[Level Headed]
-    C[Move-by-Wire]
-    C --> F[Improved Level Headed]
+    A["Reaction Enhancers fa:fa-microchip"] --> B
+    A --> D(["Quick fa:fa-person-circle-plus"])
+    B["Wired Reflexes fa:fa-microchip"] --> C
+    B --> E(["Level Headed fa:fa-person-circle-plus"])
+    C["Move-by-Wire fa:fa-microchip"]
+    C --> F(["Improved Level Headed fa:fa-person-circle-plus"])
     E --> F
   ```
 
