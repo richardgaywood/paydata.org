@@ -59,7 +59,7 @@ config:
   look: handDrawn
 include-in-header: 
   text: |
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css">  
 ---
 flowchart TD
     A["Reaction Enhancers fa:fa-microchip"] --> B
@@ -69,7 +69,9 @@ flowchart TD
     C["Move-by-Wire fa:fa-microchip"]
     C --> F(["Improved Level Headed fa:fa-person-circle-plus"])
     E --> F
-  ```
+```
+
+*<i class="fa-solid fa-microchip"></i> - cyberware / <i class="fa-solid fa-person-circle-plus"></i> - edge*
 
 
 
