@@ -44,13 +44,13 @@ In game, the trapping is not that this is a new piece of cyberware. Rather, it r
 Need to slot physads into this structure; right now, I don't know how to do that.
 {{% /alert %}} 
 
+### Reflex mods & edges
 
 | Edge                  | Old prereq      | New prereq            | Trapping |
 | --------------------- | --------------- | --------------------- | -------- |
 | Quick                 | N, Ag d8        | N, Reaction Enhancers |          |
-| Level Headed          | S, Sm d8        |                       |          |
-| Improved Level Headed | S, Level Headed |                       |          |
-
+| Level Headed          | S, Sm d8        | S, Wired Reflexes                      |          |
+| Improved Level Headed | S, Level Headed | V, Level Headed, Move-By-Wire System                      |          |
 
 
 ```mermaid
@@ -71,8 +71,31 @@ flowchart TD
     E --> F
 ```
 
-*<i class="fa-solid fa-microchip"></i> - cyberware / <i class="fa-solid fa-person-circle-plus"></i> - edge*
+*<i class="fa-solid fa-microchip"></i> cyberware / <i class="fa-solid fa-person-circle-plus"></i> edge*
 
+
+
+### Melee combat
+
+{{% alert title="TODO" color="warning" %}}more here{{% /alert %}} 
+{{% comment %}}
+- [ ] more here
+{{% /comment %}}
+
+
+### Smartguns
+
+{{% alert title="TODO" color="warning" %}}more here{{% /alert %}} 
+{{% comment %}}
+- [ ] more here
+{{% /comment %}}
+
+### Cyberlimbs
+
+{{% alert title="TODO" color="warning" %}}more here{{% /alert %}} 
+{{% comment %}}
+- [ ] more here
+{{% /comment %}}
 
 
 
